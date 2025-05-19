@@ -35,5 +35,8 @@ Multi-dimensional mapping of AI-driven fraud tactics, including romance scams, s
 - [LII: Linguistic Incendiary Index](https://github.com/frameworklori/LII-Framework)
 Measures language risk without censorship—monitoring emotional volatility in public discourse.
 
+- [AIFS Casebook: Realistic Scenarios](./modules/AIFS_Casebook.md)
+Eight AI-driven fraud simulations for training, awareness, and policy design.
+
 
 
