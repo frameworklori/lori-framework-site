@@ -5,9 +5,27 @@ layout: default
 
 # Welcome to the Lori Framework
 
-An open research model for ethical AI, digital governance, and social resilience.
+**A foresight-driven model for ethical AI, digital risk governance, and civilizational resilience.**
 
-Explore key sections:
+Lori Framework offers an open, modular architecture that helps society:
+
+- Anticipate emerging AI risks before they scale
+- Govern alignment without centralization or monopoly
+- Support social trust across diverse cultures and institutions
+
+We believe governance is not control—
+It’s consequence-awareness at scale.
+
+---
+
+## Explore the System
 
 - [Narrative Heatmap](../assets/images/narrative_heatmap.png)
 - [Voice of Architects](../narratives/voice_of_architects.md)
+- [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
+
+---
+
+**Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
+**License:** MIT | Open Contribution Welcome
+
