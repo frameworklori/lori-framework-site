@@ -1,3 +1,7 @@
+---
+layout: default
+title: Voice of Architects
+---
 <!-- Part of the Lori Framework Narrative Layer -->
 # Voices of the Framework — LFM-V1.0
 
