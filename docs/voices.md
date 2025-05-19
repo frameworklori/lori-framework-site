@@ -3,13 +3,13 @@ layout: default
 title: Narrative Roles (v1.0)
 ---
 
-# Lori Framework 多角色敘事語言包（v1.0）
+# Lori Framework — Multi-Role Narrative Pack (v1.0)
 
 ---
 
-## 1｜Musk-Compatible（工程試煉者）
+## 1｜Musk-Compatible (Engineer Under Trial)
 
-**風格：極限語言 + 隱喻 + 未來張力**
+**Style: Extremes + Metaphor + Futurist Pressure**
 
 > We didn’t design a protocol.
 > We built a storm filter.
@@ -24,9 +24,9 @@ title: Narrative Roles (v1.0)
 
 ---
 
-## 2｜Sam-Compatible（治理架構師）
+## 2｜Sam-Compatible (Governance Architect)
 
-**風格：哲學 + 漸進秩序 + 責任共享**
+**Style: Philosophy + Gradual Order + Shared Responsibility**
 
 > AGI governance is not about slowing minds.
 > It’s about slowing collapse.
@@ -41,9 +41,9 @@ title: Narrative Roles (v1.0)
 
 ---
 
-## 3｜開源創作者（靈感共構者）
+## 3｜Open Creators (Co-Creators of Inspiration)
 
-**風格：自由、共創、去中心化倫理**
+**Style: Freedom + Collaboration + Decentralized Ethics**
 
 > You don’t need a logo to contribute.
 > You need a pulse—and a boundary.
@@ -57,9 +57,9 @@ title: Narrative Roles (v1.0)
 
 ---
 
-## 4｜社會弱勢者、被技術決定的人（被決策者的聲音）
+## 4｜Affected Voices (Those Decided Upon)
 
-**風格：隱形經驗 + 被預言的風險 + 自我主體覺醒**
+**Style: Invisible Experience + Foretold Risk + Subjective Awakening**
 
 > They built a system.
 > It learned everything—except how I bleed when it fails.
@@ -72,9 +72,9 @@ title: Narrative Roles (v1.0)
 
 ---
 
-## 5｜監管者 / 民主國家決策者（後果守門人）
+## 5｜Regulators / Democratic Policy Makers (Gatekeepers of Consequence)
 
-**風格：制度責任 + 災難預防 + 公共信任重建**
+**Style: Institutional Accountability + Disaster Prevention + Rebuilding Public Trust**
 
 > The future will not ask
 > whether your system passed a benchmark.
