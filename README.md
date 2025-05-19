@@ -24,6 +24,8 @@ It offers five voice archetypes to represent different roles in the evolving AI 
 
 Each voice reveals a boundary worth listening to before systems scale.
 
+![Narrative Emphasis Heatmap](./assets/images/unnamed.jpg)
+
 → [Read the full narrative module: Voice of Architects](./narratives/voice_of_architects.md)
 ---
 
