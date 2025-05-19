@@ -24,6 +24,7 @@ It’s consequence-awareness at scale.
 - [Voice of Architects](./voice)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Narrative Roles (EN)](./voices-en)
+
 ---
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
