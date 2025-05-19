@@ -7,3 +7,24 @@ Non-binding, open-source architectures for cross-border tech collaboration and d
 We’ve proposed a non-censoring API that helps reflect the social risk of emotionally charged public language.
 
 [→ View the LII GitHub Repository](https://github.com/frameworklori/LII-Framework)
+---
+
+## Voices of the Framework
+
+Lori is not just a structure. It is a reflection.
+
+This framework includes a narrative layer—designed not for control, but for perspective.
+It offers five voice archetypes to represent different roles in the evolving AI and AGI landscape:
+
+- The Builder of Storms (e.g., Musk-style innovation)
+- The Architect of Alignment (e.g., governance-first leaders like Sam Altman)
+- The Open Creator (open-source thinkers and collaborators)
+- The Unseen and Affected (socially vulnerable or data-silenced populations)
+- The Guardian of Consequences (regulators, civic designers, and ethical reviewers)
+
+Each voice reveals a boundary worth listening to before systems scale.
+
+→ [Read the full narrative module: Voice of Architects](./narratives/voice_of_architects.md)
+
+
+
