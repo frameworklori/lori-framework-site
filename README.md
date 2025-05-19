@@ -1,7 +1,7 @@
 # Lori Framework
 
 **Live Site:**
-![logo](圖片網址)
+![logo](https://i.imgur.com/FzdQZYn.png)
 [https://frameworklori.github.io/lori-framework-site/](https://frameworklori.github.io/lori-framework-site/)
 
 ---
