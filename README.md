@@ -25,6 +25,15 @@ It offers five voice archetypes to represent different roles in the evolving AI 
 Each voice reveals a boundary worth listening to before systems scale.
 
 → [Read the full narrative module: Voice of Architects](./narratives/voice_of_architects.md)
+---
+
+## Explore Risk Modules
+
+- [AIFS: AI Fraud Spectrum](./modules/AIFS.md)
+Multi-dimensional mapping of AI-driven fraud tactics, including romance scams, synthetic identities, and deepfake impersonation.
+
+- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/LII-Framework)
+Measures language risk without censorship—monitoring emotional volatility in public discourse.
 
 
 
