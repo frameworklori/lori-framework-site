@@ -20,7 +20,7 @@ It’s consequence-awareness at scale.
 
 ## Explore the System
 
-- [Narrative Heatmap](../assets/images/narrative_heatmap.png)
+- [Narrative Heatmap](./heatmap)
 - [Voice of Architects](../narratives/voice_of_architects.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 
