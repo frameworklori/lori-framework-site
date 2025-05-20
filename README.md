@@ -1,6 +1,8 @@
 # Lori Framework
 
-![Logo](docs/logo.png)
+<p align="center">
+<img src="logo.png" alt="Lori Framework Logo" width="220">
+</p>
 
 **Live Site:**
 [Visit the site here](https://frameworklori.github.io/lori-framework-site)
