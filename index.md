@@ -1,13 +1,14 @@
-<p align="center">
-<img src="logo-v2.png" alt="Lori Framework Logo V2" width="220">
-</p>
-
 ---
 title: Lori Framework
 layout: default
 ---
 
+<p align="center">
+<img src="logo.png" alt="Lori Framework Logo" width="220">
+</p>
+
 # Welcome to the Lori Framework
+...
 
 An open research model for ethical AI, digital governance, and social resilience.
 
