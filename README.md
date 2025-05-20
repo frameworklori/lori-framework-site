@@ -4,7 +4,7 @@
 [Visit the site here](https://frameworklori.github.io/lori-framework-site)
 
 <p align="center">
-<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
+<img src="docs/assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
 ---
 
