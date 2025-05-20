@@ -1,6 +1,6 @@
 # Lori Framework
 
-![Logo](docs/assets/images/logo.png)
+![Logo](docs/logo.png)
 
 **Live Site:**
 [Visit the site here](https://frameworklori.github.io/lori-framework-site)
@@ -12,7 +12,7 @@
 It supports:
 - Consequence-aware risk modeling
 - Narrative-sensitive alignment structures
-- Cultural adaptation and open collaboration
+- Cultural adaptation and open collassets/imagesaboration
 
 ---
 
