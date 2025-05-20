@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/docs/assets/images/logo.png" alt="Lori Framework Logo" width="220">
+<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
 
 ---
