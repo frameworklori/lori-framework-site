@@ -3,7 +3,7 @@ title: Lori Framework
 layout: default
 ---
 <p align="center">
-<img src="assets/images/ChatGPT%20Image%20May%2020,%202025,%2010_26_18%20AM.png" alt="Lori Framework Logo" width="220">
+<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
 
 # Welcome to the Lori Framework
