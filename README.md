@@ -1,8 +1,10 @@
 # Lori Framework
 
-**Live Site:**
-![logo](https://i.imgur.com/FzdQZYn.png)
-[https://frameworklori.github.io/lori-framework-site/](https://frameworklori.github.io/lori-framework-site/)
+**Live Site**: [frameworklori.github.io/lori-framework-site](https://frameworklori.github.io/lori-framework-site)
+
+<p align="center">
+<img src="docs/assets/images/logo.png" alt="Lori Framework Logo" width="220">
+</p>
 
 ---
 
