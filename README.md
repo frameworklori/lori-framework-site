@@ -1,6 +1,6 @@
 # Lori Framework
 
-![Lori Framework Logo](docs/assets/images/logo.png)
+![Logo](docs/assets/images/logo.png)
 
 **Live Site:**
 [Visit the site here](https://frameworklori.github.io/lori-framework-site)
