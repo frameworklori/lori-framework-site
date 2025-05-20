@@ -1,11 +1,11 @@
 # Lori Framework
 
-**Live Site**: [frameworklori.github.io/lori-framework-site](https://frameworklori.github.io/lori-framework-site)
+**Live Site:**
+[Visit the site here](https://frameworklori.github.io/lori-framework-site)
 
 <p align="center">
-<img src="docs/assets/images/logo.png" alt="Lori Framework Logo" width="220">
+<img src="docs/docs/assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
-
 ---
 
 **Lori Framework** is an open, modular governance architecture for ethical AI, digital foresight, and civilizational resilience.
