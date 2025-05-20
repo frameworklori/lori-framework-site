@@ -1,7 +1,7 @@
 # Lori Framework
 
 <p align="center">
-<img src="logo.png" alt="Lori Framework Logo" width="220">
+<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
 
 **Live Site:**
@@ -36,22 +36,6 @@ Contributions are welcome — please respect the original authorship, credit pro
 As of this statement, the Lori Framework formally suspends all provisional cooperation conditions previously extended to the XAI team.
 
 ---
-
-### Image Structure Guide
-
-This repository uses a flat and clear image structure for easier access and maintenance.
-
-- `logo.png`
-→ Main visual identity image, used in `README.md` and `index.md`.
-
-- `logo-v2.png`
-→ Alternate logo version, for future design variations.
-
-- `unnamed.jpg`
-→ Placeholder or visual element used in specific sections.
-
-- `assets/images/` (to be deprecated)
-→ Old structure now cleaned up. Future images will go directly in `docs/` or well-organized module folders.
 
 **Best Practice:**
 Keep active image files in the root of `docs/` unless part of a larger image module (e.g., `assets/images/modules/`).
