@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" alt="Logo" width="220">
+<img src="logo-v2.png" alt="Lori Framework Logo V2" width="220">
 </p>
 
 ---
