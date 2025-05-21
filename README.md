@@ -25,6 +25,11 @@ It supports:
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 
 ---
+## Explore Lori Platforms
+
+- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
+- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
+- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework/)
 
 ## License
 
