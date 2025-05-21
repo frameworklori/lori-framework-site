@@ -1,29 +1,13 @@
----
-title: Lori Framework
-layout: default
----
+# Narrative Roles (EN)
 
-<p align="center">
-<img src="logo.png" alt="Lori Framework Logo" width="220">
-</p>
+This module introduces the key narrative roles used in the Lori Framework to track, balance, and interpret high-impact discourse across digital environments.
 
-# Welcome to the Lori Framework
-...
+## Core Roles
 
-An open research model for ethical AI, digital governance, and social resilience.
+- **Architects**: Design ethical structures and long-term visions.
+- **Translators**: Bridge technical and social meanings.
+- **Amplifiers**: Spread key messages or warnings.
+- **Observers**: Detect narrative shifts or manipulation.
+- **Reflectors**: Offer deep interpretation and ethical feedback.
 
-Explore our key components:
-
-- [Narrative Heatmap](./assets/images/narrative_heatmap.png)
-- [Voice of Architects (Narrative Module)](./narratives/voice_of_architects.md)
-- [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [Narrative Roles (EN)](./voices-en)
----
-
-## Explore Lori Platforms
-
-- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
-- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
-- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework/)
-
-Stay grounded. Think wide. Build with consequence.
+Explore how these roles interact across civic, platform, and geopolitical contexts.
