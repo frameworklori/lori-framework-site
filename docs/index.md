@@ -25,9 +25,8 @@ It’s consequence-awareness at scale.
 ## Explore the System
 
 - [Narrative Heatmap](./heatmap)
-- [Voice of Architects](./voice)
+- [Voice of Architects](./voices-en)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [Narrative Roles (EN)](./voices-en)
 
 ---
 
