@@ -19,6 +19,7 @@ Explore our key components:
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Narrative Roles (EN)](./voices-en)
 ---
+
 ## Explore Lori Platforms
 
 - [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
