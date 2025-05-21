@@ -19,7 +19,7 @@ Explore our key components:
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 
 ---
-## Explore Full Platforms
+## Explore Lori Platforms
 
 - [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
