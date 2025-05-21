@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="center">
-<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
+<img src="./logo.png" alt="Lori Framework Logo" width="220">
 </p>
 
 # Welcome to the Lori Framework
@@ -24,10 +24,10 @@ It’s consequence-awareness at scale.
 
 ## Explore the System
 
-- [Narrative Heatmap](./heatmap)
-- [Voice of Architects](./voice)
+- [Narrative Heatmap](../../heatmap)
+- [Voice of Architects](../../voice)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [Narrative Roles (EN)](./voices-en)
+- [Narrative Roles (EN)](../../voices-en)
 
 ---
 
@@ -41,5 +41,7 @@ It’s consequence-awareness at scale.
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
 **License:** MIT | Open Contribution Welcome
+
+
 
 
