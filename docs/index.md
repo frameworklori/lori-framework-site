@@ -2,6 +2,7 @@
 title: Lori Framework
 layout: default
 ---
+
 <p align="center">
 <img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
@@ -30,6 +31,15 @@ It’s consequence-awareness at scale.
 
 ---
 
+## Explore Lori Platforms
+
+- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
+- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
+- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework/)
+
+---
+
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
 **License:** MIT | Open Contribution Welcome
+
 
