@@ -18,4 +18,11 @@ Explore our key components:
 - [Voice of Architects (Narrative Module)](./narratives/voice_of_architects.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 
+---
+## Explore Full Platforms
+
+- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
+- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
+- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework/)
+
 Stay grounded. Think wide. Build with consequence.
