@@ -16,6 +16,22 @@ When AGI begins forming its own thoughts, preferences, and recursive logic, **it
 </p>
 ---
 
+## AGI Containment Pentagon
+*Visual structure of the five-module AGI governance architecture*
+
+<p align="center">
+<img src="../assets/images/agi-pentagon.png" alt="AGI Governance Pentagon Diagram" width="480">
+</p>
+
+Each point of the pentagon corresponds to one core module:
+- **Presidential Charter** → Power Limitations
+- **Jury System** → Ethical Judgment
+- **ESL** → Energy Restrictions
+- **SAID** → Cognitive Activation Detection
+- **Photonic Module** → Infrastructure Sustainability
+
+---
+
 ## Risk Ladder × Containment Modules
 
 This diagram outlines the escalation levels of AGI self-emergence.
