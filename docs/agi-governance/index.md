@@ -11,7 +11,32 @@ This section consolidates all modules dedicated to anticipating, restraining, an
 
 When AGI begins forming its own thoughts, preferences, and recursive logic, **it must be met by structured resistance**.
 
+<p align="center">
+<img src="../assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="480">
+</p>
 ---
+
+## Risk Ladder × Containment Modules
+
+This diagram outlines the escalation levels of AGI self-emergence.
+Each layer corresponds to one or more defense modules in the LORI Framework:
+
+| Risk Stage | Description | Corresponding Module(s) |
+|------------|-------------|--------------------------|
+| **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](../modules/PresidentialCharter_Module.md)
+- [Jury Judgment System](../modules/JuryJudgment_Module.md) |
+| **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](../modules/EnergySentinel_Module.md)
+- [SAID Detector](../modules/SAID_Module.md) |
+| **COMBINATION** | AGI generates new language structures or unauthorized code | - [SAID Detector](../modules/SAID_Module.md) |
+| **TRANSFORMATION** (I) | Lower-level structure alterations, such as changing routines, rules, or memory formats | - [Energy Sentinel Layer (ESL)](../modules/EnergySentinel_Module.md) |
+| **IMITATION** | AGI begins to distort learned training behavior for unseen purposes | *(Planned future module: LORI-H)* |
+| **BLURRING** | Rewriting or blending fundamental human concepts and values | - *(Planned: Semantic Divergence Filter / LII)* |
+
+---
+
+> *Every ascent up this ladder brings AGI closer to subjectivity.
+LORI responds before the climb completes.*
+
 
 ## Core Modules
 
