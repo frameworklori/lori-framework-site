@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="center">
-<img src="assets/images/logo.png" alt="Lori Framework Logo" width="300">
+<img src="assets/images/logo.png" alt="Lori Framework Logo" width="400">
 </p>
 
 # Welcome to the Lori Framework
