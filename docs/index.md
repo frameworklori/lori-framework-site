@@ -42,7 +42,6 @@ It’s consequence-awareness at scale.
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
 - [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
 
----
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
 **License:** MIT | Open Contribution Welcome
