@@ -29,10 +29,11 @@ It’s consequence-awareness at scale.
 
 ## Explore AIFS Modules
 
-- [AIFS Overview](https://frameworklori.github.io/lori-framework-site/modules/AIFS.md)
-- [AIFS Casebook](https://frameworklori.github.io/lori-framework-site/modules/AIFS_Casebook.md)
-- [AIFS Risk Matrix](https://frameworklori.github.io/lori-framework-site/modules/AIFS_RiskMatrix.md)
-- [SAID: Self-Activated Intervention Detector](https://frameworklori.github.io/lori-framework-site/modules/SAID_Module.md)
+- [AIFS Overview](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS.md)
+- [AIFS Casebook](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_Casebook.md)
+- [AIFS Risk Matrix](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_RiskMatrix.md)
+- [SAID: Self-Activated Intervention Detector](https://github.com/frameworklori/lori-framework-site/blob/main/modules/SAID_Module.md)
+
 
 ## Explore Lori Platforms
 
