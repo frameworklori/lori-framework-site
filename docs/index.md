@@ -41,6 +41,7 @@ It’s consequence-awareness at scale.
 - [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform)
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
 - [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
+
 ---
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
