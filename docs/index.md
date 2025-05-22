@@ -34,6 +34,7 @@ It’s consequence-awareness at scale.
 - [AIFS Risk Matrix](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_RiskMatrix.md)
 - [SAID: Self-Activated Intervention Detector](https://github.com/frameworklori/lori-framework-site/blob/main/modules/SAID_Module.md)
 - [Photonic AI Energy Sustainability Module (GitHub Pages)](https://frameworklori.github.io/lori-framework-site/modules/PhotonicEnergy_Module.md)
+- [PhotonicEnergy_Module.md (source)](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/PhotonicEnergy_Module.md) – GitHub Source (for editing or reference)
 
 ## Explore Lori Platforms
 
