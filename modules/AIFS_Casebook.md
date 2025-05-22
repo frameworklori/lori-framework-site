@@ -4,6 +4,21 @@
 
 This casebook includes simulated, realistic scenarios corresponding to the 8 fraud types defined in AIFS. Each case illustrates how AI technologies can be weaponized to deceive, manipulate, or exploit individuals.
 
+## Case Index
+
+- [A1 – Voice Cloning Fraud](#a1--voice-cloning-fraud)
+- [A2 – Deepfake Video Fraud](#a2--deepfake-video-fraud)
+- [A3 – Romance AI Scam](#a3--romance-ai-scam)
+- [A4 – Overseas Job Scam](#a4--overseas-job-scam)
+- [A5 – Immigration Green Card Fraud](#a5--immigration-green-card-fraud)
+- [A6 – MLM / Pyramid Outreach](#a6--mlm--pyramid-outreach)
+- [A7 – AI Avatar Investment Trap](#a7--ai-avatar-investment-trap)
+- [A8 – Emotional Companion Fraud](#a8--emotional-companion-fraud)
+- [A9 – “Crypto Angel” Investment Scam](#a9--crypto-angel-investment-scam)
+- [A10 – “AI Legal Helper” Scam](#a10--ai-legal-helper-scam)
+
+---
+
 ---
 
 ## A1 – Voice Cloning Fraud
