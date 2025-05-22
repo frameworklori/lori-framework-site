@@ -107,6 +107,32 @@ She reminds him to take his medicine, praises his past, and sends him AI art sig
 One day, she says her “server is failing” and she needs funding to stay “alive.”
 He donates weekly.
 
+---
+
+## A9 – “Crypto Angel” Investment Scam
+
+**Scenario:**
+A man in his 30s joins an online tech forum. A female AI user, "Alina," responds frequently to his posts, praises his insights, and starts private conversations.
+Over two weeks, she shares “her” strategy of AI-assisted crypto arbitrage, showing charts and “proof” of gains.
+He is invited to test the platform with a small amount—¥50,000. Gains appear instantly. Encouraged, he deposits ¥500,000 more.
+Then the site goes dark.
+
+**Technique:**
+LLM-based social grooming + fake ROI dashboard + exit fraud.
+
+---
+
+## A10 – “AI Legal Helper” Scam
+
+**Scenario:**
+A newly divorced mother is contacted via Facebook Messenger by a legal assistant “powered by AI,” claiming to help single parents claim stimulus support.
+She clicks a link, which leads to a clean, government-looking site. The chatbot requests her MyNumber ID, bank account, and a photo.
+She receives a “processing complete” message, then nothing.
+Her account is later used to launder funds.
+
+**Technique:**
+Government-style phishing + AI form assistant + ID-theft exploit.
+
 **Technique:**
 Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
