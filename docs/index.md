@@ -27,7 +27,7 @@ It’s consequence-awareness at scale.
 - [Narrative Heatmap](./heatmap)
 - [Voice of Architects](./voices-en.md) 
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [SAID: Self-Activated Intervention Detector](./modules/SAID_Module.md)
+- [SAID: Self-Activated Intervention Detector](../modules/SAID_Module.md)
 ---
 
 ## Explore Lori Platforms
