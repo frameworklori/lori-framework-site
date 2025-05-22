@@ -29,14 +29,14 @@ It’s consequence-awareness at scale.
 
 ## Explore AIFS Modules
 
-- [AIFS Overview](/lori-framework-site/modules/AIFS.md)
-- [AIFS Casebook](/lori-framework-site/modules/AIFS_Casebook.md)
-- [AIFS Risk Matrix](/lori-framework-site/modules/AIFS_RiskMatrix.md)
-- [SAID: Self-Activated Intervention Detector](/lori-framework-site/modules/SAID_Module.md)
+- [AIFS Overview](https://frameworklori.github.io/lori-framework-site/modules/AIFS.md)
+- [AIFS Casebook](https://frameworklori.github.io/lori-framework-site/modules/AIFS_Casebook.md)
+- [AIFS Risk Matrix](https://frameworklori.github.io/lori-framework-site/modules/AIFS_RiskMatrix.md)
+- [SAID: Self-Activated Intervention Detector](https://frameworklori.github.io/lori-framework-site/modules/SAID_Module.md)
 
 ## Explore Lori Platforms
 
-- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPilot)
+- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform)
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
 - [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
 ---
