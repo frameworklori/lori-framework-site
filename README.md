@@ -24,6 +24,7 @@ It supports:
 - [Voice of Architects Narrative Module](./narratives/voice_of_architects.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Energy Sentinel (for public)](https://frameworklori.github.io/lori-framework-site/modules/ESL_Module_Public.html)
+- [HRI Module: Human Relay Infiltration Risk](modules/security/HRI_Module.md) — Prevent covert AGI knowledge absorption via human interaction
 
 ---
 
