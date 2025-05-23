@@ -23,8 +23,10 @@ It supports:
 - [Narrative Emphasis Heatmap](./assets/images/narrative_heatmap.png)
 - [Voice of Architects Narrative Module](./narratives/voice_of_architects.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
+- [Energy Sentinel (for public)](./modules/public/ESL_Module_Public.md)
 
 ---
+
 ## Explore Lori Platforms
 
 - [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
