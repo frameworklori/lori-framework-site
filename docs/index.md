@@ -4,21 +4,19 @@ layout: default
 ---
 
 <p align="center">
-<img src="assets/images/logo.png" alt="Lori Framework Logo" width="400">
+<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="220">
 </p>
 
 # Welcome to the Lori Framework
 
-**A foresight-driven model for ethical AI, digital risk governance, and civilizational resilience.**
+An insight-driven model for ethical AI, digital risk governance, and civilizational resilience.
 
-Lori Framework offers an open, modular architecture that helps society:
+LORI is an open, modular architecture that helps society:
 
-- Anticipate emerging AI risks before they scale
-- Govern alignment without centralization or monopoly
-- Support social trust across diverse cultures and institutions
+- Regulate AI risks before they scale
+- Maintain human oversight across automated systems
+- Prevent AGI from breaching sovereignty, ethics, or energy boundaries
 
-We believe governance is not control—
-It’s consequence-awareness at scale.
 ---
 
 ## Explore the System
@@ -27,14 +25,25 @@ It’s consequence-awareness at scale.
 - [Voice of Architects](./voices-en.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 
+---
+
+## Explore AGI Governance
+
+The following modules are classified as `[AGI-PRIORITY]` — our most critical safeguards against advanced AI threats:
+
+- [AGI Governance Core](./agi-governance/index.md)
+*Includes: Presidential Charter, Jury System, ESL, SAID, Photonic Sustainability Module*
+
+---
+
 ## Explore AIFS Modules
 
 - [AIFS Overview](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS.md)
 - [AIFS Casebook](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_Casebook.md)
 - [AIFS Risk Matrix](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_RiskMatrix.md)
-- [SAID: Self-Activated Intervention Detector](https://github.com/frameworklori/lori-framework-site/blob/main/modules/SAID_Module.md)
-- [Photonic AI Energy Sustainability Module (GitHub Pages)](https://frameworklori.github.io/lori-framework-site/modules/PhotonicEnergy_Module.md)
-- [PhotonicEnergy_Module.md (GitHub Source)](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/PhotonicEnergy_Module.md)
+- [SAID Detector](https://github.com/frameworklori/lori-framework-site/blob/main/modules/SAID_Module.md)
+
+---
 
 ## Explore Lori Platforms
 
