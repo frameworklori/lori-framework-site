@@ -25,6 +25,7 @@ LORI is an open, modular architecture that helps society:
 - [Voice of Architects](./voices-en.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Energy Sentinel (for public)](modules/ESL_Module_Public.md)
+- [EDRI-H: Emotional Dependency Risk Index – Humanized](modules/EDRI-H.md)
 
 ---
 
