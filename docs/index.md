@@ -29,9 +29,9 @@ LORI is an open, modular architecture that helps society:
 
 ## Explore AGI Governance
 
-The following modules are classified as `[AGI-PRIORITY]` — our most critical safeguards against advanced AI threats:
+> The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
 
-- [AGI Governance Core](./agi-governance/index.md)
+- [**AGI Governance Core**](./agi-governance/index.md)
 *Includes: Presidential Charter, Jury System, ESL, SAID, Photonic Sustainability Module*
 
 ---
