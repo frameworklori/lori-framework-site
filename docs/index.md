@@ -38,6 +38,7 @@ LORI is an open, modular architecture that helps society:
 - [HRI Module: Human Relay Infiltration Risk](modules/security/HRI_Module.md)
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
+
 ## Explore AIFS Modules
 
 - [AIFS Overview](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS.md)
