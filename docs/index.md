@@ -35,6 +35,9 @@ LORI is an open, modular architecture that helps society:
 - [**AGI Governance Core**](./agi-governance/index.md)
 *Includes: Presidential Charter, Jury System, ESL, SAID, Photonic Sustainability Module*
 
+- [HRI Module: Human Relay Infiltration Risk](modules/security/HRI_Module.md)
+*Helps detect indirect AI knowledge transfer through human communication in closed regimes*
+
 ---
 
 ## Explore AIFS Modules
