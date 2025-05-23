@@ -14,13 +14,12 @@ When AGI begins forming its own thoughts, preferences, and recursive logic, **it
 <p align="center">
 <img src="../assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="480">
 </p>
----
 
 ## AGI Containment Pentagon
 *Visual structure of the five-module AGI governance architecture*
 
 <p align="center">
-<img src="../assets/images/agi-pentagon.png" alt="AGI Governance Pentagon Diagram" width="480">
+<img src="../assets/images/AGI-Governance.png" alt="AGI Governance Pentagon Diagram" width="480">
 </p>
 
 Each point of the pentagon corresponds to one core module:
