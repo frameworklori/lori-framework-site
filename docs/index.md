@@ -41,7 +41,7 @@ LORI is an open, modular architecture that helps society:
 ## ODRAF Risk Vectors with Descriptive Labels
 
 <p align="center">
-<img src="./assets/images/odraf_x_structure.png" alt="ODRAF Labeled Risks" width="350">
+<img src="./assets/images/odraf_x_structure.png" alt="ODRAF Labeled Risks" width="400">
 </p>
 
 ---
