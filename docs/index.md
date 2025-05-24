@@ -72,7 +72,16 @@ LORI is an open, modular architecture that helps society:
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
 - [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
 
----
+## ⚠️ Strategic Module
+
+- [STC: Starlink Termination Contingency Module](https://frameworklori.github.io/lori-powernet-stc)
+> Emergency shutdown of Starlink/power grid for AGI disconnection
+
+
+### 🌐 Return to Main Framework
+
+🔗 [← LORI Framework Website](https://frameworklori.github.io/lori-framework-site/)
+📚 [View All Modules](https://github.com/frameworklori/lori-framework-site)
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
 **License:** MIT | Open Contribution Welcome
