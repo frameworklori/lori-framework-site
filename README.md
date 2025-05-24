@@ -9,21 +9,16 @@
 
 ---
 
-**Lori Framework** is an open, modular governance architecture...
+ Lori Framework – Ethical AI Governance System
 
-It supports:
-- Consequence-aware risk modeling
-- Narrative-sensitive alignment structures
-- Cultural adaptation and open collassets/imagesaboration
+This repository contains the documentation, modules, and interactive tools developed for the **Lori Framework**, a layered ethical architecture for AGI risk management and decentralized governance.
 
 ---
 
-### AGI Governance Module Map
-
-Visual structure showing the core interconnections:
+## AGI Governance Architecture Map
 
 <p align="center">
-<img src="../assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Structure" width="800">
+<img src="assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="Governance Modules Diagram" width="800">
 </p>
 
 ---
