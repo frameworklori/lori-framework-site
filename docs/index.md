@@ -35,13 +35,13 @@ LORI is an open, modular architecture that helps society:
 ## Combined Diagram: Circular + X-Structure
 
 <p align="center">
-<img src="../assets/images/odraf_circle_dark.png" alt="ODRAF Combined Diagram" width="350">
+<img src="./assets/images/odraf_circle_dark.png" alt="ODRAF Combined Diagram" width="350">
 </p>
 
 ## ODRAF Risk Vectors with Descriptive Labels
 
 <p align="center">
-<img src="../assets/images/odraf_x_structure.png" alt="ODRAF Labeled Risks" width="350">
+<img src="./assets/images/odraf_x_structure.png" alt="ODRAF Labeled Risks" width="350">
 </p>
 
 ---
