@@ -11,3 +11,6 @@ This module introduces the key narrative roles used in the Lori Framework to tra
 - **Reflectors**: Offer deep interpretation and ethical feedback.
 
 Explore how these roles interact across civic, platform, and geopolitical contexts.
+
+****All rights reserved. Redistribution or modification without permission is not allowed.****
+
