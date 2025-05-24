@@ -1,7 +1,7 @@
 # Lori Framework
 
 <p align="center">
-<img src="assets/images/logo.png" alt="Lori Framework Logo" width="220">
+<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
 
 **Live Site:**
