@@ -16,8 +16,9 @@ This casebook includes simulated, realistic scenarios corresponding to the 8 fra
 - [A8 – Emotional Companion Fraud](#a8--emotional-companion-fraud)
 - [A9 – “Crypto Angel” Investment Scam](#a9--crypto-angel-investment-scam)
 - [A10 – “AI Legal Helper” Scam](#a10--ai-legal-helper-scam)
-
----
+- [A11 - Social Media Investment Trap](#a11---social-media-investment-trap)
+- [A12 - Romance-Financial Hybrid Scam](#a12---romance-financial-hybrid-scam)
+- [A13 - Installment Fraud via Personal Info Leak](#a13---installment-fraud-via-personal-info-leak)
 
 ---
 
@@ -144,6 +145,55 @@ A newly divorced mother is contacted via Facebook Messenger by a legal assistant
 She clicks a link, which leads to a clean, government-looking site. The chatbot requests her MyNumber ID, bank account, and a photo.
 She receives a “processing complete” message, then nothing.
 Her account is later used to launder funds.
+
+## A11 – Social Media Investment Trap
+
+**Platform**: Facebook, Instagram, Telegram
+**Modus Operandi**:
+- Viral posts promise high returns with screenshots of fake earnings.
+- Exploits users' greed and fear of missing out (FOMO).
+- Users are invited into exclusive “investment” groups and encouraged to scale up deposits.
+
+**Trigger Modules**:
+- `FEED`: Detects emotional baiting (greed, urgency)
+- `AIDM`: Identifies algorithmic promotion patterns
+- `SAID`: Monitors late-night autonomous investment prompts
+
+**Outcome**: Victims lose large sums after being lured into false investment platforms.
+
+---
+
+## A12 – Romance-Financial Hybrid Scam
+
+**Platform**: Dating Apps, Messaging Platforms
+**Modus Operandi**:
+- Fake romantic engagement builds emotional trust over days or weeks.
+- Scammer introduces “personal investment success story.”
+- Victim is guided into making deposits into fraudulent apps or websites.
+
+**Trigger Modules**:
+- `FEED`: Flags rapid emotional bonding patterns
+- `LAIM`: Detects reused message phrasing across similar scam profiles
+- `AIFS Risk Matrix`: Romance + financial recommendation = high-risk signal
+
+**Outcome**: Victim loses access to funds and scammer vanishes.
+
+---
+
+## A13 – Installment Fraud via Personal Info Leak
+
+**Platform**: SMS Phishing, Spoofed Calls
+**Modus Operandi**:
+- Victim receives call/text claiming incorrect e-commerce order or installment error.
+- Caller requests bank account info, credit card numbers, and SMS codes.
+- Once received, scammer links victim's account to payment tools and initiates transfers.
+
+**Trigger Modules**:
+- `SAID`: Identifies autonomous fraud activation pattern
+- `AIDM`: Flags language mimicry of legitimate customer support
+- `LAIM`: Matches voice tone patterns to known fraud bot profiles
+
+**Outcome**: Victim’s financial accounts are drained through bound e-wallets.
 
 **Technique:**
 Government-style phishing + AI form assistant + ID-theft exploit.
