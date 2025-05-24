@@ -31,22 +31,21 @@ LORI is an open, modular architecture that helps society:
 - [LII: Linguistic Incendiary Index](modules/LII.md)
 
 ---
-## ODRAF: Outcome-Driven Reverse Analysis Framework
 
-ODRAF is a core mechanism within the LORI Framework that conducts reverse risk analysis based on consequences, allowing for predictive intervention in emotional manipulation, mimicry diffusion, trust shifts, and incendiary language activation.
+## Combined Diagram: Circular + X-Structure
+
+<p align="center">
+<img src="../assets/images/odraf/odraf_circle_dark.png" alt="ODRAF Combined Diagram" width="350">
+</p>
+
+## ODRAF Risk Vectors with Descriptive Labels
+
+<p align="center">
+<img src="../assets/images/odraf/odraf_x_structure.png" alt="ODRAF Labeled Risks" width="350">
+</p>
 
 ---
 
-### Combined Diagram: Circular + X-Structure
-
-![ODRAF Combined View](./assets/images/odraf_x_structure.png)
-
----
-
-### Labeled Version (Emotional, Mimicry, Trust, Linguistic)
-
-> **Note:** Labels illustrate the semantic scope of each risk vector.
-![ODRAF with Descriptive Labels](./assets/images/odraf_circle_dark.png)
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
