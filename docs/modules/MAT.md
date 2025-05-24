@@ -1,6 +1,6 @@
 
 ---
-title: "MAT: Mimicry Activation Threshold"
+Title: "MAT: Mimicry Activation Threshold"
 layout: default
 nav_order: 3
 parent: Modules
