@@ -1,6 +1,6 @@
 
 ---
-title: "TDM: Trust Drift Map"
+Title: "TDM: Trust Drift Map"
 layout: default
 nav_order: 2
 parent: Modules
