@@ -1,6 +1,6 @@
 
 ---
-title: "LII: Linguistic Incendiary Index"
+Title: "LII: Linguistic Incendiary Index"
 layout: default
 nav_order: 4
 parent: Modules
