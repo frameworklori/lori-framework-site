@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="center">
-<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="450">
+<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
 
 # Welcome to the Lori Framework
@@ -35,7 +35,7 @@ LORI is an open, modular architecture that helps society:
 ## Combined Diagram: Circular + X-Structure
 
 <p align="center">
-<img src="./assets/images/odraf_circle_dark.png" alt="ODRAF Combined Diagram" width="350">
+<img src="./assets/images/odraf_circle_dark.png" alt="ODRAF Combined Diagram" width="300">
 </p>
 
 ## ODRAF Risk Vectors with Descriptive Labels
