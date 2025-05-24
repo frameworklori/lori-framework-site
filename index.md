@@ -14,3 +14,4 @@ Explore how these roles interact across civic, platform, and geopolitical contex
 
 ****All rights reserved. Redistribution or modification without permission is not allowed.****
 
+This document is an official component of the LORI Framework. Unauthorized editing or content injection is strictly prohibited. Public access is granted for reading and referencing only.
