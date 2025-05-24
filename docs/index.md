@@ -39,7 +39,7 @@ ODRAF is a core mechanism within the LORI Framework that conducts reverse risk a
 
 ### Combined Diagram: Circular + X-Structure
 
-![ODRAF Combined View](../assets/images/odraf_x_structure.png)
+![ODRAF Combined View](../assets/images/odraf_circle_dark.png)
 
 ---
 
