@@ -7,7 +7,7 @@ This page provides a visual and structural overview of the core modules governin
 ## Governance Architecture Map
 
 <p align="center">
-<img src="../assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
+<img src="./assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
 ---
