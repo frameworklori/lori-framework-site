@@ -28,6 +28,7 @@ LORI is an open, modular architecture that helps society:
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](modules/EDRI-H.md)
 - [TDM: Trust Drift Map](modules/TDM.md)
 - [MAT: Mimicry Activation Threshold](modules/MAT.md)
+- [LII: Linguistic Incendiary Index](modules/LII.md)
 
 ---
 
