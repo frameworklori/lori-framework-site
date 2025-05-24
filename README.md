@@ -18,6 +18,14 @@ It supports:
 
 ---
 
+### AGI Governance Module Map
+
+Visual structure showing the core interconnections:
+
+<p align="center">
+<img src="../assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Structure" width="800">
+</p>
+
 ## Explore Key Components
 
 - [Narrative Emphasis Heatmap](./assets/images/narrative_heatmap.png)
