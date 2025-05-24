@@ -61,8 +61,9 @@ Visual structure showing the core interconnections:
 <img src="./assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
-- [AGI Modules Overview](/modules/overview.md)
+- [AGI Modules Overview](modules/overview.md)
 - [HRI Module: Human Relay Infiltration Risk](modules/HRI_Modules.md)
+- 
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
 
