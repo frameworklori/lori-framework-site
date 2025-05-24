@@ -84,4 +84,4 @@ LORI is an open, modular architecture that helps society:
 
 **Repository:** [frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
 **License:** MIT | Open Contribution Welcome
-**All rights reserved. Redistribution or modification without permission is not allowed.****
+****All rights reserved. Redistribution or modification without permission is not allowed.****
