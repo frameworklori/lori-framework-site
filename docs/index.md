@@ -58,7 +58,7 @@ LORI is an open, modular architecture that helps society:
 Visual structure showing the core interconnections:
 
 <p align="center">
-<img src="docs/assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Structure" width="800">
+<img src="../assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
 - [AGI Modules Overview](/modules/overview.md)
