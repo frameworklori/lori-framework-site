@@ -39,14 +39,14 @@ ODRAF is a core mechanism within the LORI Framework that conducts reverse risk a
 
 ### Combined Diagram: Circular + X-Structure
 
-![ODRAF Combined View](../assets/images/odraf/odraf_combined.png)
+![ODRAF Combined View](../assets/images/odraf_x_structure.png)
 
 ---
 
 ### Labeled Version (Emotional, Mimicry, Trust, Linguistic)
 
 > **Note:** Labels illustrate the semantic scope of each risk vector.
-![ODRAF with Descriptive Labels](../assets/images/odraf/odraf_labeled_risks.png)
+![ODRAF with Descriptive Labels](../assets/images/odraf_circle_dark.png)
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
