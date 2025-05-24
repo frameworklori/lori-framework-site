@@ -1,6 +1,6 @@
 
 ---
-title: "EDRI-H: Emotional Dependency Risk Index – Humanized"
+Title: "EDRI-H: Emotional Dependency Risk Index – Humanized"
 layout: default
 nav_order: 1
 parent: Modules
