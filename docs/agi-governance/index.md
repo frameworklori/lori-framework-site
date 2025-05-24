@@ -81,4 +81,5 @@ We do not wait for AGI to declare independence—
 we write its limits into existence.
 
 > *“A machine that can dream must first be taught how to stop.”*
+
 ****All rights reserved. Redistribution or modification without permission is not allowed.****
