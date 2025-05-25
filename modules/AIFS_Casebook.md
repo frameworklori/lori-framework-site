@@ -273,7 +273,7 @@ This section provides a statistical summary of which trigger modules are most fr
 ### Module Frequency Chart
 
 <p align="center">
-<img src="./assets/images/AIFS_Module_Frequency.png" alt="AIFS Trigger Module Frequency Chart" width="700">
+<img src="../docs/assets/images/AIFS_Module_Frequency.png" alt="AIFS Trigger Module Frequency Chart" width="700">
 </p>
 
 ### Frequency Table
