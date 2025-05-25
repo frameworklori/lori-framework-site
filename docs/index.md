@@ -66,6 +66,18 @@ Visual structure showing the core interconnections:
 - 
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
+---
+
+## Explore Civilizational Modules
+
+Dive into our extended modules analyzing demographic, reproductive, and robotic adaptation strategies:
+
+[→ Go to Civilization–Future Modules](https://frameworklori.github.io/civilization-future-modules/)
+
+Or directly access a key module:
+[HEDA: Human–Environment Demographic Adaptation](https://frameworklori.github.io/civilization-future-modules/docs/modules/HEDA.md)
+
+---
 
 ## Explore AIFS Modules
 
