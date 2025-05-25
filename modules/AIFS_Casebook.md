@@ -264,6 +264,30 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
 ---
 
+---
+
+## Module Activation Frequency Overview
+
+This section provides a statistical summary of which trigger modules are most frequently activated across the 13 documented fraud cases (A1–A13).
+
+### Module Frequency Chart
+
+<p align="center">
+<img src="../assets/images/AIFS_Module_Frequency.png" alt="AIFS Trigger Module Frequency Chart" width="700">
+</p>
+
+### Frequency Table
+
+| Trigger Module | Occurrences |
+|------------------------|-------------|
+| **FEED** | 12 |
+| **SAID** | 12 |
+| **AIFS Risk Matrix** | 11 |
+| **LAIM** | 8 |
+| **QUTCOME** | 6 |
+| **AIDM** | 2 |
+
+
 ## Notes
 Each scenario can be used as a:
 - Training case for public awareness
