@@ -77,6 +77,7 @@ Dive into our extended modules analyzing demographic, reproductive, and robotic 
 Or directly access a key module:
 
 [HEDA: Human–Environment Demographic Adaptation](https://github.com/frameworklori/civilization-future-modules/blob/main/docs/modules/HEDA.md)
+
 ---
 
 ## Explore AIFS Modules
