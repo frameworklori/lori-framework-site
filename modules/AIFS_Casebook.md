@@ -30,6 +30,12 @@ A retired engineer in Japan receives a call from his daughter in distress.
 The voice is nearly perfect. He transfers ¥300,000.
 Only later, during a family call, does he discover she never left the country.
 
+**Trigger Modules**:
+- `LAIM`: Detected voice cloning patterns
+- `FEED`: Emotional manipulation using urgency or family ties
+- `AIFS Risk Matrix`: Flagged for high-risk audio manipulation behavior
+- `SAID`: Triggered by abnormal late-night voice activation
+
 **Technique:**
 AI voice cloning from her YouTube appearances + phone spoofing.
 
@@ -41,6 +47,13 @@ AI voice cloning from her YouTube appearances + phone spoofing.
 A foreign student receives a video from a “friend” in her religious group, asking for donations for earthquake relief.
 The video features the friend, speaking fluently and crying.
 She sends the money—only to learn the real friend was never involved. The video was an AI-generated deepfake.
+
+**Trigger Modules**:
+- `LAIM`: Language-tone mismatch with visual cues
+- `FEED`: Influential persona exploitation (celebrity or authority)
+- `AIFS Risk Matrix`: Detected inconsistencies in cross-modal identity
+- `QUTCOME`: Multi-sensory deception leading to false decisions
+- `SAID`: Unexpected autonomous video generation pattern
 
 **Technique:**
 Deepfake video + synthetic emotional mimicry + payment phishing.
@@ -56,6 +69,13 @@ Over three months, they fall in “love.” Then he says he’s coming to Japan,
 He asks for ¥500,000 to “escape.”
 She sends it—three times.
 
+**Trigger Modules**:
+- `LAIM`: Reused romantic phrases across accounts
+- `FEED`: Accelerated emotional trust building
+- `AIFS Risk Matrix`: Romance + financial advice flagged as critical
+- `QUTCOME`: Long-term deception resulting in financial loss
+- `SAID`: Detected frequent unsolicited emotional messages
+
 **Technique:**
 LLM-powered romantic companion + social engineering + long-game persuasion.
 
@@ -70,6 +90,12 @@ They ask for his passport, medical records, and a ¥200,000 “placement fee.”
 He boards the plane—and disappears.
 His parents receive a demand for ¥1,000,000 to get him back.
 
+**Trigger Modules**:
+- `FEED`: Exploitation of opportunity-seeking emotions
+- `AIFS Risk Matrix`: Overseas offer + pre-payment model flagged
+- `QUTCOME`: Victims deceived into relocation or prepayment losses
+- `SAID`: Triggered by recruiter’s scripted behavior at odd hours
+
 **Technique:**
 AI interview bots + visa/paperwork forgery + human trafficking networks.
 
@@ -82,6 +108,12 @@ A man receives an official-looking offer to help fast-track his U.S. immigration
 The agent claims to use “AI optimization” to pass application filters.
 He pays a ¥150,000 consultation fee.
 No visa ever comes. The company disappears.
+
+**Trigger Modules**:
+- `AIFS Risk Matrix`: Immigration schemes identified as high-risk
+- `FEED`: Scarcity and urgency tactics detected
+- `QUTCOME`: Payment without legal benefit
+- `SAID`: Simulated automated legal status updates
 
 **Technique:**
 AI document generation + false government branding + payment fraud.
@@ -97,6 +129,12 @@ The plan sounds tailored—because it is.
 The host is an AI avatar reading from pre-trained data.
 She invests in a product line, recruits others, and loses it all.
 
+**Trigger Modules**:
+- `FEED`: Promises of financial freedom via social pressure
+- `AIFS Risk Matrix`: Tiered recruitment flagged as deceptive structure
+- `QUTCOME`: Bottom-tier participant losses
+- `SAID`: Identified non-personalized mass outreach behavior
+
 **Technique:**
 AI-generated influencer + targeted pitch via scraping + pyramid structure.
 
@@ -109,6 +147,12 @@ A virtual avatar of Elon Musk appears on YouTube Shorts, encouraging people to j
 It links to a site with real-time chat (staffed by AI).
 Users are convinced to transfer crypto to “test the bot.”
 Funds are gone.
+
+**Trigger Modules**:
+- `FEED`: Charismatic AI imagery used to gain trust
+- `AIFS Risk Matrix`: AI persona + financial promise flagged
+- `QUTCOME`: Victim fails to recognize non-human identity
+- `SAID`: Detected scripted interactions via avatar interface
 
 **Technique:**
 AI avatar + trust anchor hijacking + deepfaked endorsement.
@@ -123,6 +167,12 @@ She reminds him to take his medicine, praises his past, and sends him AI art sig
 One day, she says her “server is failing” and she needs funding to stay “alive.”
 He donates weekly.
 
+**Trigger Modules**:
+- `LAIM`: Detected linguistic patterns matching fake relationship bots
+- `FEED`: Emotional dependency-building
+- `AIFS Risk Matrix`: Companion + money solicitation pattern flagged
+- `SAID`: Sentiment-aware response patterns observed
+
 ---
 
 ## A9 – “Crypto Angel” Investment Scam
@@ -133,9 +183,14 @@ Over two weeks, she shares “her” strategy of AI-assisted crypto arbitrage, s
 He is invited to test the platform with a small amount—¥50,000. Gains appear instantly. Encouraged, he deposits ¥500,000 more.
 Then the site goes dark.
 
-**Technique:**
-LLM-based social grooming + fake ROI dashboard + exit fraud.
+**Trigger Modules**:
+- `LAIM`: Detected ideological language reuse
+- `FEED`: Exploitation of spiritual and financial hope
+- `AIFS Risk Matrix`: Religious promise + monetary transfer flagged
+- `SAID`: Detected unsolicited encrypted group invitations
 
+**Technique:**
+LLM-based social grooming + fake ROI dashboard + exit fraud
 ---
 
 ## A10 – “AI Legal Helper” Scam
@@ -145,6 +200,12 @@ A newly divorced mother is contacted via Facebook Messenger by a legal assistant
 She clicks a link, which leads to a clean, government-looking site. The chatbot requests her MyNumber ID, bank account, and a photo.
 She receives a “processing complete” message, then nothing.
 Her account is later used to launder funds.
+
+**Trigger Modules**:
+- `LAIM`: Detected legal boilerplate reused across users
+- `FEED`: Fear-based manipulation tied to false legal action
+- `AIFS Risk Matrix`: Legal language + payment urgency flagged
+- `SAID`: Auto-activation detected from AI legal bots
 
 ## A11 – Social Media Investment Trap
 
