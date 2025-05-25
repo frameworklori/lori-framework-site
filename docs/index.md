@@ -75,6 +75,7 @@ Dive into our extended modules analyzing demographic, reproductive, and robotic 
 [Civilization–Future Modules →](https://frameworklori.github.io/civilization-future-modules/)
 
 Or directly access a key module:
+
 [HEDA: Human–Environment Demographic Adaptation](https://frameworklori.github.io/civilization-future-modules/docs/modules/HEDA.html)
 ---
 
