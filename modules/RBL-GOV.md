@@ -61,9 +61,13 @@ This module upholds the ethical boundary between labor efficiency and human dign
 
 ## 5. Related Modules
 
-- [RBL: Robot-Based Labor Integration](RBL.md)
-- [DGP: Demographic Gap Pressure](DGP.md)
-- [ESL: Energy Sentinel Layer](ESL.md)
+- [**DGP**](DGP.md)
+Provides demographic stress indicators (aging, low birth rate) that drive robot deployment demand.
 
+- [**ESL**](ESL.md)
+Alerts when energy usage exceeds safe thresholds, potentially triggering RBL-GOV intervention.
+
+- [**RBL**](RBL.md)
+Supplies real-time deployment metrics for enforcement and rollback decisions.
 
 
