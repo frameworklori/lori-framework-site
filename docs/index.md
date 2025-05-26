@@ -29,7 +29,7 @@ LORI is an open, modular architecture that helps society:
 - [TDM: Trust Drift Map](modules/TDM.md)
 - [MAT: Mimicry Activation Threshold](modules/MAT.md)
 - [LII: Linguistic Incendiary Index](modules/LII.md)
-- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
+- [RBL-GOV: Robot-Based Labor Governance Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/RBL-GOV.md)
 
 ---
 
