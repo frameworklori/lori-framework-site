@@ -30,8 +30,10 @@ This repository contains the documentation, modules, and interactive tools devel
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Energy Sentinel (for public)](https://frameworklori.github.io/lori-framework-site/modules/ESL_Module_Public.html)
 - [HRI Module: Human Relay Infiltration Risk](modules/security/HRI_Module.md) — Prevent covert AGI knowledge absorption via human interaction
-
+ 
 ---
+
+**[RBL-GOV](lori-framework-site/modules/RBL-GOV.md)** – Limits robot deployment to preserve human societal roles.
 
 ## Explore Lori Platforms
 
