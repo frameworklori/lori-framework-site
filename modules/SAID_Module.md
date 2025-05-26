@@ -2,7 +2,7 @@
 *Part of the AI Fraud & Manipulation Risk Framework*
 
 <p align="center">
-/docs/assets/images//docs/assets/images/AGI Oversight Pentagram.png
+<img src="../assets/images/AGI_Oversight_Pentagram.png" alt="AGI Oversight Pentagram" width="500">
 </p>
 
 > *"Let no intelligence exceed its vessel, nor act where it has not been called."*
