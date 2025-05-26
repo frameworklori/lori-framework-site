@@ -33,10 +33,10 @@ ESL acts as an early warning layer that supports RBL-GOV interventions.
 ## 4. Related Modules
 
 - [**RBL-GOV**](RBL-GOV.md)
-Governance layer that responds to excessive robot deployment signaled by ESL.
+Receives alerts from ESL when robotic energy use signals unsustainable automation trends.
 
 - [**DGP**](DGP.md)
-Feeds demographic stress data which indirectly influences energy demand and automation.
+Contributes to long-term energy forecasts based on demographic automation trends.
 
 - [**RBL**](RBL.md)
-Primary consumer of regulated energy; deployment size must stay within ESL thresholds.
+Primary consumer of energy regulated by ESL; monitored for overuse patterns.
