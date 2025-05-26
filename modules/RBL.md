@@ -33,7 +33,13 @@ This is the **core operational layer** under governance control.
 ## 4. Related Modules
 
 - [**RBL-GOV**](RBL-GOV.md)
+Central governance layer that sets deployment limits and approves or rejects integration.
+
 - [**DGP**](DGP.md)
+Root driver that explains increased robotic reliance in population-challenged sectors.
+
 - [**ESL**](ESL.md)
+Monitors the energy footprint of active robot deployments to ensure responsible scaling.
+
 
 
