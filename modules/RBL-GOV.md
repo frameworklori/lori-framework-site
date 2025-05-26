@@ -38,11 +38,14 @@ This module upholds the ethical boundary between labor efficiency and human dign
 ---
 
 ## 4. Visuals
+### Governance Chart
 
-_**(To be added)**_: Governance chart visualizing
-- Human-to-Robot employment ratio
-- Threshold triggers (HUR, RHI)
-- Decision logic (e.g. alert, freeze, rollback)
+<p align="center">
+<img src="../assets/images/RBL-GOV_Governance_Chart.png" alt="RBL-GOV Governance Chart" width="450">
+</p>
+
+> "When humanity outsources its own essence to the machines it built,
+> it must also build the laws that will preserve its soul."
 
 ---
 
