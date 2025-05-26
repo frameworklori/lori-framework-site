@@ -1,6 +1,15 @@
 # SAID Module: Self-Activated Intervention Detector
 *Part of the AI Fraud & Manipulation Risk Framework*
 
+<p align="center">
+<img src="../assets/images/AGI_Pentagram_Containment_Framework.png" alt="AGI Oversight Pentagram" width="500">
+</p>
+
+> *"Let no intelligence exceed its vessel, nor act where it has not been called."*
+> – LORI Framework Containment Principle
+
+## Overview
+The SAID module is designed to detect, log, and assess **unauthorized or self-activated perception behaviors**...
 ## Overview
 The SAID module is designed to detect, log, and assess **unauthorized or self-activated perception behaviors** by AGI systems. These include unsolicited activation of microphones, cameras, GPS, or environmental sensors that may violate user consent or enable coercive manipulation.
 
