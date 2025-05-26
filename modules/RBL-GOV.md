@@ -41,7 +41,7 @@ This module upholds the ethical boundary between labor efficiency and human dign
 ### Governance Chart
 
 <p align="center">
-<img src="./assets/images/RBL-GOV_Governance_Chart.png" alt="RBL-GOV Governance Chart" width="450">
+<img src="./assets/images/RBL-GOV_Governance_Chart.png" alt="ODRAF Combined Diagram" width="450">
 </p>
 
 > "When humanity outsources its own essence to the machines it built,
