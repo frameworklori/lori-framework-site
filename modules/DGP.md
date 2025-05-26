@@ -33,5 +33,11 @@ It supports **pre-emptive human policy interventions** to slow down automation i
 ## 4. Related Modules
 
 - [**RBL-GOV**](RBL-GOV.md)
+Uses DGP data to determine when to freeze, slow, or review robot integration plans.
+
 - [**RBL**](RBL.md)
-- [**ESL**](ESL.md
+Reflects the downstream effect of population stress via increased automation.
+
+- [**ESL**](ESL.md)
+Receives indirect impact when demographic pressure leads to energy-intensive AI deployment.
+
