@@ -73,7 +73,7 @@ Visual structure showing the core interconnections:
 Dive into our extended modules analyzing demographic, reproductive, and robotic adaptation strategies:
 
 
-[Civilization–Future Modules →](https://github.com/frameworklori/lori-framework-sit/emain/docs/index.md/Civilization-future-modules/docs/final_paradox.md)
+[Civilization–Future Modules →](https://github.com/frameworklori/Civilization-future-modules/blob/main/docs/modules/final_paradox.md)
 
 Or directly access a key module:
 
