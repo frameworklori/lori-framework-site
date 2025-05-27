@@ -6,7 +6,7 @@
 
 <p align="center">
 <!-- B. GitHub 預覽用絕對路徑 -->
-<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/edri-h-dependency-ladder.png?raw=true" alt="LII diagram" width="400">
+<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/edri-h-dependency-ladder.png?raw=true" alt="LII diagram" width="450">
 </p>
 
 
