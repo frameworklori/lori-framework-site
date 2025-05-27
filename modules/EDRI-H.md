@@ -1,16 +1,16 @@
 # EDRI-H:Emotional Dependency Risk Index – Humanized
 
-> Measures how likely a piece of language (spoken, written, AI-generated) may trigger emotional conflict, imitation, or social unrest.
+> Measures the progression of emotional attachment and dependency between users and AI systems, especially those designed to simulate empathy or companionship.
 
 ---
 
 <p align="center">
 <!-- B. GitHub 預覽用絕對路徑 -->
-<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/edri-h-dependency-ladder.png?raw=true" alt="LII diagram" width="450">
+<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/edri-h-dependency-ladder.png?raw=true" alt="LII diagram" width="500">
 </p>
 
 
-> Tracks the emotional overattachment of users to AI systems, especially those mimicking empathy or companio
+> This ladder diagram illustrates the escalation of emotional dependency on AI systems — from casual use to full emotional reliance — especially in systems designed to mimic empathy or companionship.
 
 ---
 
