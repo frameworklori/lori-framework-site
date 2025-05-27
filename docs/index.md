@@ -47,6 +47,19 @@ LORI is an open, modular architecture that helps society:
 
 ---
 
+## Conformity Visualizations
+These visual models illustrate core mechanisms within the Conformity Effect Module, highlighting social contagion sensitivity and centralized trust drift.
+
+<p align="center">
+<img src="/assets/social_contagion_heatmap.png" alt="Social Contagion Heatmap" width="400">
+</p>
+
+<p align="center">
+<img src="/assets/trust_drift_arrow.png" alt="Trust Drift Arrow Diagram" width="400">
+</p>
+
+[→ View Full Module](modules/Conformity_Effect_Module.md)
+
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
