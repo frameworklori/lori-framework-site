@@ -60,7 +60,8 @@ This module serves as a key intersection point for emotional dependency, AI mani
 - [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/FEED_Module.md)
 Conformity reinforces emotional attachment loops.
 
-- [AIDM: AGI Infiltration Detection Module](AIDM_Module.md)
+- [AIDM: AGI Infiltration Detection Module]
+(https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIDM_Module.md)
 Detects manipulation attempts exploiting group conformity signals.
 
 - [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/LII.md)
