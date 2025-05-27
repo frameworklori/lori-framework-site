@@ -5,11 +5,6 @@
 ---
 
 <p align="center">
-<!-- A. Docsify local preview path -->
-<img src="../assets/images/trust-drift-flowchart.png" alt="Trust Drift diagram" width="450">
-</p>
-
-<p align="center">
 <!-- B. GitHub preview path -->
 <img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/trust-drift-flowchart.png?raw=true" alt="Trust Drift diagram" width="450">
 </p>
