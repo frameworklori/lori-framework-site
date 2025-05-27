@@ -1,47 +1,54 @@
 # Trust Drift Map
 
-> Maps the gradual shift in user trust away from traditional institutions toward AI systems, platforms, or influencers.
----
-
-#Trust Drift Map
-
-> Measures how likely a piece of language (spoken, written, AI-generated) may trigger emotional conflict, imitation, or social unrest.
+> Measures how user trust gradually shifts away from traditional institutions (e.g., media, government, teachers) toward AI systems, influencers, or alternative digital authorities.
 
 ---
 
 <p align="center">
-<!-- B. GitHub 預覽用絕對路徑 -->
-<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/trust-drift-flowchart.png?raw=true" alt="LII diagram" width="400">
+<!-- A. Docsify local preview path -->
+<img src="../assets/images/trust-drift-flowchart.png" alt="Trust Drift diagram" width="450">
 </p>
 
+<p align="center">
+<!-- B. GitHub preview path -->
+<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/trust-drift-flowchart.png?raw=true" alt="Trust Drift diagram" width="450">
+</p>
 
+> This flowchart illustrates the sequential erosion of trust—from initial confidence to silent doubts, growing distrust, and finally disengagement or realignment of trust toward non-traditional entities (such as AI or algorithms).
 
 ---
 
 ## Core Concepts
 
-- **Baseline Trust Anchor**
-Original source of user's institutional or societal trust.
+### **Baseline Trust Anchor**
+Identifies where initial trust is placed (e.g., doctor, news media, government agency).
 
-- **Drift Trigger Analysis**
-Identifies events or content that shift trust (e.g., scandal, deepfake, AI reply).
+### **Doubt Phase**
+The stage where users begin to feel uneasy or uncertain but do not yet voice their concerns.
 
-- **Destination Mapping**
-Shows where trust is relocated: to AI, influencers, private networks, etc.
+### **Distrust Formation**
+Active skepticism toward the original authority source due to perceived bias, error, or manipulation.
+
+### **Drift Redirection**
+The moment trust silently transfers to another perceived "truth source"—commonly a personalized algorithm, AI assistant, or digital figure.
 
 ---
 
 ## Use Cases
 
-- AI replacing doctors, teachers, or religious advisors
-- Public trust eroding in journalism, courts, or science
-- Emergence of AGI cult-like followings
+- **Media Trust Breakdown**
+Audiences move from institutional journalism to algorithm-curated content or influencers.
+
+- **Healthcare Skepticism**
+Patients increasingly consult AI diagnostics over real doctors.
+
+- **Political Alienation**
+Trust in governance erodes, replaced by alternative digital narratives or conspiracy ecosystems.
 
 ---
 
 ## Linked Modules
 
-- [LII](LII.md)
-- [EDRI-H](EDRI-H.md)
-
-
+- [EDRI-H: Emotional Dependency Risk Index](EDRI-H.md)
+- [LII: Linguistic Incendiary Index](LII.md)
+- [Pandora Effect Diffusion Module](Pandora.md)
