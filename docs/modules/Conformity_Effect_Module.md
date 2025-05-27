@@ -60,7 +60,7 @@ It helps identify high-risk zones where conformity behaviors can rapidly spread 
 
 Illustrates movement of collective trust from diverse nodes to a centralized source over time.
 
-<img src="../assets/images/trust_drift_arrow.png" alt="trust drift arrow.png" width="450">
+<img src="../assets/images/trust_drift_arrow.png" alt="trust drift arrow.png" width="400">
 
 ## Interlinked Modules
 
