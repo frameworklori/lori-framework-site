@@ -80,7 +80,7 @@ Or directly access a key module:
 
 [HEDA: Human–Environment Demographic Adaptation](https://github.com/frameworklori/civilization-future-modules/blob/main/docs/modules/HEDA.md)
 
-[Pandora Effect Diffusion Module](modules/Pandora.md)
+[Pandora Effect Diffusion Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/modules/Pandora.md)
 
 ---
 
