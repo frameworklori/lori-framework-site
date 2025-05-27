@@ -50,7 +50,9 @@ This module serves as a key intersection point for emotional dependency, AI mani
 This heatmap visualizes the relationship between imitation sensitivity (inverse MAT) and infection speed (CCV).
 It helps identify high-risk zones where conformity behaviors can rapidly spread with minimal resistance.
 
+<p align="center">
 <img src="../assets/images/social_contagion_heatmap.png" alt="social contagion heatmap" width="400">
+</p>
 
 - **X-axis**: Inverse MAT (Mimicry Activation Threshold)
 - **Y-axis**: CCV (Cultural Contagion Velocity)
@@ -60,11 +62,12 @@ It helps identify high-risk zones where conformity behaviors can rapidly spread 
 
 Illustrates movement of collective trust from diverse nodes to a centralized source over time.
 
+
+
 <p align="center">
 <img src="../assets/images/trust_drift_arrow.png" alt="trust drift arrow.png" width="500">
 </p>
  ## Interlinked Modules
-
 
 - [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/FEED_Module.md)
 Conformity reinforces emotional attachment loops.
