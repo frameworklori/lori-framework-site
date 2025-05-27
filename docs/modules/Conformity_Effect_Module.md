@@ -45,15 +45,20 @@ This module serves as a key intersection point for emotional dependency, AI mani
 
 ## Visual Models
 
-1. **Imitation vs Infection Heatmap**
-- X-axis: Inverse MAT (Imitation Sensitivity)
-- Y-axis: CCV (Infection Speed)
-- Color Scale: Risk zone (Green → Red)
+### 1. Imitation vs Infection Heatmap
 
-2. **Trust Drift Arrow Diagram**
-- Illustrates movement of collective trust from diverse nodes to a centralized source over time.
+This heatmap visualizes the relationship between imitation sensitivity (inverse MAT) and infection speed (CCV).
+It helps identify high-risk zones where conformity behaviors can rapidly spread with minimal resistance.
 
----
+![Social Contagion Heatmap](/assets/social_contagion_heatmap.png)
+
+- **X-axis**: Inverse MAT (Mimicry Activation Threshold)
+- **Y-axis**: CCV (Cultural Contagion Velocity)
+- **Color Scale**: Risk zone from Green (low) to Red (critical)
+
+### 2. Trust Drift Arrow Diagram
+
+Illustrates movement of collective trust from diverse nodes to a centralized source over time.
 
 ## Interlinked Modules
 
