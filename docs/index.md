@@ -54,6 +54,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 <img src="./assets//images/social_contagion_heatmap.png" alt="Social Contagion Heatmap" width="400">
 </p>
 
+---
+
 <p align="center">
 <img src="./assets//images/trust_drift_arrow.png" alt="Trust Drift Arrow Diagram" width="400">
 </p>
