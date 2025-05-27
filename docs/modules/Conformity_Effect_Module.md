@@ -63,10 +63,10 @@ Conformity reinforces emotional attachment loops.
 - [AIDM: AGI Infiltration Detection Module](AIDM_Module.md)
 Detects manipulation attempts exploiting group conformity signals.
 
-- [LII: Linguistic Incendiary Index](LII.md)
+- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/LII.md)
 Tracks language triggering large-scale opinion clustering.
 
-- [Trust Drift Map](TrustDrift.md)
+- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/modules/TrustDrift.md)
 Maps convergence of belief systems due to conformity acceleration.
 
 - [Conformity Effect Module](modules/Conformity_Effect_Module.md)
