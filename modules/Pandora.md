@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./assets/images/pandora-effect-diagram.png" alt="pandora effect" width="400">
+<img src="../assets/images/pandora-effect-diagram.png" alt="pandora effect" width="400">
 </p>
 
 
