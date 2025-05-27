@@ -5,11 +5,6 @@
 ---
 
 <p align="center">
-<!-- A. Docsify 內部相對路徑 -->
-<img src="../assets/images/linguistic-incendiary-index.png" alt="LII diagram" width="400">
-</p>
-
-<p align="center">
 <!-- B. GitHub 預覽用絕對路徑 -->
 <img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/linguistic-incendiary-index.png?raw=true" alt="LII diagram" width="400">
 </p>
