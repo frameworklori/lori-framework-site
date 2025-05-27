@@ -1,6 +1,13 @@
-# EDRI-H: Emotional Dependency Risk Index – Humanized
+# EDRI-H:Emotional Dependency Risk Index – Humanized
 
-> Tracks the emotional overattachment of users to AI systems, especially those mimicking empathy or companionship.
+<p align="center">
+<img src="../assets/images/edri-h-dependency-ladder.png" width="400">
+</p>
+<p align="center">
+<img src="https://github.com/frameworklori/lori-framework-site/edri-h-dependency-ladder.png?raw=true" width="400">
+</p>
+
+> Tracks the emotional overattachment of users to AI systems, especially those mimicking empathy or companio
 
 ---
 
