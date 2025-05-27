@@ -1,10 +1,5 @@
 # Pandora Effect Diffusion Module
 
-<!-- A. Docsify 內部預覽用：相對路徑（最乾淨、網站顯示最快） -->
-<p align="center">
-<img src="../assets/images/pandora-effect-diagram.png" alt="pandora effect" width="400">
-</p>
-
 <!-- B. GitHub repo 預覽用：絕對路徑 + ?raw=true -->
 <p align="center">
 <img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/pandora-effect-diagram.png?raw=true" alt="pandora effect" width="400">
