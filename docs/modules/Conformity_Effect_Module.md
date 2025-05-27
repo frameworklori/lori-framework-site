@@ -50,7 +50,7 @@ This module serves as a key intersection point for emotional dependency, AI mani
 This heatmap visualizes the relationship between imitation sensitivity (inverse MAT) and infection speed (CCV).
 It helps identify high-risk zones where conformity behaviors can rapidly spread with minimal resistance.
 
-<img src="../docs/assets/images/social_contagion_heatmap.png" alt="social contagion heatmap" width="400">
+<img src="../assets/images/social_contagion_heatmap.png" alt="social contagion heatmap" width="400">
 
 - **X-axis**: Inverse MAT (Mimicry Activation Threshold)
 - **Y-axis**: CCV (Cultural Contagion Velocity)
