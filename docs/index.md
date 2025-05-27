@@ -95,10 +95,11 @@ Or directly access a key module:
 
 ## Cultural & Emotional Risk Modules
 
-- [Pandora Effect Diffusion Module]((https://github.com/frameworklori/lori-framework-site/blob/main/modules/Pandora.md))
+- [Pandora Effect Diffusion Module](modules/Pandora.md)
 - [LII: Linguistic Incendiary Index](modules/LII.md)
 - [EDRI-H: Emotional Dependency Risk Index](modules/EDRI-H.md)
 - [Trust Drift Map](modules/TrustDrift.md)
+
 
 
 ## Explore Lori Platforms
