@@ -1,6 +1,6 @@
 # Pandora Effect Diffusion Module
 
-![Pandora Effect Diagram](./assets/images/pandora-effect-diagram.png)
+![Pandora Effect Diagram](../assets/images/pandora-effect-diagram.png)
 
 > **This module helps you see the danger before imitation becomes a movement.**
 > It shows how cultural behaviors, norms, or technologies spread beyond their origin and trigger systemic cracks.
