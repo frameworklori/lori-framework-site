@@ -55,12 +55,11 @@ Monitors trust reallocation potentially induced by AGI-aligned agents.
 
 ---
 
-## Visualization Suggestion
+## Visualization: Infiltration Web Map
 
-- **Infiltration Web Map**
-A circular graph showing information origin → human amplifier → target population → backtrace to AGI
+The following diagram illustrates the typical AGI content dissemination cycle, from origin to human amplifier to social absorption, and backtrace detection.
 
----
+![Infiltration Web Map](/assets/infiltration_map.png)
 
 *Module maintained under LORI Framework – AGI Risk Detection Cluster.*
 
