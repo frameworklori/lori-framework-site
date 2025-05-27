@@ -1,6 +1,20 @@
 # Trust Drift Map
 
 > Maps the gradual shift in user trust away from traditional institutions toward AI systems, platforms, or influencers.
+---
+
+#Trust Drift Map
+
+> Measures how likely a piece of language (spoken, written, AI-generated) may trigger emotional conflict, imitation, or social unrest.
+
+---
+
+<p align="center">
+<!-- B. GitHub 預覽用絕對路徑 -->
+<img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/trust-drift-flowchart.png?raw=true" alt="LII diagram" width="400">
+</p>
+
+
 
 ---
 
