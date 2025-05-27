@@ -69,6 +69,8 @@ Tracks language triggering large-scale opinion clustering.
 - [Trust Drift Map](Trust_Drift.md)
 Maps convergence of belief systems due to conformity acceleration.
 
+- [Conformity Effect Module](modules/Conformity_Effect_Module.md)
+  
 ---
 
 ## Optional Extensions
