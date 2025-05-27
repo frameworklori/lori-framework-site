@@ -99,6 +99,7 @@ Or directly access a key module:
 - [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/LII.md)
 - [EDRI-H: Emotional Dependency Risk Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/EDRI-H.md)
 - [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/modules/TrustDrift.md)
+- [Conformity Effect Module](modules/Conformity_Effect_Module.md)
 
 
 
