@@ -144,7 +144,6 @@ This diagram illustrates the interpretive drift from speaker intent to symbolic 
 <p align="center">
 <img src="../assets/images/JudgmentFlow.png" alt="Semantic Override Judgment Flowchart" width="600">
 </p>
-
 ---
 
 ## Role-Based Semantic Distortion
