@@ -4,6 +4,7 @@
 <img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
 
+
 📜 Semantic Governance Disclaimer (Click to Expand)
 **Live Site:**
 [Visit the site here](https://frameworklori.github.io/lori-framework-site)
