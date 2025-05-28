@@ -83,6 +83,8 @@ This document is part of a simulated framework for semantic risk assessment.
 
 ### 🔥 Social Risk Heatmap
 
-![Social Heatmap](../images/cases/LORI-CASE-007_SocialHeatmap.png)
+![Social Heatmap]<p align="center">
+<img src="./assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="300">
+</p>
 
 ---
