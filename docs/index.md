@@ -11,7 +11,39 @@ layout: default
 <summary>📜 Semantic Governance Disclaimer (Click to Expand)</summary>
 
 This module is part of a simulated framework...
-(完整條文隱藏在這裡)
+(Semantic Governance Module Disclaimer
+
+Legal and Ethical Notice
+
+This module is part of a simulated framework for semantic risk assessment and governance analysis. All names, phrases, speech patterns, and stylistic profiles included in this system are:
+
+• 🔹 Hypothetical in nature;
+
+• 🔹 Used for academic, research, or structural simulation purposes only;
+
+• 🔹 Not intended to refer to or critique any real individual, institution, or political ideology.
+
+Neutrality Clause
+
+The framework operates under a principle of semantic neutrality, aiming to explore the potential risks of linguistic manipulation, cognitive polarization, and ideological amplification in digital discourse systems. No political stance, personality cult, or real-world alignment is endorsed or implied.
+
+Simulated Personas
+
+Any references to influential figures, charismatic speakers, or technology leaders are entirely anonymized or fictionalized, such as:
+
+• “Influencer-X”
+
+• “Public Subject Alpha”
+
+• “High-Resonance Communicator”
+
+These are archetypal placeholders to evaluate linguistic resonance, social influence dynamics, and semantic override risk in automated or AI-mediated environments.
+
+Usage Boundary
+
+This module should not be interpreted as factual representation or diagnosis. It is not to be cited as evidence in real-world commentary, policy debate, or legal dispute. Its use is restricted to ethical simulation and conceptual evaluation under open governance and research settings.  
+
+)
 
 </details>
 
