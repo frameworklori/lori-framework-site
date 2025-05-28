@@ -73,3 +73,16 @@ This document is part of a simulated framework for semantic risk assessment.
 - Public figures are anonymized as “influential tech leaders.”
 
 </details>
+---
+
+### 🧭 Jury Risk Radar
+
+![Jury Radar](../images/cases/LORI-CASE-007_RiskRadar.png)
+
+---
+
+### 🔥 Social Risk Heatmap
+
+![Social Heatmap](../images/cases/LORI-CASE-007_SocialHeatmap.png)
+
+---
