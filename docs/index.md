@@ -202,5 +202,5 @@ Public access is granted for transparency, but all edit permissions are restrict
 **Governance Notice:**
 This repository is governed by the LORI Ethical Protocol. Any unauthorized modification or derivative use is strictly prohibited. For collaboration, please submit a formal request or Pull Request for review.
 
-🔗🔗 Attribution: See [Intellectual_Attribution.md](../Intellectual_Attribution.md)
+🔗🔗 Attribution: See [Intellectual_Attribution.md](docs/Intellectual_Attribution.md)
 🛡 This module is part of the LORI Framework. Original concept by the anonymous founder of the LORI Ethical System.
