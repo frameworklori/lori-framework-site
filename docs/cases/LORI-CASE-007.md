@@ -89,7 +89,7 @@ This flowchart illustrates how language originating from a powerful speaker (e.g
 ### 🧭 Jury Risk Radar
 
 <p align="center">
-<img src="../assets/images/RiskRadar.png" alt="Jury Risk Radar" width="400">
+<img src="../assets/images/RiskRadar.png" alt="Jury Risk Radar" width="450">
 </p>
 
 ---
@@ -97,7 +97,7 @@ This flowchart illustrates how language originating from a powerful speaker (e.g
 ### 🔥 Social Risk Heatmap
 
 <p align="center">
-<img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="500">
+<img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="550">
 </p>
 
 ---
