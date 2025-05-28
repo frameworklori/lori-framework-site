@@ -1,6 +1,6 @@
 # LORI-CASE-002: AI Surveillance Ethics Dispute
 
-**Case Type:** AI公私領域邊界爭議  
+**Case Type:** 
 **Linked Modules:** Jury System × SAID × Trust Drift × ODRAF × GZW × Cultural Interpreter
 
 ---
