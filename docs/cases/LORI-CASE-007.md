@@ -137,6 +137,16 @@ Despite the speaker's original intent, public interpretation often diverges due 
 
 ---
 
+## Judgment Flow Diagram
+
+This diagram illustrates the interpretive drift from speaker intent to symbolic override, emphasizing the role-based amplification and meme propagation pathway.
+
+<p align="center">
+<img src="../assets/images/LORI_CASE_007_JudgmentFlow.png" alt="Semantic Override Judgment Flowchart" width="700">
+</p>
+
+---
+
 ## Role-Based Semantic Distortion
 
 In this case, the identity of the speaker—an influential tech figure with established symbolic capital—acted as an amplifier of semantic volatility. Phrases such as “Return to first principles” or “My mission is to save civilization” were not merely evaluated on linguistic content, but were transformed by the persona of the speaker.
