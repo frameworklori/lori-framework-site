@@ -142,7 +142,7 @@ Despite the speaker's original intent, public interpretation often diverges due 
 This diagram illustrates the interpretive drift from speaker intent to symbolic override, emphasizing the role-based amplification and meme propagation pathway.
 
 <p align="center">
-<img src="../assets/images/JudgmentFlow.png" alt="Semantic Override Judgment Flowchart" width="700">
+<img src="../assets/images/JudgmentFlow.png" alt="Semantic Override Judgment Flowchart" width="600">
 </p>
 
 ---
