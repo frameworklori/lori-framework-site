@@ -1,3 +1,12 @@
+<!--
+CASE ID: LORI-CASE-007
+CASE TITLE: Symbolic Override via Charismatic Persona
+RISK CLASSIFICATION: XS-1
+SPEAKER TYPE: High-Influence Tech Figure
+SUBJECT DOMAIN: Semantic Drift, Meme Propagation, Identity Amplification
+STATUS: CLOSED
+-->
+
 # LORI-CASE-007: Charismatic Slogan Simulation & Semantic Grey-Zone Risk
 
 ## 🧾 Case Summary
