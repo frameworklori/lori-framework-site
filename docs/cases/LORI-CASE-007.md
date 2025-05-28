@@ -128,6 +128,16 @@ Despite the speaker's original intent, public interpretation often diverges due 
 
 ---
 
+## Role-Based Semantic Distortion
+
+In this case, the identity of the speaker—an influential tech figure with established symbolic capital—acted as an amplifier of semantic volatility. Phrases such as “Return to first principles” or “My mission is to save civilization” were not merely evaluated on linguistic content, but were transformed by the persona of the speaker.
+
+Had these same phrases been spoken by an ordinary engineer or educator, the memetic spread and identity resonance would likely have remained minimal. The symbolic override effect arises not from the phrase alone, but from the **perceived authority and ideological weight of the speaker**.
+
+This confirms the need for **identity-neutral risk assessment** mechanisms in AI governance, ensuring that linguistic evaluation decouples content from charisma, and message from meme.
+
+---
+
 ## Risk Summary
 
 - **Semantic Risk Level**: Moderate to High
