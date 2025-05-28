@@ -103,6 +103,14 @@ This diagram illustrates how high-impact slogans evolve into symbolic memes thro
 </p>
 
 ---
+### 🧭 Trust Drift Overlay
+
+This chart illustrates the susceptibility of each group to trust displacement and perceptual shifts under symbolic or idolized language influence.
+
+<p align="center">
+<img src="../assets/images/Trust_Drift_Overlay.png" alt="Trust Drift Overlay" width="520">
+</p>
+---
 
 ### 🔥 Social Risk Heatmap
 
