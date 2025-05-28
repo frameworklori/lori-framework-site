@@ -7,6 +7,14 @@ layout: default
 <img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
 
+<details>
+<summary>📜 Semantic Governance Disclaimer (Click to Expand)</summary>
+
+This module is part of a simulated framework...
+(完整條文隱藏在這裡)
+
+</details>
+
 # Welcome to the Lori Framework
 
 An insight-driven model for ethical AI, digital risk governance, and civilizational resilience.
