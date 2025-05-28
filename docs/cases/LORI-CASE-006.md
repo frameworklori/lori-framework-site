@@ -72,7 +72,7 @@ This case demonstrates the value of integrating multi-role AI jurors with a huma
 ## Radar Chart
 
 <p align="center">
-<img src="../assets/images/LORI_CASE_006_CandidateRadar.png" alt="Candidate Evaluation Radar – Case 006" width="500">
+<img src="../assets/images/CandidateRadar.png" alt="Candidate Evaluation Radar–Case 006" width="500">
 </p>
 
 ---
