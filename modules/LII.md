@@ -1,5 +1,8 @@
 # LII: Linguistic Incendiary Index
 
+ ⚠️ **Disclaimer**: This module is a semantic simulation used solely for academic and governance testing purposes.
+> All figures, phrases, and examples are anonymized and hypothetical. No reference to real individuals or ideologies is intended.
+
 > Measures how likely a piece of language (spoken, written, AI-generated) may trigger emotional conflict, imitation, or social unrest.
 
 ---
