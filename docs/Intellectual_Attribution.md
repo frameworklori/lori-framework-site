@@ -46,7 +46,12 @@ If you are incorporating the LORI Framework or its submodules into:
 > “When human subjectivity is involved, no semantic verdict shall exclude the existence of interpretative ambiguity.”
 > — *Lori Chingfang Suzuki*, May 2025
 
-This declaration is written not to restrict the spread of knowledge, but to ensure that **ethical creativity is respected as much as technical architecture.**
+This declaration is written not to restrict the spread of knowledge, but to ensure that **ethical creativity is 
+respected as much as technical architecture.**
+
 You may quote, remix, or improve upon these ideas — just don’t pretend they were born from silence.
+> This framework was designed to prioritize ethical clarity over personal attribution.
+> The author's identity remains intentionally undisclosed to maintain philosophical neutrality and universal application.
+
 
 ---
