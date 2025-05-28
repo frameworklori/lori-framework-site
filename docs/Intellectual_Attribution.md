@@ -1,6 +1,6 @@
 # 📘 Intellectual Attribution Statement
 ### Module: LORI Framework & Jury-Based Ethical Governance System
-### Author: Lori Chingfang Suzuki
+### Author: founder of the LORI Ethical System.
 ### Date of First Draft: [2025-05-28]
 ---
 
