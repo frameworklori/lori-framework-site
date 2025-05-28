@@ -1,30 +1,68 @@
-<!--
-CASE ID: LORI-CASE-001
-CASE TITLE: AI Surveillance vs Individual Privacy
-RISK CLASSIFICATION: ETH-2
-SPEAKER TYPE: Governmental/Institutional Entity
-SUBJECT DOMAIN: Surveillance Ethics, Data Autonomy
-STATUS: PLANNED
--->
+# LORI-CASE-001: Autonomous Vehicle Collision Liability
 
-# LORI-CASE-001: AI Surveillance vs Individual Privacy
+**Case Type:** 
+**Linked Modules:** Jury System × GZW × Legal Risk Mapper × EDRI-H
 
-## Case Summary
-This case explores the ethical and legal tension between state-level AI surveillance systems and individual rights to privacy, anonymity, and consent.
+---
 
-## Context
-- Use of facial recognition in public infrastructure
-- Cross-border data sharing
-- Emotion detection and social scoring
+## 📘 Case Summary
+A SAE Level 4 autonomous vehicle collided with a human-driven car at an urban intersection, injuring a pedestrian. Although the self-driving car attempted to brake, a sensor misjudgment led it to run a red light. The manufacturer claimed the system behavior was an “unpredictable AI anomaly,” beyond their control.
 
-## Risk Dimensions
-- Autonomy Intrusion
-- Trust Drift
-- Consent Ambiguity
+---
 
-## Key Questions
-- Can government AI surveillance be transparent and democratically accountable?
-- When does surveillance shift from protection to violation?
+## ⚖️ Core Questions
+- Should the autonomous vehicle system bear primary responsibility?
+- How should liability be distributed between the manufacturer and the human owner?
+- Was the AI decision at the time explainable?
+- Were black-box logs sufficient for post-incident analysis?
 
-## Status
-This case is currently in the planning phase. Full deliberation pending.
+---
+
+## 🧠 Jury Deliberation Modules
+
+| Module               | Role Description |
+|----------------------|------------------|
+| **Fact Finder (AI)** | Reconstruct incident, confirm signal misread and vehicle behavior |
+| **Legal Analyst (AI)** | Apply liability doctrines: negligence vs strict liability |
+| **Moral Evaluator (AI)** | Assess whether AI reached expected human-equivalent caution |
+| **Cultural Interpreter (AI)** | Compare expectations across legal cultures (e.g., US vs EU) |
+| **Emotional Moderator (AI)** | Evaluate public emotional impact and trust degradation |
+| **Human Judge A (Primary)** | Final arbiter, determine restitution and trust repair |
+| **Human Judge B (Auditor)** | Ensures fairness, checks AI bias, maintains ethical nuance |
+
+---
+
+## 🗳️ Deliberation Outcomes
+
+| Module             | Judgment Summary |
+|--------------------|------------------|
+| Fact Finder        | AI at 70% fault due to foreseeable sensor risk |
+| Legal Analyst      | Manufacturer liable under strict liability |
+| Moral Evaluator    | Insufficient preemptive safety design |
+| Cultural Interpreter | EU model demands higher human-centric fallback |
+| Emotional Moderator | Public anger index: 0.79 (high) |
+| Human Judge A      | Agrees with majority, recommends restitution fund |
+| Human Judge B      | Agrees in part, requests stronger post-deployment monitoring |
+
+---
+
+## ✅ Final Verdict
+The autonomous system’s behavior, while unpredictable, falls under the manufacturer’s product responsibility.  
+**Ruling: Manufacturer liable under strict liability.**  
+System deployment must include:
+- Decision-tracing black box
+- Minimum human-explainability standard
+- Culturally adjusted risk buffers
+
+---
+
+## 📎 Referenced Modules
+- `GZW_Model.md`
+- `Legal_Risk_Mapper.md`
+- `TrustDrift_Map.md`
+- `JurySystem.md`
+
+---
+
+🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)  
+🛡 This module is part of the LORI Framework. Original concept by the founder of the LORI Ethical System.
