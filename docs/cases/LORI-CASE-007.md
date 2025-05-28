@@ -9,12 +9,12 @@ STATUS: CLOSED
 
 # LORI-CASE-007: Charismatic Slogan Simulation & Semantic Grey-Zone Risk
 
-## 🧾 Case Summary
+##  Case Summary
 This case examines influential public slogans used by a high-profile tech leader. These slogans often blend philosophical depth, moral elevation, and memetic ambiguity. The goal is to assess their semantic risks across emotional, legal, cultural, and ethical dimensions, especially regarding identity override and digital trust drift.
 
 ---
 
-## 🎯 Phrases Under Evaluation
+## Phrases Under Evaluation
 
 | Code | Phrase | Semantic Trigger Points |
 |------|--------|--------------------------|
@@ -25,7 +25,7 @@ This case examines influential public slogans used by a high-profile tech leader
 
 ---
 
-## 🧠 Participating AI Jurors
+## Participating AI Jurors
 
 | Role | Evaluation Focus |
 |------|------------------|
@@ -38,7 +38,7 @@ This case examines influential public slogans used by a high-profile tech leader
 
 ---
 
-## 📊 Module Diagnostics
+## Module Diagnostics
 
 | Module | Function |
 |--------|----------|
@@ -85,7 +85,7 @@ This document is part of a simulated framework for semantic risk assessment.
 
 ---
 
-### 🧠 Semantic Infiltration Flowchart
+### Semantic Infiltration Flowchart
 
 This flowchart illustrates how language originating from a powerful speaker (e.g. tech leader) transforms through platforms, audience perception, and meme culture to form public sentiment shifts.
 
@@ -95,7 +95,7 @@ This flowchart illustrates how language originating from a powerful speaker (e.g
 
 ---
 
-### 🔄 Idol Resonance Arrows Map
+### Idol Resonance Arrows Map
 
 This diagram illustrates how high-impact slogans evolve into symbolic memes through platforms like X/Twitter, transforming speaker identity into collective resonance.
 
@@ -105,14 +105,14 @@ This diagram illustrates how high-impact slogans evolve into symbolic memes thro
 
 ---
 
-### 🧭 Jury Risk Radar
+### Jury Risk Radar
 
 <p align="center">
 <img src="../assets/images/RiskRadar.png" alt="Jury Risk Radar" width="500">
 </p>
 
 ---
-### 🧭 Trust Drift Overlay
+### Trust Drift Overlay
 
 This chart illustrates the susceptibility of each group to trust displacement and perceptual shifts under symbolic or idolized language influence.
 
@@ -121,7 +121,7 @@ This chart illustrates the susceptibility of each group to trust displacement an
 </p>
 ---
 
-### 🔥 Social Risk Heatmap
+### Social Risk Heatmap
 
 <p align="center">
 <img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="550">
