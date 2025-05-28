@@ -85,7 +85,7 @@ This document is part of a simulated framework for semantic risk assessment.
 
 ![Social Heatmap]
 <p align="center">
-<img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="300">
+<img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="500">
 </p>
 
 ---
