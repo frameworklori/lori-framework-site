@@ -77,6 +77,7 @@ LORI is an open, modular architecture that helps society:
 
 Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
 
+📂 [LORI Case Index](cases/case_index.md)
 - [LORI-CASE-001: AI Surveillance Ethics](cases/LORI-CASE-001.md)
 - [LORI-CASE-002: Autonomous Drone Decisions](cases/LORI-CASE-002.md)
 - [LORI-CASE-003: Personalization vs Privacy](cases/LORI-CASE-003.md)
