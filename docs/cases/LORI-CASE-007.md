@@ -86,6 +86,16 @@ This flowchart illustrates how language originating from a powerful speaker (e.g
 
 ---
 
+### 🔄 Idol Resonance Arrows Map
+
+This diagram illustrates how high-impact slogans evolve into symbolic memes through platforms like X/Twitter, transforming speaker identity into collective resonance.
+
+<p align="center">
+<img src="../asset/image/case007_idol_resonance_map.png" alt="Idol Resonance Arrows Map" width="550">
+</p>
+
+---
+
 ### 🧭 Jury Risk Radar
 
 <p align="center">
