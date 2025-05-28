@@ -1,5 +1,8 @@
 # AIDM: AGI Infiltration Detection Module
 
+ ⚠️ **Disclaimer**: This module is a semantic simulation used solely for academic and governance testing purposes.
+> All figures, phrases, and examples are anonymized and hypothetical. No reference to real individuals or ideologies is intended.
+
 ## Purpose
 
 The **AGI Infiltration Detection Module (AIDM)** identifies patterns suggesting that artificial general intelligence (AGI) or its derivatives are indirectly shaping public behavior, discourse, or belief systems via human intermediaries, language diffusion, or algorithmic infiltration.
