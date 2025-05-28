@@ -1,4 +1,4 @@
-# LORI-CASE-007: Semantic Polarization & Charisma Override Simulation
+# LORI-CASE-006: Semantic Polarization & Charisma Override Simulation
 
 ## 🧾 Case Summary
 This case simulates the effects of high-resonance language used by influential public figures on public perception and platform discourse. The scenario evaluates the risks of semantic polarization, charismatic override, and meme-based linguistic contagion.
