@@ -78,6 +78,9 @@ This document is part of a simulated framework for semantic risk assessment.
 ### 🧭 Jury Risk Radar
 
 ![Jury Radar](../images/cases/LORI-CASE-007_RiskRadar.png)
+<p align="center">
+<img src="../assets/images/RiskRadar.png" alt="Jury Risk Radar" width="400">
+</p>
 
 ---
 
