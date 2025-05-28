@@ -73,6 +73,17 @@ This document is part of a simulated framework for semantic risk assessment.
 - Public figures are anonymized as “influential tech leaders.”
 
 </details>
+
+---
+
+### 🧠 Semantic Infiltration Flowchart
+
+This flowchart illustrates how language originating from a powerful speaker (e.g. tech leader) transforms through platforms, audience perception, and meme culture to form public sentiment shifts.
+
+<p align="center">
+<img src="../asset/image/semantic_infiltration_flowchart.png" alt="Semantic Infiltration Flowchart" width="550">
+</p>
+
 ---
 
 ### 🧭 Jury Risk Radar
