@@ -77,7 +77,6 @@ This document is part of a simulated framework for semantic risk assessment.
 
 ### 🧭 Jury Risk Radar
 
-![Jury Radar](../images/cases/LORI-CASE-007_RiskRadar.png)
 <p align="center">
 <img src="../assets/images/RiskRadar.png" alt="Jury Risk Radar" width="400">
 </p>
@@ -86,7 +85,6 @@ This document is part of a simulated framework for semantic risk assessment.
 
 ### 🔥 Social Risk Heatmap
 
-![Social Heatmap]
 <p align="center">
 <img src="../assets/images/SocialHeatmap.png" alt="Social Group Risk Heatmap" width="500">
 </p>
