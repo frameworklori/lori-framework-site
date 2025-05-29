@@ -56,7 +56,7 @@ The act is **ethically unjustifiable** under digital sovereignty and informed co
 - [Trust Drift Map](/modules/TrustDrift.md)
 - [AIDM: AGI Infiltration Detection Module](/modules/AIDM_Module.md)
 - [AIDM: AGI Infiltration Detection Module](/modules/AIDM_Module.md)
-- [SovereignPrivacyLayer ](/modules/SovereignPrivacyLayer.md)
+- [SovereignPrivacyLayer ](/modules/SovereignPrivacyLayer(1).md)
 
 ---
 
