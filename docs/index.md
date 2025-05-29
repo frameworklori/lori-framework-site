@@ -82,7 +82,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-002: Autonomous Drone Decisions](cases/LORI-CASE-002.md)
 - [LORI-CASE-003: Personalization vs Privacy](cases/LORI-CASE-003.md)
 - [LORI-CASE-004: ICU Triage Protocol](cases/LORI-CASE-004.md)
-- [LORI-CASE-005: Hiring Bias Simulation](cases/LORI-CASE-005.md)
+- [LORI-CASE-005: Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md)
 - [LORI-CASE-006: Semantic Polarization Simulation](cases/LORI-CASE-006.md)
 - [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
 
