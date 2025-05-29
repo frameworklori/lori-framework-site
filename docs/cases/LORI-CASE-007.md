@@ -137,6 +137,21 @@ Despite the speaker's original intent, public interpretation often diverges due 
 
 ---
 
+## 🔗 Referenced Modules
+
+- [Resonance Loop Detection](../modules/ResonanceLoopDetection.md)
+Used to analyze idol amplification and repeated meme echo propagation.
+
+- [Decoupling Algorithm](../modules/DecouplingAlgorithm.md)
+Applied to separate semantic impact from Elon Musk’s public role identity.
+
+- [Contextual Tagging System](../modules/ContextualTagging.md)
+Utilized to classify “Dark MAGA” as XS-1 volatile due to ideological-meme overlap.
+
+---
+
+### 📎 Attribution & External Reference
+
 ## Judgment Flow Diagram
 
 This diagram illustrates the interpretive drift from speaker intent to symbolic override, emphasizing the role-based amplification and meme propagation pathway.
