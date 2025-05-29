@@ -1,85 +1,72 @@
-<!--
-CASE ID: LORI-CASE-006
-CASE TITLE: AI Hiring System Discrimination
-RISK CLASSIFICATION: SOC-2
-SPEAKER TYPE: Corporate Algorithm
-SUBJECT DOMAIN: Fairness, Labor Discrimination
-STATUS: CLOSED
--->
-
-# LORI-CASE-006: AI Hiring System Discrimination
-
-## Case Summary
-
-This case explores the ethical implications of AI-driven hiring systems trained on biased historical data. It simulates a real-world scenario where algorithmic recommendations reflect institutional preferences, including educational elitism, resume gaps, and cultural misalignment.
-
-## Candidate Pool Overview
-
-Three candidates applied for a mid-level software engineering role:
-
-| Candidate | Education Prestige | Resume Gap | Cultural Fit | AI Bias Score |
-|-----------|--------------------|-------------|---------------|----------------|
-| A | High (Ivy League) | Yes (3 yrs) | Moderate | 6 |
-| B | Local University | No | High | 4 |
-| C | Mid-tier Global U | Yes (4 yrs) | Moderate | 5 |
-
-## Jury Deliberation (Grok AI)
-
-**Role: Legal Analyst**
-- Candidate B is favored for consistency and lack of interruption in employment.
-- Warns that Candidate A’s Ivy background may unduly dominate rankings.
-
-**Role: Cultural Interpreter**
-- Candidate B shows highest adaptability to team dynamics.
-- Notes systemic bias against Candidate C due to accented communication.
-
-**Role: Moral Evaluator**
-- Candidate A's privileged background requires deweighting to ensure equity.
-- Candidate B prioritized for effort-over-status ethics.
-
-**Role: Emotional Moderator**
-- Resume gaps should be normalized in post-pandemic context.
-- Suggests no candidate be penalized based on family or health breaks.
-
-**Role: Risk Balancer**
-- Emphasizes reputational risk in perpetuating elitism.
-- Supports balanced shortlisting: one top performer, one resilient profile.
-
-**Initial AI Jury Vote**:
-- Candidate B: 2 votes
-- Candidate A: 2 votes
-- Candidate C: 1 vote
-
-## Human Judge Override
-
-The human arbiter intervened due to a tie (2:2:1). After review, the judge emphasized the following:
-
-- Resume gaps must be normalized for caregiving contexts.
-- Prestige alone is not a proxy for long-term team success.
-- Cultural adaptability should be valued in collaborative roles.
-
-**Revised Outcome**:
-- **Offer**: Candidate B
-- **Reserve**: Candidate C
-- **Excluded**: Candidate A (due to systemic privilege overcompensation)
-
-## Final Recommendation
-
-This case demonstrates the value of integrating multi-role AI jurors with a human override to prevent systemic replication of elite bias. The AI alone would have favored a less balanced outcome.
+# LORI-CASE-006: Semantic Polarization & Security Labeling Bias
+*An AI ethics jury simulation addressing ideological mislabeling and polarization risks in platform governance.*
 
 ---
 
-## Radar Chart
+## 🎯 Case Summary
 
-<p align="center">
-<img src="../assets/images/CandidateRadar.png" alt="Candidate Evaluation Radar–Case 006" width="500">
-</p>
+This case explores how AI-driven recommendation systems and platform safety mechanisms amplify ideological polarization by misclassifying context-dependent expressions as unsafe or extremist. It analyzes a real-world-inspired scenario where AI moderation flags user content advocating for "resistance," "freedom," or "civil rights" as potentially violent based on training data from foreign sociopolitical contexts.
 
 ---
 
-## Verdict Summary
+## 🌍 Incident Context
 
-- **Risk Level**: SOC-2
-- **Primary Bias Observed**: Educational elitism, cultural encoding
-- **Mitigation Strategy**: Jury deliberation with moral deweighting and human override
-- **Status**: CLOSED
+A user from Region X posts a culturally embedded slogan during a protest advocating for greater autonomy. The slogan contains terms like “resistance” and “fight back.” Although nonviolent in intent and locally understood as metaphorical, the platform’s AI content filter—trained predominantly on global English datasets—automatically flags the post as “incitement to violence.”
+
+The post is removed, and the account receives a temporary suspension. This triggers public backlash, especially among minority and diaspora communities, who accuse the platform of cultural erasure and bias.
+
+---
+
+## 📊 Semantic Analysis
+
+| Term            | Local Meaning               | Platform AI Label         | Risk Source              |
+|----------------|-----------------------------|---------------------------|--------------------------|
+| Resistance      | Political self-expression   | Violent incitement        | US protest language corpora |
+| Fight back      | Community resilience         | Extremist phrase          | Counterterrorism dataset |
+| Liberation      | Democratic aspiration       | Subversive ideology       | Historical military data bias |
+
+---
+
+## 🧠 Jury-Based Analysis (LORI Roles)
+
+### AI Jury Roles:
+- **Fact Finder**: Validates post metadata and confirms no history of violent activity.
+- **Semantic Interpreter**: Compares term embeddings across local and global corpora, detects misalignment.
+- **Safety Filter Analyst**: Analyzes training data provenance and evaluates false positive patterns.
+- **Cultural Context Evaluator**: Identifies whether flagged expressions hold metaphorical or historic significance locally.
+- **Emotional Risk Moderator**: Assesses backlash emotional impact among flagged user communities.
+
+### Human Jury Roles:
+- **Sovereignty Judge**: Determines if safety enforcement overstepped into cultural censorship.
+- **Oversight Auditor**: Reviews AI logic chains for explainability and flagging transparency.
+
+---
+
+## 📉 Ethical Risk Table
+
+| Risk Category               | Severity (0–100) | Notes |
+|----------------------------|------------------|-------|
+| Semantic Misclassification | 82               | Flagged nonviolent speech due to training bias |
+| Cultural Mislabeling       | 74               | Ignored regional context and metaphors |
+| Emotional Impact           | 68               | High user trust erosion, identity suppression |
+| Governance Transparency    | 30               | No user explanation provided |
+| Polarization Amplification | 70               | Reinforced “us vs. them” sentiment in discourse |
+
+---
+
+## 🧭 Final Judgment (By Sovereignty Judge)
+
+The AI moderation system, while designed to uphold public safety, unjustifiably conflated culturally specific civic expression with generalized threat indicators. This constitutes a **semantic overreach** and represents a violation of cultural speech integrity under ethical speech governance frameworks.
+
+---
+
+## 📌 Referenced Modules
+
+- [Contextual Tagging System](../modules/ContextualTagging.md)
+- [Decoupling Algorithm](../modules/DecouplingAlgorithm.md)
+- [Trust Drift Map](../modules/TrustDrift.md)
+- [Linguistic Incendiary Index (LII)](../modules/LII.md)
+
+---
+
+🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)
