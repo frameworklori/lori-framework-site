@@ -39,7 +39,7 @@ This module evaluates the ethical and strategic risks associated with cross-bord
 
 ## 🧩 Use Cases
 
-- Referenced in **[LORI-CASE-005: Cross-Border Data Exposure](docs/cases/LORI-CASE-005.md)**  
+- Referenced in **[LORI-CASE-005: Cross-Border Data Exposure](/cases/LORI-CASE-005.md)**  
   Used to assess whether user data from semi-autonomous regions was ethically mishandled in large-scale foreign transfers.
 
 ---
