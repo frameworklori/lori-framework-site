@@ -87,6 +87,19 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
+>
+> ---
+
+### 🧩 Semantic Governance Modules
+
+- [Resonance Loop Detection](modules/ResonanceLoopDetection.md)
+Detects recursive amplification in memes, idols, or emotionally-charged phrases.
+
+- [Decoupling Algorithm](modules/DecouplingAlgorithm.md)
+Separates speaker identity from semantic meaning to test perception distortion.
+
+- [Contextual Tagging System](modules/ContextualTagging.md)
+Tags semantic units with emotional and ideological context for XS-1 flagging.
 
 ## Combined Diagram: Circular + X-Structure
 
