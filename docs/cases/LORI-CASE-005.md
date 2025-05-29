@@ -55,7 +55,8 @@ The act is **ethically unjustifiable** under digital sovereignty and informed co
 - [EDRI-H: Emotional Dependency Risk Index](/modules/EDRI-H.md)
 - [Trust Drift Map](/modules/TrustDrift.md)
 - [AIDM: AGI Infiltration Detection Module](/modules/AIDM_Module.md)
-- [SovereignPrivacyLayer ](./cases/SovereignPrivacyLayer.md)
+- [AIDM: AGI Infiltration Detection Module](/modules/AIDM_Module.md)
+- [SovereignPrivacyLayer ](../cases/SovereignPrivacyLayer.md)
 
 ---
 
