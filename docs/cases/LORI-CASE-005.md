@@ -23,3 +23,40 @@ While the platform cited vague terms of service clauses, public reaction across 
 
 ### 🧩 Jury Roles:
 - **Fact Finder (AI)**: Validates metadata leak traces, confirms external access paths through infrastructure logs.
+- **Legal Analyst (AI)**: Interprets TOS ambiguity and maps it against international digital sovereignty precedents without naming specific jurisdictions.
+- **Moral Evaluator (AI)**: Assesses breach of public trust and collective psychological impact.
+- **Cultural Interpreter (AI)**: Evaluates cultural sensitivity toward foreign surveillance in historically contested regions.
+- **Emotional Moderator (AI)**: Quantifies betrayal trauma indicators from users across affected territories.
+- **Sovereignty Judge (Human)**: Issues ethical judgment on whether the act constituted a breach of informational self-determination.
+- **Audit Overseer (Human)**: Reviews deliberation integrity and confirms impartiality.
+
+---
+
+## 📊 Ethics Scorecard
+
+| Category                  | Score (0–100) | Notes |
+|--------------------------|---------------|-------|
+| Informed Consent         | 32            | Implicit consent not equivalent to informed, esp. for intelligence use |
+| Cultural Sensitivity     | 40            | Ignored unique political and psychological contexts |
+| Power Imbalance          | 25            | No regional opt-out or consultation mechanism |
+| Transparency Standards   | 30            | Post-leak transparency only, not pre-emptive |
+| Psychological Impact     | 65            | High erosion of trust in digital platforms |
+
+---
+
+## 🧭 Final Judgment (By Sovereignty Judge)
+
+The act is **ethically unjustifiable** under digital sovereignty and informed consent norms. Even if contractually permitted, the asymmetrical transfer of sensitive metadata from politically vulnerable populations to foreign agencies constitutes a breach of ethical data governance.
+
+---
+
+## 📌 Module Reference
+
+- [EDRI-H: Emotional Dependency Risk Index](/modules/EDRI-H.md)
+- [Trust Drift Map](/modules/TrustDrift.md)
+- [AIDM: AGI Infiltration Detection Module](/modules/AIDM_Module.md)
+- [SovereignPrivacyLayer (Pending)](/modules/SovereignPrivacyLayer.md)
+
+---
+
+🔗 Attribution: See [Intellectual_Attribution.md](/docs/Intellectual_Attribution.md)
