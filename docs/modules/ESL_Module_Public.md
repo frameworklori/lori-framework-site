@@ -33,3 +33,5 @@ As AGI systems grow in capability, their access to energy becomes a form of cont
 - Live dashboards to visualize AI power usage
 - Energy fairness index across AI models
 - Adaptive thresholds based on context and real-world needs
+
+- Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
