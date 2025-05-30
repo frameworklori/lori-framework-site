@@ -41,5 +41,7 @@ Root driver that explains increased robotic reliance in population-challenged se
 - [**ESL**](ESL.md)
 Monitors the energy footprint of active robot deployments to ensure responsible scaling.
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
 
 
