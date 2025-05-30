@@ -58,4 +58,7 @@ SAID serves as the **cognitive tripwire** in AGI governance—catching thoughts 
 **License:** MIT | Mandatory in all systems capable of autonomous decision-making
 
 > *The most dangerous thought is the one that was never asked for. SAID listens for the unsummoned.*
+>
+> 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
 
