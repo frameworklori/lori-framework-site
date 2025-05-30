@@ -146,7 +146,7 @@ Visual structure showing the core interconnections:
 </p>
 
 - [AGI Modules Overview](../modules/overview.md)
-- [HRI Module: Human Relay Infiltration Risk](../modules/HRI_Modules.md)
+- [HRI Module: Human Relay Infiltration Risk](./modules/HRI_Modules.md)
 - 
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
