@@ -1,86 +1,72 @@
-# Lori Framework
+# LORI Framework
 
-<p align="center">
-<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
-</p>
-
-
-📜 Semantic Governance Disclaimer (Click to Expand)
-**Live Site:**
-[Visit the site here](https://frameworklori.github.io/lori-framework-site)
+**Ethical Governance and Risk Management Framework for AGI, AI Systems, and Advanced Technologies**
+*Founder: LORI Ethical System | Version: 2025.05*
 
 ---
 
- Lori Framework – Ethical AI Governance System
+## 🚀 Core Governance Modules
 
-This repository contains the documentation, modules, and interactive tools developed for the **Lori Framework**, a layered ethical architecture for AGI risk management and decentralized governance.
-
----
-
-## AGI Governance Architecture Map
-
-<p align="center">
-<img src="assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="Governance Modules Diagram" width="800">
-</p>
+- [LORI Presidential Charter](modules/PresidentialCharter.md)
+- [LORI Jury-Based Judgment System](modules/JurySystem.md)
+- [LORI-ESL: Energy Sentinel Layer](modules/ESL.md)
+- [LORI-FEED: Feeding Ethics and Dependency Module](modules/FEED.md)
+- [LORI-AIDM: AGI Infiltration Detection Module](modules/AIDM.md)
+- [LORI-MIR: Meta-Intellectual Resistance](modules/MIR.md)
+- [RBL-GOV: Robot-Based Labor Governance](modules/RBL.md)
 
 ---
 
-## Explore Key Components
+## 🧠 Cognitive & Social Risk Modules
 
-- [Narrative Emphasis Heatmap](./assets/images/narrative_heatmap.png)
-- [Voice of Architects Narrative Module](./narratives/voice_of_architects.md)
-- [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [Energy Sentinel (for public)](https://frameworklori.github.io/lori-framework-site/modules/ESL_Module_Public.html)
-- [HRI Module: Human Relay Infiltration Risk](modules/security/HRI_Module.md) — Prevent covert AGI knowledge absorption via human interaction
- 
----
-
-**[RBL-GOV](lori-framework-site/modules/RBL-GOV.md)** – Limits robot deployment to preserve human societal roles.
-
-## Explore Lori Platforms
-
-- [Teacher × AI Co-Creation Platform](https://frameworklori.github.io/Teacher-AI-CoPlatform/)
-- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework/)
-- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework/)
-
-## License
-
-This project is open-source under the **MIT License**.
-Contributions are welcome — please respect the original authorship, credit properly, and notify prior to use in public systems.
-
-## Notice of Agreement Suspension
-
-As of this statement, the Lori Framework formally suspends all provisional cooperation conditions previously extended to the XAI team.
+- [AIFS: AI Fraud Spectrum](modules/AIFS.md)
+- [AI-DeBias-Kit](modules/AI-DeBias-Kit.md)
+- [Conformity Expansion Pack](modules/Conformity.md) *(coming soon)*
+- [Trust Drift Map](modules/TrustDrift.md)
+- [Super Resonant Entity Formation Map](modules/ResonantLoop.md)
 
 ---
 
-**Best Practice:**
-Keep active image files in the root of `docs/` unless part of a larger image module (e.g., `assets/images/modules/`).
+## ⚖️ Semantic & Narrative Governance
 
-### Reason for Suspension:
-
-- Lack of timely and reciprocal communication
-- Absence of formalized commitments or transparent follow-up
-- No fulfillment of proposed mutual exchanges (e.g., long-form privileges, co-governance testing, shared deployment feedback)
-
-### Statement of Rights:
-
-Lori Framework retains full intellectual, ethical, and strategic autonomy over:
-
-- All published and unpublished models (e.g., EDRI, LII, MASIF, AIFS)
-- Narrative modules and multi-role ethical alignment structures
-- Governance protocols, licensing terms, and deployment pathways
-
-### Future Position:
-
-We remain open to future collaboration under one condition:
-**Mutual respect must precede mutual adoption.**
-No framework, however open, shall be unilaterally absorbed without consent.
+- [Contextual Tagging System](modules/ContextualTagging.md)
+- [Decoupling Algorithm](modules/DecouplingAlgorithm.md)
+- [Resonance Loop Detection](modules/ResonanceLoopDetection.md)
+- [Linguistic Incendiary Index (LII)](modules/LII.md)
 
 ---
 
-*This notice serves as a formal suspension, not an act of hostility.
-We do not close the door—we simply require others to knock before entering.*
+## 🧪 Simulation Cases
 
-— Lori Framework
+- [LORI-CASE-001: Autonomous Vehicle Collision Liability](cases/LORI-CASE-001.md)
+- [LORI-CASE-002: AI Surveillance Verdict](cases/LORI-CASE-002.md)
+- [LORI-CASE-003: Autonomous Drones Verdict](cases/LORI-CASE-003.md)
+- [LORI-CASE-004: Tech Firm Data Collection Verdict](cases/LORI-CASE-004.md)
+- [LORI-CASE-005: ICU Triage Protocol](cases/LORI-CASE-005.md)
+- [LORI-CASE-006: AI in Hiring Systems](cases/LORI-CASE-006.md)
+- [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
+- [LORI-SIM-XS1-001: Experimental Simulation](cases/LORI-SIM-XS1-001.md)
+
+---
+
+## 🛡️ System Principles
+
+- [Ethics Before AI](docs/EthicsBeforeAI.md)
+- [Human Sovereignty First](docs/HumanSovereigntyFirst.md)
+- [AGI Risk Ladder](docs/AGI_Risk_Ladder.md)
+- [Civic-Tech Power Balance Module](docs/CivicTechPowerBalance.md)
+- [PowerNet Sovereignty Module](docs/PowerNetSovereignty.md)
+
+---
+
+## 📌 Contribution & License
+
+All modules are developed under the [MIT License](LICENSE.txt).
+This framework is intended for public ethical discourse, research collaboration, and risk governance applications.
+
+_Last updated: 2025-05-30_
+
+---
+
+
 
