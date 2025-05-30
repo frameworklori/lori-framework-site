@@ -202,7 +202,7 @@ _Semantic Propagation Resonator + Motive Tracing Layer_
 - [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LII.md)
 - [EDRI-H: Emotional Dependency Risk Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/EDRI-H.md)
 - [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/TrustDrift.md)
-- [Conformity Effect Module](docs/modules/Conformity_Effect_Module.md)
+- [Conformity Effect Module](./modules/Conformity_Effect_Module.md)
 
 
 
