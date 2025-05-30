@@ -65,10 +65,10 @@ LORI is an open, modular architecture that helps society:
 - [Voice of Architects](./voices-en.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
-- [EDRI-H: Emotional Dependency Risk Index – Humanized](docs/modules/EDRI-H.md)
-- [TDM: Trust Drift Map](docs/modules/TDM.md)
-- [MAT: Mimicry Activation Threshold](docs/modules/MAT.md)
-- [LII: Linguistic Incendiary Index](docs/modules/LII.md)
+- [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
+- [TDM: Trust Drift Map](./modules/TDM.md)
+- [MAT: Mimicry Activation Threshold](./modules/MAT.md)
+- [LII: Linguistic Incendiary Index](./modules/LII.md)
 - [RBL-GOV: Robot-Based Labor Governance Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesRBL-GOV.md)
 
 ---
