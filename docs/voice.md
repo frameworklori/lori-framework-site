@@ -69,3 +69,5 @@ It is a mirror structure—open, predictive, and respectful—so every force sha
 >
 > Trust is a national resource.
 > Spend it slowly.
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
