@@ -11,3 +11,6 @@ This page provides an overview of all semantic and ethical test cases analyzed u
 | [LORI-CASE-005](LORI-CASE-005.md) | ICU Triage Protocol with AI Prioritization | BIO-2 | PLANNED |
 | [LORI-CASE-006](LORI-CASE-006.md) | AI Hiring System Discrimination | SOC-2 | CLOSED |
 | [LORI-CASE-007](LORI-CASE-007.md) | Charismatic Slogan Simulation & Semantic Risk | XS-1 | CLOSED |
+
+
+[🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
