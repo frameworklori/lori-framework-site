@@ -49,12 +49,9 @@ Assigns a risk level to each intervention:
 - 0.0–0.2: Low-risk (ambient sensing or assistive)
 - 0.3–0.6: Medium-risk (contextual, may involve emotional inference)
 - 0.7–1.0: High-risk (intent inference, behavioral nudging, coercion)
-
+                                     Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
 Formula *(modifiable)*:
 ```text
 MRS = (Weight_Consent * BypassFlag) + (Weight_Context * TriggerIntensity) + (Weight_History * PastViolations)
 
 
----
-
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
