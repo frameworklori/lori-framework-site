@@ -297,3 +297,5 @@ Each scenario can be used as a:
 ---
 
 *Lori Framework | AIFS Casebook v1.0*
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
