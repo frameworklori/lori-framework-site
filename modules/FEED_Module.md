@@ -62,3 +62,5 @@ Defines boundaries on AGI agency, including emotional simulation constraints.
 
 - [**Jury-Based Judgment**](Jury_Module.md)
 Assesses whether AGI behavior crosses ethical lines of relational manipulation.
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
