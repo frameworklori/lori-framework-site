@@ -1,3 +1,4 @@
+test commit by Lori
 # LORI Framework
 
 <p align="center">
