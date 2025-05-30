@@ -47,3 +47,5 @@ Trust in governance erodes, replaced by alternative digital narratives or conspi
 - [EDRI-H: Emotional Dependency Risk Index](EDRI-H.md)
 - [LII: Linguistic Incendiary Index](LII.md)
 - [Pandora Effect Diffusion Module](Pandora.md)
+
+- [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
