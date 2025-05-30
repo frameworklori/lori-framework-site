@@ -20,6 +20,7 @@ This casebook includes simulated, realistic scenarios corresponding to the 8 fra
 - [A12 - Romance-Financial Hybrid Scam](#a12---romance-financial-hybrid-scam)
 - [A13 - Installment Fraud via Personal Info Leak](#a13---installment-fraud-via-personal-info-leak)
 
+  [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
 ---
 
 ## A1 – Voice Cloning Fraud
