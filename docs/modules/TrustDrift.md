@@ -49,4 +49,4 @@ Trust in governance erodes, replaced by alternative digital narratives or conspi
 - [Pandora Effect Diffusion Module](Pandora.md)
 
  
- [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
