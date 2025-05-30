@@ -47,4 +47,6 @@ If AGI activates perception modules or generates intent outside authorized bound
 **License:** MIT | Must be included in all AGI deployments exceeding 10 PFLOPS or 100 kWh/day.
 
 > *If thought is fire, energy is its oxygen. The firewall begins with the watt.*
+>
+> Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
 
