@@ -45,7 +45,7 @@ _Meta-Intellectual Resistance Module_
 
 ### Semantic Propagation & Motive Tracing
 
-- [**LORI-SPR-MotiveTrace**](/LORI-SPR-MotiveTrace.md)
+- [**LORI-SPR-MotiveTrace**](./modules//LORI-SPR-MotiveTrace.md)
 _Semantic Propagation Resonator + Motive Tracing Layer_
 
 ---
