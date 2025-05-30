@@ -46,3 +46,6 @@ In any detected ethical drift, systemic manipulation, or energy abuse, human sup
 **License:** MIT (with attribution clause for all AGI governance use)
 
 > *True leadership does not arise from code. It must be granted, guided, and recalled by those it serves.*
+>
+> 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
