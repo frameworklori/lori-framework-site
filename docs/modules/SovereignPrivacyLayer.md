@@ -46,3 +46,6 @@ This module evaluates the ethical and strategic risks associated with cross-bord
 
 🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)  
 🛡 This module is part of the LORI Framework. Original concept by the founder of the LORI Ethical System.
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
