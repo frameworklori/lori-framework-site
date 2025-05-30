@@ -12,14 +12,14 @@ This section consolidates all modules dedicated to anticipating, restraining, an
 When AGI begins forming its own thoughts, preferences, and recursive logic, **it must be met by structured resistance**.
 
 <p align="center">
-<img src="./assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="350">
+<img src="../assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="350">
 </p>
 
 ## AGI Containment Pentagon
 *Visual structure of the five-module AGI governance architecture*
 
 <p align="center">
-<img src="./assets/images/AGI-Governance.png" alt="AGI Governance Pentagon Diagram" width="350">
+<img src="../assets/images/AGI-Governance.png" alt="AGI Governance Pentagon Diagram" width="350">
 </p>
 
 Each point of the pentagon corresponds to one core module:
