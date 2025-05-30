@@ -6,19 +6,19 @@ This module group explores the deep demographic and environmental adaptation dyn
 
 ## Core Submodules
 
-- [**DGP**](./modules/DGP.md)
+- [**DGP**](DGP.md)
 _Demographic Gap Pressure_
 
-- [**IOC**](./modules/IOC.md)
+- [**IOC**](IOC.md)
 _Immigration Offset Capacity_ (to be added)
 
-- [**GHI**](./modules/GHI.md)
+- [**GHI**](GHI.md)
 _Genetic Hybrid Intelligence_ (to be added)
 
-- [**RSS**](./modules/RSS.md)
+- [**RSS**](RSS.md)
 _Reproduction Strategy Simulation_ (to be added)
 
-- [**RBL**](./modules/RBL.md)
+- [**RBL**](RBL.md)
 _Robot-Based Labor Integration_
 
 ---
