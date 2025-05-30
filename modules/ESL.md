@@ -40,3 +40,5 @@ Contributes to long-term energy forecasts based on demographic automation trends
 
 - [**RBL**](RBL.md)
 Primary consumer of energy regulated by ESL; monitored for overuse patterns.
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
