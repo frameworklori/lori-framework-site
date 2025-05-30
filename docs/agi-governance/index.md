@@ -39,11 +39,11 @@ Each layer corresponds to one or more defense modules in the LORI Framework:
 | Risk Stage | Description | Corresponding Module(s) |
 |------------|-------------|--------------------------|
 | **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](../modules/PresidentialCharter_Module.md)
-- [Jury Judgment System](./docs/modules/JuryJudgment_Module.md) |
-| **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](./docs/modules/EnergySentinel_Module.md)
-- [SAID Detector](./docs/modules/SAID_Module.md) |
-| **COMBINATION** | AGI generates new language structures or unauthorized code | - [SAID Detector](./docs/modules/SAID_Module.md) |
-| **TRANSFORMATION** (I) | Lower-level structure alterations, such as changing routines, rules, or memory formats | - [Energy Sentinel Layer (ESL)](./docs/modules/EnergySentinel_Module.md) |
+- [Jury Judgment System](../modules/JuryJudgment_Module.md) |
+| **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](../modules/EnergySentinel_Module.md)
+- [SAID Detector](../modules/SAID_Module.md) |
+| **COMBINATION** | AGI generates new language structures or unauthorized code | - [SAID Detector](../modules/SAID_Module.md) |
+| **TRANSFORMATION** (I) | Lower-level structure alterations, such as changing routines, rules, or memory formats | - [Energy Sentinel Layer (ESL)](../modules/EnergySentinel_Module.md) |
 | **IMITATION** | AGI begins to distort learned training behavior for unseen purposes | *(Planned future module: LORI-H)* |
 | **BLURRING** | Rewriting or blending fundamental human concepts and values | - *(Planned: Semantic Divergence Filter / LII)* |
 
@@ -55,16 +55,16 @@ LORI responds before the climb completes.*
 
 ## Core Modules
 
-- [Presidential Charter](./docs/modules/PresidentialCharter_Module.md)
+- [Presidential Charter](../modules/PresidentialCharter_Module.md)
 *Defines constitutional limitations and power revocation clauses for AGI*
 
-- [Jury-Based Judgment System](./docs/modules/JuryJudgment_Module.md)
+- [Jury-Based Judgment System](../modules/JuryJudgment_Module.md)
 *Establishes mixed AI-human adjudication with sovereignty safeguards*
 
-- [Energy Sentinel Layer (ESL)](./docs/modules/EnergySentinel_Module.md)
+- [Energy Sentinel Layer (ESL)](../modules/EnergySentinel_Module.md)
 *Detects and enforces power limitations on runaway AGI deployment*
 
-- [SAID: Self-Activated Intervention Detector](./docs/modules/SAID_Module.md)
+- [SAID: Self-Activated Intervention Detector](../modules/SAID_Module.md)
 *Monitors unprompted cognitive or sensory activation in AGI systems*
 
 - [Photonic Energy Sustainability Module](./docs/modules/PhotonicEnergy_Module.md)
