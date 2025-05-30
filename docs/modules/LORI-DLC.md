@@ -19,3 +19,5 @@ This module analyzes how **AI-generated or AI-amplified discourse** exerts asymm
 
 - ODRAF v2.0 – Discourse Control Layer
 - Works with LII, RSI, Trust Drift
+
+[🔙 GO BACK to Main Framework Page](../index.md)
