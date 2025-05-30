@@ -41,3 +41,5 @@ Reflects the downstream effect of population stress via increased automation.
 - [**ESL**](ESL.md)
 Receives indirect impact when demographic pressure leads to energy-intensive AI deployment.
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
