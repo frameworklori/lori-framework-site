@@ -54,3 +54,5 @@ The EDRI-H module evaluates the emotional dependency risks between users and Hum
 ---
 
 *Lori Framework – Ethical Structures for Responsible AI.*
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
