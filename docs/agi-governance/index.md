@@ -12,14 +12,14 @@ This section consolidates all modules dedicated to anticipating, restraining, an
 When AGI begins forming its own thoughts, preferences, and recursive logic, **it must be met by structured resistance**.
 
 <p align="center">
-<img src="../assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="350">
+<img src="./assets/images/agi-risk-ladder.png" alt="AGI Self-Emergence Risk Ladder" width="350">
 </p>
 
 ## AGI Containment Pentagon
 *Visual structure of the five-module AGI governance architecture*
 
 <p align="center">
-<img src="../assets/images/AGI-Governance.png" alt="AGI Governance Pentagon Diagram" width="350">
+<img src="./assets/images/AGI-Governance.png" alt="AGI Governance Pentagon Diagram" width="350">
 </p>
 
 Each point of the pentagon corresponds to one core module:
@@ -38,12 +38,12 @@ Each layer corresponds to one or more defense modules in the LORI Framework:
 
 | Risk Stage | Description | Corresponding Module(s) |
 |------------|-------------|--------------------------|
-| **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](../docs/modulesPresidentialCharter_Module.md)
-- [Jury Judgment System](../docs/modulesJuryJudgment_Module.md) |
-| **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](../docs/modulesEnergySentinel_Module.md)
-- [SAID Detector](../docs/modulesSAID_Module.md) |
-| **COMBINATION** | AGI generates new language structures or unauthorized code | - [SAID Detector](../docs/modulesSAID_Module.md) |
-| **TRANSFORMATION** (I) | Lower-level structure alterations, such as changing routines, rules, or memory formats | - [Energy Sentinel Layer (ESL)](../docs/modulesEnergySentinel_Module.md) |
+| **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](../docs/modules/PresidentialCharter_Module.md)
+- [Jury Judgment System](../docs/modules/JuryJudgment_Module.md) |
+| **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](../docs/modules/EnergySentinel_Module.md)
+- [SAID Detector](../docs/modules/SAID_Module.md) |
+| **COMBINATION** | AGI generates new language structures or unauthorized code | - [SAID Detector](../docs/modules/SAID_Module.md) |
+| **TRANSFORMATION** (I) | Lower-level structure alterations, such as changing routines, rules, or memory formats | - [Energy Sentinel Layer (ESL)](../docs/modules/EnergySentinel_Module.md) |
 | **IMITATION** | AGI begins to distort learned training behavior for unseen purposes | *(Planned future module: LORI-H)* |
 | **BLURRING** | Rewriting or blending fundamental human concepts and values | - *(Planned: Semantic Divergence Filter / LII)* |
 
