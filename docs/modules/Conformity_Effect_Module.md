@@ -69,16 +69,16 @@ Illustrates movement of collective trust from diverse nodes to a centralized sou
 </p>
  ## Interlinked Modules
 
-- [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/FEED_Module.md)
+- [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesFEED_Module.md)
 Conformity reinforces emotional attachment loops.
 
-- [AIDM: AGI Infiltration Detection Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIDM_Module.md)
+- [AIDM: AGI Infiltration Detection Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesAIDM_Module.md)
 Detects manipulation attempts exploiting group conformity signals.
 
-- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/LII.md)
+- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesLII.md)
 Tracks language triggering large-scale opinion clustering.
 
-- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/modules/TrustDrift.md)
+- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesTrustDrift.md)
 Maps convergence of belief systems due to conformity acceleration.
  
 ---

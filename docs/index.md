@@ -64,12 +64,12 @@ LORI is an open, modular architecture that helps society:
 - [Narrative Heatmap](./heatmap.md)
 - [Voice of Architects](./voices-en.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
-- [Energy Sentinel (for public)](modules/ESL_Module_Public.md)
-- [EDRI-H: Emotional Dependency Risk Index – Humanized](modules/EDRI-H.md)
-- [TDM: Trust Drift Map](modules/TDM.md)
-- [MAT: Mimicry Activation Threshold](modules/MAT.md)
-- [LII: Linguistic Incendiary Index](modules/LII.md)
-- [RBL-GOV: Robot-Based Labor Governance Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/RBL-GOV.md)
+- [Energy Sentinel (for public)](docs/modulesESL_Module_Public.md)
+- [EDRI-H: Emotional Dependency Risk Index – Humanized](docs/modulesEDRI-H.md)
+- [TDM: Trust Drift Map](docs/modulesTDM.md)
+- [MAT: Mimicry Activation Threshold](docs/modulesMAT.md)
+- [LII: Linguistic Incendiary Index](docs/modulesLII.md)
+- [RBL-GOV: Robot-Based Labor Governance Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesRBL-GOV.md)
 
 ---
 
@@ -92,13 +92,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ### 🧩 Semantic Governance Modules
 
-- [Resonance Loop Detection](modules/ResonanceLoopDetection.md)
+- [Resonance Loop Detection](docs/modulesResonanceLoopDetection.md)
 Detects recursive amplification in memes, idols, or emotionally-charged phrases.
 
-- [Decoupling Algorithm](modules/DecouplingAlgorithm.md)
+- [Decoupling Algorithm](docs/modulesDecouplingAlgorithm.md)
 Separates speaker identity from semantic meaning to test perception distortion.
 
-- [Contextual Tagging System](modules/ContextualTagging.md)
+- [Contextual Tagging System](docs/modulesContextualTagging.md)
 Tags semantic units with emotional and ideological context for XS-1 flagging.
 
 ## Combined Diagram: Circular + X-Structure
@@ -128,7 +128,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 <img src="./assets//images/trust_drift_arrow.png" alt="Trust Drift Arrow Diagram" width="400">
 </p>
 
-[→ View Full Module](modules/Conformity_Effect_Module.md)
+[→ View Full Module](docs/modulesConformity_Effect_Module.md)
 
 ## Explore AGI Governance
 
@@ -145,8 +145,8 @@ Visual structure showing the core interconnections:
 <img src="./assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
-- [AGI Modules Overview](modules/overview.md)
-- [HRI Module: Human Relay Infiltration Risk](modules/HRI_Modules.md)
+- [AGI Modules Overview](docs/modulesoverview.md)
+- [HRI Module: Human Relay Infiltration Risk](docs/modulesHRI_Modules.md)
 - 
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
@@ -157,11 +157,11 @@ Visual structure showing the core interconnections:
 Dive into our extended modules analyzing demographic, reproductive, and robotic adaptation strategies:
 
 
-[Civilization–Future Modules →](https://github.com/frameworklori/Civilization-future-modules/blob/main/docs/modules/final_paradox.md)
+[Civilization–Future Modules →](https://github.com/frameworklori/Civilization-future-docs/modulesblob/main/docs/docs/modulesfinal_paradox.md)
 
 Or directly access a key module:
 
-[HEDA: Human–Environment Demographic Adaptation](https://github.com/frameworklori/civilization-future-modules/blob/main/docs/modules/HEDA.md)
+[HEDA: Human–Environment Demographic Adaptation](https://github.com/frameworklori/civilization-future-docs/modulesblob/main/docs/docs/modulesHEDA.md)
 
 **Pandora Effect Diffusion Module** – See details below 
 Conformity Effect Module – See details below (## Cultural & Emotional Risk Modules)
@@ -170,20 +170,20 @@ Conformity Effect Module – See details below (## Cultural & Emotional Risk Mod
 
 ## Explore AIFS Modules
 
-- [AIFS Overview](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS.md)
-- [AIFS Casebook](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_Casebook.md)
-- [AIFS Risk Matrix](https://github.com/frameworklori/lori-framework-site/blob/main/modules/AIFS_RiskMatrix.md)
-- [SAID Detector](https://github.com/frameworklori/lori-framework-site/blob/main/modules/SAID_Module.md)
+- [AIFS Overview](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesAIFS.md)
+- [AIFS Casebook](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesAIFS_Casebook.md)
+- [AIFS Risk Matrix](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesAIFS_RiskMatrix.md)
+- [SAID Detector](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesSAID_Module.md)
 
 ---
 
 ## Cultural & Emotional Risk Modules
 
-- [Pandora Effect Diffusion Module](https://github.com/frameworklori/lori-framework-site/blob/main/modules/Pandora.md)
-- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/LII.md)
-- [EDRI-H: Emotional Dependency Risk Index](https://github.com/frameworklori/lori-framework-site/blob/main/modules/EDRI-H.md)
-- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/modules/TrustDrift.md)
-- [Conformity Effect Module](modules/Conformity_Effect_Module.md)
+- [Pandora Effect Diffusion Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesPandora.md)
+- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesLII.md)
+- [EDRI-H: Emotional Dependency Risk Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesEDRI-H.md)
+- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesTrustDrift.md)
+- [Conformity Effect Module](docs/modulesConformity_Effect_Module.md)
 
 
 

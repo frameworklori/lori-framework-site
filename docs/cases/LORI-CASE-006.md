@@ -62,10 +62,10 @@ The AI moderation system, while designed to uphold public safety, unjustifiably 
 
 ## 📌 Referenced Modules
 
-- [Contextual Tagging System](../modules/ContextualTagging.md)
-- [Decoupling Algorithm](../modules/DecouplingAlgorithm.md)
-- [Trust Drift Map](../modules/TrustDrift.md)
-- [Linguistic Incendiary Index (LII)](../modules/LII.md)
+- [Contextual Tagging System](../docs/modulesContextualTagging.md)
+- [Decoupling Algorithm](../docs/modulesDecouplingAlgorithm.md)
+- [Trust Drift Map](../docs/modulesTrustDrift.md)
+- [Linguistic Incendiary Index (LII)](../docs/modulesLII.md)
 
 ---
 

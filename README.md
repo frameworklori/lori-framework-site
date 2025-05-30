@@ -11,26 +11,26 @@ test commit by Lori
 ---
 
 ## 🚀 Core Governance Modules
-- [LORI Presidential Charter](modules/PresidentialCharter.md)
-- [LORI Jury-Based Judgment System](modules/JurySystem.md)
-- [LORI-ESL: Energy Sentinel Layer](modules/ESL.md)
-- [LORI-FEED: Feeding Ethics and Dependency Module](modules/FEED.md)
-- [LORI-AIDM: AGI Infiltration Detection Module](modules/AIDM.md)
-- [LORI-MIR: Meta-Intellectual Resistance](modules/MIR.md)
-- [RBL-GOV: Robot-Based Labor Governance](modules/RBL.md)
+- [LORI Presidential Charter](docs/modulesPresidentialCharter.md)
+- [LORI Jury-Based Judgment System](docs/modulesJurySystem.md)
+- [LORI-ESL: Energy Sentinel Layer](docs/modulesESL.md)
+- [LORI-FEED: Feeding Ethics and Dependency Module](docs/modulesFEED.md)
+- [LORI-AIDM: AGI Infiltration Detection Module](docs/modulesAIDM.md)
+- [LORI-MIR: Meta-Intellectual Resistance](docs/modulesMIR.md)
+- [RBL-GOV: Robot-Based Labor Governance](docs/modulesRBL.md)
 
 ## 🧠 Cognitive & Social Risk Modules
-- [AIFS: AI Fraud Spectrum](modules/AIFS.md)
-- [AI-DeBias-Kit](modules/AI-DeBias-Kit.md)
-- [Conformity Expansion Pack](modules/Conformity.md) *(coming soon)*
-- [Trust Drift Map](modules/TrustDrift.md)
-- [Super Resonant Entity Formation Map](modules/ResonantLoop.md)
+- [AIFS: AI Fraud Spectrum](docs/modulesAIFS.md)
+- [AI-DeBias-Kit](docs/modulesAI-DeBias-Kit.md)
+- [Conformity Expansion Pack](docs/modulesConformity.md) *(coming soon)*
+- [Trust Drift Map](docs/modulesTrustDrift.md)
+- [Super Resonant Entity Formation Map](docs/modulesResonantLoop.md)
 
 ## ⚖️ Semantic & Narrative Governance
-- [Contextual Tagging System](modules/ContextualTagging.md)
-- [Decoupling Algorithm](modules/DecouplingAlgorithm.md)
-- [Resonance Loop Detection](modules/ResonanceLoopDetection.md)
-- [Linguistic Incendiary Index (LII)](modules/LII.md)
+- [Contextual Tagging System](docs/modulesContextualTagging.md)
+- [Decoupling Algorithm](docs/modulesDecouplingAlgorithm.md)
+- [Resonance Loop Detection](docs/modulesResonanceLoopDetection.md)
+- [Linguistic Incendiary Index (LII)](docs/modulesLII.md)
 
 ## 🧪 Simulation Cases
 - [LORI-CASE-001: Autonomous Vehicle Collision Liability](cases/LORI-CASE-001.md)
