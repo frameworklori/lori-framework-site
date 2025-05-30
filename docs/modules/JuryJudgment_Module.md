@@ -63,4 +63,7 @@ Jury adjudicates whether unauthorized sensory activation by AGI constitutes a br
 **License:** MIT | Non-Exclusive, Transparent Use Required
 
 > *True fairness emerges not from uniform minds, but from structured disagreement and sovereign judgment.*
+>
+> 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
 
