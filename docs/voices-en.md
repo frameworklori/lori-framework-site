@@ -88,3 +88,5 @@ Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site
 >
 > Trust is a national resource.
 > Spend it slowly.
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
