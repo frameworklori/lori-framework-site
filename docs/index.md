@@ -61,7 +61,7 @@ LORI is an open, modular architecture that helps society:
 
 ## Explore the System
 
-- [Narrative Heatmap](./heatmap)
+- [Narrative Heatmap](./heatmap.md)
 - [Voice of Architects](./voices-en.md)
 - [Linguistic Incendiary Index (LII)](https://github.com/frameworklori/LII-Framework)
 - [Energy Sentinel (for public)](modules/ESL_Module_Public.md)
