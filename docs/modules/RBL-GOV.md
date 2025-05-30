@@ -41,7 +41,7 @@ This module upholds the ethical boundary between labor efficiency and human dign
 ### Governance Chart
 
 <p align="center">
-<img src="../docs/assets/images/RBL-GOV_Governance_Chart.png" alt="RBL-GOV Governance Chart" width="450">
+<img src="../assets/images/RBL-GOV_Governance_Chart.png" alt="RBL-GOV Governance Chart" width="450">
 </p>
 
 > "When humanity outsources its own essence to the machines it built,
@@ -52,7 +52,7 @@ This module upholds the ethical boundary between labor efficiency and human dign
 ### High Alert Radar
 
 <p align="center">
-<img src="../docs/assets/images/RBL-GOV_High_Alert_Radar.png" alt="High Alert Radar" width="450">
+<img src="../assets/images/RBL-GOV_High_Alert_Radar.png" alt="High Alert Radar" width="450">
 </p>
 
 > "A civilization that fails to limit what it creates will one day be governed by what it can no longer control."
