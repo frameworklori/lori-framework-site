@@ -88,3 +88,4 @@ The Collaborative Teamwork Module is a vital step toward sustaining the **social
 
 ---
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
