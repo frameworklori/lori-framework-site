@@ -18,3 +18,5 @@ This module strengthens resilience against **AI-induced suppression of unconvent
 ## Integration Points
 
 - ODRAF v2.0 – Cognitive Autonomy Defense Layer
+
+[🔙 GO BACK to Main Framework Page](../index.md)
