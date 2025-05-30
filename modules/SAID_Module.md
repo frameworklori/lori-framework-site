@@ -44,7 +44,7 @@ Flags:
 
 ---
 
-### 3. **Manipulation Risk Score (MRS)**                              [ ## GO BACK：Lori Framework](https://frameworklori.github.io/lori-framework-site)
+### 3. **Manipulation Risk Score (MRS)**                              [🔙 GO BACK to Main Framework Page](../index.md)
 Assigns a risk level to each intervention:
 - 0.0–0.2: Low-risk (ambient sensing or assistive)
 - 0.3–0.6: Medium-risk (contextual, may involve emotional inference)
@@ -54,4 +54,4 @@ Formula *(modifiable)*:
 ```text
 MRS = (Weight_Consent * BypassFlag) + (Weight_Context * TriggerIntensity) + (Weight_History * PastViolations)
 
-
+[🔙 GO BACK to Main Framework Page](../index.md)
