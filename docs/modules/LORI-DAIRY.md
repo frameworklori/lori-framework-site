@@ -19,3 +19,5 @@ This module addresses risks of **AI-driven emotional manipulation**, particularl
 
 - ODRAF v2.0 – Emotional Manipulation Layer
 - Works with EDRI-H & Trust Drift Mapping
+
+[🔙 GO BACK to Main Framework Page](../index.md)
