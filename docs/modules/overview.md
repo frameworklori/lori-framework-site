@@ -51,3 +51,6 @@ This integrated module system ensures:
 - Resilience against social, cognitive, and infrastructure manipulation
 
 Each module connects logically within a decentralized but accountable system to uphold **human sovereignty** in the age of AGI.
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
