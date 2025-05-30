@@ -21,24 +21,24 @@ This architecture enables multi-layered analysis and proactive governance of AI-
 
 ### Emotional Manipulation & Romance Scam Defense
 
-- [**LORI-DAIRY**](/modules/LORI-DAIRY.md)
+- [**LORI-DAIRY**](LORI-DAIRY.md)
 _Deceptive AI Romance Intervention & Resistance Yard_
 
 ---
 
 ### Discourse Control & Semantic Leverage
 
-- [**LORI-DLC**](/modules/LORI-DLC.md)
+- [**LORI-DLC**](LORI-DLC.md)
 _Discourse Leverage Control Module_
 
-- [**RSI Index**](/modules/RSI_Index.md)
+- [**RSI Index**](RSI_Index.md)
 _Role-Based Semantic Integrity Score_
 
 ---
 
 ### Cognitive Autonomy Defense
 
-- [**LORI-MIR**](/modules/LORI-MIR.md)
+- [**LORI-MIR**](LORI-MIR.md)
 _Meta-Intellectual Resistance Module_
 
 ---
