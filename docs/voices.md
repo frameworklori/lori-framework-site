@@ -86,3 +86,5 @@ title: Narrative Roles (v1.0)
 >
 > Trust is a national resource.
 > Spend it slowly.
+>
+> Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
