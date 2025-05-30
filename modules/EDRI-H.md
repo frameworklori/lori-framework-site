@@ -39,3 +39,6 @@ Defines when AI usage becomes psychologically exploitative.
 
 - [LII](LII.md)
 - [Trust Drift Map](TrustDrift.md)
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
