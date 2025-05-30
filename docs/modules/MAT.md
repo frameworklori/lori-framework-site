@@ -54,3 +54,6 @@ The MAT module tracks when AI-generated behavior, language, or styles cross the 
 ---
 
 *Lori Framework – Detecting Viral AI Linguistic Contagion before it Spreads.*
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
