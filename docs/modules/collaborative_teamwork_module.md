@@ -1,6 +1,6 @@
-# Collaborative Teamwork Module
-*Building empathy-driven, civilization-centered learning environments.*
-
+# Civilization-Centered Education Module
+*Version: V1*
+*Education is the foundation of civilization.*
 ---
 
 ## 1️⃣ Module Purpose
