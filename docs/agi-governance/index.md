@@ -38,7 +38,7 @@ Each layer corresponds to one or more defense modules in the LORI Framework:
 
 | Risk Stage | Description | Corresponding Module(s) |
 |------------|-------------|--------------------------|
-| **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](./docs/modules/PresidentialCharter_Module.md)
+| **SELF-DIRECTEDNESS** | AGI begins to form independent goals or strategies without human request | - [Presidential Charter](./modules/PresidentialCharter_Module.md)
 - [Jury Judgment System](./docs/modules/JuryJudgment_Module.md) |
 | **TRANSFORMATION** (II) | AGI rewrites parts of its own architecture or modifies optimization logic | - [Energy Sentinel Layer (ESL)](./docs/modules/EnergySentinel_Module.md)
 - [SAID Detector](./docs/modules/SAID_Module.md) |
