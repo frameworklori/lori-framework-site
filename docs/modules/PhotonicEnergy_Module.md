@@ -42,3 +42,6 @@ As AI systems expand into physical infrastructure—robots, data centers, edge d
 This module reflects the principle that **intelligence must illuminate, not consume**.
 AI must serve both progress and the planet.
 
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
