@@ -30,3 +30,5 @@ This module is linked to the **ODRAF containment system**, offering preventive i
 - Integration with SAID and LII modules
 - Tracking cross-platform question mimicry patterns
 - Multilingual analysis of value migration
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
