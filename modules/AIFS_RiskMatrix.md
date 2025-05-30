@@ -58,3 +58,6 @@ This matrix evaluates each AI fraud type based on technical complexity, psycholo
 ---
 
 *Lori Framework – AIFS Risk Intelligence Layer v1.0*
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
