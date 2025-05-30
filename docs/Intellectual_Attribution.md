@@ -53,5 +53,7 @@ You may quote, remix, or improve upon these ideas — just don’t pretend they 
 > This framework was designed to prioritize ethical clarity over personal attribution.
 > The author's identity remains intentionally undisclosed to maintain philosophical neutrality and universal application.
 
-
 ---
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
