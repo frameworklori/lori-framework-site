@@ -264,8 +264,6 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
 ---
 
----
-
 ## Module Activation Frequency Overview
 
 This section provides a statistical summary of which trigger modules are most frequently activated across the 13 documented fraud cases (A1–A13).
