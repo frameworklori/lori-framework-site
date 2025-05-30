@@ -92,13 +92,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ### 🧩 Semantic Governance Modules
 
-- [Resonance Loop Detection](./modulesResonanceLoopDetection.md)
+- [Resonance Loop Detection](./modules/ResonanceLoopDetection.md)
 Detects recursive amplification in memes, idols, or emotionally-charged phrases.
 
-- [Decoupling Algorithm](./modulesDecouplingAlgorithm.md)
+- [Decoupling Algorithm](./modules/DecouplingAlgorithm.md)
 Separates speaker identity from semantic meaning to test perception distortion.
 
-- [Contextual Tagging System](./modulesContextualTagging.md)
+- [Contextual Tagging System](./modules/ContextualTagging.md)
 Tags semantic units with emotional and ideological context for XS-1 flagging.
 
 ## Combined Diagram: Circular + X-Structure
