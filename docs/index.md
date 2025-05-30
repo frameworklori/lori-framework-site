@@ -156,12 +156,12 @@ Visual structure showing the core interconnections:
 
 Dive into our extended modules analyzing demographic, reproductive, robotic, and cognitive adaptation strategies:
 
-[**Civilization–Future Modules →**](/modules/HEDA.md)
+[**Civilization–Future Modules →**](../modules/HEDA.md)
 
 Or directly access key modules:
 
-- [**HEDA: Human–Environment Demographic Adaptation**](/modules/HEDA.md)
-- [**Pandora Effect Diffusion Module**](/modules/Pandora_Effect_Diffusion_Module.md)
+- [**HEDA: Human–Environment Demographic Adaptation**](../modules/HEDA.md)
+- [**Pandora Effect Diffusion Module**](../modules/Pandora_Effect_Diffusion_Module.md)
 (See details in Cultural & Emotional Risk Modules)
 
 ---
@@ -170,19 +170,19 @@ Or directly access key modules:
 
 Dive into our advanced modules for outcome-driven risk anticipation and governance:
 
-- [**LORI-DAIRY**](/modules/LORI-DAIRY.md)
+- [**LORI-DAIRY**](../modules/LORI-DAIRY.md)
 _Deceptive AI Romance Intervention & Resistance Yard_
 
-- [**LORI-DLC**](/modules/LORI-DLC.md)
+- [**LORI-DLC**](../modules/LORI-DLC.md)
 _Discourse Leverage Control Module_
 
-- [**RSI Index**](/modules/RSI_Index.md)
+- [**RSI Index**](../modules/SI_Index.md)
 _Role-Based Semantic Integrity Score_
 
-- [**LORI-MIR**](/modules/LORI-MIR.md)
+- [**LORI-MIR**](../modules/LORI-MIR.md)
 _Meta-Intellectual Resistance Module_
 
-- [**LORI-SPR-MotiveTrace**](/modules/LORI-SPR-MotiveTrace.md)
+- [**LORI-SPR-MotiveTrace**](../modules/LORI-SPR-MotiveTrace.md)
 _Semantic Propagation Resonator + Motive Tracing Layer_
 
 ---
