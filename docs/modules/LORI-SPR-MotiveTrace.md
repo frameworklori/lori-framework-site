@@ -19,3 +19,5 @@ This module tracks **how semantic payloads propagate** and how **underlying moti
 
 - ODRAF v2.0 – Semantic Propagation & Motive Tracing Layer
 - Works with RSI Index, LORI-DLC, Trust Drift
+
+- [🔙 GO BACK to Main Framework Page](../index.md)
