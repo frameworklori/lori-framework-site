@@ -42,4 +42,4 @@ Predicts if the language is likely to go viral, mislead, or incite actions.
 - [Trust Drift Map](TrustDrift.md)
 
 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+[🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
