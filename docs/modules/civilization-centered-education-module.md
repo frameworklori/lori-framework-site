@@ -89,3 +89,5 @@ The Civilization-Centered Education Module will evolve in response to:
 In this critical era, we must ensure that AI-powered education serves this higher purpose — cultivating generations who will not only thrive in an AI world, but will safeguard the **values and integrity of human civilization**.
 
 ---
+
+Part of the Lori Framework
