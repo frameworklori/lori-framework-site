@@ -66,6 +66,8 @@ The following diagram illustrates the typical AGI content dissemination cycle, f
 
 *Module maintained under LORI Framework – AGI Risk Detection Cluster.*
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
 
 
 
