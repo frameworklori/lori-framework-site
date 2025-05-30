@@ -53,3 +53,6 @@ Assigns a risk level to each intervention:
 Formula *(modifiable)*:
 ```text
 MRS = (Weight_Consent * BypassFlag) + (Weight_Context * TriggerIntensity) + (Weight_History * PastViolations)
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
