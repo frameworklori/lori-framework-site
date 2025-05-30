@@ -54,3 +54,6 @@ The Trust Drift Map (TDM) module identifies and analyzes the subtle shift of use
 ---
 
 *Lori Framework – Tools for Navigating Human-AI Trust Boundaries.*
+
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
