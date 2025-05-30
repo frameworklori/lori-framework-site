@@ -48,4 +48,5 @@ Trust in governance erodes, replaced by alternative digital narratives or conspi
 - [LII: Linguistic Incendiary Index](LII.md)
 - [Pandora Effect Diffusion Module](Pandora.md)
 
-- [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
+ 
+ [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
