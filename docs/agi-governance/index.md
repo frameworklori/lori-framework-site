@@ -67,7 +67,7 @@ LORI responds before the climb completes.*
 - [SAID: Self-Activated Intervention Detector](../modules/SAID_Module.md)
 *Monitors unprompted cognitive or sensory activation in AGI systems*
 
-- [Photonic Energy Sustainability Module](./docs/modules/PhotonicEnergy_Module.md)
+- [Photonic Energy Sustainability Module](../modules/PhotonicEnergy_Module.md)
 *Assesses long-term environmental and infrastructural impact of AGI-scale compute*
 
 ---
