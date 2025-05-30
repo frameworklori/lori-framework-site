@@ -128,7 +128,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 <img src="./assets//images/trust_drift_arrow.png" alt="Trust Drift Arrow Diagram" width="400">
 </p>
 
-[→ View Full Module](docs/modulesConformity_Effect_Module.md)
+[→ View Full Module](./modules/Conformity_Effect_Module.md)
 
 ## Explore AGI Governance
 
