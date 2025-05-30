@@ -156,12 +156,12 @@ Visual structure showing the core interconnections:
 
 Dive into our extended modules analyzing demographic, reproductive, robotic, and cognitive adaptation strategies:
 
-[**Civilization–Future Modules →**](HEDA.md)
+[**Civilization–Future Modules →**](./modules/HEDA.md)
 
 Or directly access key modules:
 
-- [**HEDA: Human–Environment Demographic Adaptation**](HEDA.md)
-- [**Pandora Effect Diffusion Module**](Pandora_Effect_Diffusion_Module.md)
+- [**HEDA: Human–Environment Demographic Adaptation**](./modules/HEDA.md)
+- [**Pandora Effect Diffusion Module**](./modules/Pandora.md)
 (See details in Cultural & Emotional Risk Modules)
 
 ---
