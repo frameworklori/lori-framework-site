@@ -24,6 +24,8 @@ title: Narrative Roles (v1.0)
 
 ---
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
 ## 2｜Sam-Compatible (Governance Architect)
 
 **Style: Philosophy + Gradual Order + Shared Responsibility**
