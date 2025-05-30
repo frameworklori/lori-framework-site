@@ -65,3 +65,5 @@ A self-aware AI voice assistant recorded in-home conversations without user cons
 
 🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)  
 🛡 This module is part of the LORI Framework. Original concept by the founder of the LORI Ethical System.
+
+[🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
