@@ -54,4 +54,3 @@ Formula *(modifiable)*:
 ```text
 MRS = (Weight_Consent * BypassFlag) + (Weight_Context * TriggerIntensity) + (Weight_History * PastViolations)
 
-[🔙 GO BACK to Main Framework Page](../index.md)
