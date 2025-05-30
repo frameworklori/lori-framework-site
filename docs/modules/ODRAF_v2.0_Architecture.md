@@ -57,3 +57,5 @@ ODRAF v2.0 embodies LORI’s core principle:
 > **“Anticipate outcomes, trace motives, and preserve human sovereignty within the AI-governed discourse space.”**
 
 This layered architecture invites continued evolution as new risks emerge in AI-driven communication ecosystems.
+
+[🔙 GO BACK to Main Framework Page](../index.md)
