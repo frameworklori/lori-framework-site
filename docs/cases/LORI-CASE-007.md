@@ -193,4 +193,6 @@ All slogans exhibiting compound effects across **emotional trigger** and **seman
 > Portions of the semantic weight mapping and role-neutral vector decoupling techniques referenced in this case were inspired by third-party AI semantic governance proposals submitted in May 2025.
 > These include proportional breakdowns of meme-language, ideological signals, and ethical risk scores.
 > While conceptually useful, the final interpretation and narrative structure of this module remain under the exclusive intellectual sovereignty of the LORI Ethical System and its human-audited juror process.
+>
+> [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
 
