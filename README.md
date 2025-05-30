@@ -1,7 +1,7 @@
 # LORI Framework
 
 <p align="center">
-<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
+<img src="/assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
 
 **Ethical Governance and Risk Management Framework for AGI, AI Systems, and Advanced Technologies**
