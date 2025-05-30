@@ -71,5 +71,5 @@ Alerts when energy usage exceeds safe thresholds, potentially triggering RBL-GOV
 Supplies real-time deployment metrics for enforcement and rollback decisions.
 
 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+[🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
 
