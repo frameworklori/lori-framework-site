@@ -69,16 +69,16 @@ Illustrates movement of collective trust from diverse nodes to a centralized sou
 </p>
  ## Interlinked Modules
 
-- [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesFEED_Module.md)
+- [FEED: Emotional Dependency Feed Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/FEED_Module.md)
 Conformity reinforces emotional attachment loops.
 
-- [AIDM: AGI Infiltration Detection Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesAIDM_Module.md)
+- [AIDM: AGI Infiltration Detection Module](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/AIDM_Module.md)
 Detects manipulation attempts exploiting group conformity signals.
 
-- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesLII.md)
+- [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LII.md)
 Tracks language triggering large-scale opinion clustering.
 
-- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modulesTrustDrift.md)
+- [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/TrustDrift.md)
 Maps convergence of belief systems due to conformity acceleration.
  
 ---
@@ -90,6 +90,8 @@ Maps convergence of belief systems due to conformity acceleration.
 - **CEM-Idol**: Influence of KOLs and celebrity-aligned culture shifts.
 
 ---
+
+[🔙 GO BACK to Main Framework Page](../index.md)
 
 *Module maintained under LORI Framework – Cultural & Emotional Risk Division.*
 
