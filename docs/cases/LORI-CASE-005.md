@@ -61,3 +61,5 @@ The act is **ethically unjustifiable** under digital sovereignty and informed co
 ---
 
 🔗 Attribution: See [Intellectual_Attribution.md](/docs/Intellectual_Attribution.md)
+
+[🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
