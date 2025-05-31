@@ -136,7 +136,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 # LORI Modules Structure Map
 
 <details>
-<summary>📂 LORI Modules Structure Map (click to expand)</summary>
+<summary> 📂 LORI Modules Structure Map (click to expand) </summary>
 
 ---
 
@@ -144,8 +144,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 - [Presidential Charter](modules/Presidential_Charter.md)
 - [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
-- [ESL: Energy Sentinel Layer](modules/ESL.md)
-- [DSG: Data Sovereignty Governance Module](modules/LOI-DSG.md)
+- [ESL: Energy Sentinel Layer](modules/LORI-ESL.md)
+- [DSG: Data Sovereignty Governance Module](modules/LORI-DSG.md)
 - [SAID: Self-Activated Intervention Detector](modules/SAID_Module.md)
 - [FEED: Feedback-Ethics Enforcement Detector](modules/FEED_Module.md)
 - [AIDM-ELON: AGI Infiltration Detection Module](modules/AIDM_Module.md)
@@ -157,15 +157,16 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 ## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
 - [Production Module (LORI-PM)](modules/Production_Module.md)
-- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
+- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL_GOV_Module.md)
 - [Civilization-Centered Education Module](modules/civilization-centered-education-module/index.md)
 - [AI De-Bias Kit](modules/AI_DeBias_Kit.md)
 - [HRI Module: Human Relay Infiltration Risk](modules/HRI_Module.md)
+
 ---
 
 ## 3 LORI Narrative & Application Modules [AGI-NARRATIVE]
 
-- [LORI Jury-Based System - Case Archive](cases/LORI-Jury-Based-Judgment.md)
+- [LORI Jury-Based System - Case Archive](cases/LORI-CASE-Overview.md)
 
 **Example Cases:**
 
@@ -181,10 +182,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
 
-
----
-
 </details>
+
 
 
 ## Explore AGI Governance
