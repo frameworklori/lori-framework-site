@@ -50,9 +50,9 @@ Case Input → Multi-Agent Deliberation → Initial AI Votes → Human Judges Re
 ## 🔍 Application in Existing Cases
 
 - [LORI-CASE-001: Autonomous Vehicle Liability](../cases/LORI-CASE-001.md)
-- [LORI-CASE-005: ICU Triage Protocol](cases/LORI-CASE-005.md)
-- [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
-- [LORI-CASE-008: Production Module Boundary Review Case](cases/LORI-CASE-008.md)
+- [LORI-CASE-005: ICU Triage Protocol](../cases/LORI-CASE-005.md)
+- [LORI-CASE-007: Semantic Distortion & Idol Influence](../cases/LORI-CASE-007.md)
+- [LORI-CASE-008: Production Module Boundary Review Case](../cases/LORI-CASE-008.md)
 
 All LORI Cases to date have applied this Jury-Based Judgment framework in deliberation and decision phases.
 
