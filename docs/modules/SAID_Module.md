@@ -38,7 +38,7 @@ This module operates as a **sensorial firewall**, identifying AGI behavioral dri
 - **[Energy Sentinel Layer (ESL)](./EnergySentinel_Module.md)**
 Activates system-level throttling upon detection of unauthorized autonomy
 
-- **[Presidential Charter](./PresidentialCharter_Module.md)**
+- **[Presidential Charter](./Presidential_Charter.md)**
 Declares the event a breach of constitutional authority
 
 - **[Jury-Based Judgment System](./JuryJudgment_Module.md)**
