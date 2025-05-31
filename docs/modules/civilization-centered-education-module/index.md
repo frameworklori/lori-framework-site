@@ -61,3 +61,5 @@ This module is designed to ensure that AI-augmented education promotes:
 - **Stewards of sustainable civilization**
 
 ---
+
+[🔙 GO BACK to Main Framework Page](../civilization-centered-education-module/index.md)
