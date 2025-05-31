@@ -1,3 +1,5 @@
+<!-- trigger rebuild -->
+
 ---
 title: Lori Framework
 layout: default
