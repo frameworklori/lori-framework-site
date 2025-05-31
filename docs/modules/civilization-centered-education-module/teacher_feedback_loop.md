@@ -11,6 +11,30 @@ It ensures that **human educators remain central** in guiding learning experienc
 
 ---
 
+## 🔍 Pedagogical Philosophy Alignment
+
+In many traditional classrooms, teachers and assessment systems tend to prioritize **end results** (correct answers, grades) over **learning processes** (thinking pathways, reflection, collaboration).
+
+However, in the AI era, such a result-oriented mindset is not only outdated — it is dangerous.
+
+**AI can easily produce "correct" answers. What AI cannot replace is the student's ability to:**
+- Navigate ambiguity
+- Employ multi-modal thinking
+- Reflect on their own reasoning
+- Develop adaptive, ethical judgment
+
+Therefore, it is imperative to shift educational design toward:
+- **Open-ended questions** that promote exploration, synthesis, and perspective-taking.
+- **Deliberate training of thinking skills**: critical reasoning, meta-cognition, creative problem-solving.
+- **Process-oriented assessment**: valuing the student's **reasoning journey** as much as — or more than — the final answer.
+
+**The mastery of AI is not about knowing "what" to ask — but understanding "why" and "how" to think.**
+**In the AI era, the cultivation of open thinking and adaptive intelligence is the foundation for true agency over AI.**
+
+In short: **Future citizens must not be passive AI users — they must be active, reflective AI governors.**
+
+---
+
 ## 2️⃣ Core Mechanisms
 
 ### 2.1 Dynamic Feedback Loop
