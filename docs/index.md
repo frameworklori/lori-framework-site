@@ -97,7 +97,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
   
 <summary>📋 Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table<summary>
 
-  [LORI_CASE_Overview](cases/LORI_CASE_Overview.md)
+ [LORI_CASE_Overview](cases/LORI_CASE_Overview.md)
 
 </details>
 
