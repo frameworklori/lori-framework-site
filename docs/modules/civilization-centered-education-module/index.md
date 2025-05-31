@@ -40,6 +40,9 @@ This module is designed to ensure that AI-augmented education promotes:
 ### 3.6 [Critical Thinking Module (V1.1)](critical_thinking_module.md)
 - Fostering **meta-cognitive**, **reflective**, and **analytical abilities** critical for governing AI and sustaining human agency.
 
+### 3.7 [AI Assignment Design Principles](ai_assignment_design_principles.md)
+- Designing **multi-step**, **divergent thinking** assignments that foster **deep reasoning**, **creative problem solving**, and **critical engagement** with AI-assisted learning.
+
 ---
 
 ## 🚀 Future Expansions
