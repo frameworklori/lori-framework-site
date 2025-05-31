@@ -139,33 +139,33 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 1️⃣ AGI Governance Core Modules [AGI-PRIORITY]
+## 1 AGI Governance Core Modules [AGI-PRIORITY]
 
 - [Presidential Charter](modules/Presidential_Charter.md)
-- [Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
-- [ESL: Energy Sentinel Layer](modules/ESL_Module.md)
+- [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
+- [ESL: Energy Sentinel Layer](modules/LORI-ESL.md)
 - [DSG: Data Sovereignty Governance Module](modules/LORI-DSG.md)
 - [SAID: Self-Activated Intervention Detector](modules/SAID_Module.md)
 - [FEED: Feedback-Ethics Enforcement Detector](modules/FEED_Module.md)
-- [AIDM-EION: AGI Infiltration Detection Module](modules/AIDM_EION.md)
-- [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF_Module.md)
+- [AIDM-ELON: AGI Infiltration Detection Module](modules/AIDM_Module.md)
+- [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF_v2.0_Architecture.md)
 - [RIM: Resilience & Impact Matrix](modules/RIM_Module.md)
 
 ---
 
-## 2️⃣ Modular Specialized AGI Modules [AGI-SPECIALIZED]
+## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
 - [Production Module (LORI-PM)](modules/Production_Module.md)
-- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
+- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL_GOV_Module.md)
 - [Civilization-Centered Education Module](modules/civilization-centered-education-module/index.md)
 - [AI De-Bias Kit](modules/AI_DeBias_Kit.md)
-- [HRI Module: Human Relay Infiltration Risk](modules/HRI_Modules.md)
+- [HRI Module: Human Relay Infiltration Risk](modules/HRI_Module.md)
 
 ---
 
-## 3️⃣ LORI Narrative & Application Modules [AGI-NARRATIVE]
+## 3 LORI Narrative & Application Modules [AGI-NARRATIVE]
 
-- [LORI Jury-Based System — Case Archive](modules/LORI-Jury-Based-Judgment.md)
+- [LORI Jury-Based System - Case Archive](cases/LORI-CASE-Overview.md)
 
 **Example Cases:**
 
@@ -176,10 +176,11 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 4️⃣ LORI Framework Foundation & Philosophy
+## 4 LORI Framework Foundation & Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
+
 
 ---
 
