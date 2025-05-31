@@ -70,4 +70,6 @@ In an AI-rich world, **empathetic competence** is a foundation for ethical citiz
 
 ---
 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+[← Back to Civilization-Centered Education Module Main Page](index.md)
+
+[← Back to LORI Framework Main Index](../../index.md)
