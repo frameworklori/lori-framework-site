@@ -65,3 +65,4 @@ This module is designed to ensure that AI-augmented education promotes:
 
 ---
 
+[← Back to LORI Framework Main Index](../../index.md)
