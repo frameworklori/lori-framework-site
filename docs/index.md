@@ -147,7 +147,7 @@ Visual structure showing the core interconnections:
 
 - [AGI Modules Overview](./modules/overview.md)
 - [HRI Module: Human Relay Infiltration Risk](./modules/HRI_Modules.md)
-- 
+- [Education Modules: Civilization-Centered-Education-Module](modules/civilization-centered-education-module/index.md)
 *Helps detect indirect AI knowledge transfer through human communication in closed regimes*
 
 ---
