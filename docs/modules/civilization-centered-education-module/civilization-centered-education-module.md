@@ -90,4 +90,7 @@ In this critical era, we must ensure that AI-powered education serves this highe
 
 ---
 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+[← Back to Civilization-Centered Education Module Main Page](index.md)
+
+[← Back to LORI Framework Main Index](../../index.md)
+
