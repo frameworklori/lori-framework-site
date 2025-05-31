@@ -50,10 +50,10 @@ This module provides a **comprehensive framework** to guide teachers, curriculum
 ### 3.4 [empathy_module_activities.md](empathy_module_activities.md)
 - Practical activities to cultivate empathy and reflective thinking.
 
-### 3.5 (Future) global_civic_literacy_module.md
+### 3.5  [global_civic_literacy_module.md](global_civic_literacy_module.md)
 - Curriculum elements for **international civic consciousness** and sustainability.
 
-### 3.6 (Future) critical_thinking_module.md
+### 3.6 [critical_thinking_module.md](critical_thinking_module.md)
 - Structured approaches to **critical and meta-cognitive skill development**.
 
 ---
