@@ -132,12 +132,6 @@ In the AI era, the cultivation of **global civic literacy** is foundational to p
 
 ---
 
-<p align="center">
-<a href="../index.md" style="text-decoration: none;">
-<button style="font-size:16px;padding:10px 20px;border-radius:8px;background-color:#4CAF50;color:white;border:none;cursor:pointer;">
-⬅️ GO BACK to Civilization-Centered Education Module
-</button>
-</a>
-</p>
+GO BACK TO [Main/civilization-centered-education-module<a] (href="../index.md" style="text-decoration: none;">)
 
 art of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
