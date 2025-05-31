@@ -1,7 +1,4 @@
 
-
-<!-- trigger rebuild -->
-
 ---
 title: Lori Framework
 layout: default
@@ -94,14 +91,17 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-009: US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md)
 - [LORI-CASE-010: ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md)
 
-- <details>
-<summary> LORI CASE Summary Table</summary>
+<details>
+<summary>📋 LORI CASE Summary Table</summary>
 
 [View Summary Table](cases/LORI_CASE_Summary.md)
 
+</details>
+
 ---
 
-<summary> LORI CASE Sensitivity Risk Table</summary>
+<details>
+<summary>⚠️ LORI CASE Sensitivity Risk Table</summary>
 
 [View Sensitivity Risk Table](cases/LORI_CASE_Sensitivity_Risk_Table.md)
 
