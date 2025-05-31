@@ -139,11 +139,6 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 # LORI Modules Structure Map
 
-<details>
-<summary> 📂 LORI Modules Structure Map (click to expand) </summary>
-
----
-
 ## 1 AGI Governance Core Modules [AGI-PRIORITY]
 
 - [Presidential Charter](modules/Presidential_Charter.md)
@@ -186,9 +181,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
 
-</details>
-
-
+---
 
 ## Explore AGI Governance
 
