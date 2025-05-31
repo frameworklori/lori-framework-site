@@ -91,6 +91,17 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-009: US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md)
 - [LORI-CASE-010: ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md)
 
+## 🗂️ LORI CASE Summary Table and CASE Sensitivity Risk Table
+
+<details open>
+  
+<summary>📋 Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table<summary>
+
+  [LORI_CASE_Overview](cases/LORI_CASE_Overview.md)
+
+</details>
+
+---
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
 >
