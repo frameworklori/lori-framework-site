@@ -39,3 +39,6 @@ As AI technologies become integrated into education, it is increasingly common f
 
 AI-assisted learning is an irreversible trend. Educational design should pivot toward "**thinking-oriented**," "**differentiated outputs**," and "**human-AI collaboration**" to prevent cognitive decline caused by uniform answers and to preserve and foster the core values of human civilization.
 
+[← Back to Civilization-Centered Education Module Main Page](index.md)
+
+[← Back to LORI Framework Main Index](../../index.md)
