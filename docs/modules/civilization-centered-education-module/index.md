@@ -62,4 +62,3 @@ This module is designed to ensure that AI-augmented education promotes:
 
 ---
 
-[🔙 GO BACK to Main Framework Page](../modules/civilization-centered-education-module/index.md)
