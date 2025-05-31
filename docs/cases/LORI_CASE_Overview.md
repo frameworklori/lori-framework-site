@@ -4,8 +4,8 @@
 
 ## 🗂️ LORI CASE Summary Table
 
-<details open>
-<summary>📋 Click to view CASE Summary Table</summary>
+
+<details open>📋 Click to view CASE Summary Table</summary>
 
 | CASE ID | Title | Linked Modules | Voting Outcome | Sensitivity Level |
 |---------|-------|----------------|----------------|-------------------|
