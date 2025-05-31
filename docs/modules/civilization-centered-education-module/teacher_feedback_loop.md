@@ -76,4 +76,4 @@ It ensures that AI remains a **servant of human pedagogy**, not its replacement 
 
 ---
 
-
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
