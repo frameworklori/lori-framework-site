@@ -131,3 +131,5 @@ In the AI era, the cultivation of **global civic literacy** is foundational to p
 > **A civilization-centered education empowers citizens to act as custodians of humanity’s collective future — across cultures, nations, and generations.**
 
 ---
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
