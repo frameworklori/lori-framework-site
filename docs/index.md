@@ -156,11 +156,10 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 ## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
 - [Production Module (LORI-PM)](modules/Production_Module.md)
-- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL_GOV_Module.md)
+- [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
 - [Civilization-Centered Education Module](modules/civilization-centered-education-module/index.md)
 - [AI De-Bias Kit](modules/AI_DeBias_Kit.md)
 - [HRI Module: Human Relay Infiltration Risk](modules/HRI_Module.md)
-
 ---
 
 ## 3 LORI Narrative & Application Modules [AGI-NARRATIVE]
