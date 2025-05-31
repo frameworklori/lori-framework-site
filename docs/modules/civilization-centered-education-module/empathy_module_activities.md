@@ -69,3 +69,5 @@ Empathy is a core human faculty that must be actively nurtured alongside intelle
 In an AI-rich world, **empathetic competence** is a foundation for ethical citizenship and **civilizational cohesion**.
 
 ---
+
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
