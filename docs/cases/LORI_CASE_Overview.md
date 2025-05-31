@@ -25,7 +25,6 @@
 
 ## 🛡️ LORI CASE Sensitivity Risk Table
 
-<details>
 <summary>⚠️ Click to view CASE Sensitivity Risk Table</summary>
 
 | CASE ID | Case Title | Sensitivity Level | Notes |
@@ -40,5 +39,5 @@
 | CASE-008 | Production Module Boundary Review Case | Level 1 | Internal framework governance |
 | CASE-009 | US vs Japan Tech IP Governance Case | Level 2 | Comparative international governance, Japan government attention observed |
 
-</details>
+
 
