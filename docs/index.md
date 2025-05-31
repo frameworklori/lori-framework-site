@@ -145,6 +145,9 @@ Visual structure showing the core interconnections:
 <img src="./assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
+## 📜 LORI Framework Philosophy
+
+- [Philosophy of LORI Framework](philosophy.md)
 - [AGI Modules Overview](./modules/overview.md)
 - [HRI Module: Human Relay Infiltration Risk](./modules/HRI_Modules.md)
 - [Education Modules: Civilization-Centered-Education-Module](modules/civilization-centered-education-module/index.md)
