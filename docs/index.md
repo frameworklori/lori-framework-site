@@ -164,7 +164,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 3 LORI Narrative & Application Modules [AGI-NARRATIVE]
 
-- [LORI Jury-Based System - Case Archive](cases/LORI-CASE-Overview.md)
+- [LORI Jury-Based System - Case Archive](cases/LORI-Jury-Based-Judgment.md)
 
 **Example Cases:**
 
