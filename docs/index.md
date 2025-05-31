@@ -141,7 +141,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 1 AGI Governance Core Modules [AGI-PRIORITY]
 
-[Presidential Charter](modules/PhotonicEnergy_Module.md)
+- [Presidential Charter](modules/PhotonicEnergy_Module.md)
 - [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
 - [ESL: Energy Sentinel Layer](modules/ESL.md)
 - [DSG: Data Sovereignty Governance Module](modules/LOI-DSG.md)
