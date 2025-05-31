@@ -17,6 +17,8 @@ Without critical thinking, AI can easily **reinforce biases**, **propagate misin
 
 ---
 
+Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+
 ## 2️⃣ From Result-Oriented to Process-Oriented Learning
 
 Traditional education often rewards:
