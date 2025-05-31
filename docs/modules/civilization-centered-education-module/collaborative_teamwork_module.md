@@ -88,4 +88,6 @@ The Collaborative Teamwork Module is a vital step toward sustaining the **social
 
 ---
 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+[← Back to Civilization-Centered Education Module Main Page](index.md)
+
+[← Back to LORI Framework Main Index](../../index.md)
