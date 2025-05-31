@@ -204,13 +204,7 @@ _Semantic Propagation Resonator + Motive Tracing Layer_
 - [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/TrustDrift.md)
 - [Conformity Effect Module](./modules/Conformity_Effect_Module.md)
 
-
-..
-## 🏛️ Explore Lori Platforms
-
-- [Civilization-Centered Education Module](./modules/civilization-centered-education-module/index.md)
-- [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
-- [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
+---
 
 ## ⚠️ Strategic Module
 
