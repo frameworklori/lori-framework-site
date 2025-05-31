@@ -147,7 +147,7 @@ Visual structure showing the core interconnections:
 
 ## 📜 LORI Framework Philosophy
 
-- [Philosophy of LORI Framework](philosophy.md)
+- [Philosophy of LORI Framework](./modules/civilization-centered-education-module/philosophy.md)
 - [AGI Modules Overview](./modules/overview.md)
 - [HRI Module: Human Relay Infiltration Risk](./modules/HRI_Modules.md)
 - [Education Modules: Civilization-Centered-Education-Module](modules/civilization-centered-education-module/index.md)
