@@ -130,3 +130,6 @@ Students must be equipped not merely to **use AI**, but to **govern it**:
 
 ---
 
+[← Back to Civilization-Centered Education Module Main Page](index.md)
+
+[← Back to LORI Framework Main Index](../../index.md)
