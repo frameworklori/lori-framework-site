@@ -206,9 +206,9 @@ _Semantic Propagation Resonator + Motive Tracing Layer_
 
 
 ..
-## Explore Lori Platforms
+## 🏛️ Explore Lori Platforms
 
-- [Civilization-Centered Education Module](./modules/civilization-centered-education-module.md/)
+- [Civilization-Centered Education Module](/modules/civilization-centered-education-module/)
 - [Age-Based AI Risk Policy Framework](https://frameworklori.github.io/age-policy-framework)
 - [LII Risk Modeling System](https://frameworklori.github.io/LII-Framework)
 
