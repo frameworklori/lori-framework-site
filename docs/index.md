@@ -85,6 +85,8 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-005: Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md)
 - [LORI-CASE-006: Semantic Polarization & Security Labeling Bias](cases/LORI-CASE-006.md)
 - [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
+- [LORI-CASE-008: Production Module Boundary Review Case](cases/LORI-CASE-008.md)
+- [LORI-CASE-010: Outcome Risk Anticipation Case — Financial Instability Scenario](cases/LORI-CASE-010.md)
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
 >
