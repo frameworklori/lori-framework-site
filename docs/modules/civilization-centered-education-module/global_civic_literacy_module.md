@@ -131,8 +131,9 @@ In the AI era, the cultivation of **global civic literacy** is foundational to p
 > **A civilization-centered education empowers citizens to act as custodians of humanity’s collective future — across cultures, nations, and generations.**
 
 ---
+
 <p align="center">
-<a href="../modules/civilization-centered-education-module/" style="text-decoration: none;">
+<a href="../modules/civilization-centered-education-module/index.md" style="text-decoration: none;">
 <button style="font-size:16px;padding:10px 20px;border-radius:8px;background-color:#4CAF50;color:white;border:none;cursor:pointer;">
 ⬅️ GO BACK to Civilization-Centered Education Module
 </button>
