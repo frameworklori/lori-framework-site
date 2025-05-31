@@ -1,4 +1,3 @@
-
 ---
 title: Lori Framework
 layout: default
@@ -92,9 +91,11 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-010: ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md)
 
 ## 🗂️ LORI CASE Summary Table and CASE Sensitivity Risk Table
- 
+
+
 <details open>📋 Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table<summary>
-(cases/LORI_CASE_Overview.md)
+(cases/LORI_CASE_Overview.md)<summary>
+
 
 </details>
 
