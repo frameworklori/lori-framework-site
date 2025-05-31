@@ -145,6 +145,14 @@ Visual structure showing the core interconnections:
 <img src="./assets/images/LORI_AGI_GOVERNANCE_RISK_OVERVIEW.png" alt="LORI AGI Governance Modules Diagram" width="800">
 </p>
 
+---
+
+## Modular Specialized AGI Modules
+
+- [Production Module (LORI-PM)](modules/Production_Module.md)
+
+---
+
 ## 📜 LORI Framework Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
