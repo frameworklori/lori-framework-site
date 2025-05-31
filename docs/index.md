@@ -95,16 +95,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-010: ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md)
 
 - <details>
-<summary>📋 LORI CASE Summary Table</summary>
+<summary> LORI CASE Summary Table</summary>
 
 [View Summary Table](cases/LORI_CASE_Summary.md)
 
-</details>
-
 ---
 
-<details>
-<summary>⚠️ LORI CASE Sensitivity Risk Table</summary>
+<summary> LORI CASE Sensitivity Risk Table</summary>
 
 [View Sensitivity Risk Table](cases/LORI_CASE_Sensitivity_Risk_Table.md)
 
