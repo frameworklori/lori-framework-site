@@ -95,7 +95,7 @@ Is Japan’s governance model superior in this context?
 
 ---
 
-### 🎯 Jury Critical Insight
+### AI 🎯 Jury Critical Insight
 
 While the panel unanimously acknowledged the U.S. government's intent to protect intellectual property (IP) through targeted visa restrictions, it was observed that deeper systemic vulnerabilities persist within institutional governance.
 
