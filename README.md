@@ -6,8 +6,10 @@ test commit by Lori
 </p>
 
 # 🌐 LORI Framework
-### Ethical & Governance System for AGI / AI / Human-AI Interaction
-**Version: 2025-06-01**
+
+**Ethical & Governance System for AGI / AI / Human-AI Interaction**
+
+Version: 2025-06-01
 
 ---
 
@@ -33,4 +35,4 @@ LORI (Layered Oversight & Resilient Integrity) is a comprehensive ethical and go
 
 ---
 
-## 🗺️ Modules Structure Map (Updated 2025-06-01)
+## 📘 Modules Structure Map (Updated 2025-06-01)
