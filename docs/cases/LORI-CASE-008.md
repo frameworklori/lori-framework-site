@@ -41,6 +41,25 @@ The **LORI Jury-Based Judgment System** was activated for dynamic boundary gover
 
 ---
 
+### Governance Feedback – Knowledge Sovereignty Clarification
+
+During deliberation, the jury noted that while advanced AI technologies may assist in monitoring academic data flows, the current absence of a formal **Knowledge Sovereignty Governance Layer** represents a critical gap.
+
+The proposed model — a 1/3 ownership structure between **National / Institutional / Individual** — offers a legitimate and necessary governance innovation, not invalidated by current implementation challenges.
+
+The jury advises that future AI surveillance capabilities must be embedded within such a clearly defined governance framework to:
+1️⃣ Prevent semantic conflation of "technical feasibility" with "policy sufficiency"
+2️⃣ Ensure academic freedom is appropriately balanced with national knowledge security
+3️⃣ Distinguish public, sanctioned, and unauthorized cross-border academic data flows with precision
+
+Absent this governance clarity, AI-enabled surveillance risks both overreach and underprotection in academic contexts.
+
+---
+
+*This feedback forms part of the Knowledge Sovereignty Layer advancement under the LORI Framework.*
+
+---
+
 ## 📍 Precedent and Record Notes
 
 - **First Production Module dynamic boundary review case** under the LORI Jury System.
@@ -60,4 +79,5 @@ The **LORI Jury-Based Judgment System** was activated for dynamic boundary gover
 
 Version: `v1.0 Final`
 Status: `Verified as precedent case for Production Module governance`
+
 
