@@ -60,5 +60,21 @@ This case highlights the importance of advancing governance maturity in cross-do
 
 ---
 
+###  Additional Notes  ### BY LORI
+
+Supplementary Governance Insight — Cross-Border Academic Data Governance
+
+During jury deliberation, the panel further identified a parallel application of Knowledge Sovereignty principles in the domain of international academic exchanges and student-driven knowledge flows. In particular, student participation in high-tech cross-border ecosystems introduces latent risks of knowledge leakage and asymmetric value transfer.
+
+To address this, the following supplementary governance strategy is proposed:
+
+1️⃣ Shift focus from broad visa restrictions toward institution-level, transaction-level governance (targeting research data access, collaboration permissions, and joint innovation boundaries).
+2️⃣ Implement AI-assisted transparency layers for institutional collaboration tracking, ensuring dynamic boundary review across funded projects, publication pipelines, and sensitive domains.
+3️⃣ Develop a Knowledge Sovereignty Compliance Score for academic entities and programs, integrated into the LORI Framework Knowledge Sovereignty Layer.
+
+This aligned with the production module insight that dynamic governance maturity must evolve across multiple data domains, including academic and human-driven knowledge transfer pathways.
+
+
+
 *LORI-CASE-008 v1.1 | Issued: 2025-06-01 | LORI Jury-Based Judgment System*
 *Status: Extended with Knowledge Sovereignty Governance Feedback (linked to ODRAF-MRC v1.0 and Knowledge-Sovereignty.md)*
