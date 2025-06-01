@@ -92,9 +92,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ---
 
-<details open onclick="location.href='cases/LORI_CASE_Overview.md'">
-<summary>📂 Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table</summary>
-</details>
+### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_CASE_Overview.md)
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
 >
