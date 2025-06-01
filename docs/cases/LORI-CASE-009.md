@@ -97,7 +97,11 @@ Is Japan’s governance model superior in this context?
 
 ### 📊 Jury Voting Result Chart
 
-![LORI-CASE-009 Jury Voting Result](../assets/images/LORI-CASE-009-vote-chart-clean.png)
+<p align="center">
+<img src="../assets/images/LORI-CASE-009-vote-chart-clean.png" alt="semantic infiltration flowchart" width="400">
+
+</p>
+
 
 
 ## ⚖️ Main Sovereignty Human Judge
