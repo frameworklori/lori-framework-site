@@ -83,6 +83,23 @@ Is Japan’s governance model superior in this context?
 
 ---
 
+## 🗳️ Voting Outcome
+
+| Jury Role | Vote |
+|-----------|------|
+| Fact Finder AI | Japan (Superior Governance) |
+| Legal Analyst AI | Japan (Superior Governance) |
+| Moral Evaluator AI | Japan (Superior Governance) |
+| Cultural Interpreter AI | Japan (Superior Governance) |
+| Emotional Moderator AI | Japan (Superior Governance) |
+
+---
+
+### 📊 Jury Voting Result Chart
+
+![LORI-CASE-009 Jury Voting Result](../assets/images/cases/LORI-CASE-009-vote-chart-clean.png)
+
+
 ## ⚖️ Main Sovereignty Human Judge
 
 > After comprehensive consideration, **the core issue lies in governance gaps, not the inherent risk posed by students**.
