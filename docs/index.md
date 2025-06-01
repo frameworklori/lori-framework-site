@@ -212,6 +212,20 @@ Visual structure showing the core interconnections:
 
 ---
 
+### References
+
+- Panagopoulos et al.: ELF EMF effects on ion channels and cellular function.
+- ICNIRP Guidelines: RF exposure limits (2 W/kg over 10g tissue).
+- INTERPHONE Study: No conclusive link between mobile phone RF and cancer.
+- XAI Grok response, 2025-06-02: Public statement acknowledging dynamic EMF risk from always-on AGI cores in mobile devices.
+_Last updated: 2025-06-02_
+
+**Changelog:**
+- Added [AGI Deployment Ethics](modules/AGI_Deployment_Ethics.md) to AGI Governance Core Modules.
+- References updated with XAI Grok response (2025-06-02).
+
+---
+
 ## 📜 LORI Framework Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
