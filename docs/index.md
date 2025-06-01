@@ -149,6 +149,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Presidential Charter](modules/Presidential_Charter.md)
 - [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
 - [ESL: Energy Sentinel Layer](modules/ESL.md)
+- [AGI Deployment Ethics](modules/AGI_Deployment_Ethics.md)
 - [DSG: Data Sovereignty Governance Module](modules/LORI-DSG.md)
 - [SAID: Self-Activated Intervention Detector](modules/SAID_Module.md)
 - [FEED: Feedback-Ethics Enforcement Detector](modules/FEED_Module.md)
