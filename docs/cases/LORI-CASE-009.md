@@ -95,6 +95,17 @@ Is Japan’s governance model superior in this context?
 
 ---
 
+### 🎯 Jury Critical Insight
+
+While the panel unanimously acknowledged the U.S. government's intent to protect intellectual property (IP) through targeted visa restrictions, it was observed that deeper systemic vulnerabilities persist within institutional governance.
+
+Specifically, the jury noted that enterprises and academic institutions often lack rigorous partner screening and maintain insufficient access controls for sensitive technologies. These operational gaps may represent a greater vector for IP leakage than the academic activities of individual international students.
+
+Furthermore, an over-reliance on exclusionary immigration policies risks overlooking internal compliance weaknesses. Effective IP protection requires an integrated strategy — combining precise risk assessment, institutional accountability, and strengthened collaborative frameworks — rather than broad-brush visa interventions.
+
+This insight suggests that holistic governance models, such as those proposed within the LORI Framework, may offer more resilient approaches to balancing national security with academic openness and global innovation networks.
+
+
 ### 📊 Jury Voting Result Chart
 
 <p align="center">
