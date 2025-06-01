@@ -38,7 +38,7 @@ During deliberation, the jury identified that current **Production Module bounda
 It is recommended that the **Knowledge Sovereignty Governance Layer** (recently defined within the LORI Framework) be systematically integrated into dynamic boundary review processes for any academic, pre-publication, or sensitive research data.
 
 Furthermore, future AI-assisted monitoring of such data must operate under clearly defined governance closure principles, as outlined in the **Knowledge Sovereignty** model, to avoid both overreach and blind spots.
-
+This principle is further applicable to emerging domains such as international academic exchanges and cross-border knowledge flows, where human-driven knowledge transmission requires dynamic alignment with Knowledge Sovereignty governance.
 This case highlights the importance of advancing governance maturity in cross-domain data boundary management.
 
 ---
