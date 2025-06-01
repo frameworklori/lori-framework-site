@@ -98,7 +98,7 @@ Is Japan’s governance model superior in this context?
 ### 📊 Jury Voting Result Chart
 
 <p align="center">
-<img src="../assets/images/LORI-CASE-009-vote-chart-clean.png" alt="semantic infiltration flowchart" width="400">
+<img src="../assets/images/LORI-CASE-009-vote-chart-clean.png" alt="semantic infiltration flowchart" width="500">
 
 </p>
 
