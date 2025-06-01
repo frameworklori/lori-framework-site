@@ -82,16 +82,17 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 | Case ID | Title | Status |
 |---------|-------|--------|
-| [LORI-CASE-001](cases/LORI-CASE-001.md) | [AI Surveillance Ethics](cases/LORI-CASE-001.md) | Verified |
-| [LORI-CASE-002](cases/LORI-CASE-002.md) | [Autonomous Drone Decisions](cases/LORI-CASE-002.md) | Verified |
-| [LORI-CASE-003](cases/LORI-CASE-003.md) | [Personalization vs Privacy](cases/LORI-CASE-003.md) | Verified |
-| [LORI-CASE-004](cases/LORI-CASE-004.md) | [ICU Triage Protocol](cases/LORI-CASE-004.md) | Verified |
+| [LORI-CASE-001](cases/LORI-CASE-001.md) | [Autonomous Vehicle Collision Liability](cases/LORI-CASE-001.md) | Verified |
+| [LORI-CASE-002](cases/LORI-CASE-002.md) | [AI Surveillance Ethics Dispute](cases/LORI-CASE-002.md) | Verified |
+| [LORI-CASE-003](cases/LORI-CASE-003.md) | [Autonomous Drone Deployment Ethics](cases/LORI-CASE-003.md) | Verified |
+| [LORI-CASE-004](cases/LORI-CASE-004.md) | [Tech Firm Data Collection vs Personal Autonomy](cases/LORI-CASE-004.md) | Verified |
 | [LORI-CASE-005](cases/LORI-CASE-005.md) | [Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md) | Verified |
 | [LORI-CASE-006](cases/LORI-CASE-006.md) | [Semantic Polarization & Security Labeling Bias](cases/LORI-CASE-006.md) | Verified |
-| [LORI-CASE-007](cases/LORI-CASE-007.md) | [Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md) | Verified |
+| [LORI-CASE-007](cases/LORI-CASE-007.md) | [Charismatic Slogan Simulation & Semantic Grey-Zone Risk](cases/LORI-CASE-007.md) | Verified |
 | [LORI-CASE-008](cases/LORI-CASE-008.md) | [Production Module Boundary Review Case](cases/LORI-CASE-008.md) | **v1.1 | Extended with Knowledge Sovereignty Feedback (NEW)** |
 | [LORI-CASE-009](cases/LORI-CASE-009.md) | [US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md) | In Progress |
-| [LORI-CASE-010](cases/LORI-CASE-010.md) | [ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md) | In Progress |
+| [LORI-CASE-010](cases/LORI-CASE-010.md) | [ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario](cases/LORI-CASE-010.md) | In Progress |
+
 ---
 
 ### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_CASE_Overview.md)
