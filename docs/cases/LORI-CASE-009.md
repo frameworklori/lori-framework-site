@@ -106,6 +106,15 @@ Furthermore, an over-reliance on exclusionary immigration policies risks overloo
 This insight suggests that holistic governance models, such as those proposed within the LORI Framework, may offer more resilient approaches to balancing national security with academic openness and global innovation networks.
 
 
+## Main Sovereignty Human Judge Commentary
+
+It is worth noting that while concerns over potential espionage risks have driven the U.S. policy to target Chinese international students in key technological fields, this approach may risk overgeneralization. Espionage behavior is determined by individual actions and organizational networks — it is not inherently tied to one visa category or immigration status. In reality, individuals with varied statuses (including immigrants, work visa holders, or permanent residents) may equally represent risk vectors.
+
+The focus on international students is likely driven by their structured access to advanced knowledge ecosystems, close interaction with academic mentors, and participation in cutting-edge research environments. These factors elevate the potential for knowledge absorption, transformation, and repurposing — making this group strategically significant.
+
+However, this policy framing should be applied with caution to avoid constructing narratives that stigmatize an entire demographic. Risk-based governance requires precision targeting and evidence-based profiling, in alignment with both ethical norms and global academic openness.
+
+
 ### 📊 Jury Voting Result Chart
 
 <p align="center">
