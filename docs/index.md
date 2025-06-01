@@ -78,17 +78,20 @@ LORI is an open, modular architecture that helps society:
 
 Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
 
-📂 [LORI Case Index](cases/case_index.md)
-- [LORI-CASE-001: AI Surveillance Ethics](cases/LORI-CASE-001.md)
-- [LORI-CASE-002: Autonomous Drone Decisions](cases/LORI-CASE-002.md)
-- [LORI-CASE-003: Personalization vs Privacy](cases/LORI-CASE-003.md)
-- [LORI-CASE-004: ICU Triage Protocol](cases/LORI-CASE-004.md)
-- [LORI-CASE-005: Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md)
-- [LORI-CASE-006: Semantic Polarization & Security Labeling Bias](cases/LORI-CASE-006.md)
-- [LORI-CASE-007: Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md)
-- [LORI-CASE-008: Production Module Boundary Review Case](cases/LORI-CASE-008.md)
-- [LORI-CASE-009: US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md)
-- [LORI-CASE-010: ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md)
+## 📜 LORI Case Index (as of 2025-06-01)
+
+| Case ID | Title | Status |
+|---------|-------|--------|
+| LORI-CASE-001 | AI Surveillance Ethics | Verified |
+| LORI-CASE-002 | Autonomous Drone Decisions | Verified |
+| LORI-CASE-003 | Personalization vs Privacy | Verified |
+| LORI-CASE-004 | ICU Triage Protocol | Verified |
+| LORI-CASE-005 | Cross-Border Data Exposure and Sovereignty Risk | Verified |
+| LORI-CASE-006 | Semantic Polarization & Security Labeling Bias | Verified |
+| LORI-CASE-007 | Semantic Distortion & Idol Influence | Verified |
+| LORI-CASE-008 | Production Module Boundary Review Case | **v1.1 | Extended with Knowledge Sovereignty Feedback (NEW)** |
+| LORI-CASE-009 | US vs Japan Tech IP Governance Case | In Progress |
+| LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case | In Progress |
 
 ---
 
