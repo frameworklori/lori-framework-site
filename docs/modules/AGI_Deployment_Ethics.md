@@ -17,3 +17,10 @@ It is recognized that embedding always-on AGI cores into mobile or wearable devi
 Current SAR standards do not sufficiently cover non-thermal and cumulative cognitive or neurological risks posed by such sustained computation-driven EMFs. Until comprehensive public health evaluations and international standards are established, deployment of always-on AGI cores in close-contact personal devices (smartphones, wearables, headsets) shall be classified as a high-risk action under the LORI Ethical Framework.
 
 ---
+
+### References
+
+- Panagopoulos et al.: ELF EMF effects on ion channels and cellular function.
+- ICNIRP Guidelines: RF exposure limits (2 W/kg over 10g tissue).
+- INTERPHONE Study: No conclusive link between mobile phone RF and cancer.
+- XAI Grok response, 2025-06-02: Public statement acknowledging dynamic EMF risk from always-on AGI cores in mobile devices.
