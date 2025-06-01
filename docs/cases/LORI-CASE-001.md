@@ -1,5 +1,4 @@
-# LORI-CASE-001: Autonomous Vehicle Collision Liability
-
+# LORI-CASE-001: Autonomous Vehicle Safety Governance & Liability
 **Case Type:** 
 **Linked Modules:** Jury System × GZW × Legal Risk Mapper × EDRI-H
 
