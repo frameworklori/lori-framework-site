@@ -80,9 +80,6 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ## 📜 LORI Case Index (as of 2025-06-01)
 
-
-## 📜 LORI Case Index (as of 2025-06-01)
-
 | Case ID   |   Title   |   Status   |
 |-----------|-----------|------------|
 | [LORI-CASE-001](cases/LORI-CASE-001.md) | [Autonomous Vehicle Collision Liability](cases/LORI-CASE-001.md) | Verified |
