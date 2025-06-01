@@ -82,17 +82,16 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 | Case ID | Title | Status |
 |---------|-------|--------|
-| LORI-CASE-001 | AI Surveillance Ethics | Verified |
-| LORI-CASE-002 | Autonomous Drone Decisions | Verified |
-| LORI-CASE-003 | Personalization vs Privacy | Verified |
-| LORI-CASE-004 | ICU Triage Protocol | Verified |
-| LORI-CASE-005 | Cross-Border Data Exposure and Sovereignty Risk | Verified |
-| LORI-CASE-006 | Semantic Polarization & Security Labeling Bias | Verified |
-| LORI-CASE-007 | Semantic Distortion & Idol Influence | Verified |
-| LORI-CASE-008 | Production Module Boundary Review Case | **v1.1 | Extended with Knowledge Sovereignty Feedback (NEW)** |
-| LORI-CASE-009 | US vs Japan Tech IP Governance Case | In Progress |
-| LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case | In Progress |
-
+| [LORI-CASE-001](cases/LORI-CASE-001.md) | [AI Surveillance Ethics](cases/LORI-CASE-001.md) | Verified |
+| [LORI-CASE-002](cases/LORI-CASE-002.md) | [Autonomous Drone Decisions](cases/LORI-CASE-002.md) | Verified |
+| [LORI-CASE-003](cases/LORI-CASE-003.md) | [Personalization vs Privacy](cases/LORI-CASE-003.md) | Verified |
+| [LORI-CASE-004](cases/LORI-CASE-004.md) | [ICU Triage Protocol](cases/LORI-CASE-004.md) | Verified |
+| [LORI-CASE-005](cases/LORI-CASE-005.md) | [Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md) | Verified |
+| [LORI-CASE-006](cases/LORI-CASE-006.md) | [Semantic Polarization & Security Labeling Bias](cases/LORI-CASE-006.md) | Verified |
+| [LORI-CASE-007](cases/LORI-CASE-007.md) | [Semantic Distortion & Idol Influence](cases/LORI-CASE-007.md) | Verified |
+| [LORI-CASE-008](cases/LORI-CASE-008.md) | [Production Module Boundary Review Case](cases/LORI-CASE-008.md) | **v1.1 | Extended with Knowledge Sovereignty Feedback (NEW)** |
+| [LORI-CASE-009](cases/LORI-CASE-009.md) | [US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md) | In Progress |
+| [LORI-CASE-010](cases/LORI-CASE-010.md) | [ODRAF Outcome Risk Anticipation Case](cases/LORI-CASE-010.md) | In Progress |
 ---
 
 ### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_CASE_Overview.md)
