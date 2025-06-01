@@ -89,7 +89,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 | [LORI-CASE-005](cases/LORI-CASE-005.md) | [Cross-Border Data Exposure and Sovereignty Risk](cases/LORI-CASE-005.md) | Verified |
 | [LORI-CASE-006](cases/LORI-CASE-006.md) | [Semantic Polarization & Security Labeling Bias](cases/LORI-CASE-006.md) | Verified |
 | [LORI-CASE-007](cases/LORI-CASE-007.md) | [Charismatic Slogan Simulation & Semantic Grey-Zone Risk](cases/LORI-CASE-007.md) | Verified |
-| [LORI-CASE-008](cases/LORI-CASE-008.md) | [Production Module Boundary Review Case](cases/LORI-CASE-008.md) | **v1.1 | Extended with Knowledge Sovereignty Feedback (NEW)** |
+| [LORI-CASE-008](cases/LORI-CASE-008.md) | [Production Module Boundary Review Case](cases/LORI-CASE-008.md) | **v1.1 | Extended with Knowledge Sovereignty Layer** |
 | [LORI-CASE-009](cases/LORI-CASE-009.md) | [US vs Japan Tech IP Governance Case](cases/LORI-CASE-009.md) | In Progress |
 | [LORI-CASE-010](cases/LORI-CASE-010.md) | [ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario](cases/LORI-CASE-010.md) | In Progress |
 ---
