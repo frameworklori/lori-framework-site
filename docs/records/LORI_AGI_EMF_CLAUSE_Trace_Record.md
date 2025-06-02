@@ -59,12 +59,13 @@ This record may be cited in:
 
 ## 🔗 Trace Integrity
 
-**Initial Git Commit SHA:** _(fill after your first Commit)_
-**GitHub Repository:** https://github.com/your-repo-path
+
+
+**Initial Git Commit SHA:** _(fill after your first Commit)_  
+
+**GitHub Repository:** https://github.com/frameworklori/lori-framework-site
 
 ---
 
 _Last maintained: 2025-06-02_
-
-
 
