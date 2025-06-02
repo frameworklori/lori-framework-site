@@ -220,9 +220,13 @@ Visual structure showing the core interconnections:
 - XAI Grok response, 2025-06-02: Public statement acknowledging dynamic EMF risk from always-on AGI cores in mobile devices.
 _Last updated: 2025-06-02_
 
-**Changelog:**
-- Added [AGI Deployment Ethics](modules/AGI_Deployment_Ethics.md) to AGI Governance Core Modules.
-- References updated with XAI Grok response (2025-06-02).
+---
+
+### 📜 Framework Documentation Links
+
+- [📜 LORI Framework Changelog](LORI_Framework_Changelog.md)
+
+_Last updated: 2025-06-02_
 
 ---
 
