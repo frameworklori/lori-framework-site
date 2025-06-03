@@ -156,7 +156,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [AIDM-ELON: AGI Infiltration Detection Module](modules/AIDM_Module.md)
 - [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF_v2.0_Architecture.md)
 - [RIM: Resilience & Impact Matrix](modules/RIM_Module.md)
-
+- [LORI-ESL: Energy Sentinel Layer v2.0](modules/LORI-ESL_v2.0.md)
+  
 ---
 
 ## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
