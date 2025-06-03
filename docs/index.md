@@ -253,7 +253,7 @@ Or directly access key modules:
 - [**Pandora Effect Diffusion Module**](./modules/Pandora.md)
 - [**LORI-HCAP: Human Capability Analysis & Protection Module**](modules/LORI-HCAP.md)
 
-(See details in Cultural & Emotional Risk Modules)
+ (See details in Cultural & Emotional Risk Modules)
 
 ---
 
