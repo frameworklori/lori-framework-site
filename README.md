@@ -59,6 +59,9 @@ Dive into modules analyzing demographic, reproductive, robotic, and cognitive ad
 
 ---
 
+🔗 Ethical baseline: [LORI-NBSM](https://github.com/frameworklori/LORI-NBSM)
+
+
 ## 🛡️ AIFS Modules (AI Fraud Spectrum)
 
 - **AIFS Overview**
