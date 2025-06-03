@@ -65,13 +65,14 @@ For each domain, what human developmental opportunities are lost or reduced when
 
 ---
 
-## 6️⃣ Interaction with LORI Educational Governance Modules
+## 6️⃣ Cross-Impact Matrix: AI Dependency vs Human Capability Dynamics
 
-This module directly interacts with:
-- **Civilization-Centered Education Module**
-- **AI-Education Governance Module**
-- **ODRAF v2.0** (for risk anticipation related to human cognitive degradation)
-- **LORI-ESL** (for energy-resource balancing in education-AI interactions)
+| Domain | AI Dependency (EDRI Level) | Trust Drift (Trust Drift Level) | Positive Enhancement Effects | Negative Degradation Risks |
+|--------|----------------------------|-------------------------------|------------------------------|----------------------------|
+| Medical / Healthcare | Medium–High (AI-assisted diagnostics, drug discovery) | High (over-trust in AI diagnosis) | Accelerated innovative drug development; reduced misdiagnosis | Loss of physician fine-grained judgement; depersonalized patient interaction |
+| Education | High (AI supplemental teaching, automated homework) | Medium (students trusting AI answers) | Increased knowledge acquisition efficiency | Decreased exploratory learning; critical thinking regression |
+| Visual Arts | High (AI-generated art/design) | High (trust in AI aesthetic decisions) | Rapid style exploration; inspiration triggering | Loss of manual drawing skills; aesthetic homogenization |
+| Innovation / R&D | Medium (AI modeling, hypothesis generation) | Medium (over-reliance on AI hypotheses) | Accelerated innovation cycles | Reduced original theory exploration; dependence on data-driven patterns |
 
 ---
 
