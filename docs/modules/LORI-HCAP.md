@@ -76,17 +76,47 @@ For each domain, what human developmental opportunities are lost or reduced when
 
 ---
 
-## 7️⃣ Version History & References
+## 7️⃣ AI Dependency vs Human Capability Dynamics: Cross-Domain Correlation Map
+
+The following correlation map illustrates how varying degrees of AI dependency (EDRI Level) impact human problem-solving efficiency across key domains. Both positive enhancement effects and negative degradation risks are considered.
+
+![HCAP EDRI Trust CrossMap](../assets/images/HCAP_EDRI_Trust_CrossMap.png)
+
+---
+
+### 🔍 Results and Analysis
+
+The cross-domain correlation map reveals a **non-linear dependency effect** of AI on human problem-solving efficiency:
+
+   1️⃣ **AI is not inherently positive or negative** — its impact depends on **dependency level**, **usage model**, and **domain-specific dynamics**.
+
+   2️⃣ Across all domains, an **optimal AI dependency zone** emerges where human efficiency is maximized:
+- In **Medical / Healthcare**, moderate AI dependency accelerates innovation and reduces errors, but over-reliance risks de-skilling clinicians.
+- In **Education**, moderate AI support enhances learning, while high dependency significantly degrades critical thinking and exploratory skills.
+- In **Visual Arts**, initial AI usage fosters inspiration and stylistic exploration, yet high dependency erodes manual skills and originality.
+- In **Innovation / R&D**, AI provides sustained positive impact up to high-moderate dependency, after which creative originality may decline.
+
+   3️⃣ **Excessive AI dependency triggers capability degradation**:
+- The tipping point varies by domain.
+- Domains involving **abstract reasoning, cultural depth, and originality** show faster degradation under high dependency.
+
+   4️⃣ **Governance implications**:
+- **AI Dependency Governance** mechanisms are necessary to maintain optimal human-AI synergy.
+- The LORI-HCAP module, in conjunction with **ODRAF**, **Trust Drift**, and **EDRI** modules, should form a proactive governance layer.
+- **Early warning thresholds** and **dependency feedback loops** are recommended for high-sensitivity domains such as Education and Healthcare.
+
+**Summary Judgment**:
+→ **AI is a powerful augmentative force when used with calibrated dependency**.
+→ **Unchecked dependency leads to significant cognitive and creative erosion**.
+→ **Dependency governance is essential for sustainable human capability development in the age of AI**.
+
+
+## 8️⃣ Version History & References
 
 **Version:** v1.0 Draft (2025-06-03)
 **Author:** LORI Framework Team
-
----
 
 **References:**
 - LORI Framework Design Principles
 - Cognitive Science Studies on AI-Human Capability Interaction
 - Education Policy Research on AI Impact
-
----
-
