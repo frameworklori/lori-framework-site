@@ -20,14 +20,17 @@ This architecture directly supports the LORI-ESL (Energy Sentinel Layer) objecti
 <p align="center">
 <img src="../assets/images/LORI-ESL_PowerFlow_v2.png" alt="LORI-ESL_PowerFlow" width="350">
 </p>
-###intercontiental HVDC
+ ###Intercontiental HVDC
 
 ---
 The following architecture illustrates the AI-driven energy flow from high-yield "Hot Zones", through advanced storage and HVDC transmission, to "Cold Zones" optimized for AI data center operations. This supports both energy resilience and optimized thermal management for AI workloads.
 
 ---
+
 3️⃣ AI Energy Scheduler Integration
 4️⃣ HVDC and Storage Considerations
 5️⃣ LORI-ESL v2.0 Interaction with AGI Governance Modules
 6️⃣ Future Expansion: Global Cross-Grid AI Energy Federation
 7️⃣ Version History & References
+
+---
