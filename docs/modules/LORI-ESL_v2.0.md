@@ -15,7 +15,9 @@ This architecture directly supports the LORI-ESL (Energy Sentinel Layer) objecti
 1️⃣ Module Purpose and Scope
 2️⃣ Hot Zone → Storage → Cold Zone Concept Architecture (with diagram)
 
-![LORI-ESL PowerFlow v2](assets/images/LORI-ESL_PowerFlow_v2.png)
+<p align="center">
+<img src="./assets/images/LORI-ESL_PowerFlow_v2.png" alt="LORI-ESL_PowerFlow" width="500">
+</p>
 
 The following architecture illustrates the AI-driven energy flow from high-yield "Hot Zones", through advanced storage and HVDC transmission, to "Cold Zones" optimized for AI data center operations. This supports both energy resilience and optimized thermal management for AI workloads.
 
