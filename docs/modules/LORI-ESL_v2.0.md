@@ -13,6 +13,7 @@ This architecture directly supports the LORI-ESL (Energy Sentinel Layer) objecti
 ---
 
 1️⃣ Module Purpose and Scope
+
 2️⃣ Hot Zone → Storage → Cold Zone Concept Architecture (with diagram)
 
 ---
@@ -28,9 +29,13 @@ The following architecture illustrates the AI-driven energy flow from high-yield
 ---
 
 3️⃣ AI Energy Scheduler Integration
+
 4️⃣ HVDC and Storage Considerations
+
 5️⃣ LORI-ESL v2.0 Interaction with AGI Governance Modules
+
 6️⃣ Future Expansion: Global Cross-Grid AI Energy Federation
+
 7️⃣ Version History & References
 
 ---
