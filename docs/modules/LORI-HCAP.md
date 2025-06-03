@@ -3,7 +3,7 @@
 
 ---
 
-## 1️⃣ Module Purpose and Scope
+   ## 1️⃣ Module Purpose and Scope
 
 This module evaluates how various core human capabilities—logical reasoning, mathematical analysis, systems thinking, language proficiency, visual arts, and creative thinking—are being enhanced or degraded through interaction with AI systems.
 
@@ -14,7 +14,7 @@ to **cross-compare trends across different capability domains**.
 
 ---
 
-## 2️⃣ Capability Domains and Metrics
+   ## 2️⃣ Capability Domains and Metrics
 
 | Domain | Capability Items | AI Impact Trend | Notes |
 |--------|------------------|-----------------|-------|
