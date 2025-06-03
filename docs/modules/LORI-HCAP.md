@@ -88,19 +88,19 @@ The following correlation map illustrates how varying degrees of AI dependency (
 
 The cross-domain correlation map reveals a **non-linear dependency effect** of AI on human problem-solving efficiency:
 
- # #1️⃣ **AI is not inherently positive or negative** — its impact depends on **dependency level**, **usage model**, and **domain-specific dynamics**.
+ --1️⃣ **AI is not inherently positive or negative** — its impact depends on **dependency level**, **usage model**, and **domain-specific dynamics**.
 
- # #2️⃣ Across all domains, an **optimal AI dependency zone** emerges where human efficiency is maximized:
-- In **Medical / Healthcare**, moderate AI dependency accelerates innovation and reduces errors, but over-reliance risks de-skilling clinicians.
+ --2️⃣ Across all domains, an **optimal AI dependency zone** emerges where human efficiency is maximized:
+- In **Mediual / Healthcare**, moderate AI dependency accelerates innovation and reduces errors, but over-reliance risks de-skilling clinicians.
 - In **Education**, moderate AI support enhances learning, while high dependency significantly degrades critical thinking and exploratory skills.
 - In **Visual Arts**, initial AI usage fosters inspiration and stylistic exploration, yet high dependency erodes manual skills and originality.
 - In **Innovation / R&D**, AI provides sustained positive impact up to high-moderate dependency, after which creative originality may decline.
 
- # #3️⃣ **Excessive AI dependency triggers capability degradation**:
+ --3️⃣ **Excessive AI dependency triggers capability degradation**:
 - The tipping point varies by domain.
 - Domains involving **abstract reasoning, cultural depth, and originality** show faster degradation under high dependency.
 
-# #4️⃣ **Governance implications**:
+--4️⃣ **Governance implications**:
 - **AI Dependency Governance** mechanisms are necessary to maintain optimal human-AI synergy.
 - The LORI-HCAP module, in conjunction with **ODRAF**, **Trust Drift**, and **EDRI** modules, should form a proactive governance layer.
 - **Early warning thresholds** and **dependency feedback loops** are recommended for high-sensitivity domains such as Education and Healthcare.
