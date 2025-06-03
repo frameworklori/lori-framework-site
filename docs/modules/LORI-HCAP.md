@@ -80,7 +80,7 @@ For each domain, what human developmental opportunities are lost or reduced when
 
 The following correlation map illustrates how varying degrees of AI dependency (EDRI Level) impact human problem-solving efficiency across key domains. Both positive enhancement effects and negative degradation risks are considered.
 
-![HCAP EDRI Trust CrossMap](../assets/images/HCAP_EDRI_Trust_CrossMap.png)
+![HCAP EDRI Trust CrossMap](../assets/images/Human-Problem-Solving-Efficiency.png)
 
 ---
 
