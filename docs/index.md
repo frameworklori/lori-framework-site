@@ -251,6 +251,8 @@ Or directly access key modules:
 
 - [**HEDA: Human–Environment Demographic Adaptation**](./modules/HEDA.md)
 - [**Pandora Effect Diffusion Module**](./modules/Pandora.md)
+- - [LORI-HCAP: Human Capability Analysis & Protection Module](modules/LORI-HCAP.md)
+
 (See details in Cultural & Emotional Risk Modules)
 
 ---
