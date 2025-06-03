@@ -14,7 +14,7 @@ This architecture directly supports the LORI-ESL (Energy Sentinel Layer) objecti
 
 1️⃣ Module Purpose and Scope
 
-2️⃣ Hot Zone → Storage → Cold Zone Concept Architecture (with diagram)
+2️⃣ Hot Zone → Storage → Cold Zone Concept Architecture (V3 Pro)
 
 ---
 
