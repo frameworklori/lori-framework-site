@@ -84,6 +84,14 @@ Publish → Case Archive
 
 ---
 
+### Governance Principles Alignment
+
+The **LORI Jury-Based Judgment System** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents participating in the Jury System are **role-specialized**, with strict constraints to prevent cross-domain autonomy or generalized persona behaviors. This alignment ensures transparent, domain-specific reasoning in AI-human adjudication processes, in accordance with LORI-FSP mandates.
+
+---
+
 ## 🌍 Strategic Value
 
 - Acts as a **core human-AI co-governance mechanism**.
