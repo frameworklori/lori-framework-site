@@ -13,6 +13,14 @@ ODRAF operates as an **anticipatory governance layer**, enabling LORI Jury and S
 
 ---
 
+### Governance Principles Alignment
+
+The **ODRAF (Outcome-Driven Risk Anticipation Framework)** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents participating in ODRAF-driven anticipation and intervention processes are governed as **functional specialists**, with strict boundaries to prevent cross-domain autonomy or generalized persona formation. This alignment ensures domain-specific risk modeling and preserves transparent human interpretability of AI-driven risk anticipation outcomes, in accordance with LORI-FSP mandates.
+
+---
+
 ## 📍 Design Principles
 
 ✅ **Outcome-first governance** — models consequences, not just inputs/outputs
