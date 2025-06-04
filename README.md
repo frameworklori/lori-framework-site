@@ -57,7 +57,7 @@ This project follows the **LORI-NBSM (Negative Behavior Standard Module)**
 for language-behavior governance and education-first AI risk management.
 
 - [→ View the LORI-NBSM repository](https://github.com/frameworklori/LORI-NBSM))
-- [LORI Presidential Charter](...) – AGI sovereignty & power boundaries
+- [LORI Presidential Charter](../modules/Presidential_Charter.md) – AGI sovereignty & power boundaries
 
 ---
 
