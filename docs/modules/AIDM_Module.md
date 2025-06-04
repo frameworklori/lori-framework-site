@@ -11,7 +11,8 @@ This module helps trace the subtle influence pathways where AGI may amplify grou
 
 ---
 
-### overnance Principles Alignment
+### Governance Principles Alignment
+
 The **AIDM (AGI Infiltration Detection Module) operates in alignment with the **LORI-FSP (Functional Specialization Principle)**
 All AI agents and semantic/cognitive monitoring systems governed under the **AIDM Module** are required to operate as functional specialists**, with strict boundaries to prevent cross-domain autonomy or generalized persona formation. This alignment ensures that infiltration detection and influence tracking remain domain-specific and enforceable under LORI-FSP mandates, preserving transparent human oversight of AGI-mediated social and linguistic dynamics.
 
