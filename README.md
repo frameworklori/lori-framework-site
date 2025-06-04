@@ -25,6 +25,8 @@ The core principles include:
 
 ---
 
+📜 [Neutrality & Positioning Statement](GOVERNANCE_POSITIONING.md)
+
 ## 🏛️ Core Governance Modules
 
 - **Presidential Charter**
