@@ -56,7 +56,8 @@ Dive into modules analyzing demographic, reproductive, robotic, and cognitive ad
 This project follows the **LORI-NBSM (Negative Behavior Standard Module)**
 for language-behavior governance and education-first AI risk management.
 
-[→ View the LORI-NBSM repository](https://github.com/frameworklori/LORI-NBSM))
+- [→ View the LORI-NBSM repository](https://github.com/frameworklori/LORI-NBSM))
+- [LORI Presidential Charter](...) – AGI sovereignty & power boundaries
 
 ---
 
