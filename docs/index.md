@@ -196,7 +196,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 ## 🛡️ Foundational Ethical Standards
 
 - [LORI-NBSM (Negative Behavior Standard Module)](https://github.com/frameworklori/LORI-NBSM) — Language-behavior governance & education-first principle
-- [LORI Presidential Charter](../modules/LORI-Presidential-Charter) (coming soon) — AGI sovereignty & power boundaries
+- [LORI Presidential Charter](../modules/Presidential_Charter.md) (coming soon) — AGI sovereignty & power boundaries
 
 ---
 
