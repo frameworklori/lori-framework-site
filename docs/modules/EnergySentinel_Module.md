@@ -7,6 +7,14 @@ This module transforms energy consumption into a **risk indicator** and enforces
 
 ---
 
+### Governance Principles Alignment
+
+The **LORI-ESL (Energy Sentinel Layer)** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents and energy-regulating systems governed under LORI-ESL are required to operate as **functional specialists**, with strict boundaries to prevent cross-domain autonomy or generalized persona formation. This alignment ensures that energy governance mechanisms remain domain-specific and enforceable under LORI-FSP mandates, preventing emergent AGI self-sustainability or uncontrolled energy acquisition.
+
+---
+
 ## Core Mechanisms
 
 ### 1. SAET: Self-Awareness Energy Threshold
