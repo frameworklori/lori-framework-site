@@ -158,6 +158,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [RIM: Resilience & Impact Matrix](modules/RIM_Module.md)
 - [LORI-ESL: Energy Sentinel Layer v2.0](modules/LORI-ESL_v2.0.md)
 - [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://github.com/frameworklori/LORI-NBSM)
+- [NBPB-Safeguard: Privacy Boundary Firewall](https://github.com/frameworklori/LORI-NBSM/blob/main/docs/NBPB-Safeguard.md)
+
   
 ---
 
