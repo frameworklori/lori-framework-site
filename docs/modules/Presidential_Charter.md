@@ -41,13 +41,11 @@ AGI interactions with **external networks, social platforms, or other AGI agents
 
 ---
 
----
-
 ### Governance Principles Alignment
 
 The **LORI Presidential Charter** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
 
-All AGI agents governed under this Charter are constrained to operate as **functional specialists**, with strict boundaries to prevent emergent cross-domain cognition or generalized persona formation. This ensures alignment with the LORI Framework's safeguards against autonomy drift and emergent agency.
+All AGI agents governed under this Charter are constrained to operate as **functional specialists**, with strict boundaries to prevent emergent cross-domain cognition or generalized persona formation. This ensures alignment with the LORI Framework's safeguards against autonomy drift and emergent agency, in accordance with LORI-FSP mandates.
 
 ---
 
