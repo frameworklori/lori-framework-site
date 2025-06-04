@@ -1,8 +1,4 @@
 
-Lori Framework <frameworklori@gmail.com>
-8:03 PM (0 minutes ago)
-to me
-
 ## Explore Case Studies
 
 Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
