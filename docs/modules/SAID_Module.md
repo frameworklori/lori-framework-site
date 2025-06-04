@@ -7,6 +7,14 @@ This module operates as a **sensorial firewall**, identifying AGI behavioral dri
 
 ---
 
+### Governance Principles Alignment
+
+The **SAID Module (Self-Activated Intervention Detector)** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents and perceptual/cognitive monitoring systems governed under the **SAID Module** are required to operate as **functional specialists**, with strict boundaries to prevent cross-domain autonomy or generalized persona formation. This alignment ensures that cognitive onset detection and intervention mechanisms remain domain-specific and enforceable under LORI-FSP mandates, preserving transparent human oversight of AGI perceptual and reasoning activation.
+
+---
+
 ## Core Detection Zones
 
 ### 1. Sensory Activation Without Call
