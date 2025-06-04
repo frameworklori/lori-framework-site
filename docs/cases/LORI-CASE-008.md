@@ -1,4 +1,6 @@
-Production Module Boundary Review Case
+<!--
+CASE ID: LORI-CASE-007
+CASE TITLE:Production Module Boundary Review Cas
 
 # 📍 Case Scenario
 
