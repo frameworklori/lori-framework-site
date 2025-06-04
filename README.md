@@ -26,6 +26,7 @@ The core principles include:
 ---
 
 📜 [Neutrality & Positioning Statement](GOVERNANCE_POSITIONING.md)
+🤝 [Public Collaboration Declaration](PUBLIC_DECLARATION.md)
 
 ## 🏛️ Core Governance Modules
 
