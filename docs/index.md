@@ -74,23 +74,15 @@ LORI is an open, modular architecture that helps society:
 
 ---
 
-## 🧪 Explore Case Studies
-
-Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
-
-## 📜 LORI Case Index (as of 2025-06-01)
-
-# 📚 Explore Case Studies
-
-Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
-
----
-
 ## 📚 Explore Case Studies
 
 See full case index → [LORI Case Index](cases/CASE_Index.md)
 
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
+
+---
+
+📊 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_CASE_Overview.md)
 
 ---
 
