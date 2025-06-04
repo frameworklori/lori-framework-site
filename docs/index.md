@@ -76,7 +76,7 @@ LORI is an open, modular architecture that helps society:
 
 ## 📚 Explore Case Studies
 
-- [LORI-CASE-001 | Autonomous Vehicle Safety Governance & Liability](../cases/LORI-CASE-001.md) | Verified
+- [LORI-CASE-001 | Autonomous Vehicle Safety Governance & Liability](cases/LORI-CASE-001.md) | Verified
 - [LORI-CASE-002 | AI Surveillance Ethics Dispute](../cases/LORI-CASE-002.md) | Verified
 - [LORI-CASE-003 | Autonomous Drone Deployment Ethics](../cases/LORI-CASE-003.md) | Verified
 - [LORI-CASE-004 | Tech Firm Data Collection vs Personal Autonomy](../cases/LORI-CASE-004.md) | Verified
