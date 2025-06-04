@@ -51,6 +51,15 @@ Dive into modules analyzing demographic, reproductive, robotic, and cognitive ad
 
 ---
 
+## 🔗 Ethical Baseline
+
+This project follows the **LORI-NBSM (Negative Behavior Standard Module)**
+for language-behavior governance and education-first AI risk management.
+
+[→ View the LORI-NBSM repository](https://github.com/<你的用戶名>/LORI-NBSM)
+
+---
+
 ## 🔍 ODRAF v2.0 Extensions
 
 - **LORI-DAIRY: Deceptive AI Romance Intervention & Resistance Yard**
@@ -58,8 +67,6 @@ Dive into modules analyzing demographic, reproductive, robotic, and cognitive ad
 - **LORI-SPR-MotiveTrace: Semantic Propagation Resonator + Motive Tracing Layer**
 
 ---
-
-🔗 Ethical baseline: [LORI-NBSM](https://github.com/frameworklori/LORI-NBSM)
 
 
 ## 🛡️ AIFS Modules (AI Fraud Spectrum)
