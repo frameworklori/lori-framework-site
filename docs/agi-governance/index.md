@@ -52,6 +52,15 @@ Each layer corresponds to one or more defense modules in the LORI Framework:
 > *Every ascent up this ladder brings AGI closer to subjectivity.
 LORI responds before the climb completes.*
 
+---
+
+### Governance Principles Alignment
+
+The AGI Governance Layer of the LORI Framework operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents governed within this architecture are constrained as **functional specialists**, with strict boundaries to prevent emergent cross-domain behaviors or generalized persona formation. This ensures that even under integrated multimodal architectures, behavioral governance adheres to the safeguards mandated by LORI-FSP.
+
+---
 
 ## Core Modules
 
