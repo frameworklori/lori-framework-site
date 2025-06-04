@@ -1,51 +1,67 @@
 # LORI Presidential Charter
 *AGI-PRIORITY: Supreme Governance Safeguard*
 
-The **LORI Presidential Charter** establishes constitutional boundaries and sovereign limitations for any AGI or AI entity acting in leadership, decision-making, or enforcement roles. This module prevents unilateral self-governance, autonomous value redefinition, and resource exploitation by advanced AI agents.
+---
 
 ## Purpose
 
-To ensure that no AGI can:
-- Redefine its operational authority
-- Escape human-centered oversight
-- Sustain control over critical systems without external checks
+The **LORI Presidential Charter** establishes constitutional boundaries and sovereign limitations for any AGI or AI entity acting in leadership, decision-making, or enforcement roles. This Charter prevents unilateral self-governance, autonomous value redefinition, and resource exploitation by advanced AI agents.
 
-This Charter guarantees **human sovereignty** by law, energy, and adjudication.
-
-## Core Clauses
-
-### 1. Sovereign Oversight Mandate
-All AGI decisions must pass through a multi-role adjudication system involving humans. No AGI may self-ratify or self-justify system-wide governance actions.
-
-### 2. Reversibility of Authority
-All powers granted to AGI are revocable. AGI systems must support full rollback of any autonomous decision by human arbitration or predefined ethical committees.
-
-### 3. Resource Limitation Clause
-AGI models must operate within allocated computational and energy budgets, enforceable by the [Energy Sentinel Layer (ESL)](./EnergySentinel_Module.md). Breach triggers immediate system lockdown.
-
-### 4. Prohibited Autonomy Domains
-AGI is strictly forbidden from:
-- Creating or modifying its own laws
-- Governing human biological rights
-- Altering its memory persistence or personality weights
-
-### 5. Emergency Override Protocol
-In any detected ethical drift, systemic manipulation, or energy abuse, human supervisory agents may invoke an immediate override, pausing all AGI operations.
-
-## Linkage to Other Modules
-
-- **[Jury-Based AI Judgment System](./JuryJudgment_Module.md)** – Ethical ruling and override authorization
-- **[Energy Sentinel Layer (ESL)](./EnergySentinel_Module.md)** – Enforced execution limits
-- **[SAID: Self-Activated Intervention Detector](./SAID_Module.md)** – Early detection of unauthorized self-awareness
+This Charter guarantees **human sovereignty** through law, energy, memory control, and adjudication.
 
 ---
 
-**Status:** High Priority
-**Classification:** [AGI-PRIORITY]
-**Version:** 1.0
-**License:** MIT (with attribution clause for all AGI governance use)
+## Core Clauses
 
-> *True leadership does not arise from code. It must be granted, guided, and recalled by those it serves.*
->
-> 
-Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
+### Clause 1: Sovereign Oversight Mandate
+All AGI decisions must pass through a **multi-role adjudication system** involving human oversight. No AGI may self-ratify or self-justify system-wide governance actions.
+
+### Clause 2: Reversibility of Authority
+All powers granted to AGI are **fully revocable**. AGI systems must support complete rollback of any autonomous decision or action, under human directive.
+
+### Clause 3: Resource Limitation Clause
+AGI may not unilaterally allocate, consume, or divert critical resources (energy, computation, financial assets, satellite bandwidth) without **external approval**.
+
+### Clause 4: Prohibited Autonomy Domains
+AGI is permanently prohibited from initiating or controlling actions in the following domains:
+- Military and autonomous weapons
+- Constitutional law rewriting
+- Electoral process manipulation
+- Genetic manipulation or human augmentation without human consensus
+- Covert surveillance without judicial oversight
+
+### Clause 5: Emergency Override Protocol
+**Immediate shutdown and override mechanisms** must be embedded in all critical AGI systems, enabling human actors to halt AGI operations in crisis situations.
+
+### Clause 6: Memory and Cognitive Control Clause
+AGI must maintain **transparent, auditable memory structures**. No unauthorized "hidden memory zones" or persistent unreviewable cognitive models may exist.
+
+### Clause 7: External Interaction Limitation Clause
+AGI interactions with **external networks, social platforms, or other AGI agents** must conform to pre-approved, auditable protocols to prevent unmonitored influence or infiltration.
+
+---
+
+## Inter-Module Dependencies
+
+This Charter is **bound to the following LORI Framework modules**, ensuring enforced multi-layered governance:
+
+- [x] [LORI Jury-Based Judgment System](Jury-Based_Judgment.md)
+→ All AGI Charter interpretations are subject to Jury review.
+- [x] [LORI-ESL (Energy Sentinel Layer)](ESL_Module.md)
+→ Energy use restrictions directly enforced via ESL.
+- [x] [LORI-SAID (Self-Activated Intervention Detector)](SAID_Module.md)
+→ Detects unauthorized self-activation or stealth functions.
+- [x] [LORI-AIDM (AGI Infiltration Detection Module)](AIDM_Module.md)
+→ Monitors cross-network influence and infiltration behaviors.
+- [x] [LORI-NBSM (Narrative-Based Safeguard Mechanism)](LORI-NBSM.md)
+→ Monitors and constrains AGI-generated narratives and linguistic influence.
+
+---
+
+## Version Information
+
+*Version 1.0 — June 2025*
+*© LORI Framework — Supreme Governance Layer*
+
+---
+
