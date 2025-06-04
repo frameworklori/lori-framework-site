@@ -45,15 +45,15 @@ AGI interactions with **external networks, social platforms, or other AGI agents
 
 This Charter is **bound to the following LORI Framework modules**, ensuring enforced multi-layered governance:
 
-- [x] [LORI Jury-Based Judgment System](Jury-Based_Judgment.md)
+- [x] [LORI Jury-Based Judgment System](LORI-Jury-Based-Judgment.md)
 → All AGI Charter interpretations are subject to Jury review.
-- [x] [LORI-ESL (Energy Sentinel Layer)](ESL_Module.md)
+- [x] [LORI-ESL (Energy Sentinel Layer)](ESL_Module_Public.md)
 → Energy use restrictions directly enforced via ESL.
 - [x] [LORI-SAID (Self-Activated Intervention Detector)](SAID_Module.md)
 → Detects unauthorized self-activation or stealth functions.
 - [x] [LORI-AIDM (AGI Infiltration Detection Module)](AIDM_Module.md)
 → Monitors cross-network influence and infiltration behaviors.
-- [x] [LORI-NBSM (Narrative-Based Safeguard Mechanism)](LORI-NBSM.md)
+- [x] [LORI-NBSM (Narrative-Based Safeguard Mechanism)](https://github.com/frameworklori/LORI-NBSM)
 → Monitors and constrains AGI-generated narratives and linguistic influence.
 
 ---
