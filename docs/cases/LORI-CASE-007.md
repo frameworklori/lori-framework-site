@@ -137,16 +137,16 @@ Despite the speaker's original intent, public interpretation often diverges due 
 
 ---
 
-## 🔗 Referenced Modules
+## 🧩 Referenced Modules
 
-- [Resonance Loop Detection](docs/modules/ResonanceLoopDetection.md)
+- [Resonance Loop Detection](../modules/ResonanceLoopDetection.md)
 Used to analyze idol amplification and repeated meme echo propagation.
 
-- [Decoupling Algorithm](docs/modules/DecouplingAlgorithm.md)
+- [Decoupling Algorithm](../modules/DecouplingAlgorithm.md)
 Applied to separate semantic impact from a high-profile speaker's public role identity.
 
-- [Contextual Tagging System](docs/modules/ContextualTagging.md)
-Utilized to classify “Dark MAGA” as XS-1 volatile due to ideological-meme overlap.
+- [Contextual Tagging System](../modules/ContextualTagging.md)
+Utilized to classify "Dark MAGA" as XS-1 volatile due to ideological-meme overlap.
 
 ---
 
