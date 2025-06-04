@@ -28,6 +28,14 @@ The RBL-GOV module is designed to regulate the deployment ceiling of robots and 
 
 ---
 
+### Governance Principles Alignment
+
+The **RBL-GOV (Robot-Based Labor Governance Module)** operates in alignment with the **LORI-FSP (Functional Specialization Principle)**.
+
+All AI agents and robotic systems governed under **RBL-GOV** are required to operate as **functional specialists**, with strict behavioral constraints to prevent cross-domain cognition or generalized persona formation. This ensures alignment with LORI-FSP safeguards on domain-specific automation and the preservation of human cognitive and labor primacy.
+
+---
+
 ## 3. Core Philosophy
 
 > “Robots are not the protagonists of civilization. They are the tools.
