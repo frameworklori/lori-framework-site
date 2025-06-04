@@ -114,7 +114,7 @@ Real-world simulations applying LORI Jury-Based Judgment System and governance m
 ## 📜 Version History & Changelog
 
 Please refer to:
-[📜 LORI Framework Changelog](LORI_Framework_Changelog.md)
+[📜 LORI Framework Changelog](docs/LORI_Framework_Changelog.md)
 
 ---
 
