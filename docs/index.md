@@ -190,6 +190,13 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
+## 🛡️ Foundational Ethical Standards
+
+- [LORI-NBSM (Negative Behavior Standard Module)](https://github.com/frameworklori/LORI-NBSM) — Language-behavior governance & education-first principle
+- [LORI Presidential Charter](https://github.com/frameworklori/LORI-Presidential-Charter) (coming soon) — AGI sovereignty & power boundaries
+
+---
+
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
