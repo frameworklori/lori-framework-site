@@ -34,14 +34,14 @@ The goal is to design **balanced governance frameworks** that optimize populatio
 
 ## Suggested Project Structure
 
-plaintext
+**plaintext
 /docs/projects/HEDA-PAC/
 ├── HEDA-PAC-Overview.md
 ├── HEDA-PAC-001_Project_Initiation.md
 ├── HEDA-PAC-002_CaseStudies.md
 ├── HEDA-PAC-003_ModelLinkage.md
 ├── HEDA-PAC-004_PolicySimulations.md
-└── HEDA-PAC-README.md
+└── HEDA-PAC-README.md**
 
 ---
 
