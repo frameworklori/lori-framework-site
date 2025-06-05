@@ -20,7 +20,9 @@
 
 Below is the empathy balance philosophy of the LORI Jury System:
 
-![AI × Human Empathy Balance](../assets/images/AI_Human_Empathy_Balance.png)
+<p align="center">
+<img src="../assets/images/AI_Human_Empathy_Balance.png" alt="AI_Human_Empathy_Balance" width="450">
+</p>
 
 ---
 
