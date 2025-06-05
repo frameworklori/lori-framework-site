@@ -1,5 +1,3 @@
-# HEDA-PAC-001: Japan Aging Population & Robotics
-
 ## HEDA-PAC-CASE-004
 **Korea Ultra-Low Birthrate & AI-driven Social Resilience**
 
@@ -11,9 +9,13 @@ Cultural resistance to immigration limits population supplementation options.
 The government is beginning to explore AI-driven social resilience strategies.
 
 ### Key Governance Questions
+
 1️⃣ Should AI be positioned as a civilizational resilience tool amid demographic collapse?
+
 2️⃣ How to balance AI supplementation with rebuilding natural birth and family values?
+
 3️⃣ Can Korea’s experience offer transferable models for other ultra-low birthrate societies?
+
 4️⃣ How might robot labor and AI-driven narratives impact societal mental health and cultural dynamics?
 
 ---
