@@ -1,5 +1,4 @@
-## 📄 Title
-## HEDA-PAC Series
+# HEDA-PAC Series
 ## Population × AI × Civilization Stability
 ### (HEDA-PAC-001) — Project Initiation Document
 
