@@ -20,7 +20,7 @@ Key objectives:
 
 ## Upgraded Structure Diagram
 
-![LORI-JurySystem_v2.0_Structure](LORI-JurySystem_v2.0_Structure.png)
+![LORI-JurySystem_v2.0_Structure](assets/images/JurySystem_v2.0_Structure.png)
 
 ---
 
