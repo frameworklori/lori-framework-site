@@ -1,19 +1,20 @@
-## HEDA-PAC-CASE-001
-**Japan's Aging Society & AI + Robot Substitution**
+## HEDA-PAC-CASE-002
+**EU Migration Integration under Demographic Decline**
 
 ### Scenario
-Japan faces rapid population aging with a shrinking workforce.
-AI-driven robotics are increasingly proposed to supplement labor gaps, especially in healthcare, elder care, and service industries.
+Many EU countries face declining birthrates and rely on immigration to fill labor shortages.
+Cultural integration pressures and political polarization are increasing.
+AI-driven narrative shaping may influence public acceptance of migration policies.
 
 ### Key Governance Questions
 
-1️⃣ How to balance robotics adoption with human dignity and employment needs?
+1️⃣ What is the optimal balance between integration quality and raw population quantity?
 
-2️⃣ Will robot labor lead to greater isolation of the elderly population?
+2️⃣ How can AI-driven narrative design promote social cohesion amid rapid demographic shifts?
 
-3️⃣ How to design intergenerational hybrid workforces?
+3️⃣ How can migration policy be linked with AI governance and long-term labor planning?
 
-4️⃣ How to ensure energy sustainability of large-scale robotics deployment?
+4️⃣ How to monitor and mitigate risks of ethnic or cultural tensions?
 
 ---
 
