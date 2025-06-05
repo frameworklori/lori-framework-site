@@ -48,6 +48,12 @@ To design **balanced governance frameworks** that optimize population "quality" 
 
 ---
 
+## Suggested Project Structure
+
+<p align="center">
+<img src="../assets/images/uggested_ Project_ Structure.png" alt="Suggested Project Structure" width="500">
+</p>
+
 ---
 
 ## Module Linkages (to LORI Framework)
@@ -67,7 +73,5 @@ To design **balanced governance frameworks** that optimize population "quality" 
 - **Level 3+:** Sensitive cases (migration, ethnic integration, geopolitical policy contexts)
 
 ---
-
-## Suggested Project Structure
 
 
