@@ -43,3 +43,15 @@ The goal is to design **balanced governance frameworks** that optimize populatio
 ├── HEDA-PAC-004_PolicySimulations.md
 └── HEDA-PAC-README.md
 
+---
+
+## Initial Case Ideas
+
+| Case ID | Title | Focus |
+|-----------------------|-------------------------------------------------------|-------------------------------|
+| HEDA-PAC-CASE-001 | Japan's Aging Society & AI + Robot Substitution | National case study |
+| HEDA-PAC-CASE-002 | EU Migration Integration under Demographic Decline | International policy modeling |
+| HEDA-PAC-CASE-003 | US Robotics & Service Labor Replacement | Labor & cultural stability |
+| HEDA-PAC-CASE-004 | AI-Narrative Design to Support Demographic Cohesion | Narrative layer impact study |
+
+---
