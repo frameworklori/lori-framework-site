@@ -15,9 +15,12 @@ However, **balancing technological substitution with human dignity and societal 
 ## Key Governance Questions
 
 1️⃣ How to balance robotics adoption with human dignity and employment needs?
+
 2️⃣ Will robot labor lead to greater isolation of the elderly population?
+
 3️⃣ How to design intergenerational hybrid workforces that complement AI and robotics?
-4️⃣ What population governance strategies can optimize both **integration quality** and **long-term social resilience**?
+
+4️⃣ What population governance strategies can optimize both **integration quality** and **long-term social   resilience**?
 
 ---
 
