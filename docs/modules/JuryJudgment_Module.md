@@ -46,7 +46,7 @@ The system is scalable from micro-disputes (AI-generated content evaluation) to 
 
 ## Integration
 
-- **[LORI Presidential Charter](./modules/Presidential_Charter.md)**
+- **[LORI Presidential Charter](modules/Presidential_Charter.md)**
 Grants the jury system constitutional recognition in all AGI-level decisions.
 
 - **[Energy Sentinel Layer (ESL)](./EnergySentinel_Module.md)**
