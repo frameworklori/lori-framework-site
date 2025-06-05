@@ -14,6 +14,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-008 | Production Module Boundary Review Case](../cases/LORI-CASE-008.md) | Verified
 - [LORI-CASE-009 | US vs Japan Tech IP Governance Case](../cases/LORI-CASE-009.md) | In Progress
 - [LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario](../cases/LORI-CASE-010.md) | In Progress
+- [LORI-CASE-011 | Empathy vs Realist Empathy in the Russia-Ukraine War](../cases/LORI-CASE-011.md) | In Progress
 
 ---
 
