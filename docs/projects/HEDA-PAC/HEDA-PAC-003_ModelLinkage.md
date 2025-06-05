@@ -7,9 +7,13 @@ Labor unions are pushing back against rapid job displacement.
 AI-first business models may reshape workforce structures and labor rights.
 
 ### Key Governance Questions
+
 1️⃣ What are the ethical boundaries for AI and robotics labor replacement?
+
 2️⃣ How should new labor rights governance frameworks evolve?
+
 3️⃣ How to prevent exclusion of low-to-mid-skilled labor in an AI-first economy?
+
 4️⃣ How to redesign workplace culture in hybrid human-AI environments?
 
 
