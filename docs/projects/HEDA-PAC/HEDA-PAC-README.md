@@ -51,7 +51,7 @@ To design **balanced governance frameworks** that optimize population "quality" 
 ## Suggested Project Structure
 
 <p align="center">
-<img src="../assets/images/uggested_ Project_ Structure.png" alt="Suggested Project Structure" width="500">
+<img src="../assets/images/uggested_ Project_ Structure.png" alt="Suggested Project Structure" width="250">
 </p>
 
 ---
