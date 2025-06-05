@@ -1,13 +1,21 @@
-# HEDA-PAC-001: Japan Aging Population & Robotics
+## HEDA-PAC-CASE-001
+**Japan's Aging Society & AI + Robot Substitution**
 
-## Scenario
-Japan faces rapid population aging with shrinking workforce.
-AI-driven robotics increasingly proposed to supplement labor gaps.
+### Scenario
+Japan faces rapid population aging with a shrinking workforce.
+AI-driven robotics are increasingly proposed to supplement labor gaps, especially in healthcare, elder care, and service industries.
 
-## Key Governance Questions
-- How to balance robotics adoption with human dignity and employment needs?
-- What are the risks of over-reliance on robotic labor?
-- How to ensure cultural stability in an AI-augmented aging society?
+### Key Governance Questions
+
+1️⃣ How to balance robotics adoption with human dignity and employment needs?
+
+2️⃣ Will robot labor lead to greater isolation of the elderly population?
+
+3️⃣ How to design intergenerational hybrid workforces?
+
+4️⃣ How to ensure energy sustainability of large-scale robotics deployment?
+
+---
 
 ## Module Interactions
 - DGP: Monitors demographic pressures
