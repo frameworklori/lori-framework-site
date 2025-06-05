@@ -70,12 +70,4 @@ To design **balanced governance frameworks** that optimize population "quality" 
 
 ## Suggested Project Structure
 
-/docs/projects/HEDA-PAC/
-├── HEDA-PAC-Overview.md
-├── HEDA-PAC-001_Project_Initiation.md
-├── HEDA-PAC-002_CaseStudies.md
-├── HEDA-PAC-003_ModelLinkage.md
-├── HEDA-PAC-004_PolicySimulations.md
-└── HEDA-PAC-README.md
 
----
