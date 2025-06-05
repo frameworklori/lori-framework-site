@@ -19,9 +19,13 @@ Without effective policy interventions, risks include the formation of **paralle
 ## Key Governance Questions
 
 1️⃣ What is the optimal balance between **integration quality** and **raw immigration quantity**?
+
 2️⃣ How can **AI-enabled narrative design** help mitigate cultural polarization?
+
 3️⃣ How can **AI-powered education and language tools** accelerate successful migrant integration?
+
 4️⃣ How should **AI-driven labor market modeling** inform migration governance decisions?
+
 5️⃣ How can **pre-migration assessments** improve the alignment between incoming populations and host society values?
 
 ---
