@@ -14,21 +14,41 @@
 
 ---
 
-## 🛠️ Core Design
+## Design Philosophy
 
-### Jury Composition
+*"AI holds reason, humans hold empathy, together forging a just balance."*
 
-- **5 AI Agents + 2 Human Judges**:
+Below is the empathy balance philosophy of the LORI Jury System:
+
+![AI × Human Empathy Balance](assets/images/AI_Human_Empathy_Balance.png)
+
+---
+
+## 🎛️ Core Design
+
+The LORI Jury-Based Judgment System integrates AI-driven deliberation with human oversight to ensure ethical alignment, transparency, and balanced decision-making. The system is built on the following core principles:
+
+- Multi-agent deliberation with diverse AI role specialization
+- Human final authority through Main Judge casting vote
+- Independent auditing for process integrity and transparency
+- Prevention of AI autonomy drift through role constraints and interaction mapping
+- Resilience against deadlock through odd-number voting structure
+
+---
+
+### 🧩 Jury Composition
+
+**5 AI Agents + 2 Human Judges**
 
 | Role | Description |
-|------|-------------|
-| Fact Finder | Analyzes objective data and factual claims. |
-| Legal Analyst | Applies relevant legal frameworks and precedents. |
-| Moral Evaluator | Assesses ethical dimensions and human values impact. |
-| Cultural Interpreter | Considers cross-cultural perspectives and sensitivities. |
-| Emotional Moderator | Evaluates emotional tone, social cohesion, and potential harm. |
-| Main Sovereignty Judge (Human) | Holds decisive authority in case of tie or AI deadlock. |
-| Independent Auditor (Human) | Ensures process transparency and documents final rationale. |
+|--------------------------|--------------------------------------------------------------|
+| Fact Finder | Gathers and verifies relevant facts and data |
+| Legal Analyst | Interprets applicable laws and regulations |
+| Moral Evaluator | Assesses ethical dimensions and moral considerations |
+| Cultural Interpreter | Provides cultural context and sensitivity analysis |
+| Emotional Moderator | Ensures balanced emotional tone and moderates bias |
+| Human Main Judge | Holds final casting vote and validates ethical alignment |
+| Independent Auditor | Reviews the entire process for integrity and transparency |
 
 ---
 
