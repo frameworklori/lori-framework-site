@@ -84,12 +84,12 @@ Key objectives:
 
 
 ### Implementation Notes
--This v2.0 Upgrade is fully compatible with existing Jury System.
--No disruption to:
--Current CASE format
--Jury agent roles
--Core verdict workflow
--All new layers are additive and modular.
+- This v2.0 Upgrade is fully compatible with existing Jury System.
+- No disruption to:
+- Current CASE format
+- Jury agent roles
+- Core verdict workflow
+- All new layers are additive and modular.
 
 ---
 
