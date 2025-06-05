@@ -6,6 +6,7 @@ Japan faces rapid population aging with a shrinking workforce.
 AI-driven robotics are increasingly proposed to supplement labor gaps, especially in healthcare, elder care, and service industries.
 
 ### Key Governance Questions
+
 1️⃣ How to balance robotics adoption with human dignity and employment needs?
 
 2️⃣ Will robot labor lead to greater isolation of the elderly population?
