@@ -73,9 +73,13 @@ The Bio-Risk Surveillance Module supports advanced AI-driven data validation and
 Following **LORI-CASE-012** (Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case), the Bio-Risk Surveillance Module will prioritize:
 
 1️⃣ AI-driven monitoring of dual-use plant pathogen research globally.
+
 2️⃣ Detection of student/researcher visa patterns aligned with high-risk bio-science fields.
+
 3️⃣ Early warning on black-market price fluctuations for strategic pathogens.
+
 4️⃣ Enhanced AI screening of academic collaboration intents in high-bio-risk domains.
+
 5️⃣ Proactive tracking of IP theft trends in synthetic biology and gain-of-function research.
 
 ---
