@@ -24,11 +24,17 @@ The governance challenge is to ensure that AI-driven narrative systems and commu
 ## Key Governance Questions
 
 1️⃣ How can AI-driven narrative systems be designed to promote demographic cohesion and cultural resilience?
+
 2️⃣ What are the ethical boundaries for AI influence on public discourse related to demographic change?
+
 3️⃣ How can AI tools detect and mitigate harmful narratives (hate speech, identity fragmentation)?
+
 4️⃣ How should **ODRAF mechanisms** be adapted to monitor public narrative impacts?
+
 5️⃣ How can governance ensure **pluralistic and inclusive narratives** in AI-mediated public spaces?
+
 6️⃣ How can AI narrative design strategies be aligned with **demographic governance objectives** (e.g., migration integration, intergenerational solidarity)?
+
 7️⃣ How can AI tools be leveraged to **facilitate cross-cultural relationships** and **interethnic marriage** as part of demographic resilience strategies?
 
 ---
