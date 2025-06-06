@@ -185,6 +185,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [LORI Jury System v2.0 Upgrade Plan](cases/LORI-JurySystem_v2.0_UpgradePlan.md) 
 - [Jury Cases](cases/Jury_CASE_Index.md)
 
+---
+
 **Example Cases:**
 
 - [LORI-CASE-001: Autonomous Vehicle Liability](cases/LORI-CASE-001.md)
@@ -194,7 +196,39 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 4 LORI Framework Foundation & Philosophy
+## 4 Applied Governance Projects [CIVILIZATIONAL LAYER]
+
+- [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
+
+---
+
+# LORI Framework Main Index
+
+## Core Modules
+
+- [DGP - Demographic Pressure Monitor](modules/DGP.md)
+- [RBL - Robot Penetration Limiter](modules/RBL.md)
+- [GHI - Human-AI/Robot Cooperation Intelligence](modules/GHI.md)
+- [ESL - Energy Sustainability Layer](modules/ESL.md)
+- [ODRAF - Outcome-Driven Risk Anticipation Framework](modules/ODRAF_Module.md)
+
+---
+
+## 4 Projects
+
+- [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
+
+---
+
+## Other Sections
+
+- [AIFS - AI Fraud Spectrum](AIFS_Casebook.md)
+- [AI DeBias Kit](AI_DeBias_Kit.md)
+- [Narratives: Voice of Architects](narratives/voice_of_architects.md)
+
+---
+
+## 5 LORI Framework Foundation & Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
