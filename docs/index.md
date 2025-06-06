@@ -204,7 +204,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Resonance Loop Detection](Modules/Language-Governance/ResonanceLoopDetection.md)
 - [Contextual Tagging](Modules/Language-Governance/ContextualTagging.md)
 - [Decoupling Algorithm](Modules/Language-Governance/DecouplingAlgorithm.md)
-- [GLEB: Gresham’s Law Effect on AI & Language / Culture](modules/GLEB_Module.md)
+- [GLEB: Gresham’s Law Effect on AI & Language / Culture](modules/Language-Governance/GLEB_Module.md)
 
 ---
 
