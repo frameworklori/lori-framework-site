@@ -19,8 +19,13 @@ The **HEDA-PAC (Population × AI × Civilization Stability) Module** is a compre
 - **GHI (Human-AI/Robot Cooperation Intelligence)** → Human-AI/robot cooperation strategy
 - **ESL (Energy Sustainability Layer)** → Monitoring energy sustainability
 
+---
+
 **Module Interaction Diagram**:
-_(Diagram to be added)_
+
+<p align="center">
+<img src="../../assets/images/HEDA-PAC_Modular_Interaction_Diagram.png" alt="HEDA-PAC Modular Interaction Diagram" width="450">
+</p>
 
 ---
 
