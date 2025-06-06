@@ -30,10 +30,15 @@ This case raises complex questions about:
 ## Deliberation Questions
 
 1️⃣ Did the student knowingly engage in smuggling high-risk biological material?
+
 2️⃣ Was there institutional or government influence behind the action?
+
 3️⃣ Should this be treated as an isolated criminal act or part of a broader systemic risk?
+
 4️⃣ What level of criminal and academic sanction is appropriate?
+
 5️⃣ Should international AI-driven bio-risk governance frameworks be enhanced to detect and deter such cases?
+
 6️⃣ What policy recommendations should be made to academic institutions handling sensitive biological research?
 
 ---
