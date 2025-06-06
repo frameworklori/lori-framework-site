@@ -2,7 +2,7 @@
 
 ## Related CASE
 
-- [LORI-CASE-012: Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case](cases/LORI-CASE-012.md)
+- [LORI-CASE-012: Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case](../../cases/LORI-CASE-012.md)
 
 ---
 
