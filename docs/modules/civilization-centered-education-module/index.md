@@ -21,7 +21,7 @@ This module is designed to ensure that AI-augmented education promotes:
 ### 🔹 [Civilization-Centered Education Module (Main)](civilization-centered-education-module.md)
 - Full module purpose, principles, structure, and future roadmap.
 
-### 🔹 [Philosophy](philosophy.md)
+### 🔹 [Philosophy](../../philosophy.md)
 - Foundational educational philosophy and civilization-centered values.
 
 ---
