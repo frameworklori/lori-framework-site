@@ -20,6 +20,7 @@ Moreover, **education remains the most powerful lever** for enabling human worke
 Through targeted **AI-assisted education and skill development**, vulnerable populations can be empowered to move into roles where **human strengths—creativity, empathy, adaptability, and contextual judgment—remain irreplaceable**.
 
 Thus, the governance challenge is twofold:
+
 1️⃣ To **mitigate risks of deepening inequality and labor exclusion**,
 
 2️⃣ To leverage **education-driven human-machine complementarity** as the core of AI labor strategies, enabling social mobility, protecting dignity, and fostering civilizational stability.
