@@ -89,12 +89,58 @@ To ensure that large-scale AI/robot deployment aligns with energy sustainability
 
 ---
 
-## 7️⃣ Cross-Module Governance Flow
+## 7️⃣ Cross-Module Governance Flow ⚙️🔄
 
-**Module Interaction Impact Diagram**:
-_(Diagram to be added)_
+flowchart TD
+%% Core Governance Layer
+PC(Presidential Charter)
+Jury(Jury-Based Judgment System)
+RBL(RBL-GOV)
+AIFS(AIFS)
 
----
+%% Civilization Resilience Layer
+HEDA(HEDA-PAC)
+ESL(ESL - Energy Sentinel Layer)
+FEED(FEED)
+SPR(SPR - Semantic Protection & Resonance)
+
+%% Infiltration Defense Layer
+SAID(SAID - Self-Activated Intervention Detector)
+AIDM(AIDM - AGI Infiltration Detection Module)
+ODRAF(ODRAF)
+MIR(MIR - Meta-Intellectual Resistance)
+
+%% Core Governance Flow
+PC --> Jury
+Jury --> RBL
+Jury --> AIFS
+
+%% Flow to Resilience Modules
+RBL --> HEDA
+RBL --> ESL
+AIFS --> FEED
+AIFS --> SPR
+
+%% Flow to Infiltration Defense Modules
+RBL --> SAID
+RBL --> AIDM
+AIFS --> ODRAF
+AIFS --> MIR
+
+%% Feedback Loops
+SAID --> Jury
+AIDM --> Jury
+ODRAF --> Jury
+MIR --> Jury
+
+FEED --> Jury
+SPR --> Jury
+HEDA --> Jury
+ESL --> Jury
+
+%% Optional: Top-level feedback to Presidential Charter
+Jury --> PC
+
 
 ## 8️⃣ Implementation Path
 
