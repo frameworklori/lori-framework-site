@@ -196,6 +196,18 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
+## Language & Culture Governance Modules
+
+- [AIDM: AGI Infiltration Detection Module](Modules/Language-Governance/AIDM_Module.md)
+- [MIR: Meta-Intellectual Resistance Module](Modules/Language-Governance/MIR_Module.md)
+- [AI Debias Kit](Modules/Language-Governance/AI-Debias-Kit.md)
+- [Resonance Loop Detection](Modules/Language-Governance/ResonanceLoopDetection.md)
+- [Contextual Tagging](Modules/Language-Governance/ContextualTagging.md)
+- [Decoupling Algorithm](Modules/Language-Governance/DecouplingAlgorithm.md)
+- [GLEB: Gresham’s Law Effect on AI & Language / Culture](Modules/Language-Governance/GLEB_Module.md)
+
+---
+
 ## 4 Applied Governance Projects [CIVILIZATIONAL LAYER]
 
 - [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
