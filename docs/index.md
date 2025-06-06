@@ -226,7 +226,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 4 Projects
+## 5 Projects
 
 - [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
 
@@ -240,7 +240,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 5 LORI Framework Foundation & Philosophy
+## 6 LORI Framework Foundation & Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
