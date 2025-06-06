@@ -93,7 +93,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 | [LORI-CASE-009](cases/LORI-CASE-009.md) | US vs Japan Tech IP Governance Case | 🚧 |
 | [LORI-CASE-010](cases/LORI-CASE-010.md) | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario | 🚧 |
 | [LORI-CASE-011](cases/LORI-CASE-011.md) | Empathy vs Realist Empathy in the Russia-Ukraine War | 🚧 |
-| [LORI-CASE-011](cases/LORI-CASE-012.md) | Empathy vs Realist Empathy in the Russia-Ukraine War | 🚧 |
+| [LORI-CASE-012](cases/LORI-CASE-012.md) | Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case | 🚧 |
 ---
 
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
