@@ -92,7 +92,7 @@ To ensure that large-scale AI/robot deployment aligns with energy sustainability
 ## 7️⃣ Cross-Module Governance Flow ⚙️🔄
 
 <p align="center">
-<img src="../../assets/images/Cross_Module_Governance_Flow.png" alt="Cross Module Governance Flow" width="400">
+<img src="../../assets/images/Cross_Module_Governance_Flow.png" alt="Cross Module Governance Flow" width="500">
 </p>
 
 ---
