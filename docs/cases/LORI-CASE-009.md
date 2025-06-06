@@ -18,11 +18,17 @@ Is Japan’s governance model superior in this context?
 ## 🧑‍⚖️ Jury Composition
 
 1️⃣ Fact Finder AI
+
 2️⃣ Legal Analyst AI
+
 3️⃣ Moral Evaluator AI
+
 4️⃣ Cultural Interpreter AI
+
 5️⃣ Emotional Moderator AI
+
 6️⃣ Main Sovereignty Human Judge
+
 7️⃣ Independent Human Auditor
 
 ---
