@@ -41,7 +41,11 @@ The challenge is to design migration governance strategies that optimize both **
 
 ---
 
+<p align="center">
+<img src="../../assets/images/HEDA-PAC_Modular_Interaction_Diagram.png" alt="HEDA-PAC Modular Interaction Diagram" width="450">
+</p>
 
+---
 
 ## Sensitivity Level
 
