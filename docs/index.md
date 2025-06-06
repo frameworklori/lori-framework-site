@@ -228,7 +228,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 1. Module Definition
+# 1. Module Definition
 
 - Define Meta-Intellectual Resistance (MIR).
 - Purpose in defending against AI-driven suppression of non-linear or divergent thinking.
@@ -262,42 +262,13 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
-## 5. Module Interactions
-
-- **Jury-Based Judgment System**
-- **AI Debias Kit**
-- **GLEB**
-- **Resonance Loop Detection**
-- **Contextual Tagging**
-- **ODRAF Extensions**
-
----
-
-## 6. Implementation Path & Future Work
-
-- Phase 1: Indicator Calibration
-- Phase 2: Resistance Pattern Mapping
-- Phase 3: Platform Policy Recommendations
-
----
-
-## 7. References & Conceptual Origins
-
-- Philosophy of Language
-- Political Linguistics
-- Cognitive Science
-- Critical Theory
-d)
-
----
-
-## 5 Projects
+## 5 Applied Governance Projects [CIVILIZATIONAL LAYER]
 
 - [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
 
 ---
 
-## Other Sections
+## 6 Other Modules & Tools
 
 - [AIFS - AI Fraud Spectrum](AIFS_Casebook.md)
 - [AI DeBias Kit](AI_DeBias_Kit.md)
@@ -305,7 +276,7 @@ d)
 
 ---
 
-## 6 LORI Framework Foundation & Philosophy
+## 7 LORI Framework Foundation & Philosophy
 
 - [Philosophy of LORI Framework](Philosophy.md)
 - [AGI Modules Overview](modules/overview.md)
