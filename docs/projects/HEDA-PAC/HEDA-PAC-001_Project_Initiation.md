@@ -123,14 +123,14 @@ _(Diagram to be added)_
 
 ---
 
-## 10 IP & Governance Note
+## 1️⃣0️⃣ IP & Governance Note
 
 - **Intellectual Property Protection**: The HEDA-PAC module is part of the LORI Ethical System’s original governance framework. Unauthorized commercial use or derivative products are prohibited.
 - **Open Collaboration Principle**: Academic and policy research collaboration is encouraged under licensed agreements.
 
 ---
 
-## 11 Conclusion
+## 1️⃣1️⃣  Conclusion
 
 The HEDA-PAC module provides a systematic, multi-dimensional, and dynamically balanced governance solution for managing AI/robot deployment in aging societies.
 With further refinement of action plans, enhanced data governance, and expanded public-private collaboration, HEDA-PAC holds strong potential to serve as a model for advanced civilization governance — in Japan and globally.
