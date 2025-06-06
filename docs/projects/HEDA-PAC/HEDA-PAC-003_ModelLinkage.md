@@ -21,6 +21,7 @@ Through targeted **AI-assisted education and skill development**, vulnerable pop
 
 Thus, the governance challenge is twofold:
 1️⃣ To **mitigate risks of deepening inequality and labor exclusion**,
+
 2️⃣ To leverage **education-driven human-machine complementarity** as the core of AI labor strategies, enabling social mobility, protecting dignity, and fostering civilizational stability.
 
 ---
@@ -28,10 +29,15 @@ Thus, the governance challenge is twofold:
 ## Key Governance Questions
 
 1️⃣ What are the ethical boundaries for AI and robotics labor replacement in critical service sectors?
+
 2️⃣ How should **labor rights governance frameworks** evolve to address AI-first business models?
+
 3️⃣ How can **AI governance tools** monitor and prevent the creation of a two-tier labor market?
+
 4️⃣ How can **hybrid human-AI workplace models** be designed to promote dignity, fairness, and cultural stability?
+
 5️⃣ What is the role of **public opinion feedback (ODRAF)** in shaping acceptable boundaries for automation?
+
 6️⃣ How can **AI-supported education systems** empower workers to transition into roles where human strengths remain essential, ensuring sustainable human-machine complementarity in the labor market?
 
 ---
