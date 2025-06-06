@@ -210,7 +210,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 4 Applied Governance Projects [CIVILIZATIONAL LAYER]
 
-- [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
+- [HEDA-PAC: Population × AI × Civilization Stability](https://github.com/frameworklori/lori-framework-site/blob/main/docs/projects/HEDA-PAC/HEDA-PAC-Index.md)
 
 ---
 
