@@ -38,7 +38,7 @@ This module provides a **comprehensive framework** to guide teachers, curriculum
 
 ## 3️⃣ Included Sub-Modules
 
-### 3.1 [philosophy.md](../Philosophy.md)
+### 3.1 [philosophy.md](Philosophy.md)
 - Foundational values and guiding principles of the module.
 
 ### 3.2 [collaborative_teamwork_module.md](collaborative_teamwork_module.md)
