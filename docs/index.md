@@ -13,6 +13,8 @@ layout: default
 
 ## Governance Standards
  - [LORI Public Governance Standard → v0.9 Draft](Standards.md)
+ - _A first-mover open standard for AI jury-based governance and human-centered ethical oversight._
+
 
 This module is part of a simulated framework...
 (Semantic Governance Module Disclaimer
