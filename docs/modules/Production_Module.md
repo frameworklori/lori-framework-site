@@ -71,9 +71,13 @@ the **LORI Jury-Based System** is triggered to deliberate and approve or reject 
 ### Deliberation Process
 
 1️⃣ Trigger detection → boundary violation detected
+
 2️⃣ Jury activation → 5 AI agents + 2 human judges summoned
+
 3️⃣ Jury deliberation → legal, ethical, operational risk assessment
+
 4️⃣ Final decision → Approve / Partial approval with restrictions / Reject
+
 5️⃣ Case record → Logged in Jury Case Archive
 
 ---
