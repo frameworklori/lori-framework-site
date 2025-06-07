@@ -65,7 +65,9 @@ To mitigate Behavioral Backlash, LORI Framework proposes a **Cross-Stacked Behav
 
 ### Diagram
 
-![Cross-Stacked Behavioral Governance](../assets/images/Cross-Stacked-Behavior-Governance.png)
+<p align="center">
+<img src="../../assets/images/Cross-Stacked-Behavior-Governance.png" alt="Cross Stacke Behavior Governance" width="400">
+</p>
 
 ---
 
