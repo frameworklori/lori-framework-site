@@ -12,7 +12,7 @@ layout: default
 <summary>📜 Semantic Governance Disclaimer & Governance Standards (Click to Expand)</summary>
 
 ## Governance Standards
- - [LORI Public Governance Standard → v0.9 Draft](./Public-Standard/LORI_Public_Governance_Standard_v0.9.md)
+ - [LORI Public Governance Standard → v0.9 Draft](../Public-Standard/LORI_Public_Governance_Standard_v0.9.md)
 
 This module is part of a simulated framework...
 (Semantic Governance Module Disclaimer
