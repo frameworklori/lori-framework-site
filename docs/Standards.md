@@ -65,6 +65,8 @@ The LORI Jury-Based Governance Model is an original concept and structured gover
 
 All derived works, adaptations, or alternate governance models inspired by this architecture must explicitly attribute their conceptual origin to the LORI Jury System.
 
+This standard covers not only specific implementations of the LORI Jury System, but also its core conceptual architecture: the use of structured multi-agent AI deliberation combined with human sovereignty and traceable ethical governance processes. Substantially similar models—whether rebranded under different naming conventions (e.g. "AI ethics panel", "multi-agent governance council", "AI advisory jury")—must acknowledge this origin.
+
 The purpose of this standard is to preserve transparency of intellectual origin while promoting public-good oriented global AI governance innovation.
 
 ---
