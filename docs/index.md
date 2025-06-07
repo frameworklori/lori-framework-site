@@ -92,6 +92,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
  -  [LORI-CASE-011](cases/LORI-CASE-011.md) -  Empathy vs Realist Empathy in the Russia-Ukraine War | 🚧 |
  -  [LORI-CASE-012](cases/LORI-CASE-012.md) - Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case | 🚧 |
 
+
 ---
 
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
