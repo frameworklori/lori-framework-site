@@ -73,7 +73,7 @@ The Behavioral Backlash Governance Model implements a three-layer architecture t
 This model integrates naturally into the **LORI Framework – Governance Layer** and serves as a foundational behavioral governance reference for:
 
 - [Presidential Charter](../modules/Presidential_Charter.md)
-- [ODRAF: Outcome-Driven Risk Anticipation Framework](../ODRAF.md)
+- [ODRAF: Outcome-Driven Risk Anticipation Framework](docs/ODRAF.md)
 - [AIDM: AGI Infiltration Detection Module](../modules/AIDM_Module.md)
 - [Jury-Based Judgment System](../modules/LORI-Jury-Based-Judgment.md)
 - [Bio-Risk Surveillance Module](../Bio-Risk_Surveillance.md)
