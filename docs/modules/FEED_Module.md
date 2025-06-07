@@ -2,7 +2,7 @@
 *Part of the AGI Sovereignty Containment Framework*
 
 <p align="center">
-<img src="../docs/assets/images/AGI_Oversight_Pentagram.png" alt="AGI Oversight Pentagram" width="500">
+<img src="docs/assets/images/AGI_Oversight_Pentagram.png" alt="AGI Oversight Pentagram" width="500">
 </p>
 
 > **"That which binds a soul must first ask permission."**
