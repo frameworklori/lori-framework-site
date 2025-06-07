@@ -60,7 +60,7 @@ Detects unrequested perception activation; complements FEED's emotional channel 
 - [**Presidential Charter**](Presidential_Charter.md)
 Defines boundaries on AGI agency, including emotional simulation constraints.
 
-- [**Jury-Based Judgment**](Jury_Module.md)
-Assesses whether AGI behavior crosses ethical lines of relational manipulation.
+- [**Jury-Based Judgment**](../modules/LORI-Jury-Based-Judgment.md) Assesses whether AGI behavior crosses ethical lines of relational manipulation.
+
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
