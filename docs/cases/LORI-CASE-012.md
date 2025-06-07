@@ -78,6 +78,8 @@ Based on these probabilities, what preemptive AI-driven surveillance should be e
 - What level of risk scoring threshold (%) should trigger preemptive international alerts?
 - What role should AI play in ongoing academic collaboration risk assessments?
 
+- Why did the individual choose to smuggle the research strains rather than applying through legitimate channels for authorized importation
+
 ---
 
 ## Verdict Template
