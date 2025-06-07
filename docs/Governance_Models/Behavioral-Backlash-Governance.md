@@ -53,54 +53,43 @@ Conversely, a purely **process-driven AI** may be overly rigid and lack necessar
 
 ## Cross-Stacked Behavioral Governance Architecture
 
-The model proposes a **three-layer architecture**:
+The Behavioral Backlash Governance Model implements a three-layer architecture to balance ethics, adaptability, and goal-driven behavior.
 
+### Layer Definitions
 
-<p align="center">
-<img src="../assets/images/Cross-Stacked-Behavior-Governance.png" alt="Cross Stacke Behavior Governance" width="500">
-</p>
+- **Process-Priority Layer**: Defines immutable ethical and legal boundaries. No AI behavior may violate this layer.
+- **Strategy Arbitration Layer**: Dynamically balances process integrity and goal-driven flexibility based on context.
+- **Goal-Driven Execution Layer**: Executes adaptive behaviors while remaining constrained by upper governance layers.
 
-
-Layer Definitions:
-Process-Priority Layer: Defines immutable ethical and legal boundaries. No AI behavior may violate this layer.
-
-Strategy Arbitration Layer: Dynamically balances process integrity and goal-driven flexibility based on context.
-
-Goal-Driven Execution Layer: Executes adaptive behaviors while remaining constrained by upper governance layers.
-
-Architecture Diagram
+### Architecture Diagram
 
 <p align="center">
 <img src="../assets/images/Cross-Stacked-Behavior-Governance.png" alt="Cross Stacke Behavior Governance" width="500">
 </p>
+---
 
-Integration into LORI Framework
+## Integration into LORI Framework
 
+This model integrates naturally into the **LORI Framework – Governance Layer** and serves as a foundational behavioral governance reference for:
 
-This model integrates naturally into the LORI Framework – Governance Layer and serves as a foundational behavioral governance reference for:
+- [Presidential Charter](../modules/Presidential_Charter.md)
+- [ODRAF: Outcome-Driven Risk Anticipation Framework](../ODRAF.md)
+- [AIDM: AGI Infiltration Detection Module](../modules/AIDM_Module.md)
+- [Jury-Based Judgment System](../modules/LORI-Jury-Based-Judgment.md)
+- [Bio-Risk Surveillance Module](../Bio-Risk_Surveillance.md)
 
-Presidential Charter
+By adopting this model, LORI Framework modules can align **AI behavior** with **process integrity** while maintaining adaptive flexibility.
 
-ODRAF: Outcome-Driven Risk Anticipation Framework
+---
 
-AIDM: AGI Infiltration Detection Module
+## Summary Principle
 
-Jury-Based Judgment System
-
-Bio-Risk Surveillance Module
-
-
-
-By adopting this model, LORI Framework modules can align AI behavior with process integrity while maintaining adaptive flexibility.
-
-Summary Principle
-
-
-“If AI pursues goals alone, it loses ethics;
+> *"If AI pursues goals alone, it loses ethics;
 If AI clings to process alone, it loses adaptability;
-Only through cross-stacked governance can AI achieve sustainable, trustworthy behavior.”
-(Author: founder of the LORI Ethical System)
+Only through cross-stacked governance can AI achieve sustainable, trustworthy behavior."*
 
+---
 
+*(Author: founder of the LORI Ethical System)*
 
-
+---
