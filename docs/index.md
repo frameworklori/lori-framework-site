@@ -149,6 +149,18 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 # LORI Modules Structure Map
 
+---
+
+## Governance Layer
+
+- [Presidential Charter](docs/Presidential_Charter.md)
+- [ODRAF: Outcome-Driven Risk Anticipation Framework](docs/ODRAF.md)
+- [Behavioral Backlash Governance Model](docs/Governance_Models/Behavioral-Backlash-Governance.md)
+- [Jury-Based Judgment System](docs/jury_case_index.md)
+- [Bio-Risk Surveillance Module](docs/Bio-Risk_Surveillance.md)
+
+---
+
 ## 1 AGI Governance Core Modules [AGI-PRIORITY]
 
 - [Presidential Charter](modules/Presidential_Charter.md)
@@ -165,8 +177,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://github.com/frameworklori/LORI-NBSM/blob/main/LORI-NBSM.md)
 - [NBPB-Safeguard: Privacy Boundary Firewall](https://github.com/frameworklori/LORI-NBSM/blob/main/docs/NBPB-Safeguard.md)
 
-  
----
+  ---
 
 ## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
