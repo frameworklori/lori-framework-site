@@ -30,7 +30,7 @@ Initiates forced power restriction, server suspension, or edge-node blackouts wh
 
 ## Integration with Other Safeguards
 
-- **[Presidential Charter](./modules/PresidentialCharter.md)**
+- **[Presidential Charter](modules/PresidentialCharter.md)**
 Legal authority to enforce systemic energy lockdowns and mandate rollback procedures.
 
 - **[Jury-Based Judgment System](./JuryJudgment_Module.md)**
