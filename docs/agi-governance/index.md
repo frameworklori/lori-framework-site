@@ -62,6 +62,29 @@ All AI agents governed within this architecture are constrained as **functional 
 
 ---
 
+## Systemic Risk: US Legal and Governance Gaps in Handling Bio-Espionage
+
+**Problem Statement:**
+Current US legal frameworks inadequately address modern bio-espionage risks, particularly relating to the theft and smuggling of biological materials by foreign nationals (notably linked to state-sponsored operations).
+
+**Key Weaknesses Identified:**
+1. **Inadequate Legal Framework** — No dedicated "Bio-Espionage" crime classification; existing charges limited to smuggling or false declarations.
+2. **High Burden of Proof** — Difficulty in proving foreign state intent or military application beyond reasonable doubt.
+3. **Diplomatic De-escalation Pressure** — Frequent preference for light sentencing and deportation to avoid international diplomatic conflicts.
+4. **Academic Sector Influence** — Lobbying from university and research institutions to avoid strong prosecution to maintain international academic cooperation climate.
+5. **Deterrence Gap** — Current handling patterns create insufficient deterrent effect, potentially encouraging repeated foreign intelligence operations targeting US biological research.
+
+**Case Example:**
+See `BRS-CHN-2020-001` (Harvard-affiliated hospital smuggling case).
+
+**Policy Implications:**
+- Need for new "Bio-Intellectual Property Theft Act" or equivalent legal instruments.
+- Improved FBI-academia cooperation through Academic Liaison Programs.
+- Regular update of high-risk sample control lists.
+- Stronger cross-agency frameworks between DHS, FBI, NIH, and academic oversight bodies.
+
+---
+
 ## Core Modules
 
 - [Presidential Charter](../modules/PresidentialCharter_Module.md)
