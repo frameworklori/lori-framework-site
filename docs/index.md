@@ -153,7 +153,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## Governance Layer
 
-- [Presidential Charter](docs/Presidential_Charter.md)
+- [Presidential Charter](modules/Presidential_Charter.md)
 - [ODRAF: Outcome-Driven Risk Anticipation Framework](docs/ODRAF.md)
 - [Behavioral Backlash Governance Model](docs/Governance_Models/Behavioral-Backlash-Governance.md)
 - [Jury-Based Judgment System](docs/jury_case_index.md)
@@ -162,6 +162,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 ---
 
 ## 1 AGI Governance Core Modules [AGI-PRIORITY]
+
+> The AGI Core Modules are governed under the principles defined in the [Presidential Charter](modules/Presidential_Charter.md), with additional references to the [Behavioral Backlash Governance Model](docs/Governance_Models/Behavioral-Backlash-Governance.md) and [ODRAF Framework](docs/ODRAF.md).
 
 - [Presidential Charter](modules/Presidential_Charter.md)
 - [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
@@ -174,8 +176,8 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF_v2.0_Architecture.md)
 - [RIM: Resilience & Impact Matrix](modules/RIM_Module.md)
 - [LORI-ESL: Energy Sentinel Layer v2.0](modules/LORI-ESL_v2.0.md)
-- [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://github.com/frameworklori/LORI-NBSM/blob/main/LORI-NBSM.md)
-- [NBPB-Safeguard: Privacy Boundary Firewall](https://github.com/frameworklori/LORI-NBSM/blob/main/docs/NBPB-Safeguard.md)
+- [LORI-NBSM: Narrative-Based Safeguard Mechanism](https:/github.com/frameworklori/LORI-NBSM/blob/main/LORI-NBSM.md)
+
 
   ---
 
