@@ -19,8 +19,6 @@ Maintaining a public Changelog is critical for transparency, international stand
 - 📄 **Published `LORI_AGI_EMF_CLAUSE_Trace_Record.md`**
 → [Trace Record](records/LORI_AGI_EMF_CLAUSE_Trace_Record.md)
 → Initial Git Commit SHA: b37f9b2
-→ GitHub Repository: [https://github.com/frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
-
 - 📄 **Created `Trace Records Index` page**
 → [Trace Records Index](records/index.md)
 
