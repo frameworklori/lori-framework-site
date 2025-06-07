@@ -155,7 +155,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 - [Presidential Charter](modules/Presidential_Charter.md)
 - [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF.md)
-- [Behavioral Backlash Governance Model](docs/Governance_Models/Behavioral-Backlash-Governance.md)
+- [Behavioral Backlash Governance Model](Governance_Models/Behavioral-Backlash-Governance.md)
 - [Jury-Based Judgment System](modules/jury_case_index.md)
 - [Bio-Risk Surveillance Module](modules/Bio-Risk_Surveillance.md)
 
