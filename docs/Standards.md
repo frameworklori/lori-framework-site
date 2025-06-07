@@ -100,6 +100,27 @@ Version 1.0 is planned following global community feedback, academic review, and
 
 ---
 
+## 9️⃣ Public Acknowledgment Guidance
+
+The LORI Jury-Based Governance Model and its associated Public Governance Standard are made openly available to promote responsible global AI governance.
+
+Entities wishing to adopt, adapt, or reference the LORI Jury System and its governance architecture—whether in academic publications, commercial products, public policy frameworks, or other derivative works—must provide clear and visible acknowledgment of the model’s origin.
+
+An appropriate public acknowledgment should include:
+
+- Reference to the LORI Jury-Based Governance Model by name.
+- Citation of the LORI Public Governance Standard (with version number and URL to official repository).
+- Explicit attribution to the LORI Ethical System as the originator of the conceptual architecture.
+
+Example citation format (for publications, documentation, or product disclosures):
+
+*"This work incorporates elements of the LORI Jury-Based Governance Model, an original governance architecture defined in the LORI Public Governance Standard (v0.9), published by the LORI Ethical System Foundation. See: [Official Repository URL]"*
+
+Failure to provide proper attribution may constitute a violation of public ethical standards and may lead to public notice of misuse.
+
+This guidance is intended to preserve transparency and fairness in the collaborative evolution of global AI governance practices.
+
+
 ## 📌 Appendix
 
 - Public origin references:
