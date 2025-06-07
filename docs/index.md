@@ -216,6 +216,11 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 # LORI Framework Main Index
 
+
+
+
+
+
 ## Core Modules
 
 - [DGP - Demographic Pressure Monitor](modules/DGP.md)
