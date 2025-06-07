@@ -9,7 +9,7 @@ layout: default
 </p>
 
 <details>
-<summary>📜 Semantic Governance Disclaimer (Click to Expand)</summary>
+<summary>📜 Semantic Governance Disclaimer & Governance Standards (Click to Expand)</summary>
 
 ## Governance Standards
  - [LORI Public Governance Standard → v0.9 Draft](./Public-Standard/LORI_Public_Governance_Standard_v0.9.md)
