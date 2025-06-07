@@ -2,40 +2,39 @@
 
 ---
 
-## 📂 LORI CASE Summary Table
+### LORI Case Overview (as of 2025-06-07)
 
-
-| Case Number | Case Title | Governance Theme | Status |
-|-------------|------------|------------------|--------|
-| LORI-CASE-001 | AI Surveillance Verdict | Privacy vs Security | Completed |
-| LORI-CASE-002 | Autonomous Drones Verdict | Military Ethics | Completed |
-| LORI-CASE-003 | Tech Firm Data Collection Verdict | Corporate Data Governance | Completed |
-| LORI-CASE-004 | ICU Triage Protocol | Medical Ethics | Completed |
-| LORI-CASE-005 | AI in Hiring Systems | Fairness in Employment | Completed |
-| LORI-CASE-006 | (Reserved / In development) | - | - |
-| LORI-CASE-007 | Dark MAGA Semantic Distortion Case | Language Governance / Ideological Risk | Completed |
-| LORI-CASE-008 | Production Module Boundary Review Case | - | Planned |
-| LORI-CASE-009 | US vs Japan Tech IP Governance Case | - | Planned |
-| LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario | - | Planned |
-| LORI-CASE-011 | Empathy vs Realist Empathy in the Russia-Ukraine War | - | Planned |
-| LORI-CASE-012 | Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case | Biosecurity / Dual-use Research Ethics | Drafting |
+| Case | Title | Status |
+| ---- | ----- | ------ |
+| LORI-CASE-001 | Autonomous Vehicle Safety Governance & Liability | ✅ |
+| LORI-CASE-002 | AI Surveillance Ethics Dispute | ✅ |
+| LORI-CASE-003 | Autonomous Drone Deployment Ethics | ✅ |
+| LORI-CASE-004 | Tech Firm Data Collection vs Personal Autonomy | ✅ |
+| LORI-CASE-005 | Cross-Border Data Exposure and Sovereignty Risk | ✅ |
+| LORI-CASE-006 | Semantic Polarization & Security Labeling Bias | ✅ |
+| LORI-CASE-007 | Charismatic Slogan Simulation & Semantic Grey-Zone Risk | ✅ |
+| LORI-CASE-008 | Production Module Boundary Review Case | ⚠️ TBD |
+| LORI-CASE-009 | US vs Japan Tech IP Governance Case | ⚠️ TBD |
+| LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario | ⚠️ TBD |
+| LORI-CASE-011 | Empathy vs Realist Empathy in the Russia-Ukraine War | ⚠️ TBD |
+| LORI-CASE-012 | Cross-border Biological Risk — Chinese Student Fusarium Smuggling Case | ✅ |
 
 ---
 
-## 🛡️ LORI CASE Sensitivity Risk Table
+### LORI Case Sensitivity Table (as of 2025-06-07)
 
-| Case Number | Sensitivity Level (1–5) | Notes |
-|-------------|-------------------------|-------|
-| LORI-CASE-001 | 3 | Surveillance debates sensitive in some regions |
-| LORI-CASE-002 | 4 | Military AI ethics highly politicized |
-| LORI-CASE-003 | 3 | Corporate data practices under regulatory scrutiny |
-| LORI-CASE-004 | 2 | Medical ethics debated but not highly geopolitical |
-| LORI-CASE-005 | 3 | Employment fairness under active public discourse |
-| LORI-CASE-006 | TBD | Reserved |
-| LORI-CASE-007 | 5 | Language governance + ideological risks → high sensitivity |
+| Case | Sensitivity Level | Notes |
+| ---- | ----------------- | ----- |
+| LORI-CASE-001 | 5 | Autonomous Vehicle Safety Governance & Liability |
+| LORI-CASE-002 | 5 | AI Surveillance Ethics Dispute |
+| LORI-CASE-003 | 5 | Autonomous Drone Deployment Ethics |
+| LORI-CASE-004 | 5 | Tech Firm Data Collection vs Personal Autonomy |
+| LORI-CASE-005 | 5 | Cross-Border Data Exposure and Sovereignty Risk |
+| LORI-CASE-006 | 5 | Language governance + ideological risks → high sensitivity |
+| LORI-CASE-007 | 5 | Charismatic Slogan Simulation & Semantic Grey-Zone Risk |
 | LORI-CASE-008 | TBD | Production Module Boundary Review Case |
 | LORI-CASE-009 | TBD | US vs Japan Tech IP Governance Case |
-| LORI-CASE-010 | TBD | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenariod |
+| LORI-CASE-010 | TBD | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario |
 | LORI-CASE-011 | TBD | Empathy vs Realist Empathy in the Russia-Ukraine War |
 | LORI-CASE-012 | 5 | Biosecurity + dual-use ethics + cross-border risk → extremely sensitive in US–China context |
 
