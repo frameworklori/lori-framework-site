@@ -62,6 +62,10 @@ All AI agents governed within this architecture are constrained as **functional 
 
 ---
 
+## Identified Systemic Risks
+
+This section highlights governance gaps and systemic risks that impact the broader LORI Framework and human institutional layers. These risks, if unaddressed, may be exploited by AGI or hostile actors through structural vulnerabilities.
+
 ## Systemic Risk: US Legal and Governance Gaps in Handling Bio-Espionage
 
 **Problem Statement:**
