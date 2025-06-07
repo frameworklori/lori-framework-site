@@ -9,8 +9,7 @@ Protect the duality, integrity, and freedom of language, knowledge, and cultural
 ## Governance Layer Overview
 
 <p align="center">
-<img src="./assets/images/Language_Culture_Governance_Interaction_Map.png
-" alt="Language Culture Governance Interaction_Map" width="400">
+<img src="../assets/images/Language_Culture_Governance_Layer.png" alt="Language Culture Governance Layer" width="400">
 </p>
 
 ---
@@ -18,8 +17,7 @@ Protect the duality, integrity, and freedom of language, knowledge, and cultural
 ## Module Interaction Map
 
 <p align="center">
-<img src="assets/images/Language_Culture_Governance_Layer.png
-" alt="Language Culture Governance_Layer" width="400">
+<img src="../assets/images/Language_Culture_Governance_Interaction_Map.png" alt="Language Culture Governance Interaction Map" width="400">
 </p>
 
 --- 
