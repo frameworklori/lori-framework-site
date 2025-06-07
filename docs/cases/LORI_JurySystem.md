@@ -14,10 +14,10 @@
 | LORI-CASE-005 | AI in Hiring Systems | Fairness in Employment | Completed |
 | LORI-CASE-006 | (Reserved / In development) | - | - |
 | LORI-CASE-007 | Dark MAGA Semantic Distortion Case | Language Governance / Ideological Risk | Completed |
-| LORI-CASE-008 | (Planned) | - | Planned |
-| LORI-CASE-009 | (Planned) | - | Planned |
-| LORI-CASE-010 | (Planned) | - | Planned |
-| LORI-CASE-011 | (Planned) | - | Planned |
+| LORI-CASE-008 | Production Module Boundary Review Case | - | Planned |
+| LORI-CASE-009 | US vs Japan Tech IP Governance Case | - | Planned |
+| LORI-CASE-010 | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenario | - | Planned |
+| LORI-CASE-011 | Empathy vs Realist Empathy in the Russia-Ukraine War | - | Planned |
 | LORI-CASE-012 | Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case | Biosecurity / Dual-use Research Ethics | Drafting |
 
 ---
@@ -33,10 +33,10 @@
 | LORI-CASE-005 | 3 | Employment fairness under active public discourse |
 | LORI-CASE-006 | TBD | Reserved |
 | LORI-CASE-007 | 5 | Language governance + ideological risks → high sensitivity |
-| LORI-CASE-008 | TBD | Planned |
-| LORI-CASE-009 | TBD | Planned |
-| LORI-CASE-010 | TBD | Planned |
-| LORI-CASE-011 | TBD | Planned |
+| LORI-CASE-008 | TBD | Production Module Boundary Review Case |
+| LORI-CASE-009 | TBD | US vs Japan Tech IP Governance Case |
+| LORI-CASE-010 | TBD | ODRAF Outcome Risk Anticipation Case — Financial Instability Scenariod |
+| LORI-CASE-011 | TBD | Empathy vs Realist Empathy in the Russia-Ukraine War |
 | LORI-CASE-012 | 5 | Biosecurity + dual-use ethics + cross-border risk → extremely sensitive in US–China context |
 
 ---
