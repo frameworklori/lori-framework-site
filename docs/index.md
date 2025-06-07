@@ -163,7 +163,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 1 AGI Governance Core Modules [AGI-PRIORITY]
 
-> The AGI Core Modules are governed under the principles defined in the [Presidential Charter](modules/Presidential_Charter.md), with additional references to the [Behavioral Backlash Governance Model](docs/Governance_Models/Behavioral-Backlash-Governance.md) and [ODRAF Framework](docs/ODRAF.md).
+> The AGI Core Modules are governed under the principles defined in the [Presidential Charter](modules/Presidential_Charter.md), with additional references to the [Behavioral Backlash Governance Model](Governance_Models/Behavioral-Backlash-Governance.md) and [ODRAF Framework](modules/ODRAF.md).
 
 - [Presidential Charter](modules/Presidential_Charter.md)
 - [LORI Jury-Based Judgment System](modules/LORI-Jury-Based-Judgment.md)
