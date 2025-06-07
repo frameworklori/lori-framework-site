@@ -80,7 +80,7 @@ Based on these probabilities, what preemptive AI-driven surveillance should be e
 
 7️⃣ 
 
--Why did the individual choose to smuggle the research strains rather than applying through legitimate    channels for authorized importation?
+- Why did the individual choose to smuggle the research strains rather than applying through legitimate    channels for authorized importation?
 
 ---
 
