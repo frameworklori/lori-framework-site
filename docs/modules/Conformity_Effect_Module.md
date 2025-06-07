@@ -78,7 +78,7 @@ Detects manipulation attempts exploiting group conformity signals.
 - [LII: Linguistic Incendiary Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LII.md)
 Tracks language triggering large-scale opinion clustering.
 
-- [Trust Drift Map](modules/TrustDrift.md)
+- [Trust Drift Map](../modules/TrustDrift.md)
 Maps convergence of belief systems due to conformity acceleration.
  
 ---
