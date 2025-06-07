@@ -222,7 +222,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [RBL - Robot Penetration Limiter](modules/RBL.md)
 - [GHI - Human-AI/Robot Cooperation Intelligence](modules/GHI.md)
 - [ESL - Energy Sustainability Layer](modules/ESL.md)
-- [ODRAF - Outcome-Driven Risk Anticipation Framework](modules/ODRAF# MIR Module: Meta-Intellectual Resistance
+- [ODRAF - Outcome-Driven Risk Anticipation Framework](modules/ODRAF.md)
 
 *(This module file is currently under construction. Placeholder created to establish correct module structure.)*
 
