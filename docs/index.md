@@ -11,10 +11,13 @@ layout: default
 <details>
 <summary>📜 Semantic Governance Disclaimer & Governance Standards (Click to Expand)</summary>
 
+ ---
+ 
 ## Governance Standards
  - [LORI Public Governance Standard → v0.9 Draft](Standards.md)
  _An original open standard defining jury-based, multi-agent AI governance with human-centered oversight and transparent ethical processes._
 
+---
 
 This module is part of a simulated framework...
 (Semantic Governance Module Disclaimer
