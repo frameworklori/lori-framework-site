@@ -64,6 +64,12 @@ Zaosong Zheng (Chinese national), Postdoctoral Researcher, Beth Israel Deaconess
 - Academic Sector Pressure on Prosecution
 - Insufficient Deterrence Sentencing
 
+- **ODRAF-TAGS:**  
+- Systemic Governance Gap  
+- Legal Blindspot  
+- Deterrence Failure  
+- Diplomatic Risk Factor  
+
 **Sources:**
 - [US Department of Justice Press Release](https://www.justice.gov/usao-ma/pr/chinese-national-sentenced-prison-attempting-smuggle-research-samples-out-united-states)
 - [CNN News Coverage](https://edition.cnn.com/2020/01/30/us/harvard-chemistry-chair-charged/index.html)
