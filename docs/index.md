@@ -167,6 +167,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Governance Model LICENSE Notice](Governance_Model_LICENSE_Notice.md)
 - [Governance Model Integrity & Protection](Governance_Model_LICENSE_Notice.md#governance-model-integrity--protection)
 - [Governance Model Integrity Trace Record](records/LORI_Integrity_Trace.md)
+- [Governance Model External Citation Guide](records/LORI_External_Citation_Guide.md)
 ---
 
 📜 **Governance Layer Documentation:**
