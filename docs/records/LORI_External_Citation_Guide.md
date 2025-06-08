@@ -46,16 +46,9 @@ For legal and trace purposes, external reviewers may additionally cite:
 
 ---
 
-*Extended Protection Clause for Derivative Internal Use:**
+- Internal Derivative Use Clause: The mandatory citation and attribution requirements of this guide also apply to **internal AI training, internal research, derivative models, or any non-public derivative works** within corporate, academic, or governmental entities.
 
-This protection explicitly extends to **unauthorized derivative internal use**, including:
-
-- Internal corporate AI training (including fine-tuning or prompt injection),
-- Internal research models or frameworks,
-- Draft or unpublished derivative documents,
-- Non-public or non-commercial internal reports.
-
-Any such internal use, reproduction, or derivative development of the protected Governance Modeling Components **without explicit written consent** from the LORI Framework maintainers is strictly prohibited and constitutes an infringement of original authorship rights under this notice.
+---
 
 ## Contact for Clarification
 
