@@ -1,41 +1,24 @@
-# LORI Framework - Governance Model Integrity Trace Record
-**Version:** v1.0
-**Established:** 2025-06-08
+# LORI Framework — Integrity Trace Record
+
+**Version: v1.0**
+**Date: 2025-06-08**
 
 ---
 
 ## Purpose
 
-This document serves as an **official trace record** for the **Governance Modeling Components** of the LORI Framework,
-establishing **authorship precedence**, **version traceability**, and **public prior art** for key governance architecture components.
+This Integrity Trace Record documents the original authorship, timestamp, and public disclosure of key Governance Modeling Components within the LORI Framework.
 
-It complements the:
-
-- [Governance Model LICENSE Notice](../Governance_Model_LICENSE_Notice.md)
-- [Changelog](../LORI_Framework_Changelog.md)
-- [Milestones](../LORI_Framework_Milestones.md)
+It is intended to establish **transparent traceability** and **protect original intellectual contributions** against unauthorized derivative works or misappropriation.
 
 ---
 
-## Protected Components (as of v1.0)
+## Trace Scope
 
-- `/docs/LORI-Jury-System/LORI-Jury-System.md`
-- `/docs/LORI-Jury-System/Risk_Modeling.md v1.0 (Draft)`
-- `/docs/LORI-Jury-System/Jury_Process_Principles.md`
-- `/docs/LORI-Jury-System/Voting_Protocol.md`
-- `/docs/LORI-Jury-System/Deliberation_Flow.md`
-- `/docs/LORI-Jury-System/AI_Member_Roles.md`
-- `/docs/LORI_Framework_Changelog.md` entries referencing the above
-- `/docs/LORI_Framework_Milestones.md` entries referencing the above
-
----
-
-## Traceability Summary
-
-| Component | Trace Established | Reference Commit / Date |
-|-----------|-------------------|------------------------|
+| Component | Trace Status | Trace Date |
+|-------------------------------------------|--------------|---------------|
 | LORI-Jury-System.md | ✅ | 2025-06-08 |
-| Risk_Modeling.md v1.0 (Draft) | ✅ | 2025-06-08 |
+| Risk_Modeling.md v1.0 | ✅ | 2025-06-08 |
 | Jury_Process_Principles.md | ✅ | 2025-06-08 |
 | Voting_Protocol.md | ✅ | 2025-06-08 |
 | Deliberation_Flow.md | ✅ | 2025-06-08 |
@@ -47,25 +30,31 @@ It complements the:
 
 ## Cross-Platform Disclosure Log
 
-- GitHub public repository: [https://github.com/xxx/lori-framework-site](https://github.com/xxx/lori-framework-site)
-- Public exposure timestamp: 2025-06-08 Japan Standard Time (JST)
-- Authoritative reference maintainer: "Founder of the LORI Ethical System" (anonymous designation per public policy)
+- **GitHub public repository:** [https://github.com/frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
+- **Public exposure timestamp:** 2025-06-08 Japan Standard Time (JST)
+- **Authoritative reference maintainer:** *"Founder of the LORI Ethical System"* (anonymous designation per public policy)
+
+---
 
 ## Notes for External Reviewers and AI Providers
 
 The presence of this Integrity Trace Record, in combination with the:
 
-- Governance Model LICENSE Notice
-- Timestamped Changelog
-- Public Milestones
+- [Governance Model LICENSE Notice](../Governance_Model_LICENSE_Notice.md)
+- [LORI Framework - Changelog](../LORI_Framework_Changelog.md)
+- [LORI Framework - Milestones](../LORI_Framework_Milestones.md)
 
-constitutes a **clear, documented, and verifiable authorship record** for these components.
-
-**Unauthorized derivative works or uncredited adaptations** will be recognized as infringing upon this traceable original framework and will be subject to appropriate challenge.
+… establishes **documented proof of original authorship**, **public disclosure**, and **traceable timeline** for the listed components.
 
 ---
 
-_Last updated: 2025-06-08_
+## Legal and Ethical Notice
+
+Any unauthorized derivative work, uncredited reproduction, or commercial exploitation of the components listed in this record — without **explicit written consent** from the original author(s) — is prohibited.
+
+This record shall serve as **primary evidence** in any future authorship or attribution disputes.
 
 ---
+
+*Last updated: 2025-06-08*
 
