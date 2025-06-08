@@ -1,26 +1,28 @@
 # Risk Modeling
 **LORI Jury-Based Judgment System**
-**Version: v1.0**
+**Version: v1.0 (Draft)**
 **Date: 2025-06-08**
 
 ---
 
 ## Purpose
 
-Defines the framework for **mathematical risk modeling** and **percentage-based reasoning validation** within the LORI Jury-Based Judgment System.
-Ensures that jury deliberations incorporate quantifiable risk indicators and support transparent, dynamic decision-making.
+Defines the framework for *mathematical risk modeling* and *percentage-based reasoning validation* within the LORI Jury-Based Judgment System.
+Ensures that jury deliberations incorporate quantifiable risk indicators and support transparent, dynamic decision processes.
+
+This v1.0 (Draft) serves as a formal traceable record of original authorship and modeling architecture, pending empirical validation.
 
 ---
 
 ## Core Concepts
 
-- **Percentage-Based Confidence Reporting**
-- **Risk Sensitivity Factors**
+- *Percentage-Based Confidence Reporting*
+- *Risk Sensitivity Factors*
 - Ethical sensitivity
 - Legal sensitivity
 - Cultural sensitivity
 - Emotional/social impact sensitivity
-- **Dynamic Risk Profiles**
+- *Dynamic Risk Profiles*
 - Aggregated confidence ranges
 - Uncertainty quantification
 
@@ -34,26 +36,25 @@ Ensures that jury deliberations incorporate quantifiable risk indicators and sup
 
 ---
 
-## Modeling Methods (Planned)
+## Modeling Methods (Draft - Under Development)
 
-1️⃣ **Simple Aggregated Confidence Scoring**
-- Weighted average of AI members' percentage confidence levels.
+**Note:**
+Formal modeling methods and mathematical formulas are under internal development.
+Final methods will be validated through empirical testing on LORI-CASE-001 to LORI-CASE-012.
+**Full publication of formulas and method details will occur only after validation and trace record establishment, to ensure original authorship protection.**
 
-2️⃣ **Risk Interval Modeling**
-- Range-based representation of consensus strength and dissent.
+Current planned modeling areas:
 
-3️⃣ **Variance and Uncertainty Metrics**
-- Standard deviation of confidence levels across roles.
-- Sensitivity indices for case type.
-
-4️⃣ **Composite Risk Index (CRI)**
-- Overall risk score computed from multi-dimensional sensitivity factors.
+- Aggregated confidence modeling
+- Risk sensitivity profiling
+- Variance and uncertainty representation
+- Composite risk quantification
 
 ---
 
 ## Output Format
 
-- **Risk Report Section** in case record:
+- *Risk Report Section* in case record:
 - Aggregate percentage confidence
 - Risk sensitivity scores
 - Uncertainty range
@@ -77,4 +78,11 @@ Ensures that jury deliberations incorporate quantifiable risk indicators and sup
 - Visualization tools (risk heatmaps, risk confidence charts)
 
 ---
+
+_Last updated: 2025-06-08_
+
+---
+
+
+
 
