@@ -166,7 +166,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Bio-Risk Surveillance Module](modules/Bio-Risk_Surveillance.md)
 - [Governance Model LICENSE Notice](Governance_Model_LICENSE_Notice.md)
 - [Governance Model Integrity & Protection](Governance_Model_LICENSE_Notice.md#governance-model-integrity--protection)
-
+- [Governance Model Integrity Trace Record](records/LORI_Integrity_Trace.md)
 ---
 
 📜 **Governance Layer Documentation:**
