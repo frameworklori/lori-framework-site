@@ -164,7 +164,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Behavioral Backlash Governance Model](Governance_Models/Behavioral-Backlash-Governance.md)
 - [Jury-Based Judgment System](LORI-Jury-System/LORI-Jury-System.md)
 - [Bio-Risk Surveillance Module](modules/Bio-Risk_Surveillance.md)
-
+- [Governance Model LICENSE Notice](Governance_Model_LICENSE_Notice.md)
 ---
 
 📜 **Governance Layer Documentation:**
