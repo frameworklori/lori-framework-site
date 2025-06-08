@@ -57,7 +57,7 @@ This module should not be interpreted as factual representation or diagnosis. It
 This framework adheres to the Lori Framework Governance Standard v1.0, ensuring transparency, integrity, and accountability in all published modules and documentation.
 
 For proper citation and usage, please refer to the:
-[Public Acknowledgment Guide v1.0](docs/records/Public_Acknowledgment_Guide.md)
+[Public Acknowledgment Guide v1.0])(records/Public_Acknowledgment_Guide.md)
 
 ---
 
