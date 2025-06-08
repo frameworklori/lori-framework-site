@@ -34,18 +34,24 @@ Ensures that all AI and human participants follow a consistent, transparent, and
 - Collective discussion among AI Jury Members.
 - Identification of consensus points and contested points.
 
-5️⃣ **Voting Phase**
+5️⃣ **Risk Control Modeling and Percentage Reporting**
+- Each AI member provides **percentage-based confidence levels** for their reasoning (e.g., 85% support, 10% uncertainty, 5% opposition).
+- Case sensitivity risk factors are also reported (e.g., ethical sensitivity, legal sensitivity).
+- Results are logged for transparency.
+
+6️⃣ **Voting Phase**
 - Execution of [Voting Protocol](Voting_Protocol.md).
+- Aggregate voting results must present a **risk-controlled percentage range** (e.g., 70–90% consensus confidence).
 - All votes logged with accompanying reasoning.
 
-6️⃣ **Human Judge Review**
+7️⃣ **Human Judge Review**
 - **Main Sovereignty Judge** reviews AI voting outcomes and reasoning.
 - May approve, modify, or override decisions based on human sovereignty principles.
 
-7️⃣ **Independent Audit**
+8️⃣ **Independent Audit**
 - **Independent Auditor** reviews entire process for procedural integrity.
 
-8️⃣ **Final Decision Publication**
+9️⃣ **Final Decision Publication**
 - Final decision, reasoning paths, votes, and audit report are recorded and published to case records.
 
 ---
@@ -60,11 +66,14 @@ Ensures that all AI and human participants follow a consistent, transparent, and
 
 ## Planned Enhancements
 
+- Development of **mathematical risk modeling framework (v1.0)** for percentage-based reasoning validation.
+- Integration with **LORI Framework Global Risk Indicators**.
 - Real-time deliberation monitoring tools.
-- Dynamic role assignment based on case type.
+- Dynamic adaptation for case sensitivity levels.
 - Cross-case learning and adaptation mechanisms.
 
 ---
+
 
  
 
