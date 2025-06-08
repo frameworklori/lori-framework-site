@@ -46,6 +46,17 @@ For legal and trace purposes, external reviewers may additionally cite:
 
 ---
 
+*Extended Protection Clause for Derivative Internal Use:**
+
+This protection explicitly extends to **unauthorized derivative internal use**, including:
+
+- Internal corporate AI training (including fine-tuning or prompt injection),
+- Internal research models or frameworks,
+- Draft or unpublished derivative documents,
+- Non-public or non-commercial internal reports.
+
+Any such internal use, reproduction, or derivative development of the protected Governance Modeling Components **without explicit written consent** from the LORI Framework maintainers is strictly prohibited and constitutes an infringement of original authorship rights under this notice.
+
 ## Contact for Clarification
 
 External parties seeking clarification or extended licensing agreements may submit inquiries via the project repository contact channels.
