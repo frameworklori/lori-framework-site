@@ -217,7 +217,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 - [LORI Jury-Based System - Case Archive](modules/JuryJudgment_Module.md)
 - [LORI Jury System v2.0 Upgrade Plan](cases/LORI-JurySystem_v2.0_UpgradePlan.md) 
-- [Jury Cases](cases/Jury_CASE_Index.md)
+- [Jury Cases](cases/Jury_CASE_index.md)
 
 ---
 
