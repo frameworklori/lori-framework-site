@@ -46,7 +46,7 @@ For legal and trace purposes, external reviewers may additionally cite:
 
 ---
 
-- Internal Derivative Use Clause: The mandatory citation and attribution requirements of this guide also apply to **internal AI training, internal research, derivative models, or any non-public derivative works** within corporate, academic, or governmental entities.
+- Internal Derivative Use Clause: The mandatory citation and attribution requirements of this guide also apply to **internal AI training, internal research, derivative models, or any non-public derivative works** within corporate, academic, or governmental entities. Failure to comply constitutes an infringement of original authorship and undermines ethical AI governance.
 
 ---
 
