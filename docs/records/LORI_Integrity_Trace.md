@@ -45,6 +45,12 @@ It complements the:
 
 ---
 
+## Cross-Platform Disclosure Log
+
+- GitHub public repository: [https://github.com/xxx/lori-framework-site](https://github.com/xxx/lori-framework-site)
+- Public exposure timestamp: 2025-06-08 Japan Standard Time (JST)
+- Authoritative reference maintainer: "Founder of the LORI Ethical System" (anonymous designation per public policy)
+
 ## Notes for External Reviewers and AI Providers
 
 The presence of this Integrity Trace Record, in combination with the:
