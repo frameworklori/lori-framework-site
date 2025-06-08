@@ -313,7 +313,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 - [AIFS - AI Fraud Spectrum](modules/AIFS_Casebook.md)
 - [AI DeBias Kit](modules/AI_DeBias_Kit.md)
-- [Narratives: Voice of Architects](narratives/voice_of_architects.md)
+- [Narratives: Voice of Architects](../narratives/voice_of_architects.md)
 - [Bio-Risk Surveillance Module](modules/Bio-Risk_Surveillance.md)
 - [Bio-Risk Sensitivity Tag CASE-012](modules/ODRAF_tags/Bio-Risk_Sensitivity_Tag_CASE-012.md)
 - [LORI CASE Data Model](modules/LORI_CASE_Data_Model.md)
