@@ -412,7 +412,7 @@ _Deceptive AI Romance Intervention & Resistance Yard_
 - [**LORI-DLC**](./modules/LORI-DLC.md)
 _Discourse Leverage Control Module_
 
-- [**RSI Index**](./modules/SI_Index.md)
+- [**RSI Index**](./modules/RSI_Index.md)
 _Role-Based Semantic Integrity Score_
 
 - [**LORI-MIR**](./modules/LORI-MIR.md)
