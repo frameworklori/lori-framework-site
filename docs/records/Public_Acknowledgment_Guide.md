@@ -1,9 +1,8 @@
 # Public Acknowledgment Guide
-*for the Lori Framework – Governance Standard v1.0*
 
-Pending Reciprocity Terms — Not full Open Resource
+**Notice:** All current LORI Framework modules and documents are provided under **Pending Reciprocity Terms**.
+This guide describes proper acknowledgment procedures but does not imply full open licensing of any LORI Framework content.
 
----
 
 ## Purpose
 
