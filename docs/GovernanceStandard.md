@@ -63,10 +63,28 @@ This Public Governance Standard shall guide the continual evolution of the LORI 
 It is intended to serve as a living document, adaptable to emerging challenges and technological advancements, while grounded in the fundamental principles of fairness, transparency, and human-centered governance.
 
 ---
+
 ## Governance Reference Architecture
+
+### Governance Structure (Jury System)
 
 <p align="center">
 <img src="assets/images/Governance_Architecture_map.png" alt="Governance Architecture map" width="500">
 </p>
 
 <p align="center"><em>Figure 1: LORI Governance Architecture Map v1.0 — Reference Architecture</em></p>
+
+---
+
+### Governance Layer Stack (Full Architecture)
+
+---
+
+<p align="center">
+<img src="assets/images/LORI_Governance_Layer_Stack_v1.0.png" alt="LORI Governance Layer Stack v1.0" width="600">
+</p>
+<p align="center"><em>Figure 2: LORI Governance Architecture Map v1.0 — Reference Architecture</em></p>
+
+
+
+
