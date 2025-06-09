@@ -1,4 +1,6 @@
 # LORI PUBLIC GOVERNANCE STANDARD
+<!-- LORI GOVERNANCE STANDARD v1.0 — Author: Founder of the LORI Ethical System — Date: June 2025 -->
+
 
 Version 1.0 Final Draft
 (For Public Release — Governance Standard of LORI Jury-Based AI Governance System)
