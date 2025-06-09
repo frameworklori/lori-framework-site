@@ -1,14 +1,8 @@
-# LORI Framework - External Citation Guide
-**Version: v1.0**
-**Date: 2025-06-08**
+# LORI External Citation Guide
 
----
-
-## Purpose
-
-This guide provides the **official citation formats** for external reviewers, academic researchers, AI governance bodies, and public institutions when referencing components of the LORI Framework.
-
-Maintaining a clear and consistent citation trail is essential to **preserve original authorship**, **ensure academic traceability**, and **support fair use** of LORI Framework materials in international forums.
+**Notice:** The following citation formats are provided for academic and traceability purposes only.
+The LORI Framework is published under **Symmetric Reciprocity Principles**. This is not an Open Source release.
+Unauthorized reproduction, fork, or derivative commercial use of GitHub repository content is prohibited.
 
 ---
 
@@ -16,8 +10,7 @@ Maintaining a clear and consistent citation trail is essential to **preserve ori
 
 When citing the LORI Framework as a whole, use:
 
-> **"LORI Framework, Founder of the LORI Ethical System, Public release via GitHub, 
-https://frameworklori.github.io/lori-framework-site/, 2025."**
+"LORI Framework, Founder of the LORI Ethical System, Public reference via GitHub Pages: https://frameworklori.github.io/lori-framework-site/, 2025."
 
 ---
 
@@ -25,7 +18,7 @@ https://frameworklori.github.io/lori-framework-site/, 2025."**
 
 When citing individual modules or components:
 
-> **"LORI Jury-Based Judgment System v1.0, LORI Framework, Public release via GitHub, https://github.com/frameworklori/lori-framework-site/docs/LORI-Jury-System/, 2025."**
+"LORI Jury-Based Judgment System v1.0, LORI Framework, Public reference via GitHub Pages: https://frameworklori.github.io/lori-framework-site/, 2025."
 
 ---
 
@@ -33,7 +26,7 @@ When citing individual modules or components:
 
 For legal and trace purposes, external reviewers may additionally cite:
 
-> **"LORI Framework Integrity Trace Record, https://github.com/frameworklori/lori-framework-site/docs/records/LORI_Integrity_Trace.md, 2025."**
+"LORI Framework Integrity Trace Record, Public reference via GitHub Pages: https://frameworklori.github.io/lori-framework-site/, 2025."
 
 ---
 
@@ -41,21 +34,10 @@ For legal and trace purposes, external reviewers may additionally cite:
 
 - **Mandatory for public or academic use:** Any reproduction, discussion, or integration of LORI Framework components in **external publications, models, AI training, or derivative frameworks** must include proper citation per this guide.
 
-- **Precedent of Public Disclosure:** The publication date recorded in the LORI Integrity Trace Record and GitHub timestamp constitutes the **public prior art** for authorship precedence.
+- **Precedent of Public Disclosure:** The publication date recorded in the LORI Integrity Trace Record and GitHub Pages timestamp constitutes the **public prior art** for authorship precedence.
 
-- **Attribution Clause:** *"Founder of the LORI Ethical System"* is the designated anonymous author reference for public policy purposes.
-
----
-
-- Internal Derivative Use Clause: The mandatory citation and attribution requirements of this guide also apply to **internal AI training, internal research, derivative models, or any non-public derivative works** within corporate, academic, or governmental entities. Failure to comply constitutes an infringement of original authorship and undermines ethical AI governance.
+- **Attribution Clause:** "Founder of the LORI Ethical System" is the designated anonymous author attribution for public citation.
 
 ---
 
-## Contact for Clarification
-
-External parties seeking clarification or extended licensing agreements may submit inquiries via the project repository contact channels.
-
----
-
-_Last updated: 2025-06-08_
 
