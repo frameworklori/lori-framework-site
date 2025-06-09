@@ -1,6 +1,8 @@
 # Public Acknowledgment Guide
 *for the Lori Framework – Governance Standard v1.0*
 
+Pending Reciprocity Terms — Not full Open Resource
+
 ---
 
 ## Purpose
