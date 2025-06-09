@@ -71,6 +71,8 @@ The following diagram illustrates the typical AGI content dissemination cycle, f
 
 ![Infiltration Web Map]<img src="../assets/images/infiltration_map.png" alt="Infiltration Web Map" width="500">
 
+---
+
 *Module maintained under LORI Framework – AGI Risk Detection Cluster.*
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
