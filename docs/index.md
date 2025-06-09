@@ -325,6 +325,13 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ---
 
+## 8 Governance Education & AI Usage Guides
+
+- [Public Acknowledgment Guide v1.0](Public_Acknowledgment_Guide.md)
+- [AI Efficient Diagramming Guide](ai-guides/AI_Efficient_Diagramming_Guide.md)
+
+---
+
 ## 🛡️ Foundational Ethical Standards
 
 - [LORI-NBSM (Negative Behavior Standard Module)](https://github.com/frameworklori/LORI-NBSM) — Language-behavior governance & education-first principle
