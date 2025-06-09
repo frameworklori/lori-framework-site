@@ -20,7 +20,7 @@ When citing or using elements from the Lori Framework, the following acknowledgm
 
 “This work references components of the Lori Framework (Governance Standard v1.0), developed by the founder of the Lori Ethical System.
 
-Original source: https://frameworklori.github.io/lori-framework-site/”
+Original source: https://frameworklori.github.io/lori-framework-site/
 
 - The acknowledgment must not be removed or hidden in derivative works.
 - Any substantial modification of the original models must clearly state the nature of the modifications and retain the reference to the original source.
