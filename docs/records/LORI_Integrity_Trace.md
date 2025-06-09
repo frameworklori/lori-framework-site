@@ -31,6 +31,7 @@ It is intended to establish **transparent traceability** and **protect original 
 ## Cross-Platform Disclosure Log
 
 - **GitHub public repository:** [https://github.com/frameworklori/lori-framework-site](https://github.com/frameworklori/lori-framework-site)
+Conditional Public Reference only — not Open Source”
 - **Public exposure timestamp:** 2025-06-08 Japan Standard Time (JST)
 - **Authoritative reference maintainer:** *"Founder of the LORI Ethical System"* (anonymous designation per public policy)
 
