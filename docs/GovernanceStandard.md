@@ -81,7 +81,7 @@ It is intended to serve as a living document, adaptable to emerging challenges a
 ---
 
 <p align="center">
-<img src="assets/images/LORI_Governance_Layer_Stack_v1.0.png" alt="LORI Governance Layer Stack v1.0" width="600">
+<img src="assets/images/LORI_Governance_Layer_Stack_v1.0.png" alt="LORI Governance Layer Stack v1.0" width="500">
 </p>
 <p align="center"><em>Figure 2: LORI Governance Architecture Map v1.0 — Reference Architecture</em></p>
 
