@@ -93,6 +93,7 @@ Benefits
 
 LORI Framework promotes energy-aware and governance-consistent AI usage — this guide ensures we apply AI responsibly and effectively in professional contexts.
 
+
 Version 1.0 — June 2025 — LORI Framework
 
 
