@@ -48,18 +48,15 @@ This module should not be interpreted as factual representation or diagnosis. It
 
  ---
  
-## Governance Standards
- - [LORI Public Governance Standard → 1.0 Final Draft ](GovernanceStandard.md )
- _An original open standard defining jury-based, multi-agent AI governance with human-centered oversight and transparent ethical processes._
+**The LORI Framework is now governed under the Public Governance Standard v1.0 — ensuring transparency, neutrality, and human-centered AI governance for the emerging global landscape.** 🌍✨
 
----
+• [LORI Public Governance Standard → 1.0 Final Draft](/docs/GovernanceStandard.md)
+An original open standard defining jury-based, multi-agent AI governance with human-centered oversight and transparent ethical processes.
 
-This framework adheres to the Lori Framework Governance Standard v1.0, ensuring transparency, integrity, and accountability in all published modules and documentation.
+This framework adheres to the LORI Framework Governance Standard v1.0, ensuring transparency, integrity, and accountability in all published modules and documentation.
 
-For proper citation and usage, please refer to the:
-[Public Acknowledgment Guide v1.0](records/Public_Acknowledgment_Guide.md)
+For proper citation and usage, please refer to the: [Public Acknowledgment Guide v1.0](/docs/Public_Acknowledgment_Guide.md)
 
----
 
 # Welcome to the Lori Framework
 
