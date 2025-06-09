@@ -63,7 +63,7 @@ This record may be cited in:
 
 **Initial Git Commit SHA:** b37f9b2
 
-**GitHub Repository:** https://github.com/frameworklori/lori-framework-site
+**GitHub Repository:** [https://github.com/frameworklori/lori-framework-site](https://frameworklori.github.io/lori-framework-site/, 2025.")
 
 Conditional Public Reference only — not Open Source”
 ---
