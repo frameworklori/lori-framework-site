@@ -93,6 +93,14 @@ Benefits
 
 LORI Framework promotes energy-aware and governance-consistent AI usage — this guide ensures we apply AI responsibly and effectively in professional contexts.
 
+## Recommended Usage
+
+This guide is recommended for:
+
+- Governance professionals preparing AI-supported documentation
+- AI ethics researchers optimizing AI toolchains for efficiency
+- Developers integrating AI diagramming into governance platforms
+- Educators teaching best practices for responsible AI usage
 
 Version 1.0 — June 2025 — LORI Framework
 
