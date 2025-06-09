@@ -15,9 +15,20 @@ Our goal is to achieve:
 
 ---
 
-## The Three-Stage Standard Workflow
+## Why This Guide Matters
+
+This guide enables **energy-efficient, time-efficient, and concept-consistent AI diagramming**:
+
+- **Saves energy** by avoiding redundant AI generation cycles
+- **Reduces human editing time** with semantically clarified inputs
+- **Ensures consistent, reusable diagrams** aligned with LORI’s governance standards
+
+**Efficient AI usage is part of responsible AI governance.**
+This method supports LORI Framework’s commitment to **sustainable, precise, and teachable AI practices**.
 
 ---
+
+## The Three-Stage Standard Workflow
 
 ### Stage 1: Semantic Clarification
 
