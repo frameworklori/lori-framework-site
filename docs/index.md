@@ -195,7 +195,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [ODRAF: Outcome-Driven Risk Anticipation Framework](modules/ODRAF_v2.0_Architecture.md)
 - [RIM: Resilience & Impact Matrix](modules/RIM_Module.md)
 - [LORI-ESL: Energy Sentinel Layer v2.0](modules/LORI-ESL_v2.0.md)
-- [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://github.com/frameworklori/LORI-NBSM/blob/main/LORI-NBSM.md)
+- [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://frameworklori.github.io/LORI-NBSM/)
 
 
   ---
