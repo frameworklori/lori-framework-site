@@ -65,6 +65,7 @@ This record may be cited in:
 
 **GitHub Repository:** https://github.com/frameworklori/lori-framework-site
 
+Conditional Public Reference only — not Open Source”
 ---
 
 _Last maintained: 2025-06-02_
