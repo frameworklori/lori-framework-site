@@ -61,7 +61,8 @@ This Charter is **bound to the following LORI Framework modules**, ensuring enfo
 → Detects unauthorized self-activation or stealth functions.
 - [x] [LORI-AIDM (AGI Infiltration Detection Module)](AIDM_Module.md)
 → Monitors cross-network influence and infiltration behaviors.
-- [x] [LORI-NBSM (Narrative-Based Safeguard Mechanism)](https://github.com/frameworklori/LORI-NBSM/blob/main/LORI-NBSM.md)
+- [x] [LORI-AIDM (AGI Infiltration Detection Module)](AIDM_Module.md)
+- [x] [LORI-NBSM(Narrative-Based Safeguard Mechanism)](https://frameworklori.github.io/LORI-NBSM)
 → Monitors and constrains AGI-generated narratives and linguistic influence.
 
 ---
