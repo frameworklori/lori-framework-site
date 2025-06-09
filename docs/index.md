@@ -49,7 +49,7 @@ This module should not be interpreted as factual representation or diagnosis. It
  ---
  
 ## Governance Standards
- - [LORI Public Governance Standard → v0.9 Draft](GovernanceStandard.md )
+ - [LORI Public Governance Standard → v1.0 Draft](GovernanceStandard.md )
  _An original open standard defining jury-based, multi-agent AI governance with human-centered oversight and transparent ethical processes._
 
 ---
