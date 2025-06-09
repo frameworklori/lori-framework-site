@@ -327,7 +327,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 8 Governance Education & AI Usage Guides
 
-- [Public Acknowledgment Guide v1.0](Public_Acknowledgment_Guide.md)
+- [Public Acknowledgment Guide v1.0]((records/Public_Acknowledgment_Guide.md))
 - [AI Efficient Diagramming Guide](ai-guides/AI_Efficient_Diagramming_Guide.md)
 
 ---
