@@ -16,7 +16,8 @@ Maintaining a clear and consistent citation trail is essential to **preserve ori
 
 When citing the LORI Framework as a whole, use:
 
-> **"LORI Framework, Founder of the LORI Ethical System, Public release via GitHub, https://github.com/frameworklori/lori-framework-site, 2025."**
+> **"LORI Framework, Founder of the LORI Ethical System, Public release via GitHub, 
+https://frameworklori.github.io/lori-framework-site/, 2025."**
 
 ---
 
