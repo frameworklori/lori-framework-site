@@ -69,7 +69,7 @@ Monitors trust reallocation potentially induced by AGI-aligned agents.
 
 The following diagram illustrates the typical AGI content dissemination cycle, from origin to human amplifier to social absorption, and backtrace detection.
 
-![Infiltration Web Map]<img src="../docs/assets/images/infiltration_map.png" alt="Infiltration Web Map" width="500">
+![Infiltration Web Map]<img src="../assets/images/infiltration_map.png" alt="Infiltration Web Map" width="500">
 
 *Module maintained under LORI Framework – AGI Risk Detection Cluster.*
 
