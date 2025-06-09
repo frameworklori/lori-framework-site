@@ -63,3 +63,5 @@ This Public Governance Standard shall guide the continual evolution of the LORI 
 It is intended to serve as a living document, adaptable to emerging challenges and technological advancements, while grounded in the fundamental principles of fairness, transparency, and human-centered governance.
 
 ---
+## Governance Reference Architecture
+
