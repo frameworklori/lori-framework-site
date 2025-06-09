@@ -66,7 +66,7 @@ It is intended to serve as a living document, adaptable to emerging challenges a
 ## Governance Reference Architecture
 
 <p align="center">
-<img src="../../assets/images/Governance_Architecture_map.png
+<img src="../assets/images/Governance_Architecture_map.png
 " alt="Governance Architecture map" width="500">
 </p>
 
