@@ -9,13 +9,12 @@ layout: default
 </p>
 
 <details>
- 
-
- “Intellectual integrity and governance labor are not public commons. The fruits of rigorous intellectual 
- labor deserve reciprocal respect and protection against opportunistic exploitation.”
 
 
 <summary>📜 Semantic Governance Disclaimer & Governance Standards (Click to Expand)</summary>
+
+ “Intellectual integrity and governance labor are not public commons. The fruits of rigorous intellectual 
+ labor deserve reciprocal respect and protection against opportunistic exploitation.”
 
  This module is part of a simulated framework...
 (Semantic Governance Module Disclaimer
