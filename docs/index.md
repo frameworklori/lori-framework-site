@@ -327,6 +327,9 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 ## 8 Governance Education & AI Usage Guides
 
+LORI Framework promotes **responsible and efficient AI usage** as part of its governance philosophy.
+These guides help practitioners align their AI-assisted processes — such as diagramming and attribution — with LORI’s standards of **sustainability, precision, and transparency**.
+
 - [Public Acknowledgment Guide v1.0](records/Public_Acknowledgment_Guide.md)
 - [AI Efficient Diagramming Guide](ai-guides/AI_Efficient_Diagramming_Guide.md)
 
