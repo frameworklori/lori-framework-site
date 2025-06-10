@@ -268,7 +268,7 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
 | Case ID | Date | Description | Link |
 |----------|------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| A14-001 | 2025-06-09 | Unauthorized visual capture of LORI public model page + AI regeneration | [View Full Case](modules/AIFS_CASE_A14_VISUALREGEN_20250609.md) |
+| A14-001 | 2025-06-09 | Unauthorized visual capture of LORI public model page + AI regeneration | [View Full Case](../modules/AIFS_CASE_A14_VISUALREGEN_20250609.md) |
 
 ---
 
