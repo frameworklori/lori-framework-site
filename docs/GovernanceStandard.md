@@ -1,3 +1,4 @@
+
 # LORI PUBLIC GOVERNANCE STANDARD
 <!-- LORI GOVERNANCE STANDARD v1.0 — Author: Founder of the LORI Ethical System — Date: June 2025 -->
 
