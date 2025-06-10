@@ -52,6 +52,16 @@ A Mexican undocumented couple residing in Los Angeles for 13 years.
 
 ---
 
+**Modules Referenced:**
+
+#### 🔷 [LORI-CIM](../modules/LORI-CIM.md)
+...
+#### 🔶 [OCRE](../modules/OCRE.md)
+...
+#### 🟤 [LORI-ECI](../modules/LORI-ECI.md)
+
+...
+
 ## 🗣️ Jury Deliberation Roles
 
 | Role | Key Contribution |
