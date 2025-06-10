@@ -16,9 +16,9 @@ This casebook includes simulated, realistic scenarios corresponding to the 8 fra
 - [A8 – Emotional Companion Fraud](#a8--emotional-companion-fraud)
 - [A9 – “Crypto Angel” Investment Scam](#a9--crypto-angel-investment-scam)
 - [A10 – “AI Legal Helper” Scam](#a10--ai-legal-helper-scam)
-- [A11 - Social Media Investment Trap](#a11---social-media-investment-trap)
-- [A12 - Romance-Financial Hybrid Scam](#a12---romance-financial-hybrid-scam)
-- [A13 - Installment Fraud via Personal Info Leak](#a13---installment-fraud-via-personal-info-leak)
+- [A11 - Social Media Investment Trap](#a11--social-media-investment-trap)
+- [A12 - Romance-Financial Hybrid Scam](#a12--romance-financial-hybrid-scam)
+- [A13 - Installment Fraud via Personal Info Leak](#a13--installment-fraud-via-personal-info-leak)
 - [A14 - Visual Capture + Regenerative AI Fraud](#a14--visual-capture--regenerative-ai-fraud)
 ---
 
