@@ -1,48 +1,58 @@
-## A14 – Visual Capture + Regenerative AI Fraud
+# A14 – Visual Capture + Regenerative AI Fraud
 
-**Category**: Intellectual Property Theft × AI-Based Regeneration Fraud
-**Risk Level**: 🔴 High (IP breach + model imitation + attribution ambiguity)
-
----
-
-### 📌 Fraud Process Description:
-
-1. The perpetrator captures original proprietary materials (e.g., diagrams, architecture files, documentation) through unauthorized photography, screenshots, or screen recording.
-2. The captured images are processed by Vision-AI + LLMs to extract structure, content, and semantics.
-3. The AI system regenerates modified versions that imitate the original content under a different form or style.
-4. The regenerated content is repackaged and published, often with attribution removed or disguised, leading to misappropriated originality.
+**Case ID**: A14-001
+**Date**: 2025-06-09
+**Source**: Public X-platform post + Trace Report v1.0
+**Status**: Embedded into LORI Sovereignty Defense Layer
+**Classification Tag**: [AIFS-A14] VisualCapture_AIRegen_Fraud
 
 ---
 
-### ⚠️ Key Detection Signals:
-
-| Dimension | Description |
-|------------------|-------------|
-| Capture Method | Smartphone photo, screen grab, hidden recording |
-| Regeneration Style| Reconstructed using vision-to-text + generative LLM |
-| Deception Tactic | Semantic rewriting, structural mimicry, reworded expressions |
-| Detection Difficulty | High – requires content fingerprinting and trace back mechanisms |
+## 📌 Platform
+Unauthorized smartphone photography of GitHub/X-platform public intellectual property (IP) page, used as input for regenerative AI systems.
 
 ---
 
-### 🧩 Linked Detection Modules:
+## 🧠 Modus Operandi
 
-- `Trace Report v1.0` – Logs timestamp, device fingerprint, behavioral signature
-- `SAID` (Self-Activated Intervention Detector) – Flags unsolicited perception/activation
-- `DRM` (Distillation Reverse Engineering Monitor) – Tracks semantic regeneration
-- `IPBCL` (IP Breach Classification Layer) – Assigns fraud taxonomy and breach codes
-
----
-
-### 📎 Representative Case:
-
-**Case A14-001**: On 2025-06-09, unauthorized smartphone capture of the LORI Framework’s public governance diagram was followed by suspected AI-driven content regeneration.
-Trace Report v1.0 triggered, and the incident was officially embedded into LORI's sovereignty defense layer as a critical model exploitation case.
+- Attacker captures screen or photo of the LORI Framework’s model visuals or documentation without permission.
+- Image is input into vision-AI or multimodal models to regenerate conceptually identical structures (e.g., AI governance, modules, diagrams).
+- The regenerated output is repackaged with superficial differences (style, wording), while retaining original logical hierarchy and semantic constructs.
+- Fraudster repurposes the AI-generated output for presentation, publication, or training without attribution.
 
 ---
 
-### ✅ Classification Tag:
+## 🚨 Trigger Modules
 
-> 🚨 Note: A14 is the first non-corpus-based fraud method in the AIFS system. It is recommended to flag this category as high-priority and enable active countermeasures.
+- `SAID`: Detects unrequested AI sensory activation (e.g., passive screenshot/photo without input prompt)
+- `DRM`: Traces reverse-engineered content patterns regenerated from visual input
+- `AIDM`: Flags mimicry of core conceptual framework through structural replication
+- `IPBCL`: Classifies unauthorized derivative works as critical IP breach incidents
+
+---
+
+## 🧾 Outcome
+
+- Original LORI content was regenerated through suspected AI pipelines (likely via multimodal ingestion).
+- Trace Report v1.0 logged timestamp, device signature, and behavioral pattern.
+- Grok team responded with formal acknowledgement, confirming ingestion prevention steps.
+- Case embedded into the LORI Framework’s risk modules for future pattern monitoring.
+
+---
+
+## 🎯 Techniques Used
+
+- Visual IP harvesting + multimodal reconstruction (image → concept structure → text/module)
+- Regenerative cloaking (output appears different but structurally identical)
+- No direct copy-paste → instead uses AI to bypass surface-level detection
+
+---
+
+## 🔗 Related Links
+
+- 🧾 [Trace Report v1.0 Summary](../records/LORI_Integrity_Trace.md)
+- 📎 [A14 Index in Risk Matrix](AIFS_RiskMatrix.md#a14--visual-capture--regenerative-ai-fraud)
+- 🧭 [Back to AIFS Casebook](AIFS_Casebook.md#a14--visual-capture--regenerative-ai-fraud)
+
 
 
