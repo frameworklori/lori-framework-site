@@ -2,8 +2,6 @@
 
 This is the official site of the LORI Ethical AI Governance System.
 
-![image](assets/images/balance.png)
-
 <p align="center">
 <img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
