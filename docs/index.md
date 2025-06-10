@@ -1,11 +1,4 @@
 
-
-
----
-title: Lori Framework
-layout: default
----
-
 <p align="center">
 <img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
 </p>
