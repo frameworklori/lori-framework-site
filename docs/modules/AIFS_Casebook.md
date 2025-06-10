@@ -271,6 +271,13 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 | A14-001 | 2025-06-09 | Unauthorized visual capture of LORI public model page + AI regeneration | [View Full Case](../modules/AIFS_CASE_A14_VISUALREGEN_20250609.md) |
 
 ---
+**Trigger Modules**:
+- `SAID`: Detects unrequested AI sensory activation (image capture without prompt)
+- `DRM`: Traces reverse-engineered semantic regeneration from captured visuals
+- `AIDM`: Flags mimicry of conceptual structure across regenerated models
+- `IPBCL`: Classifies unauthorized derivative content as high-risk IP breach
+   
+---
 
 ## Module Activation Frequency Overview
 
