@@ -1,8 +1,9 @@
 
+
+
 ---
 title: Lori Framework
 layout: default
-
 ---
 
 <p align="center">
