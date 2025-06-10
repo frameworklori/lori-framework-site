@@ -264,6 +264,14 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
 ---
 
+### 🧾 A14 – Visual Capture + Regenerative AI Fraud
+
+| Case ID | Date | Description | Link |
+|----------|------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| A14-001 | 2025-06-09 | Unauthorized visual capture of LORI public model page + AI regeneration | [View Full Case](cases/AIFS_CASE_A14_VISUALREGEN_20250609.md) |
+
+---
+
 ## Module Activation Frequency Overview
 
 This section provides a statistical summary of which trigger modules are most frequently activated across the 13 documented fraud cases (A1–A13).
