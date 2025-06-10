@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <title>LORI Framework Governance Site</title>
 
-<!-- Google Analytics tag -->
+<!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ERNYFDPET5"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
@@ -13,11 +13,21 @@ gtag('js', new Date());
 gtag('config', 'G-ERNYFDPET5');
 </script>
 
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-<div id="app">🚀 Welcome to the LORI Framework Governance Site. Initializing documents...</div>
+<div id="app">🚀 Welcome to the LORI Framework Governance Site.</div>
+
+<script>
+window.$docsify = {
+name: 'LORI Framework',
+repo: '',
+loadSidebar: true,
+subMaxLevel: 2,
+homepage: 'index.md'
+};
+</script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
