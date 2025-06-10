@@ -1,5 +1,4 @@
 
-Welcome to LORI Framework
 ---
 title: Lori Framework
 layout: default
