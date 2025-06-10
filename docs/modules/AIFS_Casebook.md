@@ -264,7 +264,8 @@ Emotional dependency loop + AI illusion of intimacy + guilt-based extraction.
 
 ---
 
-### 🧾 A14 – Visual Capture + Regenerative AI Fraud
+
+## A14 – Visual Capture + Regenerative AI Fraud
 
 | Case ID | Date | Description | Link |
 |----------|------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
