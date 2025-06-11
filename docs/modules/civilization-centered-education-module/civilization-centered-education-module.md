@@ -63,13 +63,13 @@ This module promotes integration talent not as a luxury, but as a civilization-c
 ### 3.6 [critical_thinking_module.md](critical_thinking_module.md)
 - Structured approaches to **critical and meta-cognitive skill development**.
 
-### 3.7 [integration_talent_module.md]
+### 3.7 [integration_talent_module.md](integration_talent_module.md)
 
-Emphasizes the value of interdisciplinary thinking in the AI era.
-
-Encourages learners to become conceptual generalists who understand cross-domain ideas and can utilize AI to evolve into specialized creators.
-
-Advocates that human intelligence begins with understanding — using AI not to replace thought, but to amplify it with purpose and originality.
+- Emphasizes the value of interdisciplinary thinking in the AI era.
+- Encourages learners to become conceptual generalists who understand cross-domain ideas and can
+  utilize AI to evolve into specialized creators.
+- Advocates that human intelligence begins with understanding — using AI not to replace thought,
+  but to amplify it with purpose and originality.
 
 ---
 
