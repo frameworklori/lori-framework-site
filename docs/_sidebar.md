@@ -11,6 +11,8 @@
 - [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
 
 ## 🧠 LORI Casebook
+🧠 LORI Casebook
+
 - [LORI-CASE-001](cases/LORI-CASE-001.md)
 - [LORI-CASE-002](cases/LORI-CASE-002.md)
 - [LORI-CASE-003](cases/LORI-CASE-003.md)
@@ -24,6 +26,8 @@
 - [LORI-CASE-011](cases/LORI-CASE-011.md)
 - [LORI-CASE-012](cases/LORI-CASE-012.md)
 - [LORI-CASE-013](cases/LORI-CASE-013.md)
+
+🔎 **[📘 Case Overview Table](cases/CASE_INDEX.md)**
 
 ## 🧭 Governance Core Modules
 - [Presidential Charter](governance/Presidential_Charter.md)
