@@ -20,10 +20,12 @@ location.replace(location.pathname);
 
 <!-- Docsify Configuration -->
 <script>
+<script>
 window.$docsify = {
 name: 'LORI Framework (Debug)',
 repo: '',
-loadSidebar: './_sidebar.md' // ✅ 明確告訴 docsify 路徑
+loadSidebar: true,
+sidebar: 'docs/_sidebar.md', // ✅ 指定 sidebar 檔案路徑
 subMaxLevel: 2,
 homepage: 'index.md',
 loadNavbar: false,
