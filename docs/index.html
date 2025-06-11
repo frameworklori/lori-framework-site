@@ -23,10 +23,7 @@ location.replace(location.pathname);
 window.$docsify = {
 name: 'LORI Framework (Debug)',
 repo: '',
-loadSidebar: true,
-alias: {
-'/_sidebar.md': 'docs/_sidebar.md'
-},
+loadSidebar: 'docs/_sidebar.md', // ✅ 明確告訴 docsify 路徑
 subMaxLevel: 2,
 homepage: 'index.md',
 loadNavbar: false,
