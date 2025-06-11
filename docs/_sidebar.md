@@ -27,7 +27,7 @@
 - [LORI-CASE-012](cases/LORI-CASE-012.md)
 - [LORI-CASE-013](cases/LORI-CASE-013.md)
 
-🔎 **[📘 Case Overview Table](cases/CASE_INDEX.md)**
+🔎 **[📘 Case Overview Table](cases/LORI_JurySystem.md)**
 
 ## 🧭 Governance Core Modules
 - [Presidential Charter](governance/Presidential_Charter.md)
