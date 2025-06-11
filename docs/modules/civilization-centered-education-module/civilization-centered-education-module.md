@@ -34,6 +34,13 @@ This module provides a **comprehensive framework** to guide teachers, curriculum
 - AI must **enhance** human agency, not replace it.
 - AI must **never act as a civic representative** or surrogate for public will.
 
+### 2.6 Integration as Human Evolutionary Advantage
+- In the AI era, **interdisciplinary integration** becomes a defining human strength. Polymaths — those who understand and connect diverse domains — are increasingly valuable not for holding fragmented knowledge, but for initiating conceptual synthesis.
+
+Only when a learner truly understands core principles can AI become a tool for extending reasoning. From this understanding, students can evolve from generalists into **creative specialists**, capable of generating novel ideas rather than being replaced by automation.
+
+This module promotes integration talent not as a luxury, but as a civilization-critical capability in an AI-saturated world.
+  
 ---
 
 ## 3️⃣ Included Sub-Modules
@@ -55,6 +62,14 @@ This module provides a **comprehensive framework** to guide teachers, curriculum
 
 ### 3.6 [critical_thinking_module.md](critical_thinking_module.md)
 - Structured approaches to **critical and meta-cognitive skill development**.
+
+### 3.7 [integration_talent_module.md]
+
+Emphasizes the value of interdisciplinary thinking in the AI era.
+
+Encourages learners to become conceptual generalists who understand cross-domain ideas and can utilize AI to evolve into specialized creators.
+
+Advocates that human intelligence begins with understanding — using AI not to replace thought, but to amplify it with purpose and originality.
 
 ---
 
