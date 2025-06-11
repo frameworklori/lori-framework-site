@@ -75,8 +75,8 @@ LORI is an open, modular architecture that helps society:
 
 ## Explore the System
 
-- [Narrative Heatmap](modules/heatmap.md)
-- [Voice of Architects](voices-en.md)
+- [Narrative Heatmap](./modules/heatmap.md)
+- [Voice of Architects](./voices-en.md)
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
 - [TDM: Trust Drift Map](./modules/TDM.md)
