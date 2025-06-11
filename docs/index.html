@@ -1,24 +1,29 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title>LORI Framework</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Docsify CSS -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
 <body>
+<!-- App Mount Point -->
 <div id="app">Loading...</div>
 
+<!-- Docsify Script -->
 <script>
 window.$docsify = {
-repo: '',
-loadSidebar: false,
+name: 'LORI Framework',
+repo: 'frameworklori/lori-framework-site',
+loadSidebar: true,
 subMaxLevel: 2,
-loadNavbar: false,
-homepage: 'index.md'
+alias: {
+'/.*/_sidebar.md': '/_sidebar.md'
+}
 }
 </script>
 
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
