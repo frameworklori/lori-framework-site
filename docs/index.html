@@ -2,39 +2,64 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>LORI Framework</title>
+<title>LORI Framework (Debug Mode)</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 
-<!-- Redirect incorrect #!/ URLs to root -->
+<!-- 強制導向錯誤URL修復 -->
 <script>
 if (location.hash && location.hash.startsWith('#!')) {
 location.replace(location.pathname);
 }
 </script>
-
-<!-- Docsify CSS -->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
 <body>
 
-<!-- App Mount Point -->
-<div id="app">Loading...</div>
+<!-- App mount point -->
+<div id="app">Loading LORI Framework Debug Page...</div>
 
-<!-- Docsify Config -->
+<!-- Docsify Configuration -->
 <script>
 window.$docsify = {
-name: 'LORI Framework',
-repo: 'frameworklori/lori-framework-site',
+name: 'LORI Framework (Debug)',
+repo: '',
 loadSidebar: true,
 subMaxLevel: 2,
 alias: {
 '/.*/_sidebar.md': '/_sidebar.md'
-}
+},
+loadNavbar: false,
+notFoundPage: true,
+requestHeaders: {
+'Cache-Control': 'no-cache'
+},
+routerMode: 'hash',
+fallbackLanguages: [],
+auto2top: true,
+formatUpdated: '{MM}/{DD} {HH}:{mm}',
+ga: '',
+onlyCover: false,
+executeScript: true
 };
 </script>
 
-<!-- Docsify Script 主程式 -->
+<!-- Docsify 主程式 -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+<!-- Debug Console -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+console.log("📦 Docsify Debug: Page loaded.");
+});
+
+window.addEventListener('error', function (e) {
+console.error("🚨 Page Error:", e.message);
+});
+
+window.addEventListener('unhandledrejection', function (e) {
+console.error("🚨 Promise Error:", e.reason);
+});
+</script>
 
 </body>
 </html>
