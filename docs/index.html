@@ -1,31 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="UTF-8" />
 <title>LORI Framework (Debug Mode)</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-
-<!-- 強制導向錯誤URL修復 -->
-<script>
-if (location.hash && location.hash.startsWith('#!')) {
-location.replace(location.pathname);
-}
-</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
 <!-- App mount point -->
 <div id="app">Loading LORI Framework Debug Page...</div>
 
 <!-- Docsify Configuration -->
 <script>
-<script>
 window.$docsify = {
 name: 'LORI Framework (Debug)',
 repo: '',
 loadSidebar: true,
-sidebar: 'docs/_sidebar.md', // ✅ 指定 sidebar 檔案路徑
+sidebar: '_sidebar.md',
 subMaxLevel: 2,
 homepage: 'index.md',
 loadNavbar: false,
@@ -38,23 +28,8 @@ auto2top: true,
 executeScript: true
 };
 </script>
+
 <!-- Docsify 主程式 -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-
-<!-- Debug Console -->
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-console.log("📦 Docsify Debug: Page loaded.");
-});
-
-window.addEventListener('error', function (e) {
-console.error("🚨 Page Error:", e.message);
-});
-
-window.addEventListener('unhandledrejection', function (e) {
-console.error("🚨 Promise Error:", e.reason);
-});
-</script>
-
 </body>
 </html>
