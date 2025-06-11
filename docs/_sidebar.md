@@ -1,8 +1,8 @@
 * [🔷 Overview](index.md)
 
 ## 🔍 Explore the System
-- [Narrative Heatmap](modules/heatmap.md)
-- [Voice of Architects](narratives/voice_of_architects.md)
+- [Narrative Heatmap](./modules/heatmap.md)
+- [Voice of Architects](./voices-en.md)
 - [Energy Sentinel (for public)](modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index](modules/EDRI-H.md)
 - [TDM: Trust Drift Map](modules/TDM.md)
