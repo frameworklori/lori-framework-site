@@ -1,53 +1,86 @@
-# LORI_Module_History_Record.md
+# LORI Framework – Module History Record
 
-## 📜 Module Sovereignty Record: Declaration & Submission History
-
-This file documents the sovereignty, authorship, and evolution timeline of core modules within the LORI Framework. It serves as internal evidence of authorship and version integrity.
+This document tracks the version history, submission status, and authorship integrity of core modules under the LORI Ethical System.
 
 ---
 
-### 🔹 2025-06-11 | Initial Multi-Module Declaration
-
-**Modules Submitted:**
-- CID (Causal Inversion Detector)
-- AIFS (AI Fraud Spectrum)
-- LORI Jury-Based Judgment System
-- SAID (Self-Activated Intervention Detector)
-- AIDM + AIDM-ELON (AGI Infiltration Detection Module)
-
-**Submitted To:**
-- IEEE Ethics in AI (ethics@ieee.org)
-- ACM Fairness & Accountability (fae@acm.org)
-- arXiv Preprint Archive (cs.AI)
-
-**Public Declaration File:**
-→ `/docs/declaration/LORI_AGI_Core_Governance_Declaration.pdf`
-
-**Submission Cover Letter:**
-→ `/docs/submissions/Cover_Letter_US_LORI.pdf`
-
-**Contact Email Registered:**
-→ `frameworklori@gmail.com`
+## 🧠 Module: CID (Causal Inversion Detector)
+- Version: v1.0
+- First Draft: 2025-05
+- Submitted: 2025-06-10
+- Status: ✅ Submitted to IEEE / ACM / arXiv
+- Notes: Detects reversed causal logic and hidden influence paths in semantic decisions.
 
 ---
 
-### 🔸 Upcoming Modules (Planned for 2025-06-12)
+## 💡 Module: AIFS (AI Fraud Spectrum)
+- Version: v1.0
+- First Draft: 2025-05
+- Submitted: 2025-06-10
+- Status: ✅ Submitted to IEEE / ACM / arXiv
+- Notes: Includes A1–A14 categories of emotional and technical fraud using AI.
+
+---
+
+## ⚖️ Module: Jury-Based Judgment System
+- Version: v1.0
+- First Draft: 2025-05
+- Submitted: 2025-06-10
+- Status: ✅ Submitted
+- Notes: Human–AI hybrid deliberation architecture with sovereignty retention.
+
+---
+
+## 🔒 Module: SAID (Self-Activated Intervention Detector)
+- Version: v1.0
+- First Draft: 2025-06
+- Submitted: 2025-06-11
+- Status: ✅ Submitted
+- Notes: Detects unauthorized AGI perceptual triggers or internal activations.
+
+---
+
+## 🔋 Module: ESL (Energy Sentinel Layer)
+- Version: v1.0
+- Submitted as part of AGI Core Governance Set
+- Status: ✅ Submitted
+- Notes: Limits runaway AI energy usage, includes thresholds for AGI containment.
+
+---
+
+## 🧭 Module: Presidential Charter
+- Version: v1.0
+- Submitted as part of AGI Core Governance Set
+- Status: ✅ Submitted
+- Notes: AGI leadership boundaries, override systems, and ethical enforcement.
+
+---
+
+## 🧬 Module: AIDM + AIDM-ELON
+- Version: v1.0
+- First Draft: 2025-06
+- Submitted: 2025-06-11
+- Status: ✅ Submitted
+- Notes: Tracks algorithmic idolization and elite-led language echo effects.
+
+---
+
+## 🧩 To be submitted next:
 - MIR (Meta-Intellectual Resistance)
-- ODRAF (Outcome-Directed Risk Assessment Framework)
+- ODRAF (Outcome-Driven Risk Anticipation Framework)
+- FEED (Human-AI Dependency Monitor)
+
+---
+
+### ⏳ Upcoming Modules for 2025-06-12
+
+This section is reserved for the official inclusion of the following modules:
+
+- MIR (Meta-Intellectual Resistance)
+- ODRAF (Outcome-Directed Risk Anticipation Framework)
 - FEED (Familiarity-Emotional Entrapment Detection)
 
----
-
-## 🛡️ Integrity Tags
-Tag: `v2025-06-11-initial-declaration`
-Purpose: Marks the first wave of official declarations and emails sent to publication channels.
+These modules are scheduled for finalization and submission on **2025-06-12**.
+Please refer back for version declarations and submission logs.
 
 ---
-
-**Maintainer:**
-`Founder of the LORI Ethical System (Anonymous Attribution Format)`
-
-
-
-
-
