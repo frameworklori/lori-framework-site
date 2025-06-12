@@ -1,3 +1,12 @@
+<!--
+LORI FRAMEWORK – INTERNAL INTELLECTUAL SOVEREIGNTY RECORD
+ACCESS: INTERNAL ONLY
+RESTRICTED LEVEL: LORI-INTEL-3
+CREATOR: Founder of the LORI Ethical System
+DISCLAIMER: Unauthorized reproduction or semantic repurposing of this document constitutes an IP breach under the LORI-SPR and LAIM modules.
+-->
+
+
 # Semantic Creation Proof Packet
 
 **Author:** Founder of the LORI Ethical System
