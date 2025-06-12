@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-<img src="./assets/images/semantic_appropriation_defense_diagram_v1.png
+<img src="../assets/images/semantic_appropriation_defense_diagram_v1.png
 " alt="Semantic Appropriation" width="500">
 </p>
 
