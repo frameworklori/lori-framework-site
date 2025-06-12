@@ -1,0 +1,71 @@
+{
+"service_name": "LORI Alert Submit",
+"version": "1.0",
+"last_updated": "2025-06-12",
+"maintained_by": "LORI Ethical System Internal Governance Team",
+"access": "semi-open",
+"description": "This service allows users to report suspected semantic appropriation, AI mimicry, or unauthorized use of original language logic, narrative structure, or model classification patterns. The system performs initial fingerprint matching and returns status indicators based on LAIM, LORI-SPR, and related modules.",
+
+"submission_fields": {
+"submitter_id": "string (optional, can be anonymous or pseudonym)",
+"submission_date": "string (YYYY-MM-DD)",
+"suspected_content": {
+"type": "string (text / image / structured_logic)",
+"content": "string or URL",
+"language": "string (e.g. en / zh / ja / other)"
+},
+"original_claim": {
+"author": "string (optional)",
+"known_structure_id": "string (optional, e.g. LORI-FPR-0001)"
+},
+"reason_for_suspicion": "string (free-form description of why this is flagged)",
+"suspected_AI_origin": {
+"platform": "string (optional, e.g. ChatGPT, Gemini, Claude)",
+"model_name": "string (optional)",
+"generation_date": "string (optional, YYYY-MM-DD)"
+}
+},
+
+"internal_process": {
+"linked_modules": [
+"LAIM",
+"LORI-SPR",
+"AIDM",
+"ODRAF"
+],
+"response_tiers": [
+"Flagged",
+"Under Review",
+"Likely Appropriation",
+"Confirmed Match"
+],
+"semantic_match_threshold": 0.85,
+"auto_response": {
+"enabled": true,
+"fields_returned": [
+"submission_id",
+"match_status",
+"semantic_similarity_score",
+"matched_signature",
+"triggered_modules",
+"preliminary_diagnostic"
+]
+}
+},
+
+"privacy_policy": {
+"visibility": "internal analysis only",
+"disclosure": "Submitter identity will never be published. Confirmed matches may be indexed anonymously for defense and statistical research.",
+"consent_required": true
+},
+
+"notes": [
+"This is an early-stage intake schema. Later versions will support traceable report threads and third-party verification tokens.",
+"All submissions are timestamped and stored under `/records/alerts/` with internal reference IDs."
+]
+}
+
+
+
+
+
