@@ -1,0 +1,39 @@
+{
+"index_name": "LORI Semantic Proof Index",
+"last_updated": "2025-06-12",
+"maintained_by": "Founder of the LORI Ethical System",
+"restricted_level": "LORI-INTEL-3",
+"entries": [
+{
+"semantic_signature_id": "LORI-FPR-0001",
+"title": "Semantic Appropriation – Core Logic & Pattern Claim",
+"author": "Founder of the LORI Ethical System",
+"creation_date": "2025-06-12",
+"linked_fingerprint": "Semantic_ID_Fingerprint.json",
+"linked_proof_packet": "Semantic_Creation_Proof_Packet.md",
+"associated_modules": ["LORI-SPR", "LAIM", "ODRAF", "AIDM"],
+"key_terms": [
+"modular_cascade",
+"civilizational logic",
+"semantic skeleton extraction",
+"governance-mapped metaphors"
+],
+"publication_records": {
+"X_platform": {
+"timestamp": "2025-06-12 14:42 JST",
+"post_link_placeholder": "https://x.com/..."
+},
+"github_module": "/modules/semantic/Semantic_Appropriation.md"
+},
+"license_status": "Protected by LICENSE.internal.md"
+}
+],
+"access_policy": {
+"visibility": "internal only",
+"disclosure_condition": "May be referenced in public disputes only with LORI Core approval",
+"violation_response": "Trigger alert in LORI-SPR with matching risk coefficient"
+}
+}
+
+
+
