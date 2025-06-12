@@ -2,24 +2,70 @@
 "creator": "Founder of the LORI Ethical System",
 "semantic_signature_id": "LORI-FPR-0001",
 "creation_date": "2025-06-12",
+"classification": "INTELLECTUAL STRUCTURE FINGERPRINT",
+"restricted_level": "LORI-INTEL-3",
 "style_traits": {
 "narrative_flow": "modular_cascade",
 "logic_structure": "reverse_consequence_mapping",
-"symbolic_logic": ["fire", "vessel", "mirror", "sovereignty", "memory"],
-"conceptual_units": ["AI ethical jury", "semantic control loops", "fraud taxonomies"],
-"question_type_bias": "systemic inversion, 'what-if-not-controlled', 'value-priority axis'"
+"symbolic_logic": [
+"fire",
+"vessel",
+"mirror",
+"sovereignty",
+"memory",
+"elemental metaphors"
+],
+"conceptual_units": [
+"AI ethical jury",
+"semantic control loops",
+"fraud typology spectra",
+"modular risk governance",
+"language sovereignty doctrine"
+],
+"questioning_style": [
+"first-principles deconstruction",
+"inversion-based hypotheticals",
+"what-if-not-controlled reasoning",
+"value-priority cascade"
+]
 },
 "language_patterns": {
-"common_prefixes": ["What if AI...", "To protect sovereignty...", "The structure must..."],
-"modular_terms": ["module", "index", "governance layer", "resonance loop"],
-"analogic_style": "cross-domain metaphors with governance anchoring"
+"common_prefixes": [
+"What if AI...",
+"To protect sovereignty...",
+"The structure must...",
+"In a multi-layered framework..."
+],
+"signature_terms": [
+"module",
+"resonance loop",
+"semantic infiltration",
+"post-causal modeling",
+"civilizational integrity"
+],
+"analogic_style": "cross-domain metaphors with governance anchoring",
+"sentence_tone": "conceptual precision with philosophical framing"
 },
 "use_cases": [
-"Compare incoming AI-generated models against this fingerprint",
-"Verify origin of disputed content style",
-"Support authorship attribution in public IP debates"
-]
+"Compare suspected AI-generated works for stylistic appropriation.",
+"Verify authorship in IP or publication disputes.",
+"Support legal, academic, or governance-based sovereignty claims.",
+"Integrate into LORI-SPR and LAIM module pattern detection."
+],
+"linked_modules": [
+"LAIM",
+"LORI-SPR",
+"ODRAF",
+"AIDM"
+],
+"source_confirmed_records": {
+"X_post_timestamp": "2025-06-12 14:42 JST",
+"GitHub_module_link": "/modules/semantic/Semantic_Appropriation.md",
+"record_proof_packet": "/records/internal/semantic_proof/Semantic_Creation_Proof_Packet.md"
+},
+"license": {
+"type": "Internal-Use Semantic Sovereignty License",
+"file": "/docs/records/internal/LICENSE.internal.md",
+"violation_clause": "Unauthorized semantic reconstruction or redistribution constitutes breach under LORI-SPR and LAIM detection scope."
 }
-
-
-
+}
