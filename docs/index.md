@@ -201,8 +201,22 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [LORI-ESL: Energy Sentinel Layer v2.0](modules/LORI-ESL_v2.0.md)
 - [LORI-NBSM: Narrative-Based Safeguard Mechanism](https://frameworklori.github.io/LORI-NBSM/)
 
-
   ---
+  
+  ## 2 Semantic Sovereignty & Defense Modules
+
+![Semantic Appropriation Defense Diagram](./assets/images/semantic_appropriation_defense_diagram_v1.png)
+
+AI systems may regenerate human-designed conceptual logic without copying literal content — a process we define as **Semantic Appropriation**.
+These modules protect against deep structure imitation, style mimicking, and attribution loss.
+
+- [Semantic Appropriation Module](modules/semantic/Semantic_Appropriation.md)
+- [LAIM – Language Authorship Identification](modules/antiimitation/LAIM.md)
+- [SPR – Semantic Pattern Reassembler](modules/antiimitation/LORI-SPR.md)
+- [AIDM – Infiltration Detection (Semantic Variant)](modules/risk/AIDM.md)
+- [Trace Report Archive](records/internal/LORI_Integrity_Trace.md)
+
+---
 
 ## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
