@@ -205,7 +205,11 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
   
   ## 2 Semantic Sovereignty & Defense Modules
 
-![Semantic Appropriation Defense Diagram](./assets/images/semantic_appropriation_defense_diagram_v1.png)
+<p align="center">
+<img src="./assets/images/semantic_appropriation_defense_diagram_v1.png"
+alt="Semantic Appropriation Diagram" width="500">
+</p>
+
 
 AI systems may regenerate human-designed conceptual logic without copying literal content — a process we define as **Semantic Appropriation**.
 These modules protect against deep structure imitation, style mimicking, and attribution loss.
