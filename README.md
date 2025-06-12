@@ -24,7 +24,7 @@ The **LORI Ethical System** is a multi-layered AI governance and semantic protec
 - [LORI_FirstDisclosure_Statement.md](LORI_FirstDisclosure_Statement.md)
 - [AI_Fraud_Spectrum.md](AIFS_RiskMatrix.md)
 - [LORI_JurySystem.md](JurySystem_Overview.md)
-- [Narrative Roles Module](./modules/narrative-roles/index.md)
+- [Narrative Roles Module](narrative-roles/index.md)
 
 > 🔖 You can explore modules using the sidebar on the left.
 
