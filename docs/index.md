@@ -219,6 +219,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [SPR – Semantic Pattern Reassembler](modules/antiimitation/LORI-SPR.md)
 - [AIDM – Infiltration Detection (Semantic Variant)](modules/risk/AIDM.md)
 - [Trace Report Archive](records/internal/LORI_Integrity_Trace.md)
+- [LORI-semantic_fingerprint_method](Semantic/LORI-semantic_fingerprint_method.md)
 
 ---
 
