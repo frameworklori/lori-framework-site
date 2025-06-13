@@ -46,13 +46,17 @@ background-color: #f0f0f0;
 <body>
 <div id="app">Loading LORI Framework Page...</div>
 
-<script>
 window.$docsify = {
-name: '',
+name:'',
 homepage: 'index.md',
+loadSidebar: false,
 alias: {
 'modules/heatmap': 'modules/heatmap.md',
 'voices-en': 'voices-en.md'
+},
+routes: {
+'/modules/heatmap': 'modules/heatmap.md',
+'/voices-en': 'voices-en.md'
 }
 };
 </script>
