@@ -7,8 +7,6 @@ title: Narrative Heatmap
 
 This chart visualizes emphasis across five narrative roles and five thematic domains.
 
-<p align="center">
-<img src="../assets/images/unnamed.png" alt="Narrative Heatmap" width="600">
-</p>
+![Narrative Heatmap](/assets/images/unnamed.png)
 
 Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
