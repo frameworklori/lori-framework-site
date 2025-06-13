@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title></title>
+<title>LORI Framework</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Docsify Theme -->
@@ -28,15 +28,22 @@ padding: 0 1em;
 
 <script>
 window.$docsify = {
-name: '',
+name: 'LORI Framework',
 repo: '',
 loadSidebar: false,
 homepage: 'index.md',
+alias: {
+'/modules/heatmap': 'modules/heatmap.md',
+'/voices-en': 'voices-en.md'
+},
+routes: {
+'/modules/heatmap': 'modules/heatmap.md',
+'/voices-en': 'voices-en.md'
+}
+};
 </script>
 
 <!-- Docsify Core -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
-
-
