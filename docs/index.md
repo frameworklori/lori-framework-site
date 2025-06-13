@@ -83,6 +83,8 @@ LORI is an open, modular architecture that helps society:
 - [MAT: Mimicry Activation Threshold](./modules/MAT.md)
 - [LII: Linguistic Incendiary Index](./modules/LII.md)
 - [RBL-GOV: Robot-Based Labor Governance Module](./modules/RBL-GOV.md)
+- [Narrative Heatmap](modules/heatmap.md)
+- [Voice of Architects](voices-en.md)
 
 ---
 
