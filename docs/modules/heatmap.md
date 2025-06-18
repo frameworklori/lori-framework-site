@@ -8,7 +8,7 @@ title: Narrative Heatmap
 This chart visualizes emphasis across five narrative roles and five thematic domains.
 
 
-<img src="docs/assets/images/unnamed.png" alt="Narrative Emphasis Heatmap">
+<img src="assets/images/unnamed.png" alt="Narrative Emphasis Heatmap">
 
 
 
