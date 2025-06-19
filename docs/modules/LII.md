@@ -11,15 +11,16 @@
 
 This 2D index maps the intersection of emotional **Trigger** and social **Amplification**. When both factors are high, language spreads rapidly, often provoking imitation or emotional contagion.
 
-```
-Y-axis: Amplification (social spread potential)
-X-axis: Trigger (emotional intensity)
-
 <p align="center">
 <!-- B. GitHub 預覽用絕對路徑 -->
 <img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/linguistic-incendiary-index.png?raw=true" alt="LII diagram" width="400">
 </p>
 
+```
+Y-axis: Amplification (social spread potential)
+X-axis: Trigger (emotional intensity)
+
+---
 
 > 📊 **Interpretation**:  
 > The top-right quadrant represents **high-risk language** — emotionally triggering and socially amplified.  
