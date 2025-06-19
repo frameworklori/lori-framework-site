@@ -69,6 +69,6 @@ The AI moderation system, while designed to uphold public safety, unjustifiably 
 
 ---
 
-🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)
+🔗 Attribution: See [Intellectual_Attribution.md](../Intellectual_Attribution.md)  
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
