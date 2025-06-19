@@ -25,7 +25,7 @@ Detects recursive amplification loops across language, emotion, and identity dim
 
 ---
 
-🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)  
+🔗 Attribution: See [Intellectual_Attribution.md](../Intellectual_Attribution.md)  
 🛡 This module is part of the LORI Framework. Original concept by the founder of the LORI Ethical System.
 
 
