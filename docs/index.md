@@ -261,7 +261,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [Resonance Loop Detection](modules/Language-Governance/ResonanceLoopDetection.md)
 - [Contextual Tagging](modules/Language-Governance/ContextualTagging.md)
 - [Decoupling Algorithm](modules/Language-Governance/DecouplingAlgorithm.md)
-- (modules/Language-Governance/GLEB_Module.md) — Gresham’s Law Effect on AI & Language / Culture
+- [GLEB: Gresham’s Law Effect on AI & Language / Culture](modules/Language-Governance/GLEB_Module.md)
 
 ---
 
