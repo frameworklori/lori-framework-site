@@ -43,18 +43,6 @@ Any references to influential figures, charismatic speakers, or technology leade
 
 These are archetypal placeholders to evaluate linguistic resonance, social influence dynamics, and semantic override risk in automated or AI-mediated environments.
 
----
-
-## 🧠 Language Sovereignty Control Modules
-
-- [LORI-NCS: Narrative Control Scanner](/docs/modules/LORI-NCS.md) 
-- [LII: Linguistic Incendiary Index](/docs/modules/LII.md)
-- [SPR: Semantic–Pragmatic Reversal](/docs/modules/SPR.md)
-- [AIDM: AGI Infiltration Detection](/docs/modules/AIDM.md)
-- [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
-
----
-
 Usage Boundary
 
 This module should not be interpreted as factual representation or diagnosis. It is not to be cited as evidence in real-world commentary, policy debate, or legal dispute. Its use is restricted to ethical simulation and conceptual evaluation under open governance and research settings.  
