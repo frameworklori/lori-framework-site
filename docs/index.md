@@ -251,17 +251,17 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ## Language & Narrative Sovereignty Modules
 
-- [AIDM](./AIDM.md) — AGI Infiltration Detection
-- [LORI-NCS](./LORI-NCS.md) — Narrative Control Scanner
-- [LII](./LII.md) — Linguistic Incendiary Index *(Legacy module, fully integrated)*
-- [SPR](./SPR.md) — Semantic–Pragmatic Reversal
-- [Language Sovereignty Pack](./LanguageSovereignty-Pack.md)
-- [MIR](./MIR.md) — Meta-Intellectual Resistance Module
-- [AI Debias Kit](./AI-DeBias-Kit.md)
-- [Resonance Loop Detection](./ResonanceLoopDetection.md)
-- [Contextual Tagging](./ContextualTagging.md)
-- [Decoupling Algorithm](./DecouplingAlgorithm.md)
-- [GLEB](#) — Gresham’s Law Effect on AI & Language / Culture
+- [AIDM](/docs/modules/AIDM.md) — AGI Infiltration Detection
+- [LORI-NCS](/docs/modules/LORI-NCS.md) — Narrative Control Scanner
+- [LII](/docs/modules/LII.md) — Linguistic Incendiary Index *(Legacy module, fully integrated)*
+- [SPR](/docs/modules/SPR.md) — Semantic–Pragmatic Reversal
+- [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
+- [MIR](modules/Language-Governance/MIR_Module.md) — Meta-Intellectual Resistance Module
+- [AI Debias Kit](modules/Language-Governance/AI-Debias-Kit.md)
+- [Resonance Loop Detection](modules/Language-Governance/ResonanceLoopDetection.md)
+- [Contextual Tagging](modules/Language-Governance/ContextualTagging.md)
+- [Decoupling Algorithm](modules/Language-Governance/DecouplingAlgorithm.md)
+- [modules/Language-Governance/GLEB_Module.md) — Gresham’s Law Effect on AI & Language / Culture
 
 ---
 
