@@ -64,7 +64,7 @@ An autonomous drone system developed by a defense contractor was deployed by a r
 
 ---
 
-🔗 Attribution: See [../Intellectual_Attribution.md](../Intellectual_Attribution.md)  
+🔗 Attribution: See [Intellectual_Attribution.md](../Intellectual_Attribution.md)  
 🛡 This module is part of the LORI Framework. Original concept by the founder of the LORI Ethical System.
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
