@@ -16,7 +16,7 @@ This 2D index maps the intersection of emotional **Trigger** and social **Amplif
 <img src="https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/linguistic-incendiary-index.png?raw=true" alt="LII diagram" width="400">
 </p>
 
-```
+
 Y-axis: Amplification (social spread potential)
 X-axis: Trigger (emotional intensity)
 
