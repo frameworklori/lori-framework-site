@@ -182,7 +182,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [LORI Framework - Milestones](LORI_Framework_Milestones.md)
 
 
-## 1 AGI Governance Core Modules [AGI-PRIORITY]
+## AGI Governance Core Modules [AGI-PRIORITY]
 
 > The AGI Core Modules are governed under the principles defined in the [Presidential Charter](modules/Presidential_Charter.md), with additional references to the [Behavioral Backlash Governance Model](Governance_Models/Behavioral-Backlash-Governance.md) and [ODRAF Framework](modules/ODRAF.md).
 
@@ -201,7 +201,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
   ---
   
-  ## 2 Semantic Sovereignty & Defense Modules
+  ## Semantic Sovereignty & Defense Modules
 
 <p align="center">
 <img src="./assets/images/semantic_appropriation_defense_diagram_v1.png"
@@ -222,7 +222,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
-## 2 Modular Specialized AGI Modules [AGI-SPECIALIZED]
+##  Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
 - [Production Module (LORI-PM)](modules/Production_Module.md)
 - [RBL-GOV: Robot-Based Labor Governance Module](modules/RBL-GOV.md)
@@ -232,7 +232,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
-## 3 LORI Narrative & Application Modules [AGI-NARRATIVE]
+##  LORI Narrative & Application Modules [AGI-NARRATIVE]
 
 - [LORI Jury-Based System - Case Archive](modules/JuryJudgment_Module.md)
 - [LORI Jury System v2.0 Upgrade Plan](cases/LORI-JurySystem_v2.0_UpgradePlan.md) 
@@ -240,7 +240,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
-**Example Cases:**
+** Example Cases:**
 
 - [LORI-CASE-001: Autonomous Vehicle Liability](cases/LORI-CASE-001.md)
 - [LORI-CASE-005: ICU Triage Protocol](cases/LORI-CASE-005.md)
@@ -261,7 +261,17 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
-## 4 Applied Governance Projects [CIVILIZATIONAL LAYER]
+##  Language Sovereignty Control Modules
+
+- [LORI-NCS: Narrative Control Scanner](/docs/modules/LORI-NCS.md) 
+- [LII: Linguistic Incendiary Index](/docs/modules/LII.md)
+- [SPR: Semantic–Pragmatic Reversal](/docs/modules/SPR.md)
+- [AIDM: AGI Infiltration Detection](/docs/modules/AIDM.md)
+- [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
+
+---
+
+- ## Applied Governance Projects [CIVILIZATIONAL LAYER]
 
 - [HEDA-PAC: Population × AI × Civilization Stability](projects/HEDA-PAC/HEDA-PAC-Index.md)
 ---
