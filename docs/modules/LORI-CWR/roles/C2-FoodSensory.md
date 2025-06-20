@@ -55,7 +55,7 @@ These roles are not just technical—they are **guardianship positions**. The ac
 
 - [LORI-FIT](../../LORI-FIT/LORI-FIT.md) – Firewall for Semantic Infiltration
 - [LORI-EDRI-H](../../EDRI-H.md) – Emotional Risk for Over-Reliance on AI Assessment
-- [LORI-RAD](../../LORI-RAD.md) – Risk Allocation in AI-driven Decision Processes
+- [LORI-RAD](../../LORI_RAD.md) – Risk Allocation in AI-driven Decision Processes
 
 ---
 
