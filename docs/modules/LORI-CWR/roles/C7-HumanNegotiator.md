@@ -54,7 +54,7 @@ To mediate is to stand at the threshold of vulnerability and order. These worker
 ## 🧩 Related LORI Modules
 
 - [LORI-EDRI-H](../../EDRI-H.md) – Emotional Dependency Risk Index
-- [LORI-JURY](../../LORI-JURY.md) – Judgment of Ethical Communication Cases
+- [LORI-JURY](../../../LORI-Jury-System/LORI-Jury-System.md) – Judgment of Ethical Communication Cases
 - [ODRAF](../../ODRAF.md) – Outcome-Driven Risk Allocation Framework (for post-interaction harm assessment)
 
 ---
