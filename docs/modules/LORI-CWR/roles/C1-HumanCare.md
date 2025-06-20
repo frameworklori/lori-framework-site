@@ -54,7 +54,7 @@ Human Care Work is not just a set of physical tasks—it is an act of **affirmin
 ## 🧩 Related LORI Modules
 
 - [LORI-EDRI-H](../../EDRI-H.md) – Emotional Dependency Risk Index
-- [LORI-Presidential-Charter](../../LORI-Presidential-Charter.md) – Human Sovereignty over Core Relations
+- [LORI-Presidential-Charter](../../Presidential_Charter.md) – Human Sovereignty over Core Relations
 - [LORI-ESL](../../LORI-ESL_v2.0.md) – Risk from AI Energy Stability and Civil Safety
 
 ---
