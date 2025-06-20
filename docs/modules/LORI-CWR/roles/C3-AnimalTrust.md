@@ -54,7 +54,7 @@ To work with an animal is not to dominate—it is to **negotiate across the boun
 ## 🧩 Related LORI Modules
 
 - [LORI-EDRI-H](../../EDRI-H.md) – Measures of Emotional Risk in Companion AI & Human–Nonhuman Relations
-- [LORI-JURY](../LORI-Jury-System/LORI-Jury-System.md) – Ethical judgment on interspecies care standards
+- [LORI-JURY](../../LORI-Jury-System/LORI-Jury-System.md) – Ethical judgment on interspecies care standards
 - [LORI-HEDA](../../HEDA.md) – AI and Human-Ecological Decision Alignment (animal role inclusion)
 
 ---
