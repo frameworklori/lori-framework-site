@@ -315,6 +315,13 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
+### 🧱 Human-Centered Civilizational Roles
+
+- [LORI-CWR: Core Work of Resilience](modules/LORI-CWR/README.md)
+A classification of 10 irreplaceable human role clusters that AI cannot ethically or practically replace—spanning care, embodiment, culture, and autonomous creativity.
+
+---
+
 # 1. Module Definition
 
 - Define Meta-Intellectual Resistance (MIR).
