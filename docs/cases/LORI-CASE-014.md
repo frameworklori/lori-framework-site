@@ -79,12 +79,6 @@ This raised a central structural question:
 
 ---
 
-<p align="center">
-<img src="../assets/images/LORI-CASE-014-modules.png" alt="Referenced Modules and Semantic Risk Propagation Pathways" width="500">
-</p>
-
----
-
 ## 6. 🗳️ Final Verdict Table
 
 <p align="center">
