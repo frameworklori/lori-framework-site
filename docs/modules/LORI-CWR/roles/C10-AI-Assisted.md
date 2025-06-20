@@ -59,7 +59,7 @@ Where algorithms predict, they **create new categories**.
 
 - [LORI-FIT](../../LORI-FIT/LORI-FIT.md) – Semantic Infiltration Defense
 - [LORI-MIR](../../LORI-MIR.md) – Meta-Intellectual Resistance to Conformity
-- [LORI-RAD](../../LORI-RAD.md) – Risk Allocation when AI outputs are monetized through creators
+- [LORI-RAD](../../LORI_RAD.md) – Risk Allocation when AI outputs are monetized through creators
 - [LORI-HEDA](../../HEDA.md) – Human–Ecological Design Alignment (autonomy & sustainability)
 
 ---
