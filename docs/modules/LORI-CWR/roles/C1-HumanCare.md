@@ -1,7 +1,8 @@
 # C1 – Human Care Work
-> Category: CWR-C1
-> Title: Emotionally Embedded, Ethically Accountable Roles
-> Status: Irreplaceable in the AI Era
+
+> Category: CWR-C1  
+> Title: Emotionally Embedded, Ethically Accountable Roles  
+> Status: Irreplaceable in the AI Era  
 > Maintained by: LORI Ethical System
 
 ---
@@ -14,25 +15,26 @@
 
 ## 🧑‍⚕️ Representative Occupations
 
-| Role | Description |
-|-------------------------|-------------|
-| Caregiver | Provides in-home or institutional support to the elderly, disabled, or dependent individuals |
-| Nurse (Clinical/Field) | Balances technical treatment with ongoing emotional presence in high-pressure care settings |
-| Childminder / Nanny | Guides early development through daily routines, play, comfort, and trust building |
-| Hospice Care Assistant | Offers dignity-centered support for terminal patients and their families |
-| Mental Health Companion | Supports patients with psychiatric or emotional vulnerabilities through lived empathy |
+| Role                          | Description |
+|-------------------------------|-------------|
+| Caregiver                     | Provides in-home or institutional support to the elderly, disabled, or dependent individuals |
+| Nurse (Clinical/Field)        | Balances technical treatment with ongoing emotional presence in high-pressure care settings |
+| Childminder / Nanny           | Guides early development through daily routines, play, comfort, and trust building |
+| Hospice Care Assistant        | Offers dignity-centered support for terminal patients and their families |
+| Mental Health Companion       | Supports patients with psychiatric or emotional vulnerabilities through lived empathy |
+| Massage Therapist (Care-Oriented) | Provides tactile relief and emotional soothing, especially in elder care, trauma support, or chronic stress settings |
 
 ---
 
 ## 🔍 Why AI Cannot Replace These Roles
 
-| Limitation Domain | Reason AI Fails |
+| Limitation Domain      | Reason AI Fails |
 |------------------------|------------------|
-| Emotional Resonance | AI can mimic soothing words but not **perceive real suffering** or respond with nuanced human affect |
-| Ethical Flexibility | Human caregivers often make value-based tradeoffs (e.g. prioritizing comfort over rules) that AI cannot morally compute |
-| Presence-Based Trust | Many patients only respond positively due to **familiar human presence**, not procedural correctness |
-| Unstructured Response | Crises like falls, emotional breakdowns, or sudden panic attacks require **instant real-world improvisation** |
-| Non-verbal Judgment | Tiny cues (skin tone, fatigue, eye movement) inform decisions—beyond AI's current sensor limits |
+| Emotional Resonance    | AI can mimic soothing words but not **perceive real suffering** or respond with nuanced human affect |
+| Ethical Flexibility    | Human caregivers often make value-based tradeoffs (e.g. prioritizing comfort over rules) that AI cannot morally compute |
+| Presence-Based Trust   | Many patients only respond positively due to **familiar human presence**, not procedural correctness |
+| Unstructured Response  | Crises like falls, emotional breakdowns, or sudden panic attacks require **instant real-world improvisation** |
+| Non-verbal Judgment    | Tiny cues (skin tone, fatigue, eye movement) inform decisions—beyond AI's current sensor limits |
 
 ---
 
