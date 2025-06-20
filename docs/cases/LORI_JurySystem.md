@@ -15,7 +15,7 @@
 | [LORI-CASE-011](#/cases/LORI-CASE-011) | Empathy vs Realist Empathy in the Russia–Ukraine War | ⚠️ TBD |
 | [LORI-CASE-012](#/cases/LORI-CASE-012) | Cross-border Biological Risk — Chinese Student Fusarium Smuggling Case | ✅ |
 | [LORI-CASE-013](#/cases/LORI-CASE-013) | Opportunity Cost Dilemma in Immigrant Legalization | ✅ |
-
+| [LORI-CASE-014](#/cases/LORI-CASE-014) | X-Director-Sigma × Narrative Trust Disqualification | ✅ |
 
 
 ---
@@ -37,7 +37,7 @@
 | LORI-CASE-011 | TBD | Empathy vs Realist Empathy in the Russia–Ukraine War |
 | LORI-CASE-012 | 5 | Biosecurity + dual-use ethics + cross-border risk |
 | LORI-CASE-013 | 5 | Opportunity Cost in Immigrant Legalization Policy & Tax Behavior |
-
+| LORI-CASE-014 | 5 | X-Director-Sigma × Narrative Trust Disqualification |
 ---
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
