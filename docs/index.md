@@ -256,10 +256,10 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [LII](/docs/modules/LII.md) — Linguistic Incendiary Index *(Legacy module, fully integrated)*
 - [SPR](/docs/modules/SPR.md) — Semantic–Pragmatic Reversal
 - [LORI-FIT](/docs/modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
----[Risk Classification](/docs/modules/LORI-FIT/risk.md) — Infiltration vectors & threat levels
----[Integration Matrix](/docs/modules/LORI-FIT/integration.md) — Linkages with other language modules
----[Logic Tree](/docs/modules/LORI-FIT/logic.md) — Detection algorithm & semantic flow
----[Case Example](/docs/modules/LORI-FIT/example.md) — Real-world use case or simulation output
+  ---[Risk Classification](/docs/modules/LORI-FIT/risk.md) — Infiltration vectors & threat levels
+  ---[Integration Matrix](/docs/modules/LORI-FIT/integration.md) — Linkages with other language modules
+  ---[Logic Tree](/docs/modules/LORI-FIT/logic.md) — Detection algorithm & semantic flow
+  ---[Case Example](/docs/modules/LORI-FIT/example.md) — Real-world use case or simulation output
 - [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
 - [MIR](modules/Language-Governance/MIR_Module.md) — Meta-Intellectual Resistance Module
 - [AI Debias Kit](modules/Language-Governance/AI-Debias-Kit.md)
