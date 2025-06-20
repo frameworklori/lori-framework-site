@@ -57,7 +57,7 @@ This work is not just about food—it is about **civilizational humility before 
 ## 🧩 Related LORI Modules
 
 - [LORI-RIM](../../RIM_Module.md) – Resilience & Impact Matrix for Environmental Systems
-- [LORI-CWR/C2-FoodSensory.md](../../C2-FoodSensory.md) – Food Safety Sensory Work
+- [LORI-CWR/C2-FoodSensory.md](C2-FoodSensory.md) – Food Safety Sensory Work
 - [LORI-HEDA](../../HEDA.md) – Human–Ecological Decision Alignment
 
 ---
