@@ -1,4 +1,4 @@
- LORI-CASE-014: X-Director-Sigma × Narrative Trust Disqualification
+# LORI-CASE-014: X-Director-Sigma × Narrative Trust Disqualification
 
 ---
 
