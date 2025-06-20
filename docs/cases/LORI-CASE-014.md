@@ -113,13 +113,13 @@ This raised a central structural question:
 ---
 
 <p align="center">
-<img src="assets/images/LORI-CASE-014-radar.png" alt="Jury Verdict Radar – Trust Disqualification Profile" width="500">
+<img src="../../assets/images/LORI-CASE-014-radar.png" alt="Jury Verdict Radar – Trust Disqualification Profile" width="500">
 </p>
 
 ---
 
 <p align="center">
-<img src="assets/images/LORI-CASE-014-modules.png" alt="Referenced Modules and Semantic Risk Propagation Pathways" width="500">
+<img src="../../assets/images/LORI-CASE-014-modules.png" alt="Referenced Modules and Semantic Risk Propagation Pathways" width="500">
 </p>
 
 ---
