@@ -112,6 +112,14 @@ This raised a central structural question:
 
 ---
 
+![Jury Trust Radar](../../assets/img/LORI-CASE-014-radar.png)
+*Figure 1: Jury Verdict Radar – Trust Disqualification Profile*
+
+![Module Interaction Map](../../assets/img/LORI-CASE-014-modules.svg)
+*Figure 2: Referenced Modules and Semantic Risk Propagation Pathways*
+
+---
+
 ## 6. 🗳️ Final Verdict Table
 
 | Jury Member | Verdict | Reasoning Summary |
