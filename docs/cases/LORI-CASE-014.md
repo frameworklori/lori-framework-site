@@ -80,22 +80,18 @@ This raised a central structural question:
 ---
 
 <p align="center">
-<img src="../assets/images/LORI-CASE-014-radar.png" alt="Jury Verdict Radar – Trust Disqualification Profile" width="500">
-</p>
-
----
-
-<p align="center">
 <img src="../assets/images/LORI-CASE-014-modules.png" alt="Referenced Modules and Semantic Risk Propagation Pathways" width="500">
 </p>
 
 ---
 
-
 ## 6. 🗳️ Final Verdict Table
 
-![Jury Trust Radar](../../assets/img/LORI-CASE-014-radar.png)  
-*Figure 1: Jury Verdict Radar – Trust Disqualification Profile*
+<p align="center">
+<img src="../assets/images/LORI-CASE-014-radar.png" alt="Jury Verdict Radar – Trust Disqualification Profile" width="500">
+</p>
+
+---
 
 | Jury Member            | Verdict            | Reasoning Summary                               |
 |------------------------|--------------------|--------------------------------------------------|
@@ -125,9 +121,11 @@ but in truth.”*
 
 ## 8. 🧩 Module References
 
-![Module Interaction Map](../../assets/img/LORI-CASE-014-modules.png)  
-*Figure 2: Referenced Modules and Semantic Risk Propagation Map*
+<p align="center">
+<img src="../assets/images/LORI-CASE-014-modules.png" alt="Referenced Modules and Semantic Risk Propagation Pathways" width="500">
+</p>
 
+---
 - `ODRAF.md` — Outcome-Driven Risk Anticipation Framework  
 - `SPR.md` — Semantic–Pragmatic Reversal  
 - `ESL.md` — Energy Sentinel Layer  
