@@ -255,6 +255,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [LORI-NCS](/docs/modules/LORI-NCS.md) — Narrative Control Scanner
 - [LII](/docs/modules/LII.md) — Linguistic Incendiary Index *(Legacy module, fully integrated)*
 - [SPR](/docs/modules/SPR.md) — Semantic–Pragmatic Reversal
+- [LORI-FIT](/docs/modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
 - [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
 - [MIR](modules/Language-Governance/MIR_Module.md) — Meta-Intellectual Resistance Module
 - [AI Debias Kit](modules/Language-Governance/AI-Debias-Kit.md)
