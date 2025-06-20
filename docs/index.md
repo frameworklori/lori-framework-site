@@ -255,19 +255,6 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [LORI-NCS](/docs/modules/LORI-NCS.md) — Narrative Control Scanner
 - [LII](/docs/modules/LII.md) — Linguistic Incendiary Index *(Legacy module, fully integrated)*
 - [SPR](/docs/modules/SPR.md) — Semantic–Pragmatic Reversal
-- [LORI-FIT](/docs/modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
-- [Risk: Dual-Effect Warning](LORI-FIT/risk/dual-effect-warning.md) — Ethical caution & dual consequences
-- [Risk: Deployment Scope](LORI-FIT/risk/deployment-scope.md) — Use-case boundaries & prohibitions
-- [Logic: Semantic Cluster Mapping](LORI-FIT/logic/semantic-cluster-mapping.md) — Coherence & infiltration pattern detection
-- [Logic: Intent Fragment Tracker](LORI-FIT/logic/intent-fragment-tracker.md) — Disjointed intent structure recognition
-- [Logic: Memory Simulation Logic](LORI-FIT/logic/memory-simulation-logic.md) — Context memory & trigger flow
-- [Integration: FIT × SCR](LORI-FIT/integration/LORI-FIT_x_SCR.md) — Reflective inquiry interaction interface
-- [Integration: FIT × MEMX](LORI-FIT/integration/LORI-FIT_x_MEMX.md) — Memory extension & semantic shadow risk
-- [Integration: FIT × FEED](LORI-FIT/integration/LORI-FIT_x_FEED.md) — Language reinforcement vs. manipulation boundary
-- [Example: CFQI Sim Alpha](LORI-FIT/examples/CFQI-Sim-Alpha.md) — Multi-agent infiltration via question weaving
-- [Example: CFQI Sim Beta](LORI-FIT/examples/CFQI-Sim-Beta.md) — Multi-context inducement & deceptive simulation
-- [Example: SCR Response Sample](LORI-FIT/examples/SCR-Response-Sample.md) — Strategic AI counter-question sample
-
 - [Language Sovereignty Pack](/docs/modules/LanguageSovereignty-Pack.md)
 - [MIR](modules/Language-Governance/MIR_Module.md) — Meta-Intellectual Resistance Module
 - [AI Debias Kit](modules/Language-Governance/AI-Debias-Kit.md)
@@ -275,6 +262,28 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [Contextual Tagging](modules/Language-Governance/ContextualTagging.md)
 - [Decoupling Algorithm](modules/Language-Governance/DecouplingAlgorithm.md)
 - [GLEB: Gresham’s Law Effect on AI & Language / Culture](modules/Language-Governance/GLEB_Module.md)
+
+---
+- [LORI-FIT](docs/modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
+
+**▸ Risk Warnings**
+- [Dual-Effect Warning](docs/modules/LORI-FIT/risk/risk/dual-effect-warning.md) — Ethical caution & dual consequences
+- [Deployment Scope](docs/modules/LORI-FIT/risk/deployment-scope.md) — Use-case boundaries & prohibitions
+
+**▸ Logic & Detection Models**
+- [Semantic Cluster Mapping](docs/modules/LORI-FIT/logic/semantic-cluster-mapping.md) — Coherence & infiltration pattern detection
+- [Intent Fragment Tracker](docs/modules/LORI-FIT/logic/intent-fragment-tracker.md) — Disjointed intent structure recognition
+- [Memory Simulation Logic](docs/modules/LORI-FIT/logic/memory-simulation-logic.md) — Context memory & trigger flow
+
+**▸ Cross-Module Integration**
+- [FIT × SCR](docs/modules/LORI-FIT/integration/LORI-FIT_x_SCR.md) — Reflective inquiry interaction interface
+- [FIT × MEMX](docs/modules/LORI-FIT/integration/LORI-FIT_x_MEMX.md) — Memory extension & semantic shadow risk
+- [FIT × FEED](docs/modules/LORI-FIT/integration/LORI-FIT_x_FEED.md) — Language reinforcement vs. manipulation boundary
+
+**▸ Simulation Examples**
+- [CFQI Sim Alpha](docs/modules/LORI-FIT/examples/CFQI-Sim-Alpha.md) — Multi-agent infiltration via question weaving
+- [CFQI Sim Beta](ocs/modules/LORI-FIT/examples/CFQI-Sim-Beta.md) — Multi-context inducement & deceptive simulation
+- [SCR Response Sample](ocs/modules/LORI-FIT/examples/SCR-Response-Sample.md) — Strategic AI counter-question sample
 
 ---
 
