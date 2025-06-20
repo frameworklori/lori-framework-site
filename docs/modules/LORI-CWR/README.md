@@ -28,7 +28,7 @@ Each role category reflects a domain where AI may assist, but never replace, the
 | C7   | Human Mediation Work             | [C7-HumanNegotiator.md](roles/C7-HumanNegotiator.md) |
 | C8   | Cultural Repair Work             | [C8-CultureRepair.md](roles/C8-CultureRepair.md) |
 | C9   | Social Bonding Work              | [C9-SocialBonding.md](roles/C9-SocialBonding.md) |
-| C10  | AI-Assisted Independent Creators | [C10-AICreators.md](roles/C10-AICreators.md) |
+| C10  | AI-Assisted Independent Creators | [C10-AICreators.md](roles/C10-AI-Assisted.md) |
 
 ---
 
