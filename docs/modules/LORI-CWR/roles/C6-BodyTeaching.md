@@ -1,7 +1,8 @@
 # C6 – Physical Instruction Work
-> Category: CWR-C6
-> Title: Kinesthetic Feedback and Relational Safety in Human Movement
-> Status: Irreplaceable in the AI Era
+
+> Category: CWR-C6  
+> Title: Kinesthetic Feedback and Relational Safety in Human Movement  
+> Status: Irreplaceable in the AI Era  
 > Maintained by: LORI Ethical System
 
 ---
@@ -14,25 +15,26 @@
 
 ## 🧘 Representative Occupations
 
-| Role | Description |
-|------------------------|-------------|
-| Swimming Instructor | Teaches skill, rhythm, and panic management in high-risk aquatic settings |
-| Sports Coach | Builds not just performance but motivation, strategy, and group dynamics |
-| Physical Therapist | Guides recovery using tactile feedback and progressive movement calibration |
-| Martial Arts Trainer | Teaches discipline, control, and body–mind alignment with high emotional attunement |
-| Rehabilitation Aide | Supports individuals re-learning body autonomy after injury or illness |
+| Role                           | Description |
+|--------------------------------|-------------|
+| Swimming Instructor            | Teaches skill, rhythm, and panic management in high-risk aquatic settings |
+| Sports Coach                   | Builds not just performance but motivation, strategy, and group dynamics |
+| Physical Therapist             | Guides recovery using tactile feedback and progressive movement calibration |
+| Martial Arts Trainer           | Teaches discipline, control, and body–mind alignment with high emotional attunement |
+| Rehabilitation Aide            | Supports individuals re-learning body autonomy after injury or illness |
+| Massage Therapist (Mobility-Oriented) | Provides muscle-specific care to support range of motion, athletic recovery, or injury prevention. Considered C6 when embedded in physical performance or rehabilitation ecosystems. |
 
 ---
 
 ## 🔍 Why AI Cannot Replace These Roles
 
-| Limitation Domain | Reason AI Fails |
+| Limitation Domain         | Reason AI Fails |
 |---------------------------|------------------|
-| Real-Time Adjustment | Small changes in posture or breath require **intuitive corrections** based on observation and proximity |
+| Real-Time Adjustment      | Small changes in posture or breath require **intuitive corrections** based on observation and proximity |
 | Trust and Emotional Safety| In water, pain, or fear states, **emotional containment and encouragement** are non-negotiable |
-| Embodied Rapport | Human instructors feel tension, resistance, fatigue—AI lacks internal sensory reciprocity |
-| Injury Prevention | Situational awareness (e.g., fall risk, overstretch) demands **360° embodied vigilance** |
-| Motivation and Flow | Pacing, encouragement, and challenge are adjusted **relationally**, not algorithmically |
+| Embodied Rapport          | Human instructors feel tension, resistance, fatigue—AI lacks internal sensory reciprocity |
+| Injury Prevention         | Situational awareness (e.g., fall risk, overstretch) demands **360° embodied vigilance** |
+| Motivation and Flow       | Pacing, encouragement, and challenge are adjusted **relationally**, not algorithmically |
 
 ---
 
