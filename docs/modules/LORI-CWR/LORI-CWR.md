@@ -77,7 +77,7 @@ The LORI-CWR module should be referenced in the following contexts:
 ## 🧩 Related Modules
 
 - [LORI-FIT](../LORI-FIT/LORI-FIT.md) – Firewall for Semantic Infiltration
-- [LORI-ESL](../LORI-ESL.md) – Energy Sentinel Layer for AGI control
+- [LORI-ESL](../LORI-ESL_v2.0.md) – Energy Sentinel Layer for AGI control
 - [LORI-EDRI-H](../EDRI-H.md) – Emotional Dependency Risk Index (Human)
 
 ---
