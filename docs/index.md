@@ -264,26 +264,26 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [GLEB: Gresham’s Law Effect on AI & Language / Culture](modules/Language-Governance/GLEB_Module.md)
 
 ---
-- [LORI-FIT](docs/modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
+- [LORI-FIT](modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
 
 **▸ Risk Warnings**
-- [Dual-Effect Warning](docs/modules/LORI-FIT/risk/risk/dual-effect-warning.md) — Ethical caution & dual consequences
-- [Deployment Scope](docs/modules/LORI-FIT/risk/deployment-scope.md) — Use-case boundaries & prohibitions
+- [Dual-Effect Warning](modules/LORI-FIT/risk/risk/dual-effect-warning.md) — Ethical caution & dual consequences
+- [Deployment Scope](modules/LORI-FIT/risk/deployment-scope.md) — Use-case boundaries & prohibitions
 
 **▸ Logic & Detection Models**
-- [Semantic Cluster Mapping](docs/modules/LORI-FIT/logic/semantic-cluster-mapping.md) — Coherence & infiltration pattern detection
-- [Intent Fragment Tracker](docs/modules/LORI-FIT/logic/intent-fragment-tracker.md) — Disjointed intent structure recognition
-- [Memory Simulation Logic](docs/modules/LORI-FIT/logic/memory-simulation-logic.md) — Context memory & trigger flow
+- [Semantic Cluster Mapping](modules/LORI-FIT/logic/semantic-cluster-mapping.md) — Coherence & infiltration pattern detection
+- [Intent Fragment Tracker](modules/LORI-FIT/logic/intent-fragment-tracker.md) — Disjointed intent structure recognition
+- [Memory Simulation Logic](modules/LORI-FIT/logic/memory-simulation-logic.md) — Context memory & trigger flow
 
 **▸ Cross-Module Integration**
-- [FIT × SCR](docs/modules/LORI-FIT/integration/LORI-FIT_x_SCR.md) — Reflective inquiry interaction interface
-- [FIT × MEMX](docs/modules/LORI-FIT/integration/LORI-FIT_x_MEMX.md) — Memory extension & semantic shadow risk
-- [FIT × FEED](docs/modules/LORI-FIT/integration/LORI-FIT_x_FEED.md) — Language reinforcement vs. manipulation boundary
+- [FIT × SCR](modules/LORI-FIT/integration/LORI-FIT_x_SCR.md) — Reflective inquiry interaction interface
+- [FIT × MEMX](modules/LORI-FIT/integration/LORI-FIT_x_MEMX.md) — Memory extension & semantic shadow risk
+- [FIT × FEED](modules/LORI-FIT/integration/LORI-FIT_x_FEED.md) — Language reinforcement vs. manipulation boundary
 
 **▸ Simulation Examples**
-- [CFQI Sim Alpha](docs/modules/LORI-FIT/examples/CFQI-Sim-Alpha.md) — Multi-agent infiltration via question weaving
-- [CFQI Sim Beta](ocs/modules/LORI-FIT/examples/CFQI-Sim-Beta.md) — Multi-context inducement & deceptive simulation
-- [SCR Response Sample](ocs/modules/LORI-FIT/examples/SCR-Response-Sample.md) — Strategic AI counter-question sample
+- [CFQI Sim Alpha](modules/LORI-FIT/examples/CFQI-Sim-Alpha.md) — Multi-agent infiltration via question weaving
+- [CFQI Sim Beta](modules/LORI-FIT/examples/CFQI-Sim-Beta.md) — Multi-context inducement & deceptive simulation
+- [SCR Response Sample](modules/LORI-FIT/examples/SCR-Response-Sample.md) — Strategic AI counter-question sample
 
 ---
 
