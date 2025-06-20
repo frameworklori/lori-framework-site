@@ -267,7 +267,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [LORI-FIT](modules/LORI-FIT/LORI-FIT.md) — Firewall Infiltration Tracker
 
 **▸ Risk Warnings**
-- [Dual-Effect Warning](modules/LORI-FIT/risk/risk/dual-effect-warning.md) — Ethical caution & dual consequences
+- [Dual-Effect Warning](modules/LORI-FIT/risk/dual-effect-warning.md) — Ethical caution & dual consequences
 - [Deployment Scope](modules/LORI-FIT/risk/deployment-scope.md) — Use-case boundaries & prohibitions
 
 **▸ Logic & Detection Models**
