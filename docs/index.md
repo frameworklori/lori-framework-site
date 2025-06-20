@@ -320,6 +320,9 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [LORI-CWR: Core Work of Resilience](modules/LORI-CWR/README.md)
 A classification of 10 irreplaceable human role clusters that AI cannot ethically or practically replace—spanning care, embodiment, culture, and autonomous creativity.
 
+- [LORI-CWR.md](modules/LORI-CWR/LORI-CWR.md)
+The formal module specification outlining the philosophical basis and governance implications.
+
 ---
 
 # 1. Module Definition
