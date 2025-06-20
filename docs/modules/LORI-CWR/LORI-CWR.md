@@ -49,7 +49,7 @@ Real-life environments are volatile, sensory-rich, and require fluid response—
 
 ## 📊 Visual Companion
 
-- [CWR-RadarChart.png](../assets/images/CWR-RadarChart-Watermarked.png)
+- [CWR-RadarChart.png](../../assets/images/CWR-RadarChart-Watermarked.png)
 → Radar mapping AI irreplaceability × Civilizational resilience × Sensory/emotional intensity.
 
 - [CWR-TaxonomyTable.md](./CWR-TaxonomyTable.md)
