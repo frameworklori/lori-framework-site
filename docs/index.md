@@ -104,6 +104,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
  -  [LORI-CASE-012](cases/LORI-CASE-012.md) - Cross-border Biological Risk – Chinese Student Fusarium Smuggling Case | 🚧 |
 -  [LORI-CASE-013](cases/LORI-CASE-013.md) -  Opportunity Cost Dilemma in Immigrant Legalization
  | 🚧 |
+-  [LORI-CASE-014](cases/LORI-CASE-014.md) -  Opportunity Cost Dilemma in Immigrant Legalization
 
 ---
 
