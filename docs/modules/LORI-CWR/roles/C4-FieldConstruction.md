@@ -53,7 +53,7 @@ These roles represent the **last link between digital civilization and physical 
 
 ## 🧩 Related LORI Modules
 
-- [LORI-RIM](../../RIM.md) – Recovery Impact Matrix for Infrastructure Collapse
+- [LORI-RIM](../../RIM_Module.md) – Recovery Impact Matrix for Infrastructure Collapse
 - [LORI-ESL](../../LORI-ESL_v2.0.md) – Energy Sentinel Layer: Power Grid Survivability
 - [LORI-FIT](../../LORI-FIT/LORI-FIT.md) – AI trust boundaries for high-risk public environments
 
