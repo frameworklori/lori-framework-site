@@ -1,1 +1,6 @@
-
+File: LORI_IdeaAssertion_20250621.txt
+Hash Algorithm: SHA-256
+Hash Value: 5a43ea2182fdd1e9b766862b737f11928465e35a25a86846838cfda877321a4c
+Timestamp: 2025-06-21 23:40 JST
+Declared By: [Redacted / Founder of the LORI Ethical System]
+Use: Proof of original authorship and semantic precedence assertion.
