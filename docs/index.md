@@ -231,9 +231,9 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [AI De-Bias Kit](modules/AI_DeBias_Kit.md)
 - [HRI Module: Human Relay Infiltration Risk](modules/HRI_Modules.md)
 - [LORI-HRI: Human Relay Infiltration Risk](./HRI_Modules.md)
-   - [Academic-Origin Tagging](./Academic-Origin-Tagging.md)
-   - [Prompt Semantic Shift Tracking](./Prompt-Semantic-Shift-Tracking.md)
-   - [Ideological Echo Map](./Ideological-Echo-Map.md)
+   - [Academic-Origin Tagging](./modules/Academic-Origin-Tagging.md)
+   - [Prompt Semantic Shift Tracking](./modules/Prompt-Semantic-Shift-Tracking.md)
+   - [Ideological Echo Map](./modules/Ideological-Echo-Map.md)
 
 
 ---
