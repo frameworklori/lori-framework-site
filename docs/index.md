@@ -230,6 +230,11 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [Civilization-Centered Education Module](modules/civilization-centered-education-module/index.md)
 - [AI De-Bias Kit](modules/AI_DeBias_Kit.md)
 - [HRI Module: Human Relay Infiltration Risk](modules/HRI_Modules.md)
+- [LORI-HRI: Human Relay Infiltration Risk](./HRI_Modules.md)
+   - [Academic-Origin Tagging](./Academic-Origin-Tagging.md)
+   - [Prompt Semantic Shift Tracking](./Prompt-Semantic-Shift-Tracking.md)
+   - [Ideological Echo Map](./Ideological-Echo-Map.md)
+
 
 ---
 
@@ -456,7 +461,7 @@ _Last updated: 2025-06-02_
 
 Dive into our extended modules analyzing demographic, reproductive, robotic, and cognitive adaptation strategies:
 
-[**Civilization–Future Modules →**](./modules/HEDA.md)
+-[**Civilization–Future Modules →**](./modules/HEDA.md)
 
 Or directly access key modules:
 
