@@ -512,6 +512,7 @@ _Semantic Propagation Resonator + Motive Tracing Layer_
 - [Conformity Effect Module](./modules/Conformity_Effect_Module.md)
 - [LORI-TCP](./LORI-TCP.md) — Trauma-Coded Philanthropy
     - [Cultural Loyalty & Betrayal Thresholds](./modules/Cultural-Loyalty-Trust-Thresholds.md)
+    - [Post-Education Ethical Awakening (PEEA)](./modules/LORI-TCP_PEEA.md)
 
 ---
 
