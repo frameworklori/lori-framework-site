@@ -31,4 +31,16 @@ This module is linked to the **ODRAF containment system**, offering preventive i
 - Tracking cross-platform question mimicry patterns
 - Multilingual analysis of value migration
 
+## Submodules
+
+### 🔹 [Academic-Origin Tagging](./Academic-Origin-Tagging.md)
+Tracks the educational and national origin background of AI developers. Used to identify open-society-trained individuals who may contribute back to closed-system models under censorship-compliant frameworks.
+
+### 🔹 [Prompt Semantic Shift Tracking](./Prompt-Semantic-Shift-Tracking.md)
+Monitors how prompts change semantically across different model cultures. Helps detect censorship compliance, euphemistic substitution, or prompt-to-response distortions.
+
+### 🔹 [Ideological Echo Map](./Ideological-Echo-Map.md)
+Visualizes ideological pattern reinforcement across models. Assesses how value-aligned or distorted a given model's output is when responding to culturally or politically sensitive prompts.
+
+
 Part of the [Lori Framework](https://frameworklori.github.io/lori-framework-site)
