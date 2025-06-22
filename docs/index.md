@@ -510,6 +510,8 @@ _Semantic Propagation Resonator + Motive Tracing Layer_
 - [EDRI-H: Emotional Dependency Risk Index](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/EDRI-H.md)
 - [Trust Drift Map](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/TrustDrift.md)
 - [Conformity Effect Module](./modules/Conformity_Effect_Module.md)
+- [LORI-TCP](./LORI-TCP.md) — Trauma-Coded Philanthropy
+    - [Cultural Loyalty & Betrayal Thresholds](./modules/Cultural-Loyalty-Trust-Thresholds.md)
 
 ---
 
