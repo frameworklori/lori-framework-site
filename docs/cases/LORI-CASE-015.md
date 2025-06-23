@@ -5,8 +5,8 @@ This case explores the ethical, legal, cultural, and emotional dimensions of eut
 ## 📁 Contents
 
 ### 🧾 Case Files
-- [Post-Verdict Reflection](feedback/Post-Verdict-Reflection.md)
-- [Module Cross Reference](feedback/Module-CrossReference.md)
+- [Post-Verdict Reflection](../modules/feedbackfeedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](../modules/feedbackfeedback/Module-CrossReference.md)
 
 ### 🖼️ Visual Assets
 - ![Butterfly Effect Logic](assets/E9FC6F47-FBA2-4158-95F0-96EBDEFE2EB9.png)
@@ -132,17 +132,17 @@ An 81-year-old man suffering from terminal-stage ALS (Amyotrophic Lateral Sclero
 ## 💬 Linked Files
 
 ### 🗳️ Role Briefs
-- [Fact Finder](role-briefs/Fact-Finder.md)
-- [Legal Analyst](role-briefs/Legal-Analyst.md)
-- [Moral Evaluator](role-briefs/Moral-Evaluator.md)
-- [Cultural Interpreter](role-briefs/Cultural-Interpreter.md)
-- [Emotional Moderator](role-briefs/Emotional-Moderator.md)
+- [Fact Finder](../modules/feedbackrole-briefs/Fact-Finder.md)
+- [Legal Analyst](../modules/feedbackrole-briefs/Legal-Analyst.md)
+- [Moral Evaluator](../modules/feedbackrole-briefs/Moral-Evaluator.md)
+- [Cultural Interpreter](../modules/feedbackrole-briefs/Cultural-Interpreter.md)
+- [Emotional Moderator](../modules/feedbackrole-briefs/Emotional-Moderator.md)
 
 ### ⚖️ Voting & Decision
-- [AI Votes](voting/AI-Votes.md)
-- [Human Judge Final Decision](voting/Human-Judge-Final-Decision.md)
-- [Independent Auditor](voting/Independent-Auditor.md)
+- [AI Votes](../modules/feedbackvoting/AI-Votes.md)
+- [Human Judge Final Decision](../modules/feedbackvoting/Human-Judge-Final-Decision.md)
+- [Independent Auditor](../modules/feedbackvoting/Independent-Auditor.md)
 
 ### 📁 Feedback
-- [Post-Verdict Reflection](feedback/Post-Verdict-Reflection.md)
-- [Module Cross Reference](feedback/Module-CrossReference.md)
+- [Post-Verdict Reflection](../modules/feedbackfeedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](../modules/feedbackfeedback/Module-CrossReference.md)
