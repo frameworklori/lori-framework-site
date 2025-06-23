@@ -105,7 +105,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 -  [LORI-CASE-013](cases/LORI-CASE-013.md) -  Opportunity Cost Dilemma in Immigrant Legalization
  | 🚧 |
 -  [LORI-CASE-014](cases/LORI-CASE-014.md) -  X-Director-Sigma × Narrative Trust Disqualification| 🚧 |
--  [LORI-CASE-015](cases/LORI-CASE-015.md) -  X-Director-Sigma × Narrative Trust Disqualification| 🚧 |
+-  [LORI-CASE-015](cases/LORI-CASE-015.md) -  Right to Die – Ethical Deliberation on Euthanasia| 🚧 |
 
 ---
 
