@@ -1,4 +1,4 @@
-# 🔗 Module Cross-Reference – CASE-JURY-015
+# 🔗 Module Cross-Reference – LORI-CASE-015
 
 This case interacts with the following LORI Framework modules:
 
