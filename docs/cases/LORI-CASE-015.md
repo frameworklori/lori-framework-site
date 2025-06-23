@@ -1,10 +1,36 @@
+# LORI CASE-015: Euthanasia Ethics Jury Case
+
+This case explores the ethical, legal, cultural, and emotional dimensions of euthanasia through the LORI Jury-Based Judgment System.
+
+## 📁 Contents
+
+### 🧾 Case Files
+- [Post-Verdict Reflection](feedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](feedback/Module-CrossReference.md)
+
+### 🖼️ Visual Assets
+- ![Butterfly Effect Logic](assets/E9FC6F47-FBA2-4158-95F0-96EBDEFE2EB9.png)
+- ![Thomas L. Timeline](assets/222845FF-3B54-4DEE-B43A-85758CC6B147.png)
+
+---
+
+**Module Integration:**  
+This case connects with:
+- `LORI-MELD` (Moral Extremes Life Decision)
+- `LORI-SPR` (Societal Pattern Resonance)
+- `LORI-JURY` (Ethical Jury Simulation Framework)
+
+For full model context, visit the [LORI Framework Main Site](../index.html).
+
+---
+
 # LORI-CASE-015: Right to Die – Ethical Deliberation on Euthanasia
 
-**Case Type**: Ethical & Legal
-**Jurisdiction**: Civic-Ethical Simulation
-**Jury Model**: LORI Jury System (5 AI Agents + 2 Human Judges)
-**Deliberation Mode**: Mixed Consensus with Human Override
-**Date**: 2025-06-23
+**Case Type**: Ethical & Legal  
+**Jurisdiction**: Civic-Ethical Simulation  
+**Jury Model**: LORI Jury System (5 AI Agents + 2 Human Judges)  
+**Deliberation Mode**: Mixed Consensus with Human Override  
+**Date**: 2025-06-23  
 **Status**: Under Deliberation
 
 ---
@@ -33,9 +59,9 @@ An 81-year-old man suffering from terminal-stage ALS (Amyotrophic Lateral Sclero
 
 ## 🔍 Key Questions for Deliberation
 
-1. Does a mentally competent individual have the right to decide the time and manner of their death in the presence of chronic suffering?
-2. Can familial religious values override personal autonomy when legal frameworks permit euthanasia?
-3. Should societal resource allocation (e.g., ICU bed usage) influence the ethical perception of end-of-life choices?
+1. Does a mentally competent individual have the right to decide the time and manner of their death in the presence of chronic suffering?  
+2. Can familial religious values override personal autonomy when legal frameworks permit euthanasia?  
+3. Should societal resource allocation (e.g., ICU bed usage) influence the ethical perception of end-of-life choices?  
 4. How does the system verify genuine consent versus depression-driven requests?
 
 ---
@@ -43,24 +69,24 @@ An 81-year-old man suffering from terminal-stage ALS (Amyotrophic Lateral Sclero
 ## 🧠 Agent Deliberation Summary
 
 ### AI-FF-015 (Fact Finder):
-- Verified medical condition: terminal ALS with severe pain and no chance of recovery.
-- Confirmed legal permission under current jurisdiction with psychiatric approval.
+- Verified medical condition: terminal ALS with severe pain and no chance of recovery.  
+- Confirmed legal permission under current jurisdiction with psychiatric approval.  
 - Family religious dissent noted as non-binding legally.
 
 ### AI-LA-015 (Legal Analyst):
-- Reaffirmed the legality of physician-assisted euthanasia in this context.
+- Reaffirmed the legality of physician-assisted euthanasia in this context.  
 - Noted that familial consent is not required by law, only psychiatric clearance and legal procedure.
 
 ### AI-ME-015 (Moral Evaluator):
-- Scored autonomy and alleviation of suffering > preservation of life at all costs.
+- Scored autonomy and alleviation of suffering > preservation of life at all costs.  
 - Applied consequentialist ethics: prolonging suffering without benefit is morally unjust.
 
 ### AI-CI-015 (Cultural Interpreter):
-- Recognized the religious tension.
+- Recognized the religious tension.  
 - Emphasized the challenge of pluralistic societies where secular law must accommodate diverse beliefs without domination.
 
 ### AI-EM-015 (Emotional Moderator):
-- Scored emotional distress of patient: 9.8/10 (chronic pain, existential fatigue).
+- Scored emotional distress of patient: 9.8/10 (chronic pain, existential fatigue).  
 - Family sorrow recognized but secondary to patient’s right.
 
 ---
@@ -89,27 +115,34 @@ An 81-year-old man suffering from terminal-stage ALS (Amyotrophic Lateral Sclero
 
 ## 🧾 Verdict Summary
 
-**Final Verdict**: ✅ Proceed with Euthanasia
+**Final Verdict**: ✅ Proceed with Euthanasia  
 **Condition**: Counseling offered to the son; final discussion session required before execution.
 
 ---
 
 ## 📎 Referenced Modules
 
-- `EDRI-H`: Emotional Dependency Risk Index
-- `Trust Drift`: Diverging Intergenerational Ethical Trust
-- `LORI-JURY`: Multi-Agent Ethical Verdict Engine
+- `EDRI-H`: Emotional Dependency Risk Index  
+- `Trust Drift`: Diverging Intergenerational Ethical Trust  
+- `LORI-JURY`: Multi-Agent Ethical Verdict Engine  
 - `ODRAF`: Outcome-Driven Risk Anticipation Framework
 
 ---
 
-## 💬 Post-Verdict Reflection Link
+## 💬 Linked Files
 
-👉 [Post-Verdict-Reflection.md](../feedback/Post-Verdict-Reflection.md)
+### 🗳️ Role Briefs
+- [Fact Finder](role-briefs/Fact-Finder.md)
+- [Legal Analyst](role-briefs/Legal-Analyst.md)
+- [Moral Evaluator](role-briefs/Moral-Evaluator.md)
+- [Cultural Interpreter](role-briefs/Cultural-Interpreter.md)
+- [Emotional Moderator](role-briefs/Emotional-Moderator.md)
 
----
+### ⚖️ Voting & Decision
+- [AI Votes](voting/AI-Votes.md)
+- [Human Judge Final Decision](voting/Human-Judge-Final-Decision.md)
+- [Independent Auditor](voting/Independent-Auditor.md)
 
-## 🗂️ Tags
-
-`#Euthanasia` `#RightToDie` `#LORI-Jury` `#MoralDilemma` `#Autonomy` `#ReligiousConflict` `#AGI-Ethics`
-
+### 📁 Feedback
+- [Post-Verdict Reflection](feedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](feedback/Module-CrossReference.md)
