@@ -15,7 +15,7 @@ This case interacts with the following LORI Framework modules:
 ---
 
 <p align="center">
-<img src="../assets/images/CASE-JURY-015-Timeline.png" alt="CASE-JURY-015-Timeline" width="500">
+<img src="../../assets/images/CASE-JURY-015-Timeline.png" alt="CASE-JURY-015-Timeline" width="500">
 </p>
 
 ---
