@@ -64,6 +64,13 @@ Legislating euthanasia for non-terminal patients—though compassionate in inten
    - Vulnerable populations (e.g. youth with depression) may interpret access to death as validation of hopelessness  
    - Contagion risk in suicide-prone groups
 
+---
+
+<p align="center">
+<img src="..//assets/images/EUTHANASIA LEGISLATION.PNG" alt="EUTHANASIA LEGISLATION" width="500">
+</p>
+
+---
 5. **Erosion of Moral Norm Anchors**  
    - As boundaries shift, societies may struggle to maintain a stable ethical identity about what life means and who is worth saving
 
