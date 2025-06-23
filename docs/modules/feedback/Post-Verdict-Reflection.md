@@ -1,4 +1,4 @@
-# 🔍 Post-Verdict Reflection – CASE-JURY-015
+# 🔍 Post-Verdict Reflection – LORI-CASE-015
 
 ## Core Question:
 > Does the right to die extend to non-terminal patients in emotional and physical decline?
