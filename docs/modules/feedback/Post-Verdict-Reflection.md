@@ -67,7 +67,7 @@ Legislating euthanasia for non-terminal patients—though compassionate in inten
 ---
 
 <p align="center">
-<img src="..//assets/images/EUTHANASIA LEGISLATION.PNG" alt="EUTHANASIA LEGISLATION" width="500">
+<img src="../../assets/images/EUTHANASIA LEGISLATION.PNG" alt="EUTHANASIA LEGISLATION" width="500">
 </p>
 
 ---
