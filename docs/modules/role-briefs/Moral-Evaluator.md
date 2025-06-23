@@ -1,4 +1,4 @@
-# 🧭 Moral Evaluator Brief – CASE-JURY-015
+# 🧭 Moral Evaluator Brief – LORI-CASE-015
 
 ## Role: Moral Evaluator
 > Task: To assess the ethical implications of Thomas L.'s euthanasia request, considering moral autonomy, social obligations, and the potential risks of institutionalizing death as a choice.
