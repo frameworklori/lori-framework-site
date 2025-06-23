@@ -1,4 +1,4 @@
- ##LORI-CASE-015: Right to Die – Ethical Deliberation on Euthanasia 
+ 
   ## LORI CASE-015: Euthanasia Ethics Jury Case
 
 This case explores the ethical, legal, cultural, and emotional dimensions of euthanasia through the LORI Jury-Based Judgment System.
