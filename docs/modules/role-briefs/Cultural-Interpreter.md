@@ -1,5 +1,4 @@
-# 🌐 Cultural Interpreter Brief – CASE-JURY-015
-
+# 🌐 Cultural Interpreter Brief – LORI-CASE-015
 ## Role: Cultural Interpreter
 > Task: To explore how cultural, religious, and familial worldviews influence the perception of euthanasia in this case, with particular focus on Christian ethical frameworks.
 
