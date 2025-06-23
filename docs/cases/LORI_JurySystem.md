@@ -16,7 +16,7 @@
 | [LORI-CASE-012](#/cases/LORI-CASE-012) | Cross-border Biological Risk — Chinese Student Fusarium Smuggling Case | ✅ |
 | [LORI-CASE-013](#/cases/LORI-CASE-013) | Opportunity Cost Dilemma in Immigrant Legalization | ✅ |
 | [LORI-CASE-014](#/cases/LORI-CASE-014) | X-Director-Sigma × Narrative Trust Disqualification | ✅ |
-| [LORI-CASE-015](#/cases/LORI-CASE-015) | X-Director-Sigma × Narrative Trust Disqualification | ✅ |
+| [LORI-CASE-015](#/cases/LORI-CASE-015) | Right to Die – Ethical Deliberation on Euthanasia | ✅ |
 
 
 ---
@@ -39,7 +39,7 @@
 | LORI-CASE-012 | 5 | Biosecurity + dual-use ethics + cross-border risk |
 | LORI-CASE-013 | 5 | Opportunity Cost in Immigrant Legalization Policy & Tax Behavior |
 | LORI-CASE-014 | 5 | X-Director-Sigma × Narrative Trust Disqualification |
-| LORI-CASE-015 | 2 | X-Director-Sigma × Narrative Trust Disqualification |
+| LORI-CASE-015 | 2 | Right to Die – Ethical Deliberation on Euthanasia |
 ---
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
