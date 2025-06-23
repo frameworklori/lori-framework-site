@@ -5,12 +5,13 @@ This case explores the ethical, legal, cultural, and emotional dimensions of eut
 ## 📁 Contents
 
 ### 🧾 Case Files
-- [Post-Verdict Reflection](../modules/feedbackfeedback/Post-Verdict-Reflection.md)
-- [Module Cross Reference](../modules/feedbackfeedback/Module-CrossReference.md)
+- [Post-Verdict Reflection](../modules/feedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](../modules/feedback/Module-CrossReference.md)
 
 ### 🖼️ Visual Assets
-- ![Butterfly Effect Logic](assets/E9FC6F47-FBA2-4158-95F0-96EBDEFE2EB9.png)
-- ![Thomas L. Timeline](assets/222845FF-3B54-4DEE-B43A-85758CC6B147.png)
+- ![Butterfly Effect Logic](../assets/images/assets/EUTHANASIA-LEGISLATION.PNG)
+
+- ![Thomas L. Timeline](../assets/images/assets/CASE-JURY-015-Timeline.png)
 
 ---
 
