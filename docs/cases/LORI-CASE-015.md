@@ -14,9 +14,7 @@ This case explores the ethical, legal, cultural, and emotional dimensions of eut
 <p align="center">
 <img src="../assets/images/CASE-JURY-015-Timeline.png" alt="CASE-JURY-015-Timeline" width="400">
 </p>
-
 ---
-
 <p align="center">
 <img src="../assets/images/EUTHANASIA LEGISLATION.PNG" alt="EUTHANASIA LEGISLATION" width="400">
 </p>
