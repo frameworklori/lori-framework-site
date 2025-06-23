@@ -21,7 +21,7 @@ This case connects with:
 - `LORI-SPR` (Societal Pattern Resonance)
 - `LORI-JURY` (Ethical Jury Simulation Framework)
 
-For full model context, visit the [LORI Framework Main Site](../index.html).
+For full model context, visit the [LORI Framework Main Site](../index.MD).
 
 ---
 
