@@ -1,4 +1,4 @@
-# 🤖 AI Jury Voting Record – CASE-JURY-015
+# 🤖 AI Jury Voting Record – LORI-CASE-015
 
 ## Deliberation Summary
 
