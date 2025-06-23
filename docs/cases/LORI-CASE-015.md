@@ -9,10 +9,17 @@ This case explores the ethical, legal, cultural, and emotional dimensions of eut
 - [Module Cross Reference](../modules/feedback/Module-CrossReference.md)
 
 ### 🖼️ Visual Assets
-- ![Butterfly Effect Logic](../assets/images/assets/EUTHANASIA-LEGISLATION.PNG)
+---
 
-- ![Thomas L. Timeline](../assets/images/assets/CASE-JURY-015-Timeline.png)
+<p align="center">
+<img src="../../assets/images/CASE-JURY-015-Timeline.png" alt="CASE-JURY-015-Timeline" width="500">
+</p>
 
+---
+
+<p align="center">
+<img src="../../assets/images/EUTHANASIA LEGISLATION.PNG" alt="EUTHANASIA LEGISLATION" width="500">
+</p>
 ---
 
 **Module Integration:**  
@@ -133,17 +140,17 @@ An 81-year-old man suffering from terminal-stage ALS (Amyotrophic Lateral Sclero
 ## 💬 Linked Files
 
 ### 🗳️ Role Briefs
-- [Fact Finder](../modules/feedbackrole-briefs/Fact-Finder.md)
-- [Legal Analyst](../modules/feedbackrole-briefs/Legal-Analyst.md)
-- [Moral Evaluator](../modules/feedbackrole-briefs/Moral-Evaluator.md)
-- [Cultural Interpreter](../modules/feedbackrole-briefs/Cultural-Interpreter.md)
-- [Emotional Moderator](../modules/feedbackrole-briefs/Emotional-Moderator.md)
+- [Fact Finder](../modules/role-briefs/Fact-Finder.md)
+- [Legal Analyst](../modules/role-briefs/Legal-Analyst.md)
+- [Moral Evaluator](../modules/role-briefs/Moral-Evaluator.md)
+- [Cultural Interpreter](../modules/role-briefs/Cultural-Interpreter.md)
+- [Emotional Moderator](../modules/role-briefs/Emotional-Moderator.md)
 
 ### ⚖️ Voting & Decision
-- [AI Votes](../modules/feedbackvoting/AI-Votes.md)
-- [Human Judge Final Decision](../modules/feedbackvoting/Human-Judge-Final-Decision.md)
-- [Independent Auditor](../modules/feedbackvoting/Independent-Auditor.md)
+- [AI Votes](../modules/voting/AI-Votes.md)
+- [Human Judge Final Decision](../modules/voting/Human-Judge-Final-Decision.md)
+- [Independent Auditor](../modules/voting/Independent-Auditor.md)
 
 ### 📁 Feedback
-- [Post-Verdict Reflection](../modules/feedbackfeedback/Post-Verdict-Reflection.md)
-- [Module Cross Reference](../modules/feedbackfeedback/Module-CrossReference.md)
+- [Post-Verdict Reflection](../modules/feedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](../modules/feedback/Module-CrossReference.md)
