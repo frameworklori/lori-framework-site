@@ -12,6 +12,14 @@ This case interacts with the following LORI Framework modules:
 - Relevance: Boundary testing of life-ending choices in non-terminal conditions  
 - Recommends MELD inclusion for modeling policy responses and scenario stress tests
 
+---
+
+<p align="center">
+<img src="./assets/images/CASE-JURY-015-Timeline.png" alt="CASE-JURY-015-Timeline" width="500">
+</p>
+
+---
+  
 ## 3. **LORI-SPR** (Semantic-Perception Reframer)  
 - Applicable for analyzing Thomas’s language for authenticity, resignation vs clarity  
 - Could support deeper AI empathy alignment in future cases
