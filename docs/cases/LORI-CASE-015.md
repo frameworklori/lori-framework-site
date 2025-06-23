@@ -1,6 +1,8 @@
  # LORI-CASE-015: Right to Die – Ethical Deliberation on Euthanasia
+
  “When we are born, we have no say in our arrival; but when death approaches, we are finally allowed to make one true decision for ourselves.
 Is this autonomy a form of rebirth—or a final liberation?”
+
                                                                                       — LORI-Jury Reflection
 
   ## LORI CASE-015: Euthanasia Ethics Jury Case
