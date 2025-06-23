@@ -1,4 +1,4 @@
-# 💓 Emotional Moderator Brief – CASE-JURY-015
+# 💓 Emotional Moderator Brief – LORI-CASE-015
 
 ## Role: Emotional Moderator
 > Task: To evaluate the emotional dimensions surrounding Thomas L.’s euthanasia request, including sincerity of intent, affective context, and potential psychological risks.
