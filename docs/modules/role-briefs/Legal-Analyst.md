@@ -1,5 +1,4 @@
-# ⚖️ Legal Analyst Brief – CASE-JURY-015
-
+# ⚖️ Legal Analyst Brief – LORI-CASE-015
 ## Role: Legal Analyst
 > Task: To examine the legal framework governing euthanasia in British Columbia, assess Thomas L.'s eligibility under current laws, and evaluate the legal weight of family objections and physician discretion.
 
