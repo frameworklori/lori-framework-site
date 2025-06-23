@@ -1,4 +1,4 @@
-# 🕵️ Fact Finder Brief – CASE-JURY-015
+# 🕵️ Fact Finder Brief – LORI-CASE-015
 
 ## Role: Fact Finder
 > Task: To present a neutral and verifiable summary of the facts surrounding Thomas L.'s euthanasia request, including medical, psychological, familial, and legal context. No normative judgments are included in this report.
