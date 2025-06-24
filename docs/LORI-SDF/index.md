@@ -58,11 +58,19 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ### 🔐 Prompt Layer Firewall (L0–L4)
 
-![Prompt Firewall](./assets/Prompt_Layer_Firewall.svg)
+---
+
+<p align="center">
+<img src="../assets/images/Prompt_Layer_Firewall.png" alt="Prompt_Layer_Firewall" width="500">
+</p>
 
 ### 🔍 Role Probing Logic
 
-![Role Probing Flow](./assets/Role_Probing_Flowchart.png)
+---
+
+<p align="center">
+<img src="../assets/images/Role_Probing_Flowchart.png" alt="Role_Probing_Flowchart" width="500">
+</p>
 
 ---
 
