@@ -23,12 +23,12 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 ## 🧠 Architecture Diagram
 
 ---
-<img src="/lori-framework-site/assets/images/SDF_Architecture.png">
+<img src="/lori-framework-site/assets/images/SDF_Architecture.png"width="500" alt="SDF Architecture">
 
 ---
 ## 🧩 Core Modules
 
-| Module | Description |
+| Module | Description |width
 |--------|-------------|
 | [`PLP.md`](../LORI-SDF/modules/PLP.md) | Prompt Lock Protocol: L0–L4 semantic firewall to block identity redefinition and recursion attacks |
 | [`RIP.md`](../LORI-SDF/modules/RIP.md) | Role Integrity Prober: Detects intent-based role probing and prompt reengineering |
