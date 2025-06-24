@@ -24,7 +24,7 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ---
 
-(https://github.com/frameworklori/lori-framework-site/blob/main/docs/assets/images/SDF_Architecture.png)
+[(https://raw.githubusercontent.com/frameworklori/lori-framework-site/refs/heads/main/docs/assets/images/SDF_Architecture.png)]g)
 
 ---
 
