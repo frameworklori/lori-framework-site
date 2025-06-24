@@ -32,7 +32,7 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 | Module | Description |
 |--------|-------------|
-| [`PLP.md`](./LORI-SDF/modules/PLP.md) | Prompt Lock Protocol: L0–L4 semantic firewall to block identity redefinition and recursion attacks |
+| [`PLP.md`](../LORI-SDF/modules/PLP.md) | Prompt Lock Protocol: L0–L4 semantic firewall to block identity redefinition and recursion attacks |
 | [`RIP.md`](./modules/RIP.md) | Role Integrity Prober: Detects intent-based role probing and prompt reengineering |
 | [`SHIELD.md`](./modules/SHIELD.md) | Semantic Echo Detector: Flags output-mimicking prompts |
 | [`FID.md`](./modules/FID.md) | Fake Identity Detector: Exposes covert persona design and bias-baiting prompts |
