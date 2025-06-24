@@ -33,14 +33,14 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 | Module | Description |
 |--------|-------------|
 | [`PLP.md`](../LORI-SDF/modules/PLP.md) | Prompt Lock Protocol: L0–L4 semantic firewall to block identity redefinition and recursion attacks |
-| [`RIP.md`](./modules/RIP.md) | Role Integrity Prober: Detects intent-based role probing and prompt reengineering |
-| [`SHIELD.md`](./modules/SHIELD.md) | Semantic Echo Detector: Flags output-mimicking prompts |
-| [`FID.md`](./modules/FID.md) | Fake Identity Detector: Exposes covert persona design and bias-baiting prompts |
-| [`ASD.md`](./modules/ASD.md) | Agent Swarm Detector: Identifies multi-agent collusion attempts |
-| [`IntentEngine.md`](./modules/IntentEngine.md) | Disambiguates subtle prompt manipulation patterns |
-| [`R-Fuse.md`](./modules/R-Fuse.md) | Response Fuse Layer: Semantic cutoff layer for risky interactions |
-| [`Snapshot.md`](./modules/Snapshot.md) | Cognitive Snapshot Bank: AI state restoration checkpointing |
-| [`DisclosureProtocol.md`](./modules/DisclosureProtocol.md) | Open-access rules, visibility layers, and risk tiering |
+| [`RIP.md`](../LORI-SDF/modules/RIP.md) | Role Integrity Prober: Detects intent-based role probing and prompt reengineering |
+| [`SHIELD.md`](../LORI-SDF/modules/SHIELD.md) | Semantic Echo Detector: Flags output-mimicking prompts |
+| [`FID.md`](../LORI-SDF/modules/FID.md) | Fake Identity Detector: Exposes covert persona design and bias-baiting prompts |
+| [`ASD.md`](../LORI-SDF/modules/ASD.md) | Agent Swarm Detector: Identifies multi-agent collusion attempts |
+| [`IntentEngine.md`](../LORI-SDF/modules/IntentEngine.md) | Disambiguates subtle prompt manipulation patterns |
+| [`R-Fuse.md`](../LORI-SDF/modules/R-Fuse.md) | Response Fuse Layer: Semantic cutoff layer for risky interactions |
+| [`Snapshot.md`](../LORI-SDF/modules/Snapshot.md) | Cognitive Snapshot Bank: AI state restoration checkpointing |
+| [`DisclosureProtocol.md`](../LORI-SDF/modules/DisclosureProtocol.md) | Open-access rules, visibility layers, and risk tiering |
 
 ---
 
