@@ -60,7 +60,7 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ---
 
-<img src="/lori-framework-site/assets/images/Prompt_Layer_Firewall.png" width="500" alt="Prompt Layer Firewall.png">
+<img src="../assets/images/Prompt_Layer_Firewall.png" width="500" alt="Prompt_Layer_Firewall.png">
 
 ---
 
@@ -68,7 +68,7 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ---
 
-<img src="/lori-framework-site/assets/images/Role_Probing_Flowchart.png" width="500" alt="Role_Probing_Flowchart">
+<img src="../assets/images/Role_Probing_Flowchart.png" width="500" alt="Prompt_Layer_Firewall.png">
 
 ---
 
