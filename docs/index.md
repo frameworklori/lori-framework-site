@@ -224,6 +224,11 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ---
 
+## Semantic Firewall & Role Verification System [SDF v1.1]
+- [🔗Explore the SDF Module](../LORI-SDF/index.md)
+
+---
+
 ##  Modular Specialized AGI Modules [AGI-SPECIALIZED]
 
 - [Production Module (LORI-PM)](modules/Production_Module.md)
