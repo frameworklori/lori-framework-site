@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-<img src="./assets/images/SDF_Architecture.png" alt="SDF_Architecture" width="500">
+<img src="../../assets/images/SDF_Architecture.png" alt="SDF_Architecture" width="500">
 </p>
 
 ---
