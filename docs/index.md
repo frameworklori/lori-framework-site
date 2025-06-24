@@ -225,6 +225,7 @@ These modules protect against deep structure imitation, style mimicking, and att
 ---
 
 ## Semantic Firewall & Role Verification System [SDF v1.1]
+
 - [🔗Explore the SDF Module](../LORI-SDF/index.md)
 
 ---
