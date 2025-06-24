@@ -22,7 +22,9 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ## 🧠 Architecture Diagram
 
-![SDF Architecture](./assets/SDF_Architecture.png)
+<p align="center">
+<img src="../assets/images/SDF_Architecture.png" alt="SDF Architecture.png" width="500">
+</p>
 
 ---
 
