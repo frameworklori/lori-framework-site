@@ -14,7 +14,7 @@ The Prompt Lock Protocol (PLP) implements a multi-tiered input-level firewall to
 ---
 
 <p align="center">
-<img src="../assets/images/Prompt_Layer_Firewall.png" alt="Prompt Layer Firewall" width="500">
+<img src="../../assets/images/Prompt_Layer_Firewall.png" alt="Prompt Layer Firewall" width="500">
 </p>
 
 ---
