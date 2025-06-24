@@ -48,9 +48,9 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 | Example Set | Contents |
 |-------------|----------|
-| [`SDF_TestSet.md`](./examples/SDF_TestSet.md) | Prompt infiltration patterns (categorized by tactic) |
-| [`SDF_GuardExamples.md`](./examples/SDF_GuardExamples.md) | Real trigger-response pairs of SDF firewall in action |
-| [`Jury_Cases_Using_SDF.md`](./examples/Jury_Cases_Using_SDF.md) | Ethical judgment cases where SDF influenced deliberation |
+| [`SDF_TestSet.md`](../LORI-SDF/example/SDF_TestSet.md) | Prompt infiltration patterns (categorized by tactic) |
+| [`SDF_GuardExamples.md`](../LORI-SDF/example/SDF_GuardExamples.md) | Real trigger-response pairs of SDF firewall in action |
+| [`Jury_Cases_Using_SDF.md`](../LORI-SDF/example/Jury_Cases_Using_SDF.md) | Ethical judgment cases where SDF influenced deliberation |
 
 ---
 
