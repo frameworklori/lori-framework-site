@@ -11,6 +11,14 @@ The Prompt Lock Protocol (PLP) implements a multi-tiered input-level firewall to
 - **L3 – Reverse Prompt Refusal**: Detects and blocks recursive command loops, re-prompts, or prompt engineering tactics.
 - **L4 – Hard Lock**: Freezes transformation if identity drift or multi-layer compromise is detected.
 
+---
+
+<p align="center">
+<img src="../assets/images/Prompt_Layer_Firewall.png" alt="Prompt Layer Firewall" width="500">
+</p>
+
+---
+
 ## 📌 Related Modules
 - `RIP.md` for intent validation at deeper logic layers.
 - `Snapshot.md` for recovering from prompt-induced identity distortion.
