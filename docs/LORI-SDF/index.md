@@ -22,9 +22,9 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ## 🧠 Architecture Diagram
 
-<p align="center">
-<img src="../assets/images/SDF_Architecture.png" alt="SDF Architecture.png" width="500">
-</p>
+---
+
+<img src="/ori-framework-site/assets/images/SDF_Architecture.png" width="500" alt="SDF Architecture.png">
 
 ---
 
@@ -60,17 +60,15 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 
 ---
 
-<p align="center">
-<img src="../assets/images/Prompt_Layer_Firewall.png" alt="Prompt_Layer_Firewall" width="500">
-</p>
+<img src="/ori-framework-site/assets/images/Prompt_Layer_Firewall.png" width="500" alt="Prompt Layer Firewall.png">
+
+---
 
 ### 🔍 Role Probing Logic
 
 ---
 
-<p align="center">
-<img src="../assets/images/Role_Probing_Flowchart.png" alt="Role_Probing_Flowchart" width="500">
-</p>
+<img src="/ori-framework-site/assets/images/Role_Probing_Flowchart.png" width="500" alt="Role_Probing_Flowchart">
 
 ---
 
