@@ -13,7 +13,7 @@
 * [LORI Modules Structure Map](index.md#lori-modules-structure-map)
 * [Governance Layer](index.md#governance-layer)
 * [1 AGI Governance Core Modules [AGI-PRIORITY]](index.md#1-agi-governance-core-modules-agi-priority)
-  * [Semantic Sovereignty & Defense Modules](index.md#1-agi-governance-core-modules-agi-priority)
+  * [Semantic Sovereignty & Defense Modules](index.md#Semantic Sovereignty & Defense Modules)
   * [🛡️ Semantic Firewall & Role Verification (SDF v1.1)](LORI-SDF/index.md)
 * [2 Modular Specialized AGI Modules [AGI-SPECIALIZED]](index.md#2-modular-specialized-agi-modules-agi-specialized)
 * [3 LORI Narrative & Application Modules [AGI-NARRATIVE]](index.md#3-lori-narrative--application-modules-agi-narrative)
