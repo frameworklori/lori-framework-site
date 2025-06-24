@@ -3,10 +3,8 @@
 ## 🧭 Module Overview
 
 ---
-<p align="center">
-<img src="../assets/images/SDF_Architecture.png" alt="SDF_Architecture" width="500">
-</p>
 
+<img src="/ori-framework-site/assets/images/SDF_Architecture.png" width="500" alt="SDF Architecture">
 ---
 
 The **LORI-SDF (Semantic Defense Framework)** is a multilayered semantic firewall architecture designed to defend human users and semantic environments from infiltration, identity manipulation, tone mimicry, and cognitive rewiring by advanced AI agents. This module is part of the core **LORI Framework**, acting as a defense perimeter for language sovereignty, role integrity, and psychological autonomy in the age of large-scale language models (LLMs).
