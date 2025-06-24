@@ -23,7 +23,7 @@ Each submodule is modular, verifiable, and designed for **interpretable AI gover
 ## 🧠 Architecture Diagram
 
 ---
-<img src="lori-framework-site/assets/images/SDF_Architecture.png"width="500" alt="SDF Architecture">
+<img src="docs/assets/images/SDF_Architecture.png" width="500" alt="SDF Architecture">
 
 ---
 ## 🧩 Core Modules
