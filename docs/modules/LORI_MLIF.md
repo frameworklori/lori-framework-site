@@ -102,7 +102,7 @@ Monitor language-asymmetry in foundational models before it scales into irrevers
 - [LORI-SDF](./LORI-SDF/LORI-SDF.md) – Semantic Defense Firewall
 - [LORI-SPR](./SPR.md) – Semantic Pattern Reprogramming
 - [LORI-PLP](./LORI-SDF/modules/PLP.md) – Prompt Lock Protocol
-- [LORI-AIDM](./modules/AIDM.md) – Infiltration Detection Module
+- [LORI-AIDM](../modules/AIDM.md) – Infiltration Detection Module
 
 ---
 
