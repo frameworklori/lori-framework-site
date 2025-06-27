@@ -26,7 +26,7 @@ This repository contains four key modules addressing AI's societal impact throug
 - Trust-building tools
 
 ### 4. AI Non-Action Responsibility Report
-- [AI_NonAction_Responsibility_Report](../AI_NonAction_Responsibility_Report.md/)
+- [AI_NonAction_Responsibility_Report](../reports/AI_NonAction_Responsibility_Report.md)
 
 - Mapping tech evasion
 - Defining model obligations
