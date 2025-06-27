@@ -14,7 +14,9 @@ To rebuild educational trust through structural reforms that emphasize human cre
 
 ## Related Modules
 
-Civilization-Centered Education Module (..docs/modules/civilization-centered-education-module/index.md)
+ -[Civilization-Centered Education Module](../modules/civilization-centered-education-module/index.md
+)
+
 
 
 ## Tools
