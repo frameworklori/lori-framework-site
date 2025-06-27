@@ -342,9 +342,13 @@ The formal module specification outlining the philosophical basis and governance
 -- [AI_Civilization_SWOT_Report](reports/README.md/)
 
 ### AI × Human Civilization Impact SWOT Report
+A strategic evaluation of AI’s strengths, weaknesses, opportunities, and threats across civilization layers.
 ### AI’s Erosion of Educational Trust: Structural Response Strategy
+A proposal for rebuilding human authority and trust in education systems destabilized by AI influence.
 ### AI Layoff Risk × Transformation Entrepreneurship Model
+A classification-based guide for workforce reskilling and entrepreneurial transition amid AI-driven displacement.
 ### AI Non-Action Responsibility Report (NARR) v1.0
+A structural warning on the domino effect caused by AI companies neglecting retraining, educator support, and social risk management.
 
 ---
 
