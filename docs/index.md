@@ -339,7 +339,7 @@ The formal module specification outlining the philosophical basis and governance
 
 ## 🧯 Social Accountability Reports
 
--- [AI_Civilization_SWOT_Report](reports/README.md/)
+-- [AI × Human Civilization: Response Modules](reports/README.md/)
 
 ### AI × Human Civilization Impact SWOT Report
 A strategic evaluation of AI’s strengths, weaknesses, opportunities, and threats across civilization layers.
