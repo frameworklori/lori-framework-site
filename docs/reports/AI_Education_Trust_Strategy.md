@@ -12,6 +12,11 @@ To rebuild educational trust through structural reforms that emphasize human cre
 - Shift from top-down grading to mentorship-based evaluation.
 - Reward unique output over standardized answers.
 
+## Related Modules
+
+Civilization-Centered Education Module (..docs/modules/civilization-centered-education-module/index.md)
+
+
 ## Tools
 - Open-source AI detection software.
 - National AI literacy campaigns.
