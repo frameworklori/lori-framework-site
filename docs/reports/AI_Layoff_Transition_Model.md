@@ -34,7 +34,7 @@ Key principles for future-proof roles include:
 
 ## Related Modules
 - [Integration Talent Module](../modules/civilization-centered-education-module/integration_talent_module.md)
-- [C1–C10 Sustainable Human Roles](../modules/LORI-CWR/roles/)
+- [C1–C10 Sustainable Human Roles](../modules/LORI-CWR/README.md/)
 
 ## Action Plan
 - Public success stories (#HumanAIPower).
