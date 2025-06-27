@@ -49,6 +49,8 @@ This module serves as:
 - `Cross-Domain-Roles.md` (listing occupations spanning multiple CWR categories)
 
 ---
+## 🔄Related Modules
+- [AI Layoff Transition Model](../../../reports/AI_Layoff_Transition_Model.md)
 
 For ethical resilience in an automated age, **human presence must remain foundational**.
 
