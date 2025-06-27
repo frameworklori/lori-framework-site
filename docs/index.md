@@ -339,7 +339,7 @@ The formal module specification outlining the philosophical basis and governance
 
 ## 🧯 Social Accountability Reports
 
--- [AI_Civilization_SWOT_Report](../../../reports/README.md/)
+-- [AI_Civilization_SWOT_Report](reports/README.md/)
 
 ### AI × Human Civilization Impact SWOT Report
 ### AI’s Erosion of Educational Trust: Structural Response Strategy
