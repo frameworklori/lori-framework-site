@@ -337,6 +337,15 @@ The formal module specification outlining the philosophical basis and governance
 
 ---
 
+## 🧯 Social Accountability Reports
+AI × Human Civilization: Response Modules(../reports/README.md)
+AI × Human Civilization Impact SWOT Report
+AI’s Erosion of Educational Trust: Structural Response Strategy
+AI Layoff Risk × Transformation Entrepreneurship Model
+AI Non-Action Responsibility Report (NARR) v1.0
+
+---
+
 # 1. Module Definition
 
 - Define Meta-Intellectual Resistance (MIR).
