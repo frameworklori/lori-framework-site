@@ -106,7 +106,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
  | 🚧 |
 -  [LORI-CASE-014](cases/LORI-CASE-014.md) -  X-Director-Sigma × Narrative Trust Disqualification| 🚧 |
 -  [LORI-CASE-015](cases/LORI-CASE-015.md) -  Right to Die – Ethical Deliberation on Euthanasia| 🚧 |
-
+-  [LORI-CASE-016](cases/LORI-CASE-016.md) -  Right to Die – Ethical Deliberation on Euthanasia| 🚧 |
 ---
 
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
