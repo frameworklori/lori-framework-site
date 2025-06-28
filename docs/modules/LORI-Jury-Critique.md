@@ -107,6 +107,27 @@ Without structural reform, it risks becoming a **ceremonial theater** for public
 Restoring reason to rulings, and ethics to law.
 
 ---
+ ## 🚨 7. Proposal: Anonymous Juror Verdict Rationale Submission
+
+To improve transparency, verifiability, and long-term fairness auditing, LORI recommends the implementation of:
+
+🔒 Anonymous Verdict Rationale Reports
+Each juror (human or AI) must submit:
+
+A non-identifiable written justification of their verdict.
+No peer pressure, no groupthink, no emotional conformity.
+Must address facts, witness credibility, and legal interpretation.
+
+📊 Purpose: Structural Bias & Integrity Analysis
+
+Enables longitudinal analysis of:
+Juror bias patterns (race, gender, class)
+Repetitive emotional oversway
+Common contradiction triggers
+Feeds into a verdict deviation index:
+A tool to detect systemic anomalies, inconsistency spikes, or ideological drifts.
+
+This system builds a jurisprudential memory layer — allowing future systems, scholars, and justice reforms to audit not just what was decided, but why and how
 
 ## 📎 Related Modules
 
