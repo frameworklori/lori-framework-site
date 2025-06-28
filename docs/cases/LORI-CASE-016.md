@@ -53,5 +53,5 @@ To prevent systemic bias or surveillance abuse, any AI used in monitoring civic 
 ## 🔗 Related Modules  
 - [LORI-AIDM](../modules/AIDM.md) – Discrimination & Infiltration Risk Monitor  
 - [LORI-CCC](../modules/CCC.md) – Civic Contribution Conditions  
--- [LORI-JurySystem](../modules/LORI-Jury-Based-Judgment.md) – AI-Human Verdict Layer  
+- [LORI-JurySystem](../modules/LORI-Jury-Based-Judgment.md) – AI-Human Verdict Layer  
 - [LORI-EDRI-H](../modules/EDRI-H.md) – Dependency & Rights Integrity Safeguard
