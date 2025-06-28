@@ -155,4 +155,4 @@ Restoring reason to rulings, and ethics to law.
 - [LORI-LII.md](LII.md)
 - [LORI-FIT.md](LORI-FIT/LORI-FIT.md)
 - [LORI-AIDM.md](AIDM.md)
-- [LORI-VDR.md](LORI-VDR.md) *(upcoming)*
+- [LORI-VDR.md](LORI-VDR.md) 
