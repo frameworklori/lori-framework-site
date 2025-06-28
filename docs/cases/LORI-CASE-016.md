@@ -80,7 +80,7 @@ cultural participation, civic obligations, and re-entry risk monitoring.
 - [LORI-AIDM](../modules/AIDM.md)
 - [LORI-ODRAF](../modules/ODRAF.md)
 - [LORI-TRUST](../modules/Trust-Drift.md)
-- [LORI-JURY](../systems/Jury-Based-System.md)
+- [LORI-JURY](../modules/TrustDrift.md)
 
 ---
 
