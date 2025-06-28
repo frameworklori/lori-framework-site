@@ -121,7 +121,7 @@ All 7 jurors submit anonymized rationale forms after final vote:
 ## 🌐 8. Related Modules
 
 - [LORI-Jury-Critique.md](./LORI-Jury-Critique.md)
-- [verdict_reason_template.md](../templates/verdict_reason_template.md)
+- [verdict_reason_template.md](../template/verdict_reason_template.md)
 - [LORI-VDR.md](./LORI-VDR.md) *(upcoming)*
 - [LORI-LII.md](./LORI-LII.md)
 - [LORI-FIT.md](./LORI-FIT.md)
