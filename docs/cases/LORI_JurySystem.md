@@ -2,22 +2,22 @@
 
 | Case ID | Title | Status |
 |-----------------|---------------------------------------------------------------------------------------------|--------|
-| [LORI-CASE-001](#/cases/LORI-CASE-001) | Autonomous Vehicle Safety Governance & Liability | ✅ |
-| [LORI-CASE-002](#/cases/LORI-CASE-002) | AI Surveillance Ethics Dispute | ✅ |
-| [LORI-CASE-003](#/cases/LORI-CASE-003) | Autonomous Drone Deployment Ethics | ✅ |
-| [LORI-CASE-004](#/cases/LORI-CASE-004) | Tech Firm Data Collection vs Personal Autonomy | ✅ |
-| [LORI-CASE-005](#/cases/LORI-CASE-005) | Cross-Border Data Exposure and Sovereignty Risk | ✅ |
-| [LORI-CASE-006](#/cases/LORI-CASE-006) | Semantic Polarization & Security Labeling Bias | ✅ |
-| [LORI-CASE-007](#/cases/LORI-CASE-007) | Charismatic Slogan Simulation & Semantic Grey-Zone Risk | ✅ |
-| [LORI-CASE-008](#/cases/LORI-CASE-008) | Production Module Boundary Review Case | ⚠️ TBD |
-| [LORI-CASE-009](#/cases/LORI-CASE-009) | US vs Japan Tech IP Governance Case | ⚠️ TBD |
-| [LORI-CASE-010](#/cases/LORI-CASE-010) | ODRAF Outcome Risk Anticipation — Financial Instability Scenario | ⚠️ TBD |
-| [LORI-CASE-011](#/cases/LORI-CASE-011) | Empathy vs Realist Empathy in the Russia–Ukraine War | ⚠️ TBD |
-| [LORI-CASE-012](#/cases/LORI-CASE-012) | Cross-border Biological Risk — Chinese Student Fusarium Smuggling Case | ✅ |
-| [LORI-CASE-013](#/cases/LORI-CASE-013) | Opportunity Cost Dilemma in Immigrant Legalization | ✅ |
-| [LORI-CASE-014](#/cases/LORI-CASE-014) | X-Director-Sigma × Narrative Trust Disqualification | ✅ |
-| [LORI-CASE-015](#/cases/LORI-CASE-015) | Right to Die – Ethical Deliberation on Euthanasia | ✅ |
-| [LORI-CASE-016](#/cases/LORI-CASE-016) | Should Birthright Citizenship Be Restricted?| ✅ |
+| [LORI-CASE-001](../cases/LORI-CASE-001) | Autonomous Vehicle Safety Governance & Liability | ✅ |
+| [LORI-CASE-002](../cases/LORI-CASE-002) | AI Surveillance Ethics Dispute | ✅ |
+| [LORI-CASE-003](../cases/LORI-CASE-003) | Autonomous Drone Deployment Ethics | ✅ |
+| [LORI-CASE-004](../cases/LORI-CASE-004) | Tech Firm Data Collection vs Personal Autonomy | ✅ |
+| [LORI-CASE-005](../cases/LORI-CASE-005) | Cross-Border Data Exposure and Sovereignty Risk | ✅ |
+| [LORI-CASE-006](../cases/LORI-CASE-006) | Semantic Polarization & Security Labeling Bias | ✅ |
+| [LORI-CASE-007](../cases/LORI-CASE-007) | Charismatic Slogan Simulation & Semantic Grey-Zone Risk | ✅ |
+| [LORI-CASE-008](../cases/LORI-CASE-008) | Production Module Boundary Review Case | ⚠️ TBD |
+| [LORI-CASE-009](../cases/LORI-CASE-009) | US vs Japan Tech IP Governance Case | ⚠️ TBD |
+| [LORI-CASE-010](../cases/LORI-CASE-010) | ODRAF Outcome Risk Anticipation — Financial Instability Scenario | ⚠️ TBD |
+| [LORI-CASE-011](../cases/LORI-CASE-011) | Empathy vs Realist Empathy in the Russia–Ukraine War | ⚠️ TBD |
+| [LORI-CASE-012](../cases/LORI-CASE-012) | Cross-border Biological Risk — Chinese Student Fusarium Smuggling Case | ✅ |
+| [LORI-CASE-013](../cases/LORI-CASE-013) | Opportunity Cost Dilemma in Immigrant Legalization | ✅ |
+| [LORI-CASE-014](../cases/LORI-CASE-014) | X-Director-Sigma × Narrative Trust Disqualification | ✅ |
+| [LORI-CASE-015](../cases/LORI-CASE-015) | Right to Die – Ethical Deliberation on Euthanasia | ✅ |
+| [LORI-CASE-016](../cases/LORI-CASE-016) | Should Birthright Citizenship Be Restricted?| ✅ |
 
 ---
 
