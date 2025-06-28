@@ -2,6 +2,8 @@
 **Jury-Based Ethical Adjudication – LORI Framework**
 
 ---
+“This case is a simulated deliberation under a jury-based system, exploring the intersection of ethics and constitutional principles. It does not represent the position of any nation and should not be interpreted as a real-world political or policy recommendation.”
+
 
 ## 📘 Case Summary
 
