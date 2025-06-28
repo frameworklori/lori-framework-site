@@ -176,6 +176,16 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 - [Governance Model Integrity & Protection](Governance_Model_LICENSE_Notice.md#governance-model-integrity--protection)
 - [Governance Model Integrity Trace Record](records/LORI_Integrity_Trace.md)
 - [Governance Model External Citation Guide](records/LORI_External_Citation_Guide.md)
+
+---
+
+🧑‍⚖️ Jury-Based Judgment System – Extended Modules
+
+- [LORI-Jury-Structure.md](./docs/modules/LORI-Jury-Structure.md) – Multi-role AI × Human Jury System
+- [LORI-Jury-Critique.md](./docs/modules/LORI-Jury-Critique.md) – Structural critique of the U.S. jury model
+- [verdict_reason_template.md](./docs/modules/verdict_reason_template.md) – Anonymous juror verdict rationale submission form
+- [LORI_VDR.md](./docs/modules/LORI_VDR.md) – Verdict Deviation and Rationale Module (bias tracking & post-trial analysis)
+
 ---
 
 📜 **Governance Layer Documentation:**
