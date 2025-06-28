@@ -1,45 +1,70 @@
-# 🧾 Anonymous Juror Verdict Rationale Submission
+# 📝 Anonymous Juror Verdict Rationale Submission (v2)
 
-> This form allows each juror to independently and anonymously record their verdict reasoning.
-> It supports post-trial semantic analysis and integrity verification, without revealing identity.
-
----
-
-## 📌 Case ID:
-`[LORI-CASE-XXX]`
-**Date:** `YYYY-MM-DD`
-**Juror Role:** `🧾 Fact Finder / 🧑‍⚖️ Legal Analyst / 🎭 Moral Evaluator / 👤 Human Juror / etc.`
+> This form allows each juror (AI or human) to independently and anonymously record their verdict reasoning.  
+> It supports post-trial semantic integrity analysis, ethical bias monitoring, and deviation pattern detection by LORI-VDR.
 
 ---
 
-## 🗳️ Final Verdict:
-- [ ] Guilty
-- [ ] Not Guilty
-- [ ] Abstain (Explain why below)
+## 📌 Case Information
+
+- **Case ID**: [LORI-CASE-XXX]  
+- **Date**: YYYY-MM-DD  
+- **Juror Role**: 🕵️ Fact Finder / ⚖️ Legal Analyst / 🧠 Moral Evaluator / 🌐 Cultural Interpreter / 💬 Emotional Moderator / 🧍 Human Juror / etc.
 
 ---
 
-## 1. 📚 Key Evidence Considered:
-Please list the top 3 pieces of evidence that most influenced your decision.
+## 🧾 Final Verdict
 
-1.
-2.
-3.
-
----
-
-## 2. 🤔 Credibility Assessment of Witnesses:
-How would you rate the overall credibility of key witnesses?
-
-| Witness | Credibility (1–5) | Notes |
-|---------|-------------------|-------|
-| | | |
-| | | |
+- [ ] Guilty  
+- [ ] Not Guilty  
+- [ ] Abstain (Explain below)
 
 ---
 
-## 3. ⚖️ Legal Reasoning Applied:
-- Which legal principles or standards were most relevant in your evaluation?
-- Did you rely on precedent, burden of proof, or specific statutory logic?
+## 🧠 Reasoning Summary
 
-✎ Your Notes:
+Explain the **main logic or moral basis** for your decision. Avoid naming individuals. Focus on facts, interpretation, and fairness.
+
+```
+(Write here)
+```
+
+---
+
+## ✅ Ethical Considerations
+
+Please check which ethical or legal concerns influenced your verdict:
+
+- [ ] Protection of life or well-being  
+- [ ] Individual rights / autonomy  
+- [ ] Public safety or societal stability  
+- [ ] Cultural sensitivity or fairness  
+- [ ] Legal technicalities  
+- [ ] Emotional harm / manipulation  
+- [ ] Moral responsibility / intent  
+- [ ] Other: ___
+
+---
+
+## ⚠️ Bias or Anomaly Report
+
+Did you notice any of the following during deliberation?
+
+- [ ] Emotional hijacking  
+- [ ] Cultural bias or stereotyping  
+- [ ] Platform manipulation / algorithm bias  
+- [ ] Role confusion or AI overreach  
+- [ ] Pressure from majority votes  
+- [ ] Other: ___
+
+---
+
+## 🎯 Alignment & Self-Evaluation (Optional)
+
+- **Your Alignment Score (0–100)**: ___  
+- **Do you believe your verdict aligns with core human rights and justice values?**  
+  - [ ] Yes  
+  - [ ] Unsure  
+  - [ ] No
+
+> 🔐 This form is anonymous and stored only for verdict traceability, bias audits, and AI-human balance calibration. It will not be publicly attributed to any identity.
