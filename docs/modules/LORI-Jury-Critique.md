@@ -150,9 +150,9 @@ Restoring reason to rulings, and ethics to law.
 
 ## 📎 Related Modules
 
-- [LORI-Jury-Structure.md](modules/LORI-Jury-Structure.md)
+- [LORI-Jury-Structure.md](LORI-Jury-Structure.md)
 - [LORI-CASE-002.md](../cases/LORI-CASE-002.md)
-- [LORI-LII.md](modules/LII.md)
-- [LORI-FIT.md](modules/LORI-FIT/LORI-FIT.md)
-- [LORI-AIDM.md](modules/AIDM.md)
-- [LORI-VDR.md](modules//LORI-VDR.md) *(upcoming)*
+- [LORI-LII.md](LII.md)
+- [LORI-FIT.md](LORI-FIT/LORI-FIT.md)
+- [LORI-AIDM.md](AIDM.md)
+- [LORI-VDR.md](LORI-VDR.md) *(upcoming)*
