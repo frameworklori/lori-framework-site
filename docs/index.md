@@ -183,7 +183,7 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 - [LORI-Jury-Structure.md](modules/LORI-Jury-Structure.md) – Multi-role AI × Human Jury System
 - [LORI-Jury-Critique.md](modules/LORI-Jury-Critique.md) – Structural critique of the U.S. jury model
-- [verdict_reason_template.md](modules/verdict_reason_template.md) – Anonymous juror verdict rationale submission form
+- [verdict_reason_template.md](template/verdict_reason_template.md) – Anonymous juror verdict rationale submission form
 - [LORI-VDR.md](modules/LORI-VDR.md) – Verdict Deviation and Rationale Module (bias tracking & post-trial analysis)
 
 ---
