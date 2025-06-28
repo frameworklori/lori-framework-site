@@ -91,7 +91,7 @@ The LORI Jury System is built on a **5 AI + 2 Human** multi-role architecture to
 ### 👤 Sovereignty Judge (Human)
 - Decides in split scenarios
 - Justifies override based on human-centric logic
-- Records rationale in [Anonymous Verdict Form](../../template/verdict_reason_template.md)
+- Records rationale in [Anonymous Verdict Form](../../../template/verdict_reason_template.md)
 
 ### 👁️ Independent Auditor (Human)
 - Detects AI manipulation or hacking
