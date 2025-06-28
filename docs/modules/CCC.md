@@ -1,49 +1,31 @@
-# 🏛️ LORI-CCC – Citizenship Commitment Criteria  
-**Module for Democratic Qualification Integrity within the LORI Framework**
+# 🧱 LORI-CCC – Civic Contribution Conditions  
+**Submodule of the LORI Framework — Citizenship, Participation, and Democratic Legitimacy Layer**
 
 ---
 
-## 📘 Overview
-
-LORI-CCC (Citizenship Commitment Criteria) is a structural module designed to enhance the democratic legitimacy of birthright citizenship systems by incorporating civic responsibility, cultural participation, and re-entry risk monitoring.
-
-This module responds to rising concerns of strategic abuse—where individuals acquire citizenship through birth, develop values in non-democratic systems, and later return to influence or extract resources from democratic societies.
+## 🔍 Overview  
+LORI-CCC defines flexible and ethical criteria for evaluating civic contribution in cases of conditional or deferred citizenship. It offers governments a modular framework to balance birthright rights with democratic engagement responsibilities — without enforcing exclusionary or discriminatory practices.
 
 ---
 
-## 🧩 Submodules
+## 📦 Submodule Table
 
-| Code | Name | Function |
-|------|------|----------|
-| `CCC-FPT` | Foreign Parent Taxation | Requires documentation of tax contribution or civic participation from non-citizen parents at the time of the child’s birth. Without it, the child's citizenship enters a "Delayed Activation" status until adulthood review. |
-| `CCC-CAP` | Cultural Affiliation Phase | Mandates a minimum of 3 years of education and community participation in the citizenship-granting country before the age of 18. Ensures the child develops shared democratic values. |
-| `CCC-RIM` | Re-Entry Influence Monitor | Monitors individuals who re-enter the country as adults and take positions in sensitive domains (e.g., government, tech, academia). Flags potential cultural mismatch or systemic infiltration risk. |
-
----
-
-## ⚖️ Purpose
-
-- Reinforce **citizenship as a mutual contract** of rights and duties.  
-- Prevent **exploitative, loyalty-disconnected usage** of national identity.  
-- Protect **democratic integrity** from ideological backdoor influence.  
+| Code     | Name                            | Description                                                                 |
+|----------|---------------------------------|-----------------------------------------------------------------------------|
+| CCC-FPT  | Foreign Parent Taxation         | Requires proof of parental tax contribution or lawful participation. Used as an **accelerator** for citizenship activation. Optional under flexible regimes. |
+| CCC-RIM  | Re-Entry Influence Monitor      | Activates ethical monitoring if the individual later enters **sensitive sectors** (e.g., government, defense, AI, biotech). Applies **only upon sectoral trigger**, with privacy safeguards. |
 
 ---
 
-## 🔁 Integration
+## 🛡️ Ethical Constraints
 
-LORI-CCC interacts with the following systems:
-
-- `LORI-JURY` → Used in adjudicating fairness and ethical legitimacy of citizenship claims  
-- `LORI-AIDM` → Triggers AI monitoring when re-entry poses narrative or ideological risk  
-- `LORI-TRUST` → Integrates trust drift scoring across individual and parental inputs  
-- `LORI-ODRAF` → Simulates long-term outcome risks of strategic identity manipulation
+- **No automatic rejection**: CCC modules are used to enhance transparency and civic verification, not to create exclusion.
+- **Must be paired with alternatives**: Jurisdictions must offer free/remote civic education and volunteer tracks as alternatives.
+- **Auditable & Rights-Protected**: All CCC-based decisions must be appealable and recorded within the LORI Jury Framework.
 
 ---
 
-## 📌 Notes
-
-This module does not abolish birthright citizenship.  
-It **re-anchors it to responsibility**, ensuring it remains sustainable in a globally interconnected but ideologically fractured world.
-
----
-*Maintained by the LORI Ethical System – Last updated: 2025-06-28*
+## 🔗 Related Modules  
+- [LORI-CASE-016](../cases/LORI-CASE-016.md) – Case application of flexible civic contribution  
+- [LORI-AIDM](./AIDM.md) – Ensures non-discrimination in monitoring  
+- [LORI-JurySystem](./JurySystem.md) – Human review system for AI-based civic evaluations  
