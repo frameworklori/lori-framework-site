@@ -81,11 +81,11 @@ When drift is detected:
 
 ## 🔁 7. Integration with Other Modules
 
-- [verdict_reason_template.md](../templates/verdict_reason_template.md)
+- [verdict_reason_template.md](../template/verdict_reason_template.md)
 - [LORI-Jury-Structure.md](./LORI-Jury-Structure.md)
-- [LORI-FIT.md](./LORI-FIT.md)
-- [LORI-AIDM.md](./LORI-AIDM.md)
-- [LORI-LII.md](./LORI-LII.md)
+- [LORI-FIT.md](LORI-FIT/LORI-FIT.md)
+- [LORI-AIDM.md](./AIDM.md)
+- [LORI-LII.md](./LII.md)
 
 ---
 
