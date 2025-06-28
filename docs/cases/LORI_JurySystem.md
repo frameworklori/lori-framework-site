@@ -2,7 +2,7 @@
 
 | Case ID | Title | Status |
 |-----------------|---------------------------------------------------------------------------------------------|--------|
-| [LORI-CASE-001](cases/LORI-CASE-001) | Autonomous Vehicle Safety Governance & Liability | ✅ |
+| [LORI-CASE-001](#LORI-CASE-001) | Autonomous Vehicle Safety Governance & Liability | ✅ |
 | [LORI-CASE-002](../cases/LORI-CASE-002) | AI Surveillance Ethics Dispute | ✅ |
 | [LORI-CASE-003](../cases/LORI-CASE-003) | Autonomous Drone Deployment Ethics | ✅ |
 | [LORI-CASE-004](../cases/LORI-CASE-004) | Tech Firm Data Collection vs Personal Autonomy | ✅ |
