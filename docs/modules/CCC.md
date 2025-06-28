@@ -28,4 +28,4 @@ LORI-CCC defines flexible and ethical criteria for evaluating civic contribution
 ## 🔗 Related Modules  
 - [LORI-CASE-016](../cases/LORI-CASE-016.md) – Case application of flexible civic contribution  
 - [LORI-AIDM](./AIDM.md) – Ensures non-discrimination in monitoring  
-- [LORI-JurySystem](./JurySystem.md) – Human review system for AI-based civic evaluations  
+- [LORI-JurySystem](../modules/LORI-Jury-Based-Judgment.md) – Human review system for AI-based civic evaluations  
