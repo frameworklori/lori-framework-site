@@ -71,7 +71,7 @@ LORI notes that a non-celebrity individual under similar evidentiary conditions 
 ## 4. 🔗 Related Modules
 
 - [LORI-AIDM](../modules/AIDM.md) – Detects narrative suppression & coercion networks
-- [LORI-FEED](../modules/FEED.md) – Flags emotional media buffering around high-profile individuals
+- [LORI-FEED](../modules/FEED_Module.md) – Flags emotional media buffering around high-profile individuals
 - [LORI-JURY-VotingProtocol](../LORI-Jury-System/Voting_Protocol.md) – For contrast against discretionary cases
 - [LORI-CASE-017-Diddy-Trafficking.md](./LORI-CASE-017-Diddy-Trafficking.md)
 ---
