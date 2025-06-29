@@ -89,7 +89,7 @@ Without enhanced AI-augmented ethical judgment, celebrity-led coercion systems m
 - [LORI-JURY-VotingProtocol.md](../LORI-Jury-System/Voting_Protocol.md)
 - [LORI-AIDM](../modules/AIDM.md)
 - [LORI-FEED](../modules/FEED_Module.md)
-- [LORI-CASE-019-Diddy-Firearms-Drugs.md](LORI-CASE-019-Diddy-Firearms-Drugs.md)
+- [LORI-CASE-019-Diddy-Firearms-Drugs.md](LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md)
 ---
 ---
 
