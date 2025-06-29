@@ -1,3 +1,7 @@
+> 📘 Disclaimer: This simulation is based on publicly available legal and media reports.
+> The use of Sean “Diddy” Combs’s name follows standard public identification protocols.
+> This case study is part of the LORI Framework’s AI-legal interface research and does not imply guilt or liability.
+
 ## 1. 🎯 Case Context
 
 **Case Title:** United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)
