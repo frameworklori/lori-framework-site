@@ -69,14 +69,22 @@ Case Input → Multi-Agent Deliberation → Initial AI Votes → Human Judges Re
 
 ---
 
-## 🔍 Application in Existing Cases
+## 🧩 Application of LORI-JURY in Case Simulations
+
+The following LORI cases have directly applied the Jury-Based Judgment framework in full or partial deliberation:
+
+### 🔹 Core Applications
 
 - [LORI-CASE-001: Autonomous Vehicle Liability](../cases/LORI-CASE-001.md)
 - [LORI-CASE-005: ICU Triage Protocol](../cases/LORI-CASE-005.md)
 - [LORI-CASE-007: Semantic Distortion & Idol Influence](../cases/LORI-CASE-007.md)
-- [LORI-CASE-008: Production Module Boundary Review Case](../cases/LORI-CASE-008.md)
+- [LORI-CASE-008: Production Module Boundary Review](../cases/LORI-CASE-008.md)
 
-All LORI Cases to date have applied this Jury-Based Judgment framework in deliberation and decision phases.
+### 🔸 Celebrity-Centric Judicial Stress Tests
+
+- [LORI-CASE-017: Sex Trafficking Verdict Simulation](../LORI-JURY/cases/LORI-CASE-017-Diddy-Trafficking.md)
+- [LORI-CASE-018: Murder Conspiracy Risk Trial](../LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md)
+- [LORI-CASE-019: Firearms & Narcotics Evidence Verdict](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md)
 
 ---
 
