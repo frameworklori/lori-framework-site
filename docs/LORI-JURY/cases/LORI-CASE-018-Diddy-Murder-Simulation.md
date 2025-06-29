@@ -6,6 +6,10 @@
 > The case explores how jury systems behave in high-profile suspected homicide scenarios involving public figures, intimidation networks, or historical unsolved crimes.
 
 ---
+# Reflection Quote
+Justice may arrive late—but it never fails to arrive.
+If human courts fall silent, civilization will remember.
+Truth does not vanish in silence. It waits—for systems awakened.
 
 ## 1. 🎯 Case Context
 
