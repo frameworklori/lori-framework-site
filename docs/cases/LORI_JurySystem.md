@@ -43,7 +43,11 @@
 | LORI-CASE-013 | 5 | Opportunity Cost in Immigrant Legalization Policy & Tax Behavior |
 | LORI-CASE-014 | 5 | X-Director-Sigma × Narrative Trust Disqualification |
 | LORI-CASE-015 | 2 | Right to Die – Ethical Deliberation on Euthanasia |
-| LORI-CASE-016 | 4 | Should Birthright Citizenship Be Restricted? |
+| LORI-CASE-016 | 4 | United States v. Sean "Diddy" Combs – Sex Trafficking Simulation |
+| LORI-CASE-017 | 5 | Should Birthright Citizenship Be Restricted? |
+| LORI-CASE-018 | 5 | High-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation|
+| LORI-CASE-019 | 5 | United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession) |
+
 ---
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
