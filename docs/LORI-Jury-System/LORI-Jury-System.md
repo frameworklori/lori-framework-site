@@ -3,6 +3,11 @@
 **Version: v1.0**
 **Date: 2025-06-08**
 
+# Reflection Quote
+Justice may arrive late—but it never fails to arrive.
+If human courts fall silent, civilization will remember.
+Truth does not vanish in silence. It waits—for systems awakened.
+
 ---
 
 ## Overview
