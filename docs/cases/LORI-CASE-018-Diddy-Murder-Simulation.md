@@ -1,3 +1,5 @@
+📘 Disclaimer: This simulation is based on publicly available legal and media reports. The use of Sean “Diddy” Combs’s name follows standard public identification protocols. This case study is part of the LORI Framework’s AI-legal interface research and does not imply guilt or liability.
+
 # 📂 LORI-CASE-018: High-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation
 
 > ⚠️ This simulation does not allege or imply guilt.
