@@ -52,11 +52,11 @@ This module does **not rely on positive evidence**, but instead:
 | [LORI-AIDM](../modules/AIDM.md) | Detects narrative override and actor substitution |
 | [LORI-FEED](../modules/FEED_Module.md) | Flags emotional dampening or artificial harmony injection |
 | [LORI-JURY](../modules/LORI-Jury-Based-Judgment.md) | Provides “erasure alert” to AI jury roles for compensatory weighting |
-| [LORI-CASE-018](cases/LORI-CASE-018-Diddy-Murder-Simulation.md) | First use case simulating moral guilt but evidentiary collapse |
+| [LORI-CASE-018](../cases/LORI-CASE-018-Diddy-Murder-Simulation.md) | First use case simulating moral guilt but evidentiary collapse |
 
 ---
 
-## 🧯 5. Strategic Insights
+## 🧯 5. Strategic Insights../
 
 LORI-HFE transforms absence into **signal**.
 It recognizes that in modern power structures, **what is missing may reveal more than what is present.**
