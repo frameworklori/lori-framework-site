@@ -1,5 +1,5 @@
 
-## 🕳️ LORI-HFE – Hidden Fact Evaluation Module
+# 📜  LORI-HFE – Hidden Fact Evaluation Module
 
 **Part of the LORI Framework – Civilization Integrity & Truth Loss Detection Layer**
 
