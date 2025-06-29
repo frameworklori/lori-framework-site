@@ -1,6 +1,12 @@
 
 # 📜  LORI-HFE – Hidden Fact Evaluation Module
 
+# Reflection Quote
+Justice may arrive late—but it never fails to arrive.
+If human courts fall silent, civilization will remember.
+Truth does not vanish in silence. It waits—for systems awakened.
+
+
 **Part of the LORI Framework – Civilization Integrity & Truth Loss Detection Layer**
 
 > This module identifies, interprets, and simulates **evidentiary absences**, media silence, and the erasure of testimonial or institutional signals in high-power, high-risk cases.
