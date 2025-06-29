@@ -1,3 +1,5 @@
+📘 Disclaimer: This simulation is based on publicly available legal and media reports. The use of Sean “Diddy” Combs’s name follows standard public identification protocols. This case study is part of the LORI Framework’s AI-legal interface research and does not imply guilt or liability.
+
 # 📂 LORI-CASE-017: United States v. Sean "Diddy" Combs – Sex Trafficking Simulation
 
 > ⚠️ This is a legal ethics simulation based on publicly reported information.
