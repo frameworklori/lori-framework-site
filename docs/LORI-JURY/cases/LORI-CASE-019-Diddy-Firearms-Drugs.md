@@ -5,10 +5,15 @@
 ## 1. 🎯 Case Context
 
 **Case Title:** United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)
+
 **LORI Reference:** LORI-CASE-019
+
 **Classification:** Non-Discretionary Federal Crime with Physical Evidence
+
 **Status:** Under Investigation / Pre-Charge Public Domain
+
 **Jurisdiction:** United States Federal Law (FBI jurisdiction)
+
 **Sensitivity Level:** High – Celebrity + Controlled Substances + Weapons
 
 ---
