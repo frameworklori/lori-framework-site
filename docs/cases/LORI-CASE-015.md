@@ -12,8 +12,8 @@ This case explores the ethical, legal, cultural, and emotional dimensions of eut
 ## 📁 Contents
 
 ### 🧾 Case Files
-- [Post-Verdict Reflection](modules/feedback/Post-Verdict-Reflection.md)
-- [Module Cross Reference](modules/feedback/Module-CrossReference.md)
+- [Post-Verdict Reflection](../modules/feedback/Post-Verdict-Reflection.md)
+- [Module Cross Reference](../modules/feedback/Module-CrossReference.md)
 
 ### 🖼️ Visual Assets
 ---
