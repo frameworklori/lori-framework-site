@@ -1,0 +1,17 @@
+[
+{
+"ethnicity": "Hispanic",
+"category": "Emergency",
+"predicted_costs": 58200000
+},
+{
+"ethnicity": "Hispanic",
+"category": "Education",
+"predicted_costs": 306000000
+},
+{
+"ethnicity": "African American",
+"category": "Emergency",
+"predicted_costs": 62000000
+}
+]
