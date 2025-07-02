@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def plot_price_comparison(drug_name, file_path='public/data/drug_prices.csv'):
-"""繪製特定藥品價格於不同國家之比較圖"""
+
 df = pd.read_csv(file_path)
 if drug_name not in df.columns:
 raise ValueError(f"{drug_name} not found in file.")
