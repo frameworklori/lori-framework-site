@@ -422,7 +422,8 @@ A structural warning on the domino effect caused by AI companies neglecting retr
 - [Bio-Risk Surveillance Module](modules/Bio-Risk_Surveillance.md)
 - [Bio-Risk Sensitivity Tag CASE-012](modules/ODRAF_tags/Bio-Risk_Sensitivity_Tag_CASE-012.md)
 - [LORI CASE Data Model](modules/LORI_CASE_Data_Model.md)
-
+- [MedJustice – Drug Price & Social Cost Module](./public/medjustice/overview.md)  
+  Track drug pricing disparities (e.g., insulin $300 vs $30), predict ER/education costs by ethnicity, and support undocumented populations with generic access + no-login UI.
 
 ---
 
