@@ -90,7 +90,7 @@ This document is part of a simulated framework for semantic risk assessment.
 This flowchart illustrates how language originating from a powerful speaker (e.g. tech leader) transforms through platforms, audience perception, and meme culture to form public sentiment shifts.
 
 <p align="center">
-<img src="../assets//images/semantic_infiltration_flowchart.png" alt="semantic infiltration flowchart" width="550">
+<img src="../assets/images/semantic_infiltration_flowchart.png" alt="semantic infiltration flowchart" width="550">
 </p>
 
 ---
