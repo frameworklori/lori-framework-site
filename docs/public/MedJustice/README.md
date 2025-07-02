@@ -38,7 +38,7 @@ medjustice/
 
 ## 🧠 Analysis
 
-Check [`demo_cost_prediction.ipynb`](./notebooks/demo_cost_prediction.ipynb) for predictive modeling using linear regression.
+Check [`demo_cost_prediction.ipynb`](./notebook/demo_cost_prediction.ipynb) for predictive modeling using linear regression.
 
 ## 🧩 UI Prototype (Flutter)
 
