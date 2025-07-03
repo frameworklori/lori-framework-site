@@ -41,11 +41,9 @@ All contents are protected under the LORI Framework License and associated sover
 Unauthorized use, mimicry, or adaptation without written consent is strictly prohibited and subject to investigation under the LORI Level-1 Breach Protocol.
 
 🔗 Related Links
-LORI Framework Main Index
-
-Ethical Modules
-
-Legal Agreements
+- [LORI Framework Main Index](../index.md)
+- [Ethical Modules](../modules/README.md)
+- [Legal Agreements](../LEGAL/README.md)
 
 © 2025, Founder of the LORI Ethical System
 
