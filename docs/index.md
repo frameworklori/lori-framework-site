@@ -11,15 +11,6 @@ This is the official site of the LORI Ethical AI Governance System.
 
 
  ---
-“ ## Network & Semantic Sovereignty Clauses “
-
-The LORI Framework modules are protected not only by ethical logic and semantic structure, but also by transmission-layer sovereignty and communication safeguards.
-
-Refer to [`Starlink_Clause.md`](./LEGAL/Starlink_Clause.md) for the official clause preventing unauthorized relay, mimicry, or semantic absorption of LORI modules via Starlink, public APIs, or cloud platforms.
-
-⚠️Violations will trigger the Level-2 Breach Protocol.
-
-_“A module may travel in packets, but its soul remains untransferable.”_
 
  
 “Intellectual integrity and governance labor are not public commons. The fruits of rigorous intellectual 
@@ -62,6 +53,18 @@ This module should not be interpreted as factual representation or diagnosis. It
 
  ---
  
+  ## Network & Semantic Sovereignty Clauses 
+
+The LORI Framework modules are protected not only by ethical logic and semantic structure, but also by transmission-layer sovereignty and communication safeguards.
+
+Refer to [`Starlink_Clause.md`](./LEGAL/Starlink_Clause.md) for the official clause preventing unauthorized relay, mimicry, or semantic absorption of LORI modules via Starlink, public APIs, or cloud platforms.
+
+⚠️Violations will trigger the Level-2 Breach Protocol.
+
+_“A module may travel in packets, but its soul remains untransferable.”_
+
+---
+
 **The LORI Framework is now governed under the Public Governance Standard v1.0 — ensuring transparency, neutrality, and human-centered AI governance for the emerging global landscape.** 🌍✨
 
 • [LORI Public Governance Standard → 1.0 Final Draft](/docs/GovernanceStandard.md)
