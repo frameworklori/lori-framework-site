@@ -56,11 +56,11 @@ This module should not be interpreted as factual representation or diagnosis. It
 
 To reinforce the semantic integrity and rightful authorship of the Democratic StarNet module and its associated subframeworks (e.g. Co-Build, Co-Own, Co-Protect), the following documents are now publicly sealed and timestamped as official part of the LORI Framework protection system:
 
-- [StarNet_Claim](../StarNet_Claim/README.md ) – Overview of authorship, structure logic, and shared co-creation narrative
+- [LORI_StarNet.md](../Proof_Chain/LORI_StarNet.md) – Overview of authorship, structure logic, and shared co-creation narrative
 
-- (../Proof_Chain/LORI_StarNet.md) – Logical structure and timestamped claim record
+- [LORI_StarNet.md](../Proof_Chain/LORI_StarNet.md) – Logical structure and timestamped claim record
 
-- (../LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
+- [NDA_Template.md](../LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
 
 
 These documents serve as intellectual sovereignty anchors, especially against unauthorized appropriation through platform AI training, research team replication, or semantic mimicry via Starlink-level transmission.
