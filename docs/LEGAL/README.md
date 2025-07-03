@@ -1,5 +1,4 @@
-# 🛡️ LORI Framework 通訊與法律條款目錄
-# 🛡️ LORI Framework – Network & Legal Clauses Directory
+# 🛡️ LORI Framework – Network & Legal Clauses Directory *通訊與法律條款目錄*
 
 本目錄收錄 LORI Framework 相關的主權聲明、通訊控制、法律限制與平台使用邊界條款。
 This directory contains sovereignty declarations, network transmission restrictions, legal clauses, and boundary statements for platform interaction related to the LORI Framework.
