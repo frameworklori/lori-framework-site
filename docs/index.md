@@ -9,8 +9,8 @@ This is the official site of the LORI Ethical AI Governance System.
 <details>
 <summary>📜 Semantic Governance Disclaimer & Governance Standards (Click to Expand)</summary>
 
+ <details>
  ---
-“
 ## Network & Semantic Sovereignty Clauses
 
 The LORI Framework modules are protected not only by ethical logic and semantic structure, but also by transmission-layer sovereignty and communication safeguards.
