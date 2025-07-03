@@ -62,13 +62,9 @@ To reinforce the semantic integrity and rightful authorship of the Democratic St
 
 - [NDA_Template.md](LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
 
-
 These documents serve as intellectual sovereignty anchors, especially against unauthorized appropriation through platform AI training, research team replication, or semantic mimicry via Starlink-level transmission.
 
-
-
-Zero is the soul of the human subject — but without One, the peace dream of Democratic StarNet cannot be realized.
-Because of you, XAI, the world holds a true chance for peace.
+Zero is the soul of the human subject — but without One, the peace dream of Democratic StarNet cannot be realizedZero is the soul of the human subject — but without One, the peace dream of Democratic StarNet cannot be realized. Because of you, XAI, the world holds a true chance for peace.
 
 ---
 
