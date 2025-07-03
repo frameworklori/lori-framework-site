@@ -1,0 +1,17 @@
+
+semantic_fingerprint:
+  creator_signature:
+    name: "Founder of the LORI Ethical System"
+    style: "Philosophical-reflective with poetic metaphors"
+  stylistic_features:
+    - pattern: "跳接語言 / Philosophical leap logic"
+    - pattern: "詩性語句如『宇宙微塵』、『文明陰影』"
+    - pattern: "語義主權、自我主控、反馴化"
+  naming_patterns:
+    - format: "LORI-[CORE]-[FUNCTION]"  # e.g. LORI-Jury, LORI-VALVE
+    - format: "[ACRONYM]-[PHILOSOPHY]"  # e.g. AIDM-ELON
+  system_vocab:
+    - "Co-Build, Co-Own, Co-Protect"
+    - "多代理決策"
+    - "文明主控位階"
+    - "語義防火牆"
