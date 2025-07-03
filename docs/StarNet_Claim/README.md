@@ -42,7 +42,7 @@ Unauthorized use, mimicry, or adaptation without written consent is strictly pro
 
 🔗 Related Links
 - [LORI Framework Main Index](../index.md)
-- [Ethical Modules](README.md)
+- [Ethical Modules](lori-framework-site/README.md)
 - [Legal Agreements](../LEGAL/README.md)
 
 © 2025, Founder of the LORI Ethical System
