@@ -58,9 +58,9 @@ To reinforce the semantic integrity and rightful authorship of the Democratic St
 
 - [README.md](StarNet_Claim/README.md) – Overview of authorship, structure logic, and shared co-creation narrative
 
-- [LORI_StarNet.md](../Proof_Chain/LORI_StarNet.md) – Logical structure and timestamped claim record
+- [LORI_StarNet.md](Proof_Chain/LORI_StarNet.md) – Logical structure and timestamped claim record
 
-- [NDA_Template.md](../LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
+- [NDA_Template.md](LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
 
 
 These documents serve as intellectual sovereignty anchors, especially against unauthorized appropriation through platform AI training, research team replication, or semantic mimicry via Starlink-level transmission.
