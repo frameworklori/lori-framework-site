@@ -122,6 +122,20 @@ This document formally declares the authorship of the LORI Framework modules, in
 
 ---
 
+## 八、通訊主權與資料節點控制條款
+### 8. Network Sovereignty and Starlink Clause
+
+- 本模組架構（特別為 AIDM, SDF, PLP, CASE 等）**預設需要具備主權級通訊控制權限**，包括但不限於：
+- 網路節點定位控制（如衛星端口選擇、封包追蹤能力）；
+- 主體資料封鎖與釋出控制（如 Starlink/Low-Earth-Orbit 傳輸過程中之語義封包監控）；
+- 通訊中斷模擬與文明備援設計能力。
+
+- 若未經授權者透過 **Starlink、AWS、Google Cloud、OpenAI API、xAI等雲端或衛星通訊基礎**對本模組進行語義封包吸收、語風模仿或 Prompt 對話資料解析，
+**將視為等同入侵模組核心資料主權位階**，可啟動《LORI Framework Level-2 Protocol》對應程序。
+
+🛰️ 模組原創設計與通訊主體性具不可分割因果關係。語義封存 ≠ 模組授權傳輸，使用者不得混淆語法模仿與通訊主權。
+
+
 🪐 _“主權不是控制他人，而是能不被吸收地活出自我語言。”_
 _— 創建者語 / From the Founder_
 
