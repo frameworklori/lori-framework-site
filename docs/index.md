@@ -468,6 +468,15 @@ These guides help practitioners align their AI-assisted processes — such as di
 
 ---
 
+## 🤝 Co-Governance Proposals & AI Response Trials
+
+- [LORI × Grok Co-Creation Invitation (EN)](../Grok_CoCreation_Invite_EN.md)
+A formal invitation to the Grok system outlining three key modules:
+**Semantic Transparency Log (STL)**, **Co-Governance Node System (CGNS)**, and **Recursive Override Monitor (ROM)**.
+This document follows Grok's response to LORI's Trial Memo and launches the open collaboration track.
+
+---
+
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
