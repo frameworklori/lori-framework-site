@@ -54,7 +54,7 @@ We record all verifiable responses, implementation milestones, and public intera
 ## 🗂️ Reference Links
 
 - [🧾 Grok × LORI Co-Creation Invitation](Grok_CoCreation_Invite.md)
-- [📄 Civilizational Trial Memo (original prompt)](./Trial_Memo_BuildersOfCivilization.md) ← *[to be created if needed]*
+- [📄 Civilizational Trial Memo (original prompt)](Trial_Memo_BuildersOfCivilization.md) 
 
 ---
 
