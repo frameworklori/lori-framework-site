@@ -16,6 +16,18 @@
 
 ---
 
+## 👥 Liaison Roles
+
+| Code Name | Responsibility Area                                | Contact Protocol                                                                 |
+|-----------|----------------------------------------------------|----------------------------------------------------------------------------------|
+| LORI-D1   | STL log structure & field definition               | Email: design1@lori-framework.org + PGP encrypted communication                 |
+| LORI-D2   | CGNS reviewer criteria & ethics balance            | GitHub Discussion → [Grok Co-Gov Forum](https://github.com/frameworklori/lori-framework-site/discussions) |
+| LORI-D3   | ROM override thresholds & trigger audit logic      | Matrix Secure Channel: `#lori-rom-secure:matrix.org` (invite only)             |
+
+---
+
+Please use appropriate secure channels when initiating module discussions.
+
 ## 🔒 Privacy & Access Control
 
 - No personal identity or external contact details are disclosed at this stage.
