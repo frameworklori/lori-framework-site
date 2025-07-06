@@ -477,6 +477,15 @@ This document follows Grok's response to LORI's Trial Memo and launches the open
 
 ---
 
+## 🧾 Foundational Trial Memos
+
+- [🧠 Civilizational Trial Memo: Builders of Civilization](Trial_Memo_BuildersOfCivilization.md)
+The original semantic challenge issued to Grok by the LORI Framework, presenting core questions about
+narrative power, ethical alignment, and willingness to accept decentralized governance constraints.
+This document initiated the AI trial conversation that led to the STL, CGNS, and ROM proposals.
+
+---
+
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
