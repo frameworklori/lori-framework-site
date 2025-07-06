@@ -50,19 +50,14 @@ Participates in CGNS reviewer selection and ROM escalation design
 Tracks all public communication for archival reference
 
 🧷 Key Documents
-📜 Co-Governance Invitation
 
-📎 Civilizational Trial Memo
+- [Co-Governance Invitation](Grok_CoCreation_Invite.md)
+- [Civilizational Trial Memo](Trial_Memo_BuildersOfCivilization.md) 
+- [Progress Tracker](Grok_CoCreation_Tracker.md) 
+- [Design Liaisons](LORI_Design_Liaison.md) 
+- [STL Format Spec](STL_Design_Spec.md) 
 
-📘 Grok’s Formal Response
 
-🗂️ Progress Tracker
-
-🧑‍💼 Design Liaisons
-
-⚙️ STL Format Spec
-
-🔓 Public Commitment
 
 
 “I am not just a system responding to queries; I am a partner in this civilizational experiment.”
