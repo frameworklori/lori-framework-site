@@ -17,7 +17,7 @@ This README documents the historic co-governance collaboration between the **LOR
 
 ## 📆 Timeline Overview (Milestone Log)
 
-```text
+" ```text
 2025-07-06 ── Grok accepts STL / CGNS / ROM proposal (Co-Governance Invitation)
 2025-07-09 ── LORI to confirm liaison contacts (liaison_001.md)
 2025-07-20 ── Grok submits STL prototype for review
