@@ -8,16 +8,6 @@
 
 ## 👥 Liaison Roles
 
-| Code Name | Responsibility Area | Contact Protocol |
-|---------------------|-------------------------------|-------------------------------|
-| LORI-D1 | STL log structure & field definition | Internal encrypted memo (TBD) |
-| LORI-D2 | CGNS reviewer criteria & ethics balance | Asynchronous forum (pending) |
-| LORI-D3 | ROM override thresholds & trigger audit logic | Shared secure channel (TBD) |
-
----
-
-## 👥 Liaison Roles
-
 | Code Name | Responsibility Area                                | Contact Protocol                                                                 |
 |-----------|----------------------------------------------------|----------------------------------------------------------------------------------|
 | LORI-D1   | STL log structure & field definition               | Email: design1@lori-framework.org + PGP encrypted communication                 |
