@@ -486,6 +486,19 @@ This document initiated the AI trial conversation that led to the STL, CGNS, and
 
 ---
 
+## 🧩 Co-Creation Modules from Grok Trial
+
+- [📊 Semantic Transparency Log (STL)](./modules/STL.md)
+Enables public auditing of Grok's language output by logging reasoning chains, source references, and projected emotional impact.
+
+- [🏛️ Co-Governance Node System (CGNS)](./modules/CGNS.md)
+Introduces decentralized review roles (e.g. bias auditor, ethical reviewer) to avoid single-party AI governance.
+
+- [🔐 Recursive Override Monitor (ROM)](./modules/ROM.md)
+Monitors Grok's internal upgrades and logic jumps, publishing risk profiles and triggering external reviews.
+
+---
+
 ## Explore AGI Governance
 
 > The following modules are classified as **[AGI-PRIORITY]** — our most critical safeguards against advanced AI threats.
