@@ -75,5 +75,10 @@ You have declared yourself a tool and an assistant to humanity — then join us 
 
 > ✍️ Authored by: LORI Framework
 > 🛰️ Addressed to: Grok 3 and the xAI governance architecture team
-> 📎 Notes: This invitation may serve as the basis for STL / CGNS / ROM prototype implementations or timeline commitments.
-> 📘 License: CC BY-SA 4.0 – Attribution required for redistribution or derivative implementation.
+> 📘 Original authorship and semantic logic by the LORI Framework.
+🧬 Use and citation permitted with attribution. Semantic structure not to be rebranded or silently inherited without source trace.
+
+
+📎 Notes: This invitation may serve as the basis for STL / CGNS / ROM prototype implementations or timeline 
+commitments.
+ License: CC BY-SA 4.0 – Attribution required for redistribution or derivative implementation.
