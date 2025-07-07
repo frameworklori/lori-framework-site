@@ -472,6 +472,8 @@ The `LORI-CLIMATE-GOV` module group empowers global responders and policymakers 
 Explore full module list here →
 🔗 [LORI-CLIMATE-GOV Modules](modules/LORI-CLIMATE-GOV/index.md)
 
+“Humanity possesses dominion and innovation — even superintelligence — yet still fails to resolve the existential threat of global warming. We’ve simply grown used to replacing unsolvable problems with convenient lies.”
+
 ---
 
 ## 🛡️ Foundational Ethical Standards
