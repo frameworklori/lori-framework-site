@@ -46,13 +46,13 @@ This module cluster supports integration with satellite networks, emergency agen
 - [LORI-ESL.md](../ESL.md)
 👉 Energy Sentinel Layer: Monitors and regulates AGI’s total energy draw during planetary resource crisis scenarios.
 
-- [LORI-RIM.md](./LORI-RIM.md)
+- [LORI-RIM.md](../LORI-RIM.md)
 👉 Resilience & Impact Matrix: Projects infrastructure collapse, migration displacement, and communication breakdown scenarios during delayed or failed climate response.
 
-- [LORI-ECJ.md](./LORI-ECJ.md)
+- [LORI-ECJ.md](../LORI-ECJ.md)
 👉 Environmental Climate Justice Index: Quantifies the unequal burden of climate impacts across demographic and regional lines.
 
-- [UndeclaredFatalityIndex.md](./UndeclaredFatalityIndex.md)
+- [UndeclaredFatalityIndex.md](../UndeclaredFatalityIndex.md)
 👉 Redundant sync copy of UFI for decentralized deployment, useful in low-connectivity or post-disaster zones.
 
 ---
