@@ -19,7 +19,8 @@ This module cluster supports integration with satellite networks, emergency agen
 - [CBL-IntegrationAPI.md](./CBL-IntegrationAPI.md)
 👉 API spec for secure, traceable integration between the CarbonSpendLedger and external fire detection, emission, or carbon pricing systems.
 
-- [`LORI-COSM`](./LORI-COSM.md) – Consequence Simulation Engine
+- [`LORI-COSM`](./LORI-COSM.md) –
+ 👉Consequence Simulation Engine is a dynamic forecasting and stress-testing module within the LORI Climate Governance suite.
   
 
 **Base Endpoint:** `https://api.lori-framework.org/v1/cbl/`
