@@ -94,7 +94,14 @@ Its sole goal: to slow ecological entropy until a turning point — or a new int
 
 ## 🔗 Related Modules
 
-- [`LORI-ECJ`](./LORI-ECJ.md) – Environmental Climate Justice Index
-- [`UFI`](./UndeclaredFatalityIndex.md) – Undeclared Fatality Tracker
-- [`ESL`](./LORI-ESL.md) – Energy Sentinel Layer
-- [`RIM`](./LORI-RIM.md) – Resilience & Impact Matrix
+- [`LORI-ECJ`](./LORI-ECJ.md) – **Environmental Climate Justice Index**
+Tracks structural environmental injustices by identifying which populations suffer the most from climate change despite contributing the least. Measures exposure inequality, aid disparities, and ecological vulnerability.
+
+- [`UFI`](./UndeclaredFatalityIndex.md) – **Undeclared Fatality Tracker**
+Detects climate-related deaths that are underreported or concealed by states. Uses satellite data, humanitarian records, and population anomalies to reveal hidden mortality zones.
+
+- [`ESL`](./LORI-ESL.md) – **Energy Sentinel Layer**
+Monitors AI, data centers, and industrial energy use to prevent climate feedback loops caused by uncontrolled energy consumption. Enforces power thresholds and sustainability caps in critical systems.
+
+- [`RIM`](./LORI-RIM.md) – **Resilience & Impact Matrix**
+Assesses how long a civilization can survive under varying degrees of ecological stress. Simulates collapse curves and recovery paths based on intervention strategies, technological buffers, and social cohesion.
