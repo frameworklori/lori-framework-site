@@ -58,8 +58,8 @@ Public-facing dashboard for querying:
 
 ## 📎 Related Modules
 
-- [`LORI-ECJ`](LORI-ECJ.md) – Environmental Climate Justice Index
-- [`UFI`](./UndeclaredFatalityIndex.md) – Undeclared Fatality Tracker
+- [`LORI-ECJ`](../../LORI-ECJ.md) – Environmental Climate Justice Index
+- [`UFI`](../UndeclaredFatalityIndex.md) – Undeclared Fatality Tracker
 - [`ESL`](./LORI-ESL.md) – Energy Sentinel Layer
 - [`RIM`](./LORI-RIM/RIM-VULNERABILITY-TIER.md) – Resilience & Impact Matrix
 
