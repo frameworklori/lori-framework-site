@@ -70,5 +70,6 @@ Linked Modules:
 
 ## 📜 Philosophical Anchor
 
-> “You cannot save a civilization by forgetting who it lets die first.”
+>" When faced with the extinction of other species, humanity often chooses intervention.
+But when facing the possibility of its own extinction, humanity does not unite — it turns to conflict.”
 > – LORI Ethical Statement #212
