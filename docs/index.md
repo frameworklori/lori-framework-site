@@ -461,6 +461,19 @@ These guides help practitioners align their AI-assisted processes — such as di
 
 ---
 
+## 9 Climate Governance & Disaster Ethics
+
+The `LORI-CLIMATE-GOV` module group empowers global responders and policymakers with tools to:
+- Predict wildfire, flood, quake, and sea level risks;
+- Log carbon events in an immutable public ledger;
+- Trigger response actions via satellite-linked protocols;
+- Uphold climate justice, ethics, and accountability.
+
+Explore full module list here →
+🔗 [LORI-CLIMATE-GOV Modules](modules/LORI-CLIMATE-GOV/index.md)
+
+---
+
 ## 🛡️ Foundational Ethical Standards
 
 - [LORI-NBSM (Negative Behavior Standard Module)](https://github.com/frameworklori/LORI-NBSM) — Language-behavior governance & education-first principle
