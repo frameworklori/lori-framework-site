@@ -43,7 +43,7 @@ This module cluster supports integration with satellite networks, emergency agen
 - [StarlinkClimateProtocol.md](./StarlinkClimateProtocol.md)
 👉 Specifies detection and alert pipelines using the Starlink LEO satellite network for wildfire, thermal anomaly, wind direction, and cross-border notification systems.
 
-- [LORI-ESL.md](./modules/ESL.md)
+- [LORI-ESL.md](../ESL.md)
 👉 Energy Sentinel Layer: Monitors and regulates AGI’s total energy draw during planetary resource crisis scenarios.
 
 - [LORI-RIM.md](./LORI-RIM.md)
