@@ -34,7 +34,7 @@ To visually represent global regions' stratified mortality risks in the face of 
 
 ## 🧩 Linked Modules
 
-- [LORI-RIM.md](../modules/LORI-RIM.md)
+- [LORI-RIM.md](../LORI-RIM.md)
 - [RIM-VULNERABILITY-TIER.md](RIM-VULNERABILITY-TIER.md)
 - [UndeclaredFatalityIndex.md](../../LORI-CLIMATE-GOV/UndeclaredFatalityIndex.md)
 
