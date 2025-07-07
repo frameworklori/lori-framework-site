@@ -72,4 +72,4 @@ Linked Modules:
 
 >" When faced with the extinction of other species, humanity often chooses intervention.
 But when facing the possibility of its own extinction, humanity does not unite — it turns to conflict.”
-> – LORI Ethical Statement #212
+>                                                                         – LORI Ethical Statement #212
