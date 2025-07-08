@@ -1,4 +1,4 @@
-# LORI-CASE-017: Agriculture vs. Construction — Climate Resource Allocation During Heatwave
+# LORI-CASE-020: Agriculture vs. Construction — Climate Resource Allocation During Heatwave
 
 **Case ID**: LORI-CASE-020  
 **Filed Under**: LORI Jury-Based Judgment System  
