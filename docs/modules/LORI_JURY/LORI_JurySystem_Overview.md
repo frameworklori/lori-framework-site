@@ -11,7 +11,7 @@ Describes the modular architecture of the jury system, role interactions, and st
 ---
 
 ## 🧠 AI Member Roles
-**File:** [`AI_Member_Roles.md`](../LORI-Jury-System/AI_Member_Roles.md)  
+**File:** [`AI_Member_Roles.md`](../LORI-Jury-System/AI_Member_Roles.md)   
 Explains the functions of each AI jury member, including:
 - 🧾 Fact Finder
 - ⚖️ Legal Analyst
