@@ -29,3 +29,19 @@ This index lists all finalized cases handled under the LORI Jury-Based Judgment 
 
 ---
 
+## 🔗 Module Reference
+
+- [ECJ – Environmental Climate Justice Index](/docs/modules/ClimateGov/ClimateEthicsIndex.md)
+- [RIM – Resilience & Impact Matrix](/docs/modules/ClimateGov/RIM.md)
+- [EDRI-H – Emotional Dependency Risk Index for High-impact Users](/docs/modules/LORI-AIFS/EDRI-H.md)
+- [ClimateAlliance – AI × High-Sensitivity Industry Alliance](/docs/modules/ClimateAlliance/AI_HighSensitivity_Industry_Manifesto.md)
+- [Jury System Overview](/docs/modules/LORI-JURY/README.md)
+
+---
+
+## 📌 Notes
+
+- More cases are being prepared under topics like data manipulation, political AI bias, and AGI sovereignty.
+- Case Index is updated with each verdict announcement.
+
+> Last updated: 2025-07-08
