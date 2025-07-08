@@ -5,7 +5,7 @@ This document provides an integrated overview of the LORI Jury System, including
 ---
 
 ## 📘 System Structure Overview
-**File:** [`LORI-Jury_Structure.md`](LORI-Jury_Structure.md)  
+**File:** [`LORI-Jury_Structure.md`](LORI_JurySystem_Overview.md)  
 Describes the modular architecture of the jury system, role interactions, and structural dependencies between AI agents and human judges.
 
 ---
