@@ -1,4 +1,5 @@
-# 📚 Explore Case Studies
+# 📚 Explore Case Studies (as of 2025-07-09)
+
 
 Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
 
