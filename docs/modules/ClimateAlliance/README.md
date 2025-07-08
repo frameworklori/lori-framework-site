@@ -33,8 +33,11 @@ Proposes legal and policy tools for climate-adaptive labor protection, including
 ### 6. [ClimateWorkforce_ScenarioSim.md](ClimateWorkforce_ScenarioSim.md)  
 Presents technical examples and simulation cases for AI-driven irrigation, construction scheduling, and fishing route planning under climate stress conditions.
 
-### 7.  [LORI-CASE-020](../../cases/LORI-CASE-020.md) 
-LORI Jury System, Agriculture vs. Construction — Climate Resource Allocation During Heatwave|
+### 7. [LORI-CASE-020](../../cases/LORI-CASE-020.md)
+LORI Jury System case on Agriculture vs. Construction – Climate Resource Allocation During Heatwave.
+
+### 8. [VerdictLog_ClimateJustice.md](../../logs/VerdictLog_ClimateJustice.md)
+Summarizes jury-based climate justice rulings, including CASE-020 (Agriculture vs. Construction – Heatwave Resource Allocation).
 
 ---
 
@@ -47,6 +50,14 @@ This module connects to the following:
 - **LORI Jury System** for governance validation and worker-centric decisions
 
 ---
+
+### 📣 Public Announcement and Indicator Sources
+
+- 📄 [Verdict Announcement: CASE-020](../public/Verdict_Announcement_CASE020.md)  
+  Public-facing decision brief for agriculture vs. construction under heatwave scenarios.
+
+- 📊 [Indicator Source Record](../records/CASE020_Indicators_Source.md)  
+  Source datasets and metrics used in LORI Jury deliberation, CWAS analysis, and GHLI computation.
 
 ## ⚖️ License
 
