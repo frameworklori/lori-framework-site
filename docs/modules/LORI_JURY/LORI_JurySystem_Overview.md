@@ -40,7 +40,7 @@ Details the ethical guidelines and democratic values embedded in the LORI jury p
 ---
 
 ## 📈 Upgrade History
-**File:**[`Jury_Process_Principles.md`](../../LORI-JurySystem_v2.0_UpgradePlan.md)
+**File:**(../cases/LORI-JurySystem_v2.0_UpgradePlan.md)
 Tracks key improvements across versions, including modular additions, role expansions, and interface optimization.
 
 ---
