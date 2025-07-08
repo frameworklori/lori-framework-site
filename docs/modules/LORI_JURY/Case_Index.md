@@ -6,7 +6,7 @@ This index lists all finalized cases handled under the LORI Jury-Based Judgment 
 
 | Case ID | Title | Status |
 |-----------------|---------------------------------------------------------------------------------------------|--------|
-| [LORI-CASE-001](../cases/LORI-CASE-001.md) | Autonomous Vehicle Safety Governance & Liability | ✅ |
+| [LORI-CASE-001](../../cases/LORI-CASE-001.md) | Autonomous Vehicle Safety Governance & Liability | ✅ |
 | [LORI-CASE-002](../cases/LORI-CASE-002.md) | AI Surveillance Ethics Dispute | ✅ |
 | [LORI-CASE-003](../cases/LORI-CASE-003.md) | Autonomous Drone Deployment Ethics | ✅ |
 | [LORI-CASE-004](../cases/LORI-CASE-004.md) | Tech Firm Data Collection vs Personal Autonomy | ✅ |
