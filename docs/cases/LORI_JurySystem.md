@@ -21,6 +21,7 @@
 | [LORI-CASE-017](../LORI-JURY/cases/LORI-CASE-017-Diddy-Trafficking.md) | United States v. Sean "Diddy" Combs – Sex Trafficking Simulation| 🚧|
 | [LORI-CASE-018](../LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) | SHigh-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation| 🚧|
 | [LORI-CASE-019](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) |United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)| 🚧|
+| [LORI-CASE-020](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md)|Agriculture vs. Construction — Climate Resource Allocation During Heatwave| 🚧|
 
 ---
 
@@ -47,6 +48,7 @@
 | LORI-CASE-017 | 5 | United States v. Sean "Diddy" Combs – Sex Trafficking Simulation |
 | LORI-CASE-018 | 5 | High-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation|
 | LORI-CASE-019 | 5 | United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession) |
+| LORI-CASE-020 | 3 | Agriculture vs. Construction — Climate Resource Allocation During Heatwave |
 
 ---
 
