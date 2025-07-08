@@ -31,7 +31,7 @@ This index lists all finalized cases handled under the LORI Jury-Based Judgment 
 
 ## 🔗 Module Reference
 
-- [ECJ – Environmental Climate Justice Index](../modules/LORI-ECJ.md)
+- [ECJ – Environmental Climate Justice Index](modules/LORI-ECJ.md)
 - [RIM – Resilience & Impact Matrix](../modules/LORI-RIM.md)
 - [EDRI-H – Emotional Dependency Risk Index for High-impact Users](../modules/EDRI-H.md)
 - [ClimateAlliance – AI × High-Sensitivity Industry Alliance](../modules/ClimateAlliance/AI_HighSensitivity_Industry_Manifesto.md)
