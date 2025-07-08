@@ -87,7 +87,7 @@ The LORI Jury determines that climate-linked micro-insurance and emergency suppo
 - [ClimateAlliance](../modules/ClimateAlliance/README.md)
 - [GHLI_Specification](../modules/ClimateAlliance/GHLI_Specification.md)
 - [CWAS_Integration_Tracker](../modules/ClimateAlliance/CWAS_Integration_Tracker.md)
-- [JurySystem Overview](../systems/JurySystem.md)
+- [JurySystem Overview](../cases/LORI_JurySystem.md)
 
 ---
 
