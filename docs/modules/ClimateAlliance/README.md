@@ -33,7 +33,7 @@ Proposes legal and policy tools for climate-adaptive labor protection, including
 ### 6. [ClimateWorkforce_ScenarioSim.md](ClimateWorkforce_ScenarioSim.md)  
 Presents technical examples and simulation cases for AI-driven irrigation, construction scheduling, and fishing route planning under climate stress conditions.
 
-### 7.  [LORI-CASE-020](../cases/LORI-CASE-020.md) 
+### 7.  [LORI-CASE-020](../../cases/LORI-CASE-020.md) 
 LORI Jury System, Agriculture vs. Construction — Climate Resource Allocation During Heatwave|
 
 ---
