@@ -124,12 +124,15 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 -  [LORI-CASE-014](cases/LORI-CASE-014.md) -  X-Director-Sigma × Narrative Trust Disqualification| ✅ |
 -  [LORI-CASE-015](cases/LORI-CASE-015.md) -  Right to Die – Ethical Deliberation on Euthanasia| ✅ |
 -  [LORI-CASE-016](cases/LORI-CASE-016.md) -  Should Birthright Citizenship Be Restricted?| ✅ |
-
+----
 > _Justice may arrive late—but it never fails to arrive._
 > _If courts fall silent, civilization will remember._
 -  [LORI-CASE-017](./LORI-JURY/cases/LORI-CASE-017-Diddy-Trafficking.md) – Sex Trafficking Verdict Simulation 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-018](./LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) – Murder Conspiracy Risk Trial 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-019](./LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) – Firearms & Narcotics Evidence Verdict 🚧*(Celebrity × Jury Simulation Series)*
+----
+-  [LORI-CASE-020](cases/LORI-CASE-020.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
+
 
 ---
 
