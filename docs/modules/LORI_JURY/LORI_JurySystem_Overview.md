@@ -22,25 +22,25 @@ Explains the functions of each AI jury member, including:
 ---
 
 ## 🗳️ Voting Protocol
-**File:** [`Voting_Protocol.md`](../LORI-Jury-System/Voting_Protocol.md)  
+**File:** [`Voting_Protocol.md`](../../LORI-Jury-System/Voting_Protocol.md)  
 Outlines the voting mechanism used in each case, majority rules, tie-break mechanisms, and human sovereignty fallback protocols.
 
 ---
 
 ## 🧩 Deliberation Flow
-**File:** [`Deliberation_Flow.md`](../LORI-Jury-System/Deliberation_Flow.md)  
+**File:** [`Deliberation_Flow.md`](../../LORI-Jury-System/Deliberation_Flow.md)
 Visual and textual explanation of the deliberation process, including objection handling, cross-role challenges, and decision timing.
 
 ---
 
 ## ⚖️ Process Principles
-**File:** [`Jury_Process_Principles.md`](../LORI-Jury-System/Jury_Process_Principles.md)  
+**File:** [`Jury_Process_Principles.md`](../../LORI-Jury-System/Jury_Process_Principles.md) 
 Details the ethical guidelines and democratic values embedded in the LORI jury process. Includes justice balancing, transparency, and precedent reflection logic.
 
 ---
 
 ## 📈 Upgrade History
-**File:** [`LORI-JurySystem_v2.0_UpgradePlan.md`](../cases/LORI-JurySystem_v2.0_UpgradePlan.md)  
+**File:**[`Jury_Process_Principles.md`](../../LORI-JurySystem_v2.0_UpgradePlan.md)
 Tracks key improvements across versions, including modular additions, role expansions, and interface optimization.
 
 ---
