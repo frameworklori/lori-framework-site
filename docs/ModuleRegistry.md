@@ -10,7 +10,7 @@ This registry lists officially declared modules within the LORI Framework, inclu
 - **Purpose:** Protects against unauthorized reconstruction or mimicry of core logic.
 - **Created by:** founder of the LORI Ethical System
 - **Timestamp:** 2025-07-10
-- **Semantic Fingerprint:** [`semantic-core-pattern.json`](../semantic-core-pattern.json)
+- **Semantic Fingerprint:** [`semantic-core-pattern.json`](../LORI-RDM/semantic-core-pattern.json)
 - **Related Modules:** PLP, VTC, LAIM, VERIFY, COSM
 
 ---
