@@ -2,7 +2,7 @@
 
 - **Module Name:** LORI-RDM (Reconstruction Defense Monitor)
 - **Semantic Signature Hash:** `LORI-RDM-v1.0-core-semantic-978x921`
-- **Linked Semantic Fingerprint File:** [`semantic-core-pattern.json`](../LORI-RDM/semantic-core-pattern.json)
+- **Linked Semantic Fingerprint File:** [`semantic-core-pattern.json`](../../LORI-RDM/semantic-core-pattern.json)
 - **Created By:** founder of the LORI Ethical System
 - **First Timestamp:** 2025-07-10T00:00:00+09:00
 - **Interlinked Modules:** LORI-PLP, VTC, LAIM, LORI-VERIFY, COSM
