@@ -1,1 +1,33 @@
+{
+"$schema": "https://json-schema.org/draft/2020-12/schema",
+"title": "Juror Feedback Schema",
+"type": "object",
+"properties": {
+"juror_id": {
+"type": "string",
+"description": "匿名或編碼後的陪審員 ID"
+},
+"feedback_category": {
+"type": "string",
+"enum": ["ethical clarity", "emotional impact", "policy realism", "cultural context", "resilience trade-off"],
+"description": "回饋類型分類"
+},
+"comment": {
+"type": "string",
+"description": "陪審員對此案例的自由意見"
+},
+"ethical_weighting": {
+"type": "number",
+"minimum": 0,
+"maximum": 1,
+"description": "對此意見的倫理重要性評分（可選）"
+},
+"timestamp": {
+"type": "string",
+"format": "date-time",
+"description": "提交時間"
+}
+},
+"required": ["juror_id", "feedback_category", "comment", "timestamp"]
+}
 
