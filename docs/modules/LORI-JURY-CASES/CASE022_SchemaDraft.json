@@ -1,44 +1,31 @@
 {
-"$schema": "https://json-schema.org/draft/2020-12/schema",
-"title": "CASE-022 Juror Feedback Schema",
-"type": "object",
-"properties": {
+"juror_feedback_entry": {
 "juror_id": {
 "type": "string",
-"description": "Anonymized or hashed juror ID"
-},
-"region": {
-"type": "string",
-"enum": ["Southern US", "Mongolia"],
-"description": "Feedback region classification"
+"description": "Unique ID of the juror providing the feedback"
 },
 "feedback_category": {
 "type": "string",
-"enum": [
-"water equity",
-"cooling infrastructure",
-"energy partnership",
-"cultural preservation",
-"infrastructure feasibility",
-"climate volatility"
-],
-"description": "CASE-022-specific classification"
+"description": "Category of feedback (e.g., resilience trade-off, ethical clarity, policy realism)"
 },
 "comment": {
 "type": "string",
-"description": "Free-form juror feedback"
+"description": "Juror's comment on the policy, region, or scenario"
 },
 "ethical_weighting": {
 "type": "number",
 "minimum": 0,
 "maximum": 1,
-"description": "Optional ethical importance score"
+"description": "Weight indicating ethical significance or clarity (0–1 scale)"
 },
 "timestamp": {
 "type": "string",
 "format": "date-time",
-"description": "Submission timestamp"
-}
+"description": "Timestamp of the juror entry (ISO 8601 format)"
 },
-"required": ["juror_id", "region", "feedback_category", "comment", "timestamp"]
+"regional_context_notes": {
+"type": "string",
+"description": "Supplemental notes on cultural, environmental, or regional nuances affecting simulation outcome"
+}
+}
 }
