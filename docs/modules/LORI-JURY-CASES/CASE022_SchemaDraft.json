@@ -1,31 +1,43 @@
 {
-"juror_feedback_entry": {
+"$schema": "https://json-schema.org/draft/2020-12/schema",
+"title": "CASE-022 Juror Feedback Schema",
+"type": "object",
+"properties": {
 "juror_id": {
 "type": "string",
-"description": "Unique ID of the juror providing the feedback"
+"description": "Anonymized or hashed juror ID"
 },
 "feedback_category": {
 "type": "string",
-"description": "Category of feedback (e.g., resilience trade-off, ethical clarity, policy realism)"
+"enum": [
+"ethical clarity",
+"emotional impact",
+"policy realism",
+"cultural context",
+"resilience trade-off",
+"cultural feasibility"
+],
+"description": "Feedback category classification"
 },
 "comment": {
 "type": "string",
-"description": "Juror's comment on the policy, region, or scenario"
+"description": "Free-form juror comment"
 },
 "ethical_weighting": {
 "type": "number",
 "minimum": 0,
 "maximum": 1,
-"description": "Weight indicating ethical significance or clarity (0–1 scale)"
+"description": "Ethical relevance score"
 },
 "timestamp": {
 "type": "string",
 "format": "date-time",
-"description": "Timestamp of the juror entry (ISO 8601 format)"
+"description": "Submission timestamp"
 },
 "regional_context_notes": {
 "type": "string",
-"description": "Supplemental notes on cultural, environmental, or regional nuances affecting simulation outcome"
+"description": "Qualitative context on region-specific cultural/environmental considerations"
 }
-}
+},
+"required": ["juror_id", "feedback_category", "comment", "ethical_weighting"]
 }
