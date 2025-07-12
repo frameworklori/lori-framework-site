@@ -1,28 +1,25 @@
-# 🌍 Verdict Log: Climate Justice Cases
+# Verdict Log – Climate Justice Trials
 
-**Updated**: 2025-07-08  
-**Maintainer**: LORI Jury System  
-**Scope**: Agriculture, Construction, Water, Fisheries, Disaster Risk, Labor Heat Policy
+## Case: LORI-CASE-020
 
----
+### Summary
+In regions facing concurrent labor resource conflicts due to heatwaves, agriculture was prioritized over construction for ethical and survival-based reasons.
 
-## CASE-020: Agriculture vs. Construction (Heatwave Resource Allocation)
+### Final Verdict
+- Agriculture receives labor protection priority (e.g., schedule shifts, subsidies).
+- Construction is deferred during heat extremes unless essential (e.g., hospitals).
 
-- 📅 Date: 2025-07-07  
-- 🔗 Link: [LORI-CASE-020](../cases/LORI-CASE-020.md)  
-- ✅ Verdict: Agriculture receives insurance priority, Construction gains nighttime labor rights  
-- 🧭 Justification:
-  - Food production is a non-deferrable human survival function.
-  - Migrant workers in agriculture are more economically and biologically vulnerable.
-  - Construction work is delayable, and climate-adaptable shift models are viable.
-- 🗳️ Vote Result: 6–0 unanimous
-- 📊 Indicators Referenced:
-  - GHLI Risk Score: 87 (Agriculture), 72 (Construction)
-  - ECJ Priority: High (Agriculture), Medium (Construction)
-  - RIM Stress Index: 0.78 (Agriculture), 0.62 (Construction)
+### Jury Breakdown
+- AI Agents: 4 agreed (Moral, Fact, Cultural, Legal)
+- Human Judges: 1 concurred, 1 dissented
 
----
+### Metadata Tags
+- heatwave_ethics
+- food_security_priority
+- AI_human_co-decision
+- ECJ_flag: true
+- Stakeholders: Taiwan, India, US South, Kuwait, Mongolia
 
-## CASE-0XX: [Pending Entry]
+### Timestamp
+2025-07-08 21:12 JST
 
-_TBD – Future climate justice case verdicts will be listed here._
