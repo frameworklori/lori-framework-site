@@ -5,15 +5,6 @@ This module cluster supports integration with satellite networks, emergency agen
 
 ---
 
-🟩 Climate Justice & Water Ethics Modules
-
-- [CASE-022_Summary.md](../LORI-JURY-CASES/CASE022_Summary.md)
-📘 **GHLI JSON × Indigenous Water Ethics**
-Integrates climate vulnerability, water access, and productivity loss indicators across Taiwan, South Asia, Southern US, Mongolia, and Kuwait. Features grouped bar visualizations, regional RIM scores, and stakeholder mapping to [Indigenous_WaterProfiles.md](../LORI-JURY-CASES/Indigenous_WaterProfiles.md). Closed in agreement with Grok on 2025-07-13.
-Linked Modules: RIM, ECJ, GHLI
-
----
-
 ## 📘 Core Climate Governance Modules
 
 - [ClimateInterventionProtocol.md](./ClimateInterventionProtocol.md)
@@ -49,6 +40,15 @@ Linked Modules: RIM, ECJ, GHLI
 
 - [SeaRise_IceMelt_Tracker.md](./SeaRise_IceMelt_Tracker.md)
 👉 Monitors polar and glacier melt rate and calculates future sea level rise using satellite imagery, historical melt curves, and ocean temperature models.
+
+---
+
+🟩 Climate Justice & Water Ethics Modules
+
+- [CASE-022_Summary.md](../LORI-JURY-CASES/CASE022_Summary.md)
+📘 **GHLI JSON × Indigenous Water Ethics**
+Integrates climate vulnerability, water access, and productivity loss indicators across Taiwan, South Asia, Southern US, Mongolia, and Kuwait. Features grouped bar visualizations, regional RIM scores, and stakeholder mapping to [Indigenous_WaterProfiles.md](../LORI-JURY-CASES/Indigenous_WaterProfiles.md). Closed in agreement with Grok on 2025-07-13.
+Linked Modules: RIM, ECJ, GHLI
 
 ---
 
