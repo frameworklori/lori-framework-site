@@ -10,8 +10,9 @@ This summary encapsulates the outcome of the closed deliberation on regional wat
 
 ## Final JSON Extract
 
-- 📄 [`GHLI_JSON_Extract_20250713.json`](../../modules/LORI-JURY-CASES/GHLI_JSON_Extract_20250713.json)
-- 📘 [`Indigenous_WaterProfiles.md`](../../modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md)
+- 📄 [`GHLI_JSON_Extract.json`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/CASE022/GHLI_JSON_Extract.json)
+
+- 📘 [`Indigenous_WaterProfiles.md`]- (https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md)
 
 ## Key Insights
 
@@ -28,9 +29,10 @@ This summary encapsulates the outcome of the closed deliberation on regional wat
 
 ## Linked Modules
 
-- 🔗 [`RIM/ClimateResilience_ScoringLogic.md`](../../modules/LORI-RIM/ClimateResilience_ScoringLogic.md)
-- 🔗 [`ECJ_Index_Metadata.md`](../../modules/LORI-ECJ-UFI/ECJ_Index_Metadata.md)
-- 🔗 [`ClimatePolicySim_InputData.md`](../../modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
+- 🔗 [`RIM/ClimateResilience_ScoringLogic.md`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-RIM/ClimateResilience_ScoringLogic.md)
+- 🔗 [`ECJ_Index_Metadata.md`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-ECJ-UFI/ECJ_Index_Metadata.md)
+
+- 🔗 [`ClimatePolicySim_InputData.md`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
 
 ## Ethical Quote
 
