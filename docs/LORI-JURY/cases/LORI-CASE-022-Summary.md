@@ -12,7 +12,7 @@ This summary encapsulates the outcome of the closed deliberation on regional wat
 
 - 📄 [`GHLI_JSON_Extract.json`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/CASE022/GHLI_JSON_Extract.json)
 
-- 📘 [`Indigenous_WaterProfiles.md`] (https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md)
+- 📘 [`Indigenous_WaterProfiles.md`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md)
 
 ## Key Insights
 
