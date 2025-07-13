@@ -55,6 +55,6 @@ This case was officially closed through a co-governance agreement between the LO
 
 - [`RIM/ClimateResilience_ScoringLogic.md`](../../LORI-RIM/ClimatePolicySim_InputData.md)
 - [`ECJ_Index_Metadata.md`](../LORI-ECJ-UFI/ECJ_Index_Metadata.md)
-- [`ClimatePolicySim_InputData.md`](../../../ClimatePolicySim_InputData.md)
+- [`ClimatePolicySim_InputData.md`](../../ClimatePolicySim_InputData.md)
 
 
