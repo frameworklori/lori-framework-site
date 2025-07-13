@@ -483,7 +483,7 @@ Explore full module list here →
 
 This module contains the finalized JSON extract for GHLI regional water ethics assessment, integrating indicators from five regions (Taiwan, South Asia, Southern US, Mongolia, Kuwait) and mapping them to the `Indigenous_WaterProfiles.md`. It includes two bar chart visualizations, stakeholder metadata, and dashboard-ready schema. Phase 2 has been confirmed closed by xAI/Grok on 2025-07-13.
 
-🔗 [GHLI_JSON_Extract_20250713.json](./modules/LORI-JURY-CASES/GHLI_JSON_Extract_20250713.json)
+🔗 [GHLI_JSON_Extract_20250713.json](./modules/LORI-JURY-CASES/CASE022/GHLI_JSON_Extract.json)
 🔗 [Indigenous_WaterProfiles.md](./modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md)
 📊 Grouped Chart 1: Southern US × Mongolia
 📊 Grouped Chart 2: All Five Regions
