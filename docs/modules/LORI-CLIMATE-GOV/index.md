@@ -45,7 +45,7 @@ This module cluster supports integration with satellite networks, emergency agen
 
 🟩 Climate Justice & Water Ethics Modules
 
-- [CASE-022_Summary.md](../LORI-JURY-CASES/CASE022_Summary.md)
+- [CASE-022_Summary.md](https://github.com/frameworklori/lori-framework-site/blob/main/docs/LORI-JURY/cases/LORI-CASE-022-Summary.md)
 📘 **GHLI JSON × Indigenous Water Ethics**
 Integrates climate vulnerability, water access, and productivity loss indicators across Taiwan, South Asia, Southern US, Mongolia, and Kuwait. Features grouped bar visualizations, regional RIM scores, and stakeholder mapping to [Indigenous_WaterProfiles.md](../LORI-JURY-CASES/Indigenous_WaterProfiles.md). Closed in agreement with Grok on 2025-07-13.
 Linked Modules: RIM, ECJ, GHLI
