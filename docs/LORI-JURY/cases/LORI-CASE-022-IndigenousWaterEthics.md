@@ -37,7 +37,7 @@ Two dashboard-ready bar charts were generated:
 1. **Grouped Chart – Five Regions Comparison**
 2. **Southern US × Mongolia Joint Chart** (GHLI Dashboard Overlay)
 
-🗂️ [`GHLI_JSON_Extract.json`]- (https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/CASE022/GHLI_JSON_Extract.json)
+🗂️ [`GHLI_JSON_Extract.json`](https://github.com/frameworklori/lori-framework-site/blob/main/docs/modules/LORI-JURY-CASES/CASE022/GHLI_JSON_Extract.json)
 These visualizations support further simulations, such as ClimatePolicySim for CASE-020.
 
 ---
