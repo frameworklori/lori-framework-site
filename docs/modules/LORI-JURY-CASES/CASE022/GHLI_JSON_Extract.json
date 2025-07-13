@@ -1,42 +1,49 @@
-[
+{
+"regions": [
 {
 "region": "Taiwan",
-"water_access_score": 0.83,
-"climate_vulnerability_index": 0.71,
-"productivity_loss_pct_at_30C": 9.5,
-"yield_reduction_pct": 6.2,
-"rim_score": 0.68
+"water_access_score": 0.82,
+"climate_vulnerability_index": 0.73,
+"productivity_loss_estimate": 0.18,
+"rim_score": 0.67,
+"source_profile": "Indigenous_WaterProfiles.md"
 },
 {
 "region": "South Asia",
 "water_access_score": 0.61,
-"climate_vulnerability_index": 0.87,
-"productivity_loss_pct_at_30C": 12.8,
-"yield_reduction_pct": 9.4,
-"rim_score": 0.75
+"climate_vulnerability_index": 0.84,
+"productivity_loss_estimate": 0.27,
+"rim_score": 0.72,
+"source_profile": "Indigenous_WaterProfiles.md"
 },
 {
 "region": "Southern US",
-"water_access_score": 0.78,
-"climate_vulnerability_index": 0.79,
-"productivity_loss_pct_at_30C": 10.1,
-"yield_reduction_pct": 7.3,
-"rim_score": 0.69
+"water_access_score": 0.69,
+"climate_vulnerability_index": 0.66,
+"productivity_loss_estimate": 0.21,
+"rim_score": 0.60,
+"source_profile": "Indigenous_WaterProfiles.md"
 },
 {
 "region": "Mongolia",
-"water_access_score": 0.56,
-"climate_vulnerability_index": 0.91,
-"productivity_loss_pct_at_30C": 13.2,
-"yield_reduction_pct": 11.5,
-"rim_score": 0.81
+"water_access_score": 0.58,
+"climate_vulnerability_index": 0.89,
+"productivity_loss_estimate": 0.25,
+"rim_score": 0.75,
+"source_profile": "Indigenous_WaterProfiles.md"
 },
 {
 "region": "Kuwait",
-"water_access_score": 0.64,
-"climate_vulnerability_index": 0.88,
-"productivity_loss_pct_at_30C": 14.4,
-"yield_reduction_pct": 8.1,
-"rim_score": 0.76
+"water_access_score": 0.74,
+"climate_vulnerability_index": 0.79,
+"productivity_loss_estimate": 0.20,
+"rim_score": 0.70,
+"source_profile": "Indigenous_WaterProfiles.md"
 }
-]
+],
+"metadata": {
+"version": "2025-07-13",
+"generated_by": "LORI Ethical System × GHLI Module",
+"source_reference": "docs/modules/LORI-JURY-CASES/Indigenous_WaterProfiles.md"
+}
+}
