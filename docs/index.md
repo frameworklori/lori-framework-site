@@ -134,8 +134,6 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
 
-### 🧷 CASE-021A – Key Files
-
 - [Main Case Narrative – CASE021A_2A_DemocracyAndAI.md](./modules/LORI-JURY-CASES/CASE021A_2A_DemocracyAndAI.md)
 → Core narrative of the Second Amendment case, contextualized within democratic stability and AI risk.
 
