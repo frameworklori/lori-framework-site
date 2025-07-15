@@ -125,7 +125,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 -  [LORI-CASE-015](cases/LORI-CASE-015.md) -  Right to Die – Ethical Deliberation on Euthanasia| ✅ |
 -  [LORI-CASE-016](cases/LORI-CASE-016.md) -  Should Birthright Citizenship Be Restricted?| ✅ |
 -  [LORI-CASE-020](cases/LORI-CASE-020.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
--  [LORI-CASE-021](cases/LORI-CASE-021.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
+-  [LORI-CASE-021](cases/LORI-CASE-021.md) - Second Amendment × Democratic Stability × AI Governance Risk| ✅ |
 
 ----
 
