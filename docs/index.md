@@ -134,13 +134,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
 
-- [Main Case Narrative – CASE021A_2A_DemocracyAndAI.md](./modules/LORI-JURY-CASES/CASE021A_2A_DemocracyAndAI.md)
+- [Main Case Narrative – CASE021A_2A_DemocracyAndAI.md](./cases/LORI-CASE-021/CASE021A_2A_DemocracyAndAI.md)
 → Core narrative of the Second Amendment case, contextualized within democratic stability and AI risk.
 
-- [Verdict – Verdict_Announcement_CASE021A.md](./modules/LORI-JURY-CASES/Verdict_Announcement_CASE021A.md)
+- [Verdict – Verdict_Announcement_CASE021A.md](./cases/LORI-CASE-021/Verdict_Announcement_CASE021A.md)
 → Final judgment result and conditional approval with rationale notes.
 
-- [Jury Feedback – JurorFeedback_CASE021A.md](./modules/LORI-JURY-CASES/JurorFeedback_CASE021A.md)
+- [Jury Feedback – JurorFeedback_CASE021A.md](./cases/LORI-CASE-021/JurorFeedback_CASE021A.md)
 → Opinions from each of the seven jury roles on legal, ethical, cultural, and emotional dimensions.
 
 - [Legal Matrix – LegalLiabilityMatrix.md](./modules/LORI-SRS/LegalLiabilityMatrix.md)
