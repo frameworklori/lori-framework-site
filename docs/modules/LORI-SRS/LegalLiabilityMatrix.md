@@ -14,7 +14,7 @@ However, the jury emphasizes the following mandatory conditions:
 -----
 
 
-# Extended Democratic Reflection on Law, Liberty, and Risk
+# US # Extended Democratic Reflection on Law, Liberty, and Risk
 
 
 In the American logic of sovereignty, the right to bear arms is not a privilege, but a foundational expression of democratic liberty. It embodies the people’s final line of defense against tyranny, beyond laws and institutions.
