@@ -134,18 +134,19 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
 
-- [ ModuleLink_CASE021A.md](./modules/LORI-JURY-CASES/ModuleLink_CASE021A.md)
-→ Overview of module dependencies and interactions related to 2A, AI governance, and sovereign readiness.
+### 🧷 CASE-021A – Key Files
 
-- [ NarrativeAnalysis_CASE021A.md](./modules/LORI-JURY-CASES/NarrativeAnalysis_CASE021A.md)
-→ Semantic breakdown of the case’s cultural, political, and rhetorical context.
+- [Main Case Narrative – CASE021A_2A_DemocracyAndAI.md](./modules/LORI-JURY-CASES/CASE021A_2A_DemocracyAndAI.md)
+→ Core narrative of the Second Amendment case, contextualized within democratic stability and AI risk.
 
-- [ EvidenceChain_CASE021A.md](./modules/LORI-JURY-CASES/EvidenceChain_CASE021A.md)
-→ Timestamped quotes, public sentiment logs, and media input simulations supporting the deliberation.
+- [Verdict – Verdict_Announcement_CASE021A.md](./modules/LORI-JURY-CASES/Verdict_Announcement_CASE021A.md)
+→ Final judgment result and conditional approval with rationale notes.
 
-- [ LegalLiabilityMatrix.md](./modules/LORI-SRS/LegalLiabilityMatrix.md)
-→ Structure of guardian responsibility, identity control, and AI-integrated firearm legality scoring.
+- [Jury Feedback – JurorFeedback_CASE021A.md](./modules/LORI-JURY-CASES/JurorFeedback_CASE021A.md)
+→ Opinions from each of the seven jury roles on legal, ethical, cultural, and emotional dimensions.
 
+- [Legal Matrix – LegalLiabilityMatrix.md](./modules/LORI-SRS/LegalLiabilityMatrix.md)
+→ Defines identity control, guardian responsibility, and AI-integrated firearm legality evaluation.
 
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
 
