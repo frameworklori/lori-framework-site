@@ -14,7 +14,7 @@ However, the jury emphasizes the following mandatory conditions:
 -----
 
 
-#Extended Democratic Reflection on Law, Liberty, and Risk
+# Extended Democratic Reflection on Law, Liberty, and Risk
 
 
 In the American logic of sovereignty, the right to bear arms is not a privilege, but a foundational expression of democratic liberty. It embodies the people’s final line of defense against tyranny, beyond laws and institutions.
@@ -29,7 +29,7 @@ Freedom is not something the government may choose to permit — it is something
 This right signifies not merely a practical capacity, but a deeper moral structure: that the people retain the power to resist oppression, even when institutions collapse. This power exists not beneath law, but above it — as a sovereign insurance against systemic failure.
 
 
-#Critical Reflection:
+# Critical Reflection:
 
 
 The creation of laws has never been purely about justice — it has always been shaped by the interests of the majority. “The greater good” often requires accepting the possibility of sacrificing the few.
