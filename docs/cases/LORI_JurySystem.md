@@ -23,10 +23,10 @@
 | [LORI-CASE-019](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) |United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)| 🚧|
 | [LORI-CASE-020](../cases/LORI-CASE-020.md)|Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅|
 | Case ID | Title | Status |
-|-----------------|---------------------------------------------------------------------------------------------|--------|
+|-----------------|---------------------------------------------------------------|--------|
 [LORI-CASE-021A](../cases/LORI-CASE-021/CASE021A_2A_DemocracyAndAI.md)|Second Amendment × Democratic Stability × AI Governance Risk| ✅|
 | Case ID | Title | 
-|-----------------|---------------------------------------------------------------------------------------------|
+|-----------------|----------------------------------------------------------------------------------|
 -[Juror Feedback – CASE021A](../cases/LORI-CASE-021/JurorFeedback_CASE021A.md)
 -[Verdict Announcement – CASE021A](../cases/LORI-CASE-021/Verdict_Announcement_CASE021A.md)
 
