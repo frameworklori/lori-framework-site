@@ -18,10 +18,10 @@ This case simulates ethical trade-offs when governments allocate labor protectio
 - [ClimatePolicySim_InputData.md](../modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
 ⤷ Input metrics for temperature thresholds, industry-specific loss rates, age-group vulnerability, and regional stress indicators.
 
-- [GHLI_DataSynthesis.md](../../modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md)
+- [GHLI_DataSynthesis.md](../modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md)
 ⤷ Comprehensive synthesis of climate stress indicators from FAO, ILO, IPCC, and regional datasets for ethical scenario modeling.
 
-- [X_SentimentAnalysis.md](../../modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md)
+- [X_SentimentAnalysis.md](../modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md)
 ⤷ Social sentiment mapping from the X platform (Taiwan, India, US), analyzing labor vs. productivity narratives under heat conditions.
 
 ---
