@@ -130,6 +130,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-018](./LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) – Murder Conspiracy Risk Trial 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-019](./LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) – Firearms & Narcotics Evidence Verdict 🚧*(Celebrity × Jury Simulation Series)*
 
+## CASE-020 – Heatwave & Industry Ethics Simulation
+
+- [ClimatePolicySim_InputData.md](docs/modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md) 
+- [GHLI_DataSynthesis.md](docs/modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md)
+- [X_SentimentAnalysis.md](docs/modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md)
+
+
 -  [LORI-CASE-020](cases/LORI-CASE-020.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
