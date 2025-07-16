@@ -39,7 +39,7 @@ This case uses the LORI Jury-Based Judgment System to simulate deliberation by f
 ## 🧭 Related Modules Index (for cross-case reference)
 
 A full list of climate governance modules used across CASE-020/021/022 is maintained at:
-➡️ [`ClimateGov_Modules.md`](../../modules/LORI-CLIMATE-GOV/ClimateGov_Modules.md)
+➡️ [`ClimateGov_Modules.md`](../modules/LORI-CLIMATE-GOV/ClimateGov_Modules.md)
 
 ---
 
