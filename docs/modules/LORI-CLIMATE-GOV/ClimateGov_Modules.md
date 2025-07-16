@@ -19,7 +19,7 @@ This page lists all core modules supporting LORI Framework's climate justice and
 
 ## 🚰 CASE-020A: California Water Ethics Data Tables
 
- [W1_StructuralScarcity.csv](CASE020A_DataTables/W1_StructuralScarcity.csv) — Structural water scarcity metrics across Central Valley, tribal land, and drought zones.
+- [W1_StructuralScarcity.csv](CASE020A_DataTables/W1_StructuralScarcity.csv) — Structural water scarcity metrics across Central Valley, tribal land, and drought zones.
 
 - [W2_AgriVsTribal.csv](CASE020A_DataTables/W2_AgriVsTribal.csv) — Comparative irrigation vs tribal allocation volume and conflict data.
 
