@@ -31,7 +31,7 @@ This page lists all core modules supporting LORI Framework's climate justice and
 - [W4_ReclaimedSystems.csv](CASE020A_DataTables/W4_ReclaimedSystems.csv)
 ⤷ Reclaimed water output, system access disparity, and state implementation levels.
 
-- **(Upcoming)**: `W5_HouseholdVsIndustry.csv`
+- [W5_ReclaimedSystems.csv](CASE020A_DataTables/W5_ReclaimedSystems.csv)
 ⤷ Home water consumption vs industrial uses (e.g., fracking, energy) across California.
 
 ---
