@@ -58,7 +58,7 @@
 | LORI-CASE-018 | 5 | High-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation|
 | LORI-CASE-019 | 5 | United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession) |
 | LORI-CASE-020 | 3 | Agriculture vs. Construction — Climate Resource Allocation During Heatwave |
-
+| LORI-CASE-021 | 3 | econd Amendment × Democratic Stability × AI Governance Risk |
 ---
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
