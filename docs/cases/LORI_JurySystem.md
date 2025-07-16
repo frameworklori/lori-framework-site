@@ -22,10 +22,13 @@
 | [LORI-CASE-018](../LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) | SHigh-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation| 🚧|
 | [LORI-CASE-019](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) |United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)| 🚧|
 | [LORI-CASE-020](../cases/LORI-CASE-020.md)|Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅|
+
+----
+
 | Case ID | Title | Status |
 
-|-----------------|---------------------------------------------------------------------------------------------|
-| Case ID | Title | Status |
+|-----------------|----------------------------------------------------------------------------------|
+
 [LORI-CASE-021A](../cases/LORI-CASE-021/CASE021A_2A_DemocracyAndAI.md)|Second Amendment × Democratic Stability × AI Governance Risk| ✅|
 | Case ID | 
 |-----------------|
