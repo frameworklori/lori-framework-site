@@ -131,7 +131,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-018](./LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) – Murder Conspiracy Risk Trial 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-019](./LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) – Firearms & Narcotics Evidence Verdict 🚧*(Celebrity × Jury Simulation Series)*
 
-### 📂CASE-020 – Heatwave & High-Sensitivity Industry Ethics
+### 📂CASE-020 – Heatwave & High-Sensitivity Industry Ethics | ✅ |
 
 This simulation explores how governments ethically allocate protections and resources under extreme heat conditions for industries such as agriculture and construction. It integrates climate vulnerability data, productivity thresholds, public sentiment, and juror deliberation.
 
