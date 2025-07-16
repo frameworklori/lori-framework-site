@@ -125,12 +125,13 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 -  [LORI-CASE-015](cases/LORI-CASE-015.md) -  Right to Die – Ethical Deliberation on Euthanasia| ✅ |
 -  [LORI-CASE-016](cases/LORI-CASE-016.md) -  Should Birthright Citizenship Be Restricted?| ✅ |
 
-> _Justice may arrive late—but it never fails to arrive._ _If courts fall silent, civilization will remember._
+### 📂CASE-017-019 – Justice may arrive late—but it never fails to arrive._If courts fall silent, civilization will remember.
+
 -  [LORI-CASE-017](./LORI-JURY/cases/LORI-CASE-017-Diddy-Trafficking.md) – Sex Trafficking Verdict Simulation 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-018](./LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) – Murder Conspiracy Risk Trial 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-019](./LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) – Firearms & Narcotics Evidence Verdict 🚧*(Celebrity × Jury Simulation Series)*
 
-## CASE-020 – Heatwave & High-Sensitivity Industry Ethics
+### 📂CASE-020 – Heatwave & High-Sensitivity Industry Ethics
 
 This simulation explores how governments ethically allocate protections and resources under extreme heat conditions for industries such as agriculture and construction. It integrates climate vulnerability data, productivity thresholds, public sentiment, and juror deliberation.
 
