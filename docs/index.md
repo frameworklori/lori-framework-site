@@ -135,7 +135,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 This simulation explores how governments ethically allocate protections and resources under extreme heat conditions for industries such as agriculture and construction. It integrates climate vulnerability data, productivity thresholds, public sentiment, and juror deliberation.
 
-- [CASE020.md](../cases/LORI-CASE-020.md) – Main case narrative and deliberation logic
+- [CASE020.md](../LORI-CASE-020.md) – Main case narrative and deliberation logic
 - [ClimatePolicySim_InputData.md](modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md) – Input data for simulation: temperature × productivity loss × water stress
 - [GHLI_DataSynthesis.md](modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md) – Global Heatwave Livelihood Index synthesis report
 - [X_SentimentAnalysis.md](modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md) – Public sentiment and narrative drift from X platform (Taiwan, India, US)
