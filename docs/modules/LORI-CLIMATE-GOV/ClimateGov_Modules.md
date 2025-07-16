@@ -19,20 +19,24 @@ This page lists all core modules supporting LORI Framework's climate justice and
 
 ## 🚰 CASE-020A: California Water Ethics Data Tables
 
-- [W1_StructuralScarcity.csv](CASE020A_DataTables/W1_StructuralScarcity.csv)
-⤷ Structural water scarcity metrics across Central Valley, tribal land, and drought zones.
+Structural Scarcity — W1_StructuralScarcity.csv → Structural water scarcity metrics across Central Valley, tribal lands, and drought-affected zones.
 
-- [W2_AgriVsTribal.csv](CASE020A_DataTables/W2_AgriVsTribal.csv)
-⤷ Comparative irrigation vs tribal allocation volume and conflict data.
+Agriculture vs Tribal Use — W2_AgriVsTribal.csv → Comparative irrigation vs tribal water allocation volume and historical conflict records.
 
-- [W3_FireConflict.csv](CASE020A_DataTables/W3_FireConflict.csv)
-⤷ Emergency firewater reserves vs agricultural extraction tension records.
+Firewater Conflict — W3_FireConflict.csv → Emergency firewater reserve levels vs agricultural extraction tension points.
 
-- [W4_ReclaimedSystems.csv](CASE020A_DataTables/W4_ReclaimedSystems.csv)
-⤷ Reclaimed water output, system access disparity, and state implementation levels.
+Reclaimed Water Systems — W4_ReclaimedSystems.csv → Reclaimed water output, system access disparity, and state-level implementation coverage.
 
-- [W5_ReclaimedSystems.csv](CASE020A_DataTables/W5_ReclaimedSystems.csv)
-⤷ Home water consumption vs industrial uses (e.g., fracking, energy) across California.
+Household Water Use — W5_HouseholdWaterUse.csv → Per-capita daily and total annual residential water use across major Californian regions.
+
+Industrial Water Use — W6_IndustrialWaterUse.csv → Annual industrial water consumption by type (e.g., food processing, manufacturing, oil refining).
+
+Oil Shale Extraction Use — W7_OilShaleExtraction.csv → Water use in hydraulic fracturing, steam injection, and enhanced oil recovery (mainly Kern County).
+
+Energy Facilities Use — W8_EnergyFacilitiesUse.csv → Thermoelectric and hydropower water use estimates for power generation and cooling.
+
+Urban Water Use — W9_UrbanWaterUse.csv → Combined residential, commercial, and industrial water consumption in urbanized areas.
+
 
 ---
 
