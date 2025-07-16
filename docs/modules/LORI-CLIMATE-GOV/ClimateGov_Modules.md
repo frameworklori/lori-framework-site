@@ -17,6 +17,25 @@ This page lists all core modules supporting LORI Framework's climate justice and
 
 ---
 
+## 🚰 CASE-020A: California Water Ethics Data Tables
+
+- [W1_StructuralScarcity.csv](CASE020A_DataTables/W1_StructuralScarcity.csv)
+⤷ Structural water scarcity metrics across Central Valley, tribal land, and drought zones.
+
+- [W2_AgriVsTribal.csv](CASE020A_DataTables/W2_AgriVsTribal.csv)
+⤷ Comparative irrigation vs tribal allocation volume and conflict data.
+
+- [W3_FireConflict.csv](CASE020A_DataTables/W3_FireConflict.csv)
+⤷ Emergency firewater reserves vs agricultural extraction tension records.
+
+- [W4_ReclaimedSystems.csv](CASE020A_DataTables/W4_ReclaimedSystems.csv)
+⤷ Reclaimed water output, system access disparity, and state implementation levels.
+
+- **(Upcoming)**: `W5_HouseholdVsIndustry.csv`
+⤷ Home water consumption vs industrial uses (e.g., fracking, energy) across California.
+
+---
+
 ## 📚 Climate Alliance Modules
 
 - [ClimateAlliance](../ClimateAlliance/README.md)
