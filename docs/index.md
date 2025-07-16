@@ -132,11 +132,6 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 
 ## CASE-020 – Heatwave & Industry Ethics Simulation
 
-- [ClimatePolicySim_InputData.md](docs/modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md) 
-- [GHLI_DataSynthesis.md](docs/modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md)
-- [X_SentimentAnalysis.md](docs/modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md)
-
-
 -  [LORI-CASE-020](cases/LORI-CASE-020.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
