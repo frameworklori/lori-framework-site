@@ -15,7 +15,7 @@ This case simulates ethical trade-offs when governments allocate labor protectio
 
 ## 🧩 Referenced Modules
 
-- [ClimatePolicySim_InputData.md](../../modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
+- [ClimatePolicySim_InputData.md](../modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
 ⤷ Input metrics for temperature thresholds, industry-specific loss rates, age-group vulnerability, and regional stress indicators.
 
 - [GHLI_DataSynthesis.md](../../modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md)
