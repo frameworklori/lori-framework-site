@@ -130,9 +130,17 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 - [LORI-CASE-018](./LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) – Murder Conspiracy Risk Trial 🚧*(Celebrity × Jury Simulation Series)*
 - [LORI-CASE-019](./LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) – Firearms & Narcotics Evidence Verdict 🚧*(Celebrity × Jury Simulation Series)*
 
-## CASE-020 – Heatwave & Industry Ethics Simulation
+## CASE-020 – Heatwave & High-Sensitivity Industry Ethics
 
--  [LORI-CASE-020](cases/LORI-CASE-020.md) - Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅ |
+This simulation explores how governments ethically allocate protections and resources under extreme heat conditions for industries such as agriculture and construction. It integrates climate vulnerability data, productivity thresholds, public sentiment, and juror deliberation.
+
+- [CASE020.md](modules/LORI-JURY-CASES/CASE020.md) – Main case narrative and deliberation logic
+- [ClimatePolicySim_InputData.md](modules/LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md) – Input data for simulation: temperature × productivity loss × water stress
+- [GHLI_DataSynthesis.md](modules/LORI-CLIMATE-GOV/GHLI_DataSynthesis.md) – Global Heatwave Livelihood Index synthesis report
+- [X_SentimentAnalysis.md](modules/LORI-CLIMATE-GOV/X_SentimentAnalysis.md) – Public sentiment and narrative drift from X platform (Taiwan, India, US)
+- [JurorFeedback_Framework.md](modules/LORI-JURY/JurorFeedback_Framework.md) – Template for collecting juror feedback post-verdict
+- [EthicalMemory_Template.md](modules/LORI-JURY/EthicalMemory_Template.md) – Template for archiving ethical basis, metadata, and AI-human vote logic
+- [ClimateGov_Modules.md](modules/LORI-CLIMATE-GOV/ClimateGov_Modules.md) – Full list of climate governance modules used across CASE-020/021/022
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
 
