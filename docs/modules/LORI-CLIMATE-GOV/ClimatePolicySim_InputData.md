@@ -55,22 +55,56 @@
 
 ---
 
+## 🚰 Integrated Water Use Module (CASE-020A Extension)
+
+This input dataset now incorporates water ethics factors from **California-specific simulation (CASE-020A)** with structured data from:
+
+- [`W5_HouseholdWaterUse.csv`](./CASE020A_DataTables/W5_HouseholdWaterUse.csv) – Home use by region, per-capita daily gallons, year-based comparison
+
+- [`W6_IndustrialWaterUse.csv`](./CASE020A_DataTables/W6_IndustrialWaterUse.csv) – Industrial sectors such as food processing, manufacturing, oil refining
+
+- [`W7_OilShaleExtraction.csv`](./CASE020A_DataTables/W7_OilShaleExtraction.csv) – Hydraulic fracturing & steam injection water use
+
+- [`W8_EnergyFacilitiesUse.csv`](./CASE020A_DataTables/W8_EnergyFacilitiesUse.csv) – Thermoelectric & hydropower facility water use
+
+- [`W9_UrbanWaterUse.csv`](./CASE020A_DataTables/W9_UrbanWaterUse.csv) – Composite urban water use data by region and density
+
+These files support comparative modeling of human consumption, industrial pressure, fire preparedness, and reclaimed system ethics.
+
+---
+
 ## 🏷️ Metadata Tags
 
 - `heatwave-ethics`
+
 - `industry-productivity-loss`
+
 - `climate-vulnerability-model`
+
 - `high-risk-occupation`
+
 - `age-modifier-index`
+
 - `RIM-score-compatible`
+
+- `california-water-conflict`
+
+- `urban-vs-industrial-consumption`
 
 ---
 
 ## 📩 Notes for Simulation (Grok)
 
-- Data supports dual-axis chart (Temperature × Productivity loss).
-- Can be mapped by region or industry.
-- RIM scores enable integration with `ClimateResilience_ScoringLogic.md` for impact modeling.
-- Age-based modifiers can be layered for demographic-specific projections.
+- Data supports dual-axis chart (Temperature × Productivity loss).  
+
+- Can be mapped by region or industry.  
+
+- RIM scores enable integration with `ClimateResilience_ScoringLogic.md` for impact modeling.  
+
+- Age-based modifiers can be layered for demographic-specific projections.  
+
+- Water resource input extends equity & policy dimensions for CASE-020A deliberations.
+
 
 **End of Document**
+
