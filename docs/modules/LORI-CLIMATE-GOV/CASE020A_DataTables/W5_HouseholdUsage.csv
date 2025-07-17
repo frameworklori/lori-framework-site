@@ -1,6 +1,8 @@
-| Region                 |   Per_Capita_Daily_Use_gallons |   Total_Annual_Use_m3 |   Source_Year | Notes                                                 |
-|:-----------------------|-------------------------------:|----------------------:|--------------:|:------------------------------------------------------|
-| San_Francisco_Bay_Area |                            150 |             182000000 |          2020 | Post-drought conservation. Verify with 2025 UWMPs.    |
-| South_Coast            |                            140 |             250000000 |          2020 | Urban density drives use. Update with WUEdata Portal. |
-| Central_Valley         |                            180 |             120000000 |          2015 | Higher outdoor use. Confirm with 2025 DWR data.       |
-| Sacramento             |                            217 |              75000000 |          2012 | Pre-drought data. Check 2025 WUEdata Portal.          |
+# W5_HouseholdWaterUse – Household Per Capita Water Use
+
+| Region           | Per Capita Use (GPCD) | Total Use (MAF) | Source         | Year | Notes                                  |
+|------------------|------------------------|------------------|----------------|------|----------------------------------------|
+| Los Angeles       | 110                    | 1.8              | DWR WUEdata    | 2024 | Conservation-driven decline            |
+| Central Valley    | 150                    | 1.2              | DWR WUEdata    | 2024 | Higher due to rural use                |
+| San Francisco     | 85                     | 0.4              | DWR WUEdata    | 2024 | Strong conservation measures           |
+| Tribal Lands (Tule River) | 90           | 0.02             | Tule River Tribe | 2025 | Limited data; infrastructure gaps     |
