@@ -1,8 +1,0 @@
-# W5_HouseholdWaterUse – Household Per Capita Water Use
-
-| Region           | Per Capita Use (GPCD) | Total Use (MAF) | Source         | Year | Notes                                  |
-|------------------|------------------------|------------------|----------------|------|----------------------------------------|
-| Los Angeles       | 110                    | 1.8              | DWR WUEdata    | 2024 | Conservation-driven decline            |
-| Central Valley    | 150                    | 1.2              | DWR WUEdata    | 2024 | Higher due to rural use                |
-| San Francisco     | 85                     | 0.4              | DWR WUEdata    | 2024 | Strong conservation measures           |
-| Tribal Lands (Tule River) | 90           | 0.02             | Tule River Tribe | 2025 | Limited data; infrastructure gaps     |
