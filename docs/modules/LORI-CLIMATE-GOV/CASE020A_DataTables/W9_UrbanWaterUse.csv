@@ -1,1 +1,23 @@
+# W9 Urban Water Use
 
+**Purpose:** Tracks total urban water use across major metropolitan regions.
+
+**Headers:**
+- Region
+- Population_millions
+- Total_Use_m3
+- Per_Capita_Use_gallons_day
+- Source_Year
+- Notes
+
+**Sample Data:**
+```
+Region,Population_millions,Total_Use_m3,Per_Capita_Use_gallons_day,Source_Year,Notes
+San_Francisco_Bay_Area,7.8,182000000,150,2020,Post-drought conservation. Verify with 2025 UWMPs.
+South_Coast,21.5,250000000,140,2020,Urban density influences demand. Update with 2025 data.
+Sacramento,2.5,75000000,217,2012,Outdated. Reassess with 2025 WUEdata Portal.
+```
+
+**Source:** WUEdata Portal, UWMPs, regional planning reports.
+
+**Notes:** Per capita use varies due to climate, policy, and urban design.
