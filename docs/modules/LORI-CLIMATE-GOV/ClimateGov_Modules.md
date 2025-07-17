@@ -1,63 +1,53 @@
-# Climate Governance Modules Overview
+# 🌍 Climate Governance Modules – LORI Framework
 
-This page lists all core modules supporting LORI Framework's climate justice and policy simulations, especially used across CASE-020 to CASE-022.
-
----
-
-## 📊 Simulation & Analysis
-
-- [ClimatePolicySim_InputData.md](ClimatePolicySim_InputData.md)
-⤷ Input metrics for temperature threshold simulations across 5 global regions.
-
-- [GHLI_DataSynthesis.md](GHLI_DataSynthesis.md)
-⤷ Data synthesis report for Global Heatwave Livelihood Index.
-
-- [X_SentimentAnalysis.md](X_SentimentAnalysis.md)
-⤷ Sentiment analysis of climate-related discourse from Taiwan, India, and the US.
+This module hub compiles all core components related to **climate justice, environmental ethics, and public infrastructure resilience** under the LORI Framework.
 
 ---
 
-## 🚰 CASE-020A: California Water Ethics Data Tables
+## 📘 Module Index
 
-- [W1_StructuralScarcity.csv](CASE020A_DataTables/W1_StructuralScarcity.csv) — Structural water scarcity metrics across Central Valley, tribal land, and drought zones.
-
-- [W2_AgriVsTribal.csv](CASE020A_DataTables/W2_AgriVsTribal.csv) — Comparative irrigation vs tribal allocation volume and conflict data.
-
-- [W3_FireConflict.csv](CASE020A_DataTables/W3_FireConflict.csv) — Emergency firewater reserves vs agricultural extraction tension records.
-
-- [W4_ReclaimedSystems.csv](CASE020A_DataTables/W4_ReclaimedSystems.csv) — Reclaimed water output, system access disparity, and state implementation levels.
-
-- [W5_HouseholdWaterUse.csv](CASE020A_DataTables/W5_HouseholdWaterUse.csv) — Home water consumption (per capita and annual) across California regions.
-
-- [W6_IndustrialWaterUse.csv](CASE020A_DataTables/W6_IndustrialWaterUse.csv) — Industrial water use including manufacturing, food processing, and oil refining.
-
-- [W7_OilShaleExtraction.csv](CASE020A_DataTables/W7_OilShaleExtraction.csv) — Water use for hydraulic fracturing, steam injection, and enhanced oil recovery.
-
-- [W8_EnergyFacilitiesUse.csv](CASE020A_DataTables/W8_EnergyFacilitiesUse.csv) — Thermoelectric and hydropower facility water usage patterns.
-
-- [W9_UrbanWaterUse.csv](CASE020A_DataTables/W9_UrbanWaterUse.csv) — Total urban water usage (residential, commercial, industrial) in major metropolitan areas.
-
+### 1. Climate Policy Simulation Inputs
+- [`ClimatePolicySim_InputData.md`](ClimatePolicySim_InputData.md)  
+  Contains multi-regional climate vulnerability datasets for use in LORI Jury deliberation (e.g., productivity loss, heat exposure, RIM scores). Covers Taiwan, South Asia, California, Kuwait, Mongolia.
 
 ---
 
-## 📚 Climate Alliance Modules
+### 2. CASE-020A: California Water Ethics × Fire Risk
 
-- [ClimateAlliance](../ClimateAlliance/README.md)
-⤷ Overview of regional collaboration structure for high-sensitivity industries.
+#### 📄 Case Files
+- [`CASE020A_CaliforniaWaterEthics.md`](../LORI-JURY-CASES/CASE020A_CaliforniaWaterEthics.md)  
+  Main case narrative, equity analysis, and ethical triggers.
 
-- [GHLI_Specification](../ClimateAlliance/GHLI_Specification.md)
-⤷ Metadata schema for GHLI development and cross-case compatibility.
+- [`Verdict_Announcement_CASE020A.md`](../LORI-JURY-CASES/Verdict_Announcement_CASE020A.md)  
+  Official verdict by LORI Jury, summarizing multi-role deliberation.
 
-- [CWAS_Integration_Tracker](../ClimateAlliance/CWAS_Integration_Tracker.md)
-⤷ Tracking table for Climate × Work × AI Stakeholder alignment.
+- [`JurorFeedback_CASE020A.md`](../LORI-JURY-CASES/JurorFeedback_CASE020A.md)  
+  Qualitative positions from seven AI+human jurors, annotated.
+
+- [`WaterEthics_Charts_CASE020A.md`](../LORI-JURY-CASES/WaterEthics_Charts_CASE020A.md)  
+  Includes visuals of water use disparities and fire-risk inequities.
+
+#### 📊 Dataset Directory
+- [`CASE020A_DataTables/`](./CASE020A_DataTables/)  
+  Nine CSV files (W1–W9) with water allocation, tribal access, energy sector use, wildfire reserve, reclaimed water metrics.
+
+#### 📦 Data Summary
+- [`Explore the data pack →`](./CASE020A_DataTables/README.md)  
+  Metadata tags, usage notes, and source links for each file.
 
 ---
 
-## ⚖️ Ethical & Governance Systems
+### 3. Environmental Scoring Logic
+- [`ClimateResilience_ScoringLogic.md`](../LORI-RIM/ClimateResilience_ScoringLogic.md)  
+  RIM resilience score weights and interpretation model.
 
-- [JurySystem Overview](../../cases/LORI_JurySystem.md)
-⤷ Foundational structure of the LORI Jury-Based Judgment System used in climate ethics deliberations.
+- [`ECJ_Index_Metadata.md`](../LORI-ECJ-UFI/ECJ_Index_Metadata.md)  
+  Environmental Climate Justice (ECJ) index tagging logic and application.
 
 ---
 
-_Last updated: 2025-07-16_
+## 🧭 Integration Roadmap
+All climate cases are designed to:
+- Inform LORI Jury ethical verdicts
+- Trigger adaptive modules (RIM, ECJ, UFI)
+- Guide co-governance outreach with Grok and XAI
