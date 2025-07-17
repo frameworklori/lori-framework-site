@@ -1,1 +1,21 @@
+# W7 Shale Oil Extraction
 
+**Purpose:** Tracks water use in oil shale extraction, mainly Kern County.
+
+**Headers:**
+- Region
+- Extraction_Type
+- Annual_Use_m3
+- Source_Year
+- Notes
+
+**Sample Data:**
+```
+Region,Extraction_Type,Annual_Use_m3,Source_Year,Notes
+Kern_County,Hydraulic_Fracturing,200000,2022,Estimate from CalGEM. Verify via 2025 OSWCR system.
+Kern_County,Cyclic_Steaming,120000,2021,Legacy method. Requires thermal efficiency data.
+```
+
+**Source:** CalGEM and OSWCR datasets.
+
+**Notes:** Shale extraction methods are region-specific and water-intensive.
