@@ -37,5 +37,5 @@ This dataset supplements the original `W3_FireConflict.csv`, focusing specifical
 - **Reservoir Strain**: Seasonal drought releases from DWR disproportionately benefit urban zones, with limited offsetting measures for tribal land resiliency.
 
 ## Related Module
-- [`CASE020A.md`](../CASE020A_CaliforniaWaterEthics.md)
-- [`W3_FireConflict.csv`](./W3_FireConflict.csv) – original 2010–2023 dataset
+- [`CASE020A.md`](../LORI-JURY-CASES/CASE020A_CaliforniaWaterEthics.md)
+- [`W3_FireConflict.csv`](../LORI-CLIMATE-GOV/CASE020A_DataTables/W3_FireConflict.csv) – original 2010–2023 dataset
