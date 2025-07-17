@@ -1,4 +1,16 @@
-Region,SGMA Priority,Tribal Access %,"Aquifer Recharge (2024, MAF)",Source,Year
-Central Valley,High,62,2.2,DWR,2024
-Hoopa,Medium,48,,Tribal Report,2024
-Yurok,Medium,32,,Tribal Report,2024
+Year,Metric,Value,Source,Notes
+2020,Central Valley Depletion Rate,-10.2 km³/yr,DWR/USGS,Drought peak; heavy overdraft
+2020,SGMA Basin Priority (Central Valley),High/Medium,DWR Bulletin 118,Initial GSP submissions
+2020,Tribal Piped Water Access (Hoopa),45%,Hoopa Valley Tribe,Limited infrastructure
+2020,Tribal Piped Water Access (Yurok),30%,Yurok Tribe,Shallow wells; contamination
+2020,Tribal Piped Water Access (Tule River),58%,Tule River Tribe,Partial municipal connection
+2023,Central Valley Depletion Rate,-6.5 km³/yr,DWR/USGS,Improved recharge; drought recovery
+2023,SGMA Basin Priority (Central Valley),High/Medium,DWR Bulletin 118,65 GSPs approved
+2023,Tribal Piped Water Access (Hoopa),47%,Hoopa Valley Tribe,Incremental upgrades
+2023,Tribal Piped Water Access (Yurok),31%,Yurok Tribe,Persistent contamination
+2023,Tribal Piped Water Access (Tule River),60%,Tule River Tribe,Infrastructure gaps
+2025,Central Valley Depletion Rate,+2.2 MAF,DWR/USGS,Net recharge in 2024; 2025 dryness risk
+2025,SGMA Basin Priority (Central Valley),High/Medium,DWR Bulletin 118,94 basins under GSPs
+2025,Tribal Piped Water Access (Hoopa),48%,Hoopa Valley Tribe,Nitrate risk persists
+2025,Tribal Piped Water Access (Yurok),32%,Yurok Tribe,Shallow wells; limited progress
+2025,Tribal Piped Water Access (Tule River),62%,Tule River Tribe,Partial municipal upgrades
