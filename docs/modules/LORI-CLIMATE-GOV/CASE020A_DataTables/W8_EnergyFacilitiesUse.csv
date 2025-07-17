@@ -1,1 +1,11 @@
+Year,Metric,Value,Source,Notes
+2020,Thermoelectric Water Use,13% total (41 Bgal/d),USGS 2020,Mostly saline; CA ~10%
+2020,Hydroelectric Cooling Use,<1% total,USGS 2020,Minimal impact
+2020,CA Energy Sector Total,1.6 MAF,DWR 2020,Includes thermoelectric/hydro
+2023,Thermoelectric Water Use,12% total,USGS/DWR,Stable saline use
+2023,Hydroelectric Cooling Use,<1% total,USGS/DWR,Minimal impact
+2023,CA Energy Sector Total,1.55 MAF,DWR 2023,Slight efficiency gains
+2025,Thermoelectric Water Use,13% total,USGS/DWR,Mostly saline
+2025,Hydroelectric Cooling Use,<1% total,USGS/DWR,Minimal impact
+2025,CA Energy Sector Total,1.5 MAF,DWR 2025,Stable demand
 
