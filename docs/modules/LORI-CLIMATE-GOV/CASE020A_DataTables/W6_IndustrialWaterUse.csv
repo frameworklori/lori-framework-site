@@ -1,1 +1,22 @@
+# W6 Industrial Water Use
 
+**Purpose:** Tracks industrial water use in key economic zones.
+
+**Headers:**
+- Region
+- Sector
+- Annual_Use_m3
+- Source_Year
+- Notes
+
+**Sample Data:**
+```
+Region,Sector,Annual_Use_m3,Source_Year,Notes
+San_Francisco_Bay_Area,Manufacturing,150000,2020,Tech-oriented demand. Update with 2025 industrial survey.
+South_Coast,Food_Processing,100000,2021,Water-intensive sector. Confirm with 2025 DWR data.
+Central_Valley,Textiles,80000,2019,Legacy industries. Verify ongoing demand in 2025.
+```
+
+**Source:** Regional water board estimates (2019–2021). Subject to updates from 2025 UWMPs.
+
+**Notes:** Disaggregation by sector enables targeted conservation measures.
