@@ -1,1 +1,5 @@
-
+| Region         | Subbasin      |   Groundwater_Depletion_Rate_km3_yr | Water_Stress_Level   |   Source_Year | Notes                                                        |
+|:---------------|:--------------|------------------------------------:|:---------------------|--------------:|:-------------------------------------------------------------|
+| Central_Valley | San_Joaquin   |                                8.58 | High                 |          2019 | Accelerated depletion 2019-2021. Verify with 2025 SGMA data. |
+| Central_Valley | Tulare        |                                2.41 | Moderate             |          2003 | Pre-SGMA data. Update with 2025 groundwater reports.         |
+| South_Coast    | Orange_County |                                0.5  | High                 |          2015 | Overdraft persists. Confirm with 2025 DWR data.              |
