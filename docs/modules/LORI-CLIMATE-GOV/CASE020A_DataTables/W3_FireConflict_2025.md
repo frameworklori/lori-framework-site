@@ -38,4 +38,4 @@ This dataset supplements the original `W3_FireConflict.csv`, focusing specifical
 
 ## Related Module
 - [`CASE020A.md`](../../LORI-JURY-CASES/CASE020A_CaliforniaWaterEthics.md)
-- [`W3_FireConflict.csv`](../CASE020A_DataTables/W3_FireConflict.csv) – original 2010–2023 dataset
+- [`W3_FireConflict.csv`](../../CASE020A_DataTables/W3_FireConflict.csv) – original 2010–2023 dataset
