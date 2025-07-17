@@ -1,22 +1,21 @@
-# W6 Industrial Water Use
+# W6_IndustrialWaterUse – Water Consumption by Major Industrial Sectors
 
-**Purpose:** Tracks industrial water use in key economic zones.
+## Overview
+Summarizes estimated water consumption by industry type across California, highlighting key areas with high resource demand and their proximity to vulnerable communities.
 
-**Headers:**
-- Region
-- Sector
-- Annual_Use_m3
-- Source_Year
-- Notes
+## Data Table
 
-**Sample Data:**
-```
-Region,Sector,Annual_Use_m3,Source_Year,Notes
-San_Francisco_Bay_Area,Manufacturing,150000,2020,Tech-oriented demand. Update with 2025 industrial survey.
-South_Coast,Food_Processing,100000,2021,Water-intensive sector. Confirm with 2025 DWR data.
-Central_Valley,Textiles,80000,2019,Legacy industries. Verify ongoing demand in 2025.
-```
+| Industry Sector | Avg Annual Use (MAF) | Region | Community Impact Risk | Notes | Source |
+|-----------------------|----------------------|------------------|------------------------|--------------------------------------|-------------|
+| Food Processing | 0.22 | Central Valley | High | Often near agricultural zones | DWR |
+| Oil Refining | 0.18 | Bay Area, SoCal | Moderate | Recycle rate <20% | CARB |
+| Lithium Extraction | 0.05 | Imperial Valley | High | Projected increase (2026+) | DOE |
+| Cement Production | 0.03 | Southern CA | Low | Evaporative use in cooling | Industry Est|
 
-**Source:** Regional water board estimates (2019–2021). Subject to updates from 2025 UWMPs.
+## Tags
+`industrial_water_use`, `resource_intensity`, `environmental_justice`, `community_risk`, `water_policy`
 
-**Notes:** Disaggregation by sector enables targeted conservation measures.
+## Sources
+- DWR Industry Use Profiles (2023)
+- California Energy Commission (https://www.energy.ca.gov/)
+- Department of Energy Critical Minerals Report (2025)
