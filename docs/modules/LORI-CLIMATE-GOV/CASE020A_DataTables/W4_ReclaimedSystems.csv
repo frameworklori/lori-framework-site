@@ -1,5 +1,22 @@
-| Region                 |   Reclaimed_Water_Volume_m3 | Usage_Type   | Treatment_Level   |   Source_Year | Notes                                                 |
-|:-----------------------|----------------------------:|:-------------|:------------------|--------------:|:------------------------------------------------------|
-| Riverside_County       |                      200000 | Irrigation   | Tertiary          |          2023 | High reclamation adoption. Verify with 2025 DWR data. |
-| South_Coast            |                      150000 | Municipal    | Secondary         |          2023 | Urban recycling increasing. Check 2025 UWMPs.         |
-| San_Francisco_Bay_Area |                      100000 | Industrial   | Tertiary          |          2020 | Tech sector use. Update with 2025 reports.            |
+# W4_ReclaimedSystems – Recycled Water Infrastructure Access
+
+## Overview
+This file covers California’s regional variation in reclaimed water system deployment and access levels, particularly focusing on inequities faced by rural and tribal areas.
+
+## Data Table
+
+| Region | Reuse Rate (%) | Infrastructure Status | Equity Grade | Notes | Source |
+|--------------------|----------------|------------------------------|--------------|------------------------------------------------|-------------------|
+| Los Angeles | 28 | Full tertiary & purple pipe | A | Advanced system with residential integration | LADWP |
+| Central Valley | 9 | Partial tertiary only | C | Industrial use only; no urban delivery | DWR |
+| Tule River Area | 3 | Pilot-scale tertiary | D | Low coverage; underfunded tribal program | Tribal Report |
+| San Francisco | 18 | Advanced reuse network | B+ | Office & toilet reuse, but not full irrigation | SFPUC |
+
+## Tags
+`reclaimed_water`, `infrastructure_gap`, `water_equity`, `urban_vs_rural`, `tribal_rights`
+
+## Sources
+- DWR Water Recycling Reports (https://water.ca.gov)
+- LADWP Reuse Plan (2024)
+- Tule River Tribal Report (2025)
+- SFPUC Water Strategy (https://sfwater.org)
