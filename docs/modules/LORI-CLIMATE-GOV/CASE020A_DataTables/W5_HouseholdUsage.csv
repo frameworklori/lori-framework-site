@@ -1,1 +1,6 @@
-
+| Region                 |   Per_Capita_Daily_Use_gallons |   Total_Annual_Use_m3 |   Source_Year | Notes                                                 |
+|:-----------------------|-------------------------------:|----------------------:|--------------:|:------------------------------------------------------|
+| San_Francisco_Bay_Area |                            150 |             182000000 |          2020 | Post-drought conservation. Verify with 2025 UWMPs.    |
+| South_Coast            |                            140 |             250000000 |          2020 | Urban density drives use. Update with WUEdata Portal. |
+| Central_Valley         |                            180 |             120000000 |          2015 | Higher outdoor use. Confirm with 2025 DWR data.       |
+| Sacramento             |                            217 |              75000000 |          2012 | Pre-drought data. Check 2025 WUEdata Portal.          |
