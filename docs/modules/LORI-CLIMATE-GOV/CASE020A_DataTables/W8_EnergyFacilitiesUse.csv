@@ -1,1 +1,21 @@
+# W8 Energy Facility Water Use
 
+**Purpose:** Tracks water usage by thermoelectric and hydropower facilities.
+
+**Headers:**
+- Region
+- Facility_Type
+- Annual_Use_m3
+- Source_Year
+- Notes
+
+**Sample Data:**
+```
+Region,Facility_Type,Annual_Use_m3,Source_Year,Notes
+South_Coast,Thermoelectric,500000,2020,High demand for cooling. Confirm with CPUC 2025 reports.
+Central_Valley,Hydropower,400000,2019,Reservoir-based. Affected by drought. Validate 2025 DWR data.
+```
+
+**Source:** CPUC energy reports and DWR facility databases.
+
+**Notes:** Cooling methods influence water demand substantially.
