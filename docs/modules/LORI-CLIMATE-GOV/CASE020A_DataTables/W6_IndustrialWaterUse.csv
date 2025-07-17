@@ -1,1 +1,8 @@
+Year,Region,Industrial_Water_Use_MAF,Primary_Sector,Source,Notes
+2020,Central Valley,0.6,Manufacturing/Mining,USGS 2020,Stable demand
+2020,Southern California,0.4,Manufacturing,USGS 2020,Urban focus
+2023,Central Valley,0.55,Manufacturing/Mining,PPIC/DWR,Post-drought efficiency
+2023,Southern California,0.35,Manufacturing,PPIC/DWR,Conservation measures
+2025,Central Valley,0.5,Manufacturing/Mining,DWR 2025,AB 1668 compliance
+2025,Southern California,0.3,Manufacturing,DWR 2025,Urban efficiency
 
