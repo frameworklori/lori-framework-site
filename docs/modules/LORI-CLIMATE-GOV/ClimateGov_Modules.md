@@ -28,7 +28,7 @@ This module hub compiles all core components related to **climate justice, envir
   Includes visuals of water use disparities and fire-risk inequities.
 
 #### 📊 Dataset Directory
-- [`CASE020A_DataTables/`](./CASE020A_DataTables/)  
+- [`CASE020A_DataTables/`](./LORI-CLIMATE-GOV/CASE020A_DataTables/README.md)  
   Nine CSV files (W1–W9) with water allocation, tribal access, energy sector use, wildfire reserve, reclaimed water metrics.
 
 #### 📦 Data Summary
