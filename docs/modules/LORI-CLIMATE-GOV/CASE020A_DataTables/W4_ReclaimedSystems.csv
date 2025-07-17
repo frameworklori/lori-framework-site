@@ -1,1 +1,17 @@
+Year,Region,Recycled_Water_Use_Pct,Treatment_Level,Pipe_Infrastructure_km,UWMP_Delivery_Vol_MAF,Source,Notes
+2020,Los Angeles,10,Advanced,400,0.18,DWR UWMP 2020,Pre-Purple Pipe expansion
+2020,San Diego,8,Tertiary,200,0.10,DWR UWMP 2020,Limited coastal infrastructure
+2020,Sacramento,5,Secondary,100,0.05,DWR UWMP 2020,No Purple Pipe
+2020,Fresno,3,Secondary,80,0.03,DWR UWMP 2020,Infrastructure gap
+2020,Tule River,<1,Secondary,5,0.005,Tule River Tribe,Minimal access
+2023,Los Angeles,13,Advanced,450,0.22,PPIC/DWR,Post-drought improvements
+2023,San Diego,10,Tertiary,250,0.13,PPIC/DWR,Purple Pipe initiated
+2023,Sacramento,7,Secondary,130,0.07,PPIC/DWR,Limited expansion
+2023,Fresno,4,Secondary,90,0.04,PPIC/DWR,Persistent gaps
+2023,Tule River,<1,Secondary,8,0.008,Tule River Tribe,No Purple Pipe
+2025,Los Angeles,15,Advanced,500,0.25,DWR UWMP 2025,High AB 1668 compliance
+2025,San Diego,12,Tertiary,300,0.15,DWR UWMP 2025,Purple Pipe expansion
+2025,Sacramento,8,Secondary,150,0.08,DWR UWMP 2025,Moderate compliance
+2025,Fresno,5,Secondary,100,0.05,DWR UWMP 2025,Low sustainability
+2025,Tule River,<2,Secondary,10,0.01,Tule River Tribe,Severe equity gap
 
