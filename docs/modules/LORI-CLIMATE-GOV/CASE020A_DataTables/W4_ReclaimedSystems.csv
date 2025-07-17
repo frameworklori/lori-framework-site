@@ -1,7 +1,0 @@
-Region,Recycled_Water_Use_Pct,Treatment_Level,Pipe_Infrastructure_km,UWMP_Delivery_Vol_MAF,Source,Year,Notes
-Los Angeles,15%,Advanced,500,0.25,DWR WUEdata,2025,Purple Pipe; high sustainability compliance
-San Diego,12%,Tertiary,300,0.15,DWR WUEdata,2025,Purple Pipe expanding; coastal focus
-Sacramento,8%,Secondary,150,0.08,DWR WUEdata,2025,Limited Purple Pipe; moderate compliance
-Fresno,5%,Secondary,100,0.05,DWR WUEdata,2025,Infrastructure gap; low sustainability
-"Mid-Sized (e.g., Santa Monica)",20%,Advanced,50,0.03,DWR WUEdata,2025,Water independence goal by 2023
-Tribal Lands (Tule River),<2%,Secondary,10,0.01,Tule River Tribe,2025,Severe equity gap; no Purple Pipe
