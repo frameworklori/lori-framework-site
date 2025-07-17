@@ -1,1 +1,11 @@
+Year,Region,Total_Use_MAF,Population_Served,Source,Notes
+2020,Los Angeles,2.0,10000000,DWR UWMP 2020,Drought restrictions
+2020,Central Valley,1.3,3000000,DWR UWMP 2020,High per-capita use
+2020,San Francisco,0.45,2800000,DWR UWMP 2020,Strong conservation
+2023,Los Angeles,1.9,10000000,PPIC/DWR,Post-drought recovery
+2023,Central Valley,1.25,3000000,PPIC/DWR,Stable demand
+2023,San Francisco,0.42,2800000,PPIC/DWR,Efficiency gains
+2025,Los Angeles,1.8,10000000,DWR UWMP 2025,AB 1668 compliance
+2025,Central Valley,1.2,3000000,DWR UWMP 2025,Moderate conservation
+2025,San Francisco,0.4,2800000,DWR UWMP 2025,High efficiency
 
