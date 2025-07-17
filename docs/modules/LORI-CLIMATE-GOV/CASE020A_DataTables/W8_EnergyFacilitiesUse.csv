@@ -1,7 +1,0 @@
-# W8_EnergyFacilitiesUse – Energy Sector Water Use
-
-| Metric                     | Value               | Source     | Year | Notes                                      |
-|----------------------------|---------------------|------------|------|--------------------------------------------|
-| Thermoelectric Water Use   | 13% total (41 Bgal/d)| USGS       | 2020 | Mostly saline; CA share ~10%               |
-| Hydroelectric Cooling Use  | <1% total           | USGS       | 2020 | Minimal compared to thermoelectric         |
-| CA Energy Sector Total     | 1.5 MAF             | DWR        | 2023 | Includes thermoelectric and hydro          |
