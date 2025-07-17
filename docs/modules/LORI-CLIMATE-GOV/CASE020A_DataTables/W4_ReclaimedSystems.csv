@@ -1,1 +1,5 @@
-
+| Region                 |   Reclaimed_Water_Volume_m3 | Usage_Type   | Treatment_Level   |   Source_Year | Notes                                                 |
+|:-----------------------|----------------------------:|:-------------|:------------------|--------------:|:------------------------------------------------------|
+| Riverside_County       |                      200000 | Irrigation   | Tertiary          |          2023 | High reclamation adoption. Verify with 2025 DWR data. |
+| South_Coast            |                      150000 | Municipal    | Secondary         |          2023 | Urban recycling increasing. Check 2025 UWMPs.         |
+| San_Francisco_Bay_Area |                      100000 | Industrial   | Tertiary          |          2020 | Tech sector use. Update with 2025 reports.            |
