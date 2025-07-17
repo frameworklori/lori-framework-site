@@ -1,1 +1,5 @@
-
+| Region             |   Agricultural_Water_Use_m3 |   Tribal_Water_Allocation_m3 | Conflict_Flag   |   Source_Year | Notes                                                                   |
+|:-------------------|----------------------------:|-----------------------------:|:----------------|--------------:|:------------------------------------------------------------------------|
+| San_Joaquin_Valley |                     5000000 |                        50000 | Yes             |          2023 | High agricultural use; tribal allocation limited. Verify 2025 DWR data. |
+| Sacramento_Basin   |                     3000000 |                        75000 | No              |          2023 | Lower conflict; better tribal access. Check 2025 tribal agreements.     |
+| Kern_County        |                     4000000 |                        30000 | Yes             |          2018 | Agriculture dominates. Confirm with 2025 CalGEM data.                   |
