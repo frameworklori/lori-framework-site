@@ -1,7 +1,0 @@
-# W9_UrbanWaterUse – Urban Total Water Use
-
-| Region        | Total Use (MAF) | Population Served | Source       | Year | Notes                      |
-|---------------|------------------|-------------------|--------------|------|----------------------------|
-| Los Angeles   | 1.8              | 10,000,000        | DWR WUEdata  | 2024 | High urban demand          |
-| Central Valley| 1.2              | 3,000,000         | DWR WUEdata  | 2024 | Agricultural overlap       |
-| San Francisco | 0.4              | 2,800,000         | DWR WUEdata  | 2024 | Efficient urban systems    |
