@@ -1,5 +1,7 @@
+# W7_OilShaleExtraction
+
 ## Description
-Records oil shale water demand and its competition with firefighting water from 2021-2025, linked to W3, indirectly affecting wildfire control.
+Records oil shale water demand and competition with firefighting water from 2021-2025, analyzing CASE-020A’s safety vs. economy and industry vs. ecology tensions, with LORI-CASE-020’s agriculture prioritization guiding allocation ethics.
 
 ## Data Table
 
@@ -13,9 +15,11 @@ Records oil shale water demand and its competition with firefighting water from 
 | 2025 | Alpaugh Fire | Tulare County | N/A | No | CalFire | Non-oil shale region; no extraction activity |
 
 ## Analysis
-- **Oil Shale Impact**: Monterey Shale (0.1-0.5 barrels/barrel oil) competes with firefighting water, worsening pressure issues (W3: Palisades, 10% dry hydrants, July 17 note).
-- **Fire Impact**: Competition increases burned area in Monterey Shale regions (W3: Palisades, 38,690 acres vs. Tule River, 15,000 acres, no competition).
-- **Module Link**: Oil shale reduces firefighting water, reinforcing “water as the cause”; extinguishing agents (W4) supplement shortages.
+- **Oil Shale Impact**: Monterey Shale’s water demand (0.1-0.5 barrels/barrel oil) competes with firefighting (W3: Palisades, 10% hydrants dry, [web:9]), increasing burned area (38,690 acres vs. Tule River’s 15,000 acres, no competition), aligning with CASE-020A’s safety vs. economy and industry vs. ecology tensions.
+- **Agriculture Priority**: LORI-CASE-020’s agriculture prioritization suggests limiting oil shale water drawdown during fire season (CASE-020A simulation thread), prioritizing public safety.
+- **Simulation Thread**: CASE-020A’s proposed fire-season extraction limits and AI-based water optimization could reduce competition, enhancing firefighting capacity.
+- **Module Link**: Oil shale reduces firefighting water, reinforcing “water as the cause”; technology (W4, Phos-Chek, [web:6]) supplements shortages but increases costs.
+- **Data Advisory**: 2025 data are projections; Monterey Shale extraction is limited. Delay release until CARB’s SB 253 regulations (July 1, 2025,) clarify water use reporting.[](https://www.mayerbrown.com/en/insights/publications/2025/02/californias-climate-disclosure-laws-navigating-the-latest-updates)
 
 ## Sources
 - **CalFire**: California Department of Forestry and Fire Protection, [https://www.fire.ca.gov/](https://www.fire.ca.gov/) (Fire reports).
