@@ -1,4 +1,4 @@
-## W2_LandUse.md
+# W2_LandUse.md
 
 ## Description
 Records land use types (e.g., agriculture, oil shale) in wildfire areas, analyzing their impact on water allocation, linked to W3 (water resources) and W7 (oil shale).
