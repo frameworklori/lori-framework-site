@@ -1,7 +1,0 @@
-Year,Fire Name,Location,Oil Shale Water Demand (barrels water/barrel oil),Firefighting Water Competition,Source,Notes
-2021,Dixie Fire,Plumas/Butte,0.1-0.5,Yes (competes with firefighting water, potential reduction in available supply),CalFire/DWR,Monterey Shale; limited commercial extraction
-2025,Madre Fire,San Luis Obispo,0.1-0.5,Yes (competes with firefighting water, potential reduction in available supply),CalFire/DWR,Monterey Shale; limited commercial extraction
-2025,Palisades Fire,Los Angeles,0.1-0.5,Yes (competes with firefighting water, 10% hydrants dry due to pressure issues),CalFire/DWR,Monterey Shale; water pressure issues noted
-2025,Tule River Fire,Tule River Reservation,N/A,No,Tule River Tribe,Non-oil shale region; no extraction activity
-2025,Addie Fire,Kern County,0.1-0.5,Yes (competes with firefighting water, potential reduction in available supply),CalFire,Monterey Shale; estimated data
-2025,Alpaugh Fire,Tulare County,N/A,No,CalFire,Non-oil shale region; no extraction activity
