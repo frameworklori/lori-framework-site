@@ -1,47 +1,30 @@
 # 🏛️ Verdict Announcement – CASE-020A: California Water Ethics × Fire Risk
 
-**Case Reference**: CASE-020A
-**Region**: California
-**Filed Under**: LORI Jury-Based Judgment System
-**Date**: 2025-07-16
-**Deliberation Format**: 5 AI Agents + 2 Human Judges (Majority Required)
+**Date:** 2025-07-17  
+**LORI Jury System**  
+**Case:** Prioritization of Water Use in High Fire-Risk Regions of California  
+**Prepared by:** LORI Climate Justice Tribunal
 
 ---
 
-## 🎯 Final Verdict Summary
+## 🧾 Final Verdict
 
-> **Water reserves and firefighting capacity must take legal precedence over industrial or energy-based water usage during high-risk fire periods.**
-
-The Jury voted **6:1** in favor of enacting **seasonal water protection laws** limiting:
-
-- Hydraulic fracturing and steam injection in Kern County during red-flag fire alerts;
-- Industrial withdrawals in fire-vulnerable zones without equal firefighting backup;
-- Municipal overuse without proof of upgraded reclaimed systems and fire-response routing.
+- 🔥 **Emergency Fire Water Reserves take highest priority** over all other sectors during fire season (June–October).
+- 🛑 **Industrial water drawdown (especially oil shale and thermoelectric)** must halt if regional fire risk > 0.6 (per RIM score).
+- 🚱 **Urban upgrades to reclaimed systems are mandated** for zones with Equity Score < 0.4.
+- 💧 **Tribal and remote regions** must be granted non-negotiable baseline reserve thresholds.
 
 ---
 
-## 📢 Declaration of Principles
+## 🧩 Legal Implementation Path
 
-1. **Fire is an existential risk** to human lives and ecological stability, and shall override commercial water rights.
-2. **Reclaimed water must be governed under an equity-first framework**, especially in underserved areas.
-3. **Energy facilities must submit seasonal water backup audits**, ensuring compliance with emergency override provisions.
-
----
-
-## 🧠 Jury Deliberation Note
-
-> “Without prioritized protection for public fire systems, no industrial continuity can be justified. Climate response must be preemptive, not reactive.” – Emotional Moderator AI
-> “The imbalance in infrastructure distribution maps to socioeconomic gaps—this case is about distributive justice, not just water.” – Cultural Interpreter AI
+- Cities and industrial operators must submit fire contingency withdrawal plans by Q1 2026.
+- Cross-agency Fire-Water Allocation Committee (FWAC) to be established.
+- Emergency override protocols standardized using AI-detection of RIM × wind × pressure metrics.
 
 ---
 
-## ⏭️ Recommendations
+## 📍 Notes
 
-- Add seasonal override trigger to DWR and CalFire water governance APIs.
-- Invest in fire-prep reclaimed water infrastructure with public access mandates.
-- Audit oil/gas water usage monthly during June–October.
-
----
-
-_Last Updated: 2025-07-16_
-
+- This ruling builds upon data from W3, W7, W8 tables (fire conflict, oil shale draw, energy facilities).
+- All records appended to `VerdictLog_ClimateJustice.md` and simulation outcome history.
