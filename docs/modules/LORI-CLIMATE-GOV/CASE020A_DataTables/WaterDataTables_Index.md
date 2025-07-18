@@ -44,6 +44,22 @@ This index provides direct links and descriptions for all water-related CSV and 
 
 ---
 
+## ⚠️ Data Notes & Disclaimers
+
+- 2025 figures are projected and require field validation.
+- Tribal data (e.g., Tule River) may be underreported due to infrastructure gaps.
+- W3 and W7 contain sensitive infrastructure locations and have been redacted or delayed per Grok's advisory (see [Verdict_Announcement_CASE020A.md](../Verdict_Announcement_CASE020A.md)).
+
+---
+
+### 🔁 Linked Modules
+- [CASE020A_CaliforniaWaterEthics.md](../CASE020A_CaliforniaWaterEthics.md)
+- [WaterEthics_Charts_CASE020A.md](../WaterEthics_Charts_CASE020A.md)
+- [ClimatePolicySim_InputData.md](../../LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
+- [ClimateResilience_ScoringLogic.md](../../LORI-RIM/ClimateResilience_ScoringLogic.md)
+
+---
+
 📘 **Usage Note**
 These datasets are referenced throughout:
 - `CASE020A_CaliforniaWaterEthics.md`
