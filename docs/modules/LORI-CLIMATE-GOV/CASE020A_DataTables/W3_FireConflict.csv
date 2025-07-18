@@ -1,8 +1,36 @@
-Year,Fire Name,Location,Burned Area (acres),Water Source Affected,Reserve Volume Change (%),Accessibility Status,Emergency Water Release (acre-feet),Cause,Wind Impact,Oil Shale Water Demand (est.),Source,Notes
-1910,Great Fire,Idaho/Montana/Washington,3000000,Unknown rivers,Unknown,Unknown,Unknown,Lightning+Human,High (70 mph hurricane winds, increased fire spread),N/A,USFS Historical Records,Destructive firestorm; no modern water management
-2021,Dixie Fire,Plumas/Butte,963309,Lake Oroville,-15,Low,12000,Human,High (Santa Ana winds, increased evaporation and pressure issues),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Power line; largest 2021 fire
-2025,Madre Fire,San Luis Obispo,80779,Santa Margarita Lake,-10,Medium,8000,Human,Moderate (20-40 mph, increased evaporation),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Arson suspected
-2025,Palisades Fire,Los Angeles,38690,Diamond Valley,-3,High,16000,Human,High (50-80 mph Santa Ana winds, increased evaporation and pressure issues),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Arson; 10% hydrants dry
-2025,Tule River Fire,Tule River Reservation,15000,Tule River,-12,Low,0,Natural,Moderate (20-40 mph, increased evaporation),N/A,Tule River Tribe,Lightning; no tribal release
-2025,Addie Fire,Kern County,5000,Kern River,-5,Medium,2000,Human,Moderate (20-40 mph, increased evaporation),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire,Grassland fire; estimated data
-2025,Alpaugh Fire,Tulare County,3000,Tule River,-3,Low,0,Natural,Moderate (20-40 mph, increased evaporation),N/A,CalFire,Lightning; estimated data
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wildfire Burned Area Chart</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+<canvas id="wildfireChart" width="800" height="400"></canvas>
+<script>
+const ctx = document.getElementById('wildfireChart').getContext('2d');
+new Chart(ctx, {
+type: 'bar',
+data: {
+labels: ['Great Fire (1910)', 'Dixie Fire (2021)', 'Madre Fire (2025)', 'Palisades Fire (2025)', 'Tule River Fire (2025)', 'Addie Fire (2025)', 'Alpaugh Fire (2025)'],
+datasets: [{
+label: 'Burned Area (acres)',
+data: [3000000, 963309, 80779, 38690, 15000, 5000, 3000],
+backgroundColor: ['#FF5733', '#C70039', '#FFC107', '#FF9800', '#4CAF50', '#2196F3', '#9C27B0'],
+borderColor: ['#C70039', '#900C3F', '#FF9800', '#F57C00', '#388E3C', '#1976D2', '#7B1FA2'],
+borderWidth: 1
+}]
+},
+options: {
+scales: {
+y: { beginAtZero: true, title: { display: true, text: 'Burned Area (acres)' } },
+x: { title: { display: true, text: 'Wildfire Events' }, ticks: { autoSkip: false, maxRotation: 45, minRotation: 45 } }
+},
+plugins: {
+title: { display: true, text: 'Burned Area: 1910 vs. 2021 vs. 2025 Wildfires' },
+subtitle: { display: true, text: '1910: No water management; 2021: Lake Oroville -15%, 12,000 acre-feet; 2025: Diamond Valley -3%, 16,000 acre-feet (Palisades); Tule River -12%, 0 acre-feet (Tule River/Alpaugh); wind increased evaporation and pressure issues' }
+}
+}
+});
+</script>
+</body>
+</html>
