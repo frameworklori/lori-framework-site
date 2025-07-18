@@ -1,6 +1,6 @@
 # 🏛️ Verdict Announcement – CASE-020A: California Water Ethics × Fire Risk
 
-**Date:** 2025-07-17  
+**Date:** 2025-07-19  
 **LORI Jury System**  
 **Case:** Prioritization of Water Use in High Fire-Risk Regions of California  
 **Prepared by:** LORI Climate Justice Tribunal
