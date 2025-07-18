@@ -48,7 +48,7 @@ This index provides direct links and descriptions for all water-related CSV and 
 
 - 2025 figures are projected and require field validation.
 - Tribal data (e.g., Tule River) may be underreported due to infrastructure gaps.
-- W3 and W7 contain sensitive infrastructure locations and have been redacted or delayed per Grok's advisory (see [Verdict_Announcement_CASE020A.md](../Verdict_Announcement_CASE020A.md)).
+- W3 and W7 contain sensitive infrastructure locations and have been redacted or delayed per Grok's advisory (see [Verdict_Announcement_CASE020A.md](Verdict_Announcement_CASE020A.md)).
 
 ---
 
