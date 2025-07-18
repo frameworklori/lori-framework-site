@@ -50,6 +50,9 @@ This module cluster supports integration with satellite networks, emergency agen
 Integrates climate vulnerability, water access, and productivity loss indicators across Taiwan, South Asia, Southern US, Mongolia, and Kuwait. Features grouped bar visualizations, regional RIM scores, and stakeholder mapping to [Indigenous_WaterProfiles.md](../LORI-JURY-CASES/Indigenous_WaterProfiles.md). Closed in agreement with Grok on 2025-07-13.
 Linked Modules: RIM, ECJ, GHLI
 
+📘 [Water Data Tables Index](./CASE020A_DataTables/WaterDataTables_Index.md)
+This index page compiles all water-related data tables (W1–W9) used in CASE-020A, covering structural scarcity, agricultural vs. tribal allocation conflicts, emergency wildfire water sources, reclaimed water infrastructure, household and industrial usage, oil shale extraction, energy sector demand, and urban water distribution by population. Each table includes source references, year tags, notes, and cross-module relevance to ECJ, RIM, and GHLI metrics for policy simulation and decision support.
+
 ---
 
 ## 🛰️ Starlink-Integrated Modules
