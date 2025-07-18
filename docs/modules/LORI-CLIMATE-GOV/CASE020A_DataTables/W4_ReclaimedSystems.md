@@ -1,5 +1,5 @@
 ## Description
-Records recycled water use and infrastructure from 2020-2025, analyzing contributions to firefighting water availability, linked to W3 (water resources).
+Records recycled water use and infrastructure from 2020-2025, analyzing contributions to firefighting water (W3) and ethical tensions (CASE-020A: urban vs. rural, privatization risks), emphasizing equitable distribution for fire-risk zones and climate justice (LORI-CASE-020 ECJ).
 
 ## Data Table
 
@@ -22,9 +22,12 @@ Records recycled water use and infrastructure from 2020-2025, analyzing contribu
 | 2025 | Tule River | <2 | Secondary | 10 | 0.01 | Tule River Tribe | Severe equity gap |
 
 ## Analysis
-- **Recycled Water**: Los Angeles (15% recycled use, 0.25 MAF, 2025) supports firefighting (W3: Palisades, 16,000 acre-feet), while Tule River (<2%, 0.01 MAF) lacks infrastructure, limiting water (W3: 0 acre-feet).
-- **Infrastructure Gaps**: Limited pipes in Tule River (10 km) restrict firefighting, increasing burned area (15,000 acres).
-- **Module Link**: Recycled water supplements firefighting, reinforcing “water as the cause”; tribal inequities (W1) exacerbate shortages.
+- **Recycled Water Contribution**: Los Angeles’ 15% recycled use (0.25 MAF, 2025) supports firefighting (W3: Palisades, 16,000 acre-feet, 38,690 acres), while Tule River’s <2% (0.01 MAF) limits access, increasing burned area (15,000 acres), reflecting CASE-020A’s urban vs. rural inequity and LORI-CASE-020’s tribal vulnerability focus.
+- **Infrastructure Gaps**: Tule River’s minimal pipes (10 km) vs. Los Angeles’ 500 km highlight CASE-020A’s privatization risk, where affluent areas receive upgrades first.
+- **Simulation Thread**: CASE-020A’s proposed redistribution of reclaimed water to fire-risk zones (e.g., Tule River) and AI-optimized delivery could reduce burned areas, aligning with LORI-CASE-020’s resilience goals (RIM).
+- **Oil Shale Link**: W7’s Monterey Shale competition (Palisades) reduces water availability, though recycled systems mitigate urban shortages.
+- **Module Link**: Recycled water supplements firefighting, reinforcing “water as the cause”; tribal inequities require technology (Phos-Chek, W4, [web:6]) and AI optimization (CASE-020A).
+- **Data Advisory**: 2025 data are projections; tribal data (e.g., Tule River) may be underreported due to infrastructure gaps.
 
 ## Sources
 - **DWR**: California Department of Water Resources, [https://water.ca.gov/](https://water.ca.gov/) (UWMP 2020, 2025).
