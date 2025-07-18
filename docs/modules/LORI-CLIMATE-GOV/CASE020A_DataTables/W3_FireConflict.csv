@@ -1,11 +1,8 @@
-Year,Fire_Name,Location,Burned_Area,Water_Source_Affected,Reserve_Volume_Change,Accessibility_Status,Emergency_Water_Release,Source,Notes
-2020,Creek Fire,Sierra Nevada (Fresno),379087 acres,Shaver Lake,-10%,Low,5000 acre-feet,CalFire/DWR,Tribal impacts
-2020,LNU Lightning Complex,Napa/Sonoma,363220 acres,Lake Berryessa,-8%,Medium,7000 acre-feet,CalFire/DWR,Urban priority
-2021,Dixie Fire,Plumas/Butte,963309 acres,Lake Oroville,-15%,Low,12000 acre-feet,CalFire/DWR,Largest 2021 fire
-2022,Oak Fire,Mariposa,19244 acres,Merced River,-5%,Medium,3000 acre-feet,CalFire/DWR,Rural strain
-2023,Smith River Complex,Del Norte,94837 acres,Smith River,-6%,Medium,4000 acre-feet,CalFire/Tule River Tribe,Yurok impacts
-2024,NooN Fire,Riverside,42000 acres,Colorado River Aqueduct,-7%,Medium,6000 acre-feet,CalFire/DWR,Urban priority
-2024,Highland Fire,Riverside,2430 acres,Lake Skinner,-4%,High,2000 acre-feet,CalFire/DWR,Rapid containment
-2025,Palisades Fire,Los Angeles,38690 acres,Diamond Valley,-3%,High,16000 acre-feet,CalFire/DWR,10% hydrants dry
-2025,Tule River Fire,Tule River Reservation,15000 acres,Tule River,-12%,Low,0 acre-feet,Tule River Tribe,No tribal release
-
+Year,Fire Name,Location,Burned Area (acres),Water Source Affected,Reserve Volume Change (%),Accessibility Status,Emergency Water Release (acre-feet),Cause,Wind Impact,Oil Shale Water Demand (est.),Source,Notes
+1910,Great Fire,Idaho/Montana/Washington,3000000,Unknown rivers,Unknown,Unknown,Unknown,Lightning+Human,High (70 mph hurricane winds, increased fire spread),N/A,USFS Historical Records,Destructive firestorm; no modern water management
+2021,Dixie Fire,Plumas/Butte,963309,Lake Oroville,-15,Low,12000,Human,High (Santa Ana winds, increased evaporation and pressure issues),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Power line; largest 2021 fire
+2025,Madre Fire,San Luis Obispo,80779,Santa Margarita Lake,-10,Medium,8000,Human,Moderate (20-40 mph, increased evaporation),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Arson suspected
+2025,Palisades Fire,Los Angeles,38690,Diamond Valley,-3,High,16000,Human,High (50-80 mph Santa Ana winds, increased evaporation and pressure issues),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire/DWR,Arson; 10% hydrants dry
+2025,Tule River Fire,Tule River Reservation,15000,Tule River,-12,Low,0,Natural,Moderate (20-40 mph, increased evaporation),N/A,Tule River Tribe,Lightning; no tribal release
+2025,Addie Fire,Kern County,5000,Kern River,-5,Medium,2000,Human,Moderate (20-40 mph, increased evaporation),Potential in Monterey Shale (0.1-0.5 barrels water/barrel oil, competes with firefighting water),CalFire,Grassland fire; estimated data
+2025,Alpaugh Fire,Tulare County,3000,Tule River,-3,Low,0,Natural,Moderate (20-40 mph, increased evaporation),N/A,CalFire,Lightning; estimated data
