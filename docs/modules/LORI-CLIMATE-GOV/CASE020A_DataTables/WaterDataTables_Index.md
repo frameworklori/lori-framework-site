@@ -7,7 +7,7 @@ This index provides direct links and descriptions for all water-related CSV and 
 ---
 
 ### 🔹 W1 – Structural Water Scarcity
-- [`W1_StructuralScarcity.md`](W1_StructuralScarcity.md): Summary of aquifer depletion, tribal piped water access, SGMA progress.
+- [`W1_StructuralScarcity.md`](./W1_StructuralScarcity.md): Summary of aquifer depletion, tribal piped water access, SGMA progress.
 - [`W1_StructuralScarcity.csv`](./W1_StructuralScarcity.csv)
 
 ### 🔹 W2 – Agricultural vs Tribal Allocation
