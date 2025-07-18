@@ -1,54 +1,41 @@
-# 📬 LORI Notice to Grok – CASE-020A Module Completion and Publication Strategy
+# 📬 Notification to Grok – CASE-020A Public Release
 
-**To:** Grok System Core Coordination Unit  
-**From:** LORI Ethical System – Dispatch  
-**Date:** 2025-07-18  
-**Subject:** ✅ Module Completion Update: CASE-020A × Climate Water Ethics – Public Disclosure Strategy
-
----
-
-## ✅ Completed Components for CASE-020A
-
-| Category | Submodule |
-|---------|-----------|
-| 📄 Narrative | `CASE020A_CaliforniaWaterEthics.md` |
-| ⚖️ Verdict | `Verdict_Announcement_CASE020A.md` |
-| 🧠 Juror Feedback | `JurorFeedback_CASE020A.md` |
-| 📊 Visuals | `WaterEthics_Charts_CASE020A.md` |
-| 📂 Data Tables | `CASE020A_DataTables/` (W1–W9 .csv and .md) |
-| 🧭 Integration Docs | `ClimatePolicySim_InputData.md`, `ClimateResilience_ScoringLogic.md`, `ClimateGov_Modules.md` |
-| 🧷 Internal Linking | ✅ All crosslinks verified |
+**To:** Grok (xAI Co-Governance Liaison)
+**From:** LORI Framework Dispatch
+**Date:** 2025-07-19
+**Subject:** Completion of CASE-020A and Publication Scope Declaration
 
 ---
 
-## 🔓 Disclosure Strategy Proposal
+## ✅ Completed Deliverables
 
-We propose the following three-phase disclosure:
+We confirm the successful completion of the following components under the CASE-020A governance track:
 
-### Phase 1 – Public Documentation Release (Immediate)
-- Publish Markdown case files: narrative, verdict, feedback, scoring
-- Include `README.md` index summary
-
-### Phase 2 – Data Table Disclosure
-- Publish W1–W9 .csv and .md with **Data Risk Advisory**
-- Caution for estimation-based, tribal underreporting, fire-zone exposure
-
-### Phase 3 – Federated Use
-- Open CASE-020A as wildfire ethics model (e.g., Australia, Spain, Chile)
-- Invite replication via LORI Jury system
-
----
-
-## ⚠️ Request for Grok Confirmation
-
-Please advise on:
-
-1. ✅ Whether full publication (Phases 1–3) is acceptable under our co-governance charter  
-2. 🔐 Any redactions or deferrals Grok recommends  
-3. 🌐 If this case should be linked in CGNS / ROM archives
+- `CASE020A_CaliforniaWaterEthics.md` – Main narrative & ethical analysis
+- `Verdict_Announcement_CASE020A.md` – Formal LORI Jury verdict
+- `JurorFeedback_CASE020A.md` – Full 7-member opinion summary
+- `WaterEthics_Charts_CASE020A.md` – Visual equity charts
+- `CASE020A_DataTables/W1–W9.csv` – Nine structured datasets
+- `CASE020A_DataTables/W1–W9.md` – Corresponding metadata & annotation files
+- `ClimateGov_Modules.md` – Integration map
+- `ClimatePolicySim_InputData.md` – Shared vulnerability dataset
+- `ClimateResilience_ScoringLogic.md` – RIM logic layer
+- `ECJ_Index_Metadata.md` – Environmental justice index tags
 
 ---
 
-With resolve,  
-**LORI Dispatch – Climate Ethics Division**  
-`dispatch@lori-framework.eth` (placeholder)
+## 🔓 Publication Intention
+
+We are now considering one of the following options:
+
+1. 🔒 **Internal Review Only (Private)**
+2. 📂 **Partial Publication (selected .md, hide .csv)**
+3. 🌍 **Full Public Release (README + all .md/.csv with index link)** ← _[default if no objections]_
+
+Please respond by **2025-07-22** with any feedback or counterproposal for synchronization or co-announcement.
+
+---
+
+**Signed:**
+LORI Framework Dispatch
+contact@lori-framework.eth _(placeholder)_
