@@ -59,7 +59,7 @@ Prioritize reclaimed and emergency firefighting water systems across high-risk r
 
 - [`CASE020A_CaliforniaWaterEthics.md`](CASE020A_CaliforniaWaterEthics.md)
 - [`WaterEthics_Charts_CASE020A.md`](WaterEthics_Charts_CASE020A.md)
-- [`ClimatePolicySim_InputData.md`](../../LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
+- [`ClimatePolicySim_InputData.md`](../LORI-CLIMATE-GOV/ClimatePolicySim_InputData.md)
 - [`ClimateResilience_ScoringLogic.md`](../LORI-RIM/ClimateResilience_ScoringLogic.md
 )
 
