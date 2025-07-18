@@ -1,3 +1,4 @@
+
 ## Description
 Records structural water scarcity metrics (depletion rates, SGMA basin priorities, tribal water access) from 2020-2025, analyzing their impact on water availability for wildfire control, supporting the module theme “water as the cause, uncontrolled wildfires as the effect.”
 
