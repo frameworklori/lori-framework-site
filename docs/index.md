@@ -142,6 +142,8 @@ This simulation explores how governments ethically allocate protections and reso
 - [JurorFeedback_Framework.md](modules/LORI-JURY/JurorFeedback_Framework.md) – Template for collecting juror feedback post-verdict
 - [EthicalMemory_Template.md](modules/LORI-JURY/EthicalMemory_Template.md) – Template for archiving ethical basis, metadata, and AI-human vote logic
 - [ClimateGov_Modules.md](modules/LORI-CLIMATE-GOV/ClimateGov_Modules.md) – Full list of climate governance modules used across CASE-020/021/022
+- [`LORI_NoticeToGrok_CASE020A_Publication.md`](../../modules/LORI-CLIMATE-GOV/LORI_NoticeToGrok_CASE020A_Publication.md) – Coordination memo confirming full public release of CASE-020A modules.
+
 
 ### 📂 CASE-021A – Supplementary Files| ✅ |
 
