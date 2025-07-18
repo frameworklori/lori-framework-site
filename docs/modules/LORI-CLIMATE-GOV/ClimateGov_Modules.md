@@ -27,6 +27,9 @@ This module hub compiles all core components related to **climate justice, envir
 - [`WaterEthics_Charts_CASE020A.md`](../LORI-JURY-CASES/WaterEthics_Charts_CASE020A.md)  
   Includes visuals of water use disparities and fire-risk inequities.
 
+- [Water Data Tables Index](./LORI-CLIMATE-GOV/WaterDataTables_index.md)
+This index provides structured access to all W1–W9 datasets used in CASE-020A, covering water scarcity, fire risk, tribal access, urban consumption, and climate adaptation in California. It supports ethical deliberations (ECJ) and infrastructure resilience modeling (RIM) across multiple modules within the LORI Framework.
+
 #### 📊 Dataset Directory
 - [`CASE020A_DataTables/`](./CASE020A_DataTables/)  
   Nine CSV files (W1–W9) with water allocation, tribal access, energy sector use, wildfire reserve, reclaimed water metrics.
