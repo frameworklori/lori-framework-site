@@ -1,0 +1,2 @@
+BatchID,ReleaseDate,ZoneID,JuvenileCount,WaterTempAvg(°C),PlanktonIndex,BenthicScanScore,PredatorAlertLevel,EthicsGateStatus,CustodianApproval,StarlinkScanRef,AuditHash,Notes
+PKC-20250724-A01,2025-07-24,Z12-NorthBay,5000,3.8,0.87,92,LOW,PASSED,Approved,SAT-REF-002-78A4,d15e98a3b5...,Initial AI-guided batch release
