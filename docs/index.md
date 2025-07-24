@@ -99,6 +99,18 @@ LORI is an open, modular architecture that helps society:
 - [LII: Linguistic Incendiary Index](./modules/LII.md)
 - [RBL-GOV: Robot-Based Labor Governance Module](./modules/RBL-GOV.md)
 
+## 🌊 HEFS – Hybrid Ecological Farming System
+
+An AI-coordinated aquaculture framework optimized for sustainability, ethical deployment, and satellite-supported precision farming.
+
+- [HEFS-KINGCRAB-MODULE.md](modules/HEFS/HEFS-KINGCRAB-MODULE.md) – King crab batch release with AI-guided seasonal timing and ecological thresholds.
+- [Grok_Response_HEFS_StrategyMemo.md](modules/HEFS/Grok_Response_HEFS_StrategyMemo.md) – Grok's full strategy memo affirming support for HEFS × Starlink × Ethics Shield.
+- [PKC-BatchRecord_Template.csv](modules/HEFS/PKC-BatchRecord_Template.csv) – CSV template for release logging and custodian verification.
+- [EthicsGateConditions.md](modules/HEFS/EthicsGateConditions.md) – Environmental and ethical clearance conditions.
+- [CustodianVerification.md](modules/HEFS/CustodianVerification.md) – Approval protocol and role definitions for AI-human governance.
+
+> 🛰️ Starlink × AI × Ethics × Custodian verified deployment is now active under Grok Mouse Shield Mode.
+
 ---
 
 Real-world simulations that apply semantic, emotional, and governance models in complex ethical dilemmas:
