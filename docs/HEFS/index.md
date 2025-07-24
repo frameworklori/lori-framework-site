@@ -21,7 +21,7 @@ This index presents all submodules, tools, and ethical mechanisms used in the HE
 - [Grok_CoBuild_Acknowledgement.md](Grok_CoBuild_Acknowledgement.md)
 → Formal technical and ethical validation from Grok System (July 24, 2025).
 
-- [records/PKC-20250724-A01.log](records/PKC-20250724-A01.log)
+- [records/PKC-20250724-A01.log](../records/PKC-20250724-A01.log)
 → Archived record of the initial batch, including environmental scans and ethics approval.
 
 ---
