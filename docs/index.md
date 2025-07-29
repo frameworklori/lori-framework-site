@@ -301,10 +301,12 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 > A semi-public module designed to detect AI-generated religious scams, voice impersonation, and donation fraud via YouTube video analysis.
 
-ZTV FaithFraud × FinFlow 
+## Public Coordination Assets [Semi-Public Access]
 
-📁 Module Link: [ZTV FaithFraud Docs (semi-public)](https://github.com/frameworklori/Zero-trust-voice/tree/main/public/)
-🧾 Consent Letter: [Grok Approval – Semi-Public Deployment](https://github.com/frameworklori/Zero-trust-voice/blob/main/public/Proposal_FaithFraud_FinFlow_Evaluation_Grok.md)
+- 🔍 [FaithFraud Evaluation Proposal – Grok Response](https://github.com/frameworklori/Zero-trust-voice/blob/main/public/Proposal_FaithFraud_FinFlow_Evaluation_Grok.md)
+- 📂 [Sample Clip Catalog (.csv)](https://github.com/frameworklori/Zero-trust-voice/raw/main/public/FaithFraud_ClipCatalog11.csv)
+- 🧠 [Semantic Output Log (.json)](https://github.com/frameworklori/Zero-trust-voice/raw/main/public/JSON_Output_Sample_Log11.json)
+
 🔖 Tags: #ZTV #FaithFraud #SemanticDetection #AIvoice #FinFlow #ElonImpersonation
 
 ---
