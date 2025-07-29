@@ -303,9 +303,9 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ## Public Coordination Assets [Semi-Public Access]
 
-- 🔍 [FaithFraud Evaluation Proposal – Grok Response](https://github.com/frameworklori/Zero-trust-voice/blob/main/public/Proposal_FaithFraud_FinFlow_Evaluation_Grok.md)
-- 📂 [Sample Clip Catalog (.csv)](https://github.com/frameworklori/Zero-trust-voice/raw/main/public/FaithFraud_ClipCatalog11.csv)
-- 🧠 [Semantic Output Log (.json)](https://github.com/frameworklori/Zero-trust-voice/raw/main/public/JSON_Output_Sample_Log11.json)
+- 🔍 [FaithFraud Evaluation Proposal – Grok Response](https://github.com/frameworklori/Zero-trust-voice/blob/main/Public/Proposal_FaithFraud_FinFlow_Evaluation_Grok.md)
+- 📂 [Sample Clip Catalog (.csv)](https://github.com/frameworklori/Zero-trust-voice/blob/main/Public/FaithFraud_ClipCatalog11.csv)
+- 🧠 [Semantic Output Log (.json)](https://github.com/frameworklori/Zero-trust-voice/blob/main/Public/JSON_Output_Sample_Log11.json)
 
 🔖 Tags: #ZTV #FaithFraud #SemanticDetection #AIvoice #FinFlow #ElonImpersonation
 
