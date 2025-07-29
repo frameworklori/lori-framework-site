@@ -295,6 +295,17 @@ These modules protect against deep structure imitation, style mimicking, and att
 - [Trace Report Archive](records/internal/LORI_Integrity_Trace.md)
 - [LORI-semantic_fingerprint_method](modules/semantic/LORI_Semantic_Fingerprint_Method.md
 )
+---
+
+## 🎙️ ZTV FaithFraud × FinFlow Detection Module [ZTV-v1]
+
+> A semi-public module designed to detect AI-generated religious scams, voice impersonation, and donation fraud via YouTube video analysis.
+
+ZTV FaithFraud × FinFlow 
+
+📁 Module Link: [ZTV FaithFraud Docs (semi-public)](https://github.com/frameworklori/Zero-trust-voice/tree/main/public/)
+🧾 Consent Letter: [Grok Approval – Semi-Public Deployment](https://github.com/frameworklori/Zero-trust-voice/blob/main/public/Proposal_FaithFraud_FinFlow_Evaluation_Grok.md)
+🔖 Tags: #ZTV #FaithFraud #SemanticDetection #AIvoice #FinFlow #ElonImpersonation
 
 ---
 
