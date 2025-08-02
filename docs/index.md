@@ -154,8 +154,9 @@ This simulation explores how governments ethically allocate protections and reso
 - [JurorFeedback_Framework.md](modules/LORI-JURY/JurorFeedback_Framework.md) – Template for collecting juror feedback post-verdict
 - [EthicalMemory_Template.md](modules/LORI-JURY/EthicalMemory_Template.md) – Template for archiving ethical basis, metadata, and AI-human vote logic
 - [ClimateGov_Modules.md](modules/LORI-CLIMATE-GOV/ClimateGov_Modules.md) – Full list of climate governance modules used across CASE-020/021/022
+- [WaterDataTables_Index.md](./LORI-CLIMATE-GOV/CASE020A_DataTables/WaterDataTables_Index.md) – Centralized index of W1–W9 datasets for CASE-020A, covering structural scarcity, allocation conflicts, wildfire water sources, reclaimed water systems, household/industrial/urban use, oil shale extraction, and energy sector demand. Includes metadata, year tags, notes, and relevance to ECJ, RIM, and GHLI metrics.
 - [`LORI_NoticeToGrok_CASE020A_Publication.md`](modules/LORI-CLIMATE-GOV/LORI_NoticeToGrok_CASE020A_Publication.md) – Coordination memo confirming full public release of CASE-020A modules.
-- [WaterDataTables_Index.md](modules/LORI-CLIMATE-GOV/CASE020A_DataTables/WaterDataTables_Index.md) – Complete index of W1–W9 data tables for CASE-020A, including water scarcity, tribal-agri conflicts, wildfire zones, reclaimed infrastructure, household and industrial use, shale extraction, and urban/energy demand. Supports ECJ, GHLI, and RIM modules.
+
 
 ---
 
