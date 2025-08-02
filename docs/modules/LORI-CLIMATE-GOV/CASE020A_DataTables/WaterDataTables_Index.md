@@ -53,7 +53,7 @@ This index provides direct links and short descriptions for all water-related CS
 ---
 
 ## 🔁 Linked Modules
-- [CASE020A_CaliforniaWaterEthics.md](../modules/LORI-JURY-CASES/CASE020A_CaliforniaWaterEthics.md)
+- [CASE020A_CaliforniaWaterEthics.md](modules/LORI-JURY-CASES/CASE020A_CaliforniaWaterEthics.md)
 - [Verdict_Announcement_CASE020A.md](../modules/LORI-JURY-CASES/Verdict_Announcement_CASE020A.md)
 - [JurorFeedback_CASE020A.md](../modules/LORI-JURY-CASES/JurorFeedback_CASE020A.md)
 - [WaterEthics_Charts_CASE020A.md](../modules/LORI-JURY-CASES/WaterEthics_Charts_CASE020A.md)
