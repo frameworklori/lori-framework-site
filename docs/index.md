@@ -442,6 +442,8 @@ These modules protect against deep structure imitation, style mimicking, and att
 
 ## Core Modules
 
+- [Semantic Safety for Neurodivergent](https://github.com/frameworklori/Semantic-safety-for-neurodivergent)  
+  Protects neurodivergent, child, and elderly users from semantic manipulation and algorithmic coercion.
 - [DGP - Demographic Pressure Monitor](modules/DGP.md)
 - [RBL - Robot Penetration Limiter](modules/RBL.md)
 - [GHI - Human-AI/Robot Cooperation Intelligence](modules/GHI.md)
