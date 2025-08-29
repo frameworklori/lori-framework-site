@@ -275,6 +275,7 @@ A privacy-first humanitarian framework to protect vulnerable individuals, reconn
 - [Privacy & Consent Policy](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/governance/Privacy_and_Consent_Policy.md)
 - [Access & Audit Policy](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/governance/Access_and%20Audit_Policy.md)
 - [Financial Recovery Module](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/modules/Financial-Recovery-Module.md)
+- [Pre-Employment-Tranining.md](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/modules/Pre-Employment-Tranining.md)
 - [Field Workflows](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/operations/Field_workflows.md)
 - [DV Safety Flow](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/operations/DV_safety_Flow.md)
 - [Biometric Template Handling](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/security/Biometric_Template_Handling.md)
