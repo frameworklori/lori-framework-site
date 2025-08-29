@@ -263,6 +263,12 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 [→ View Full Module](./modules/Conformity_Effect_Module.md)
 
+## 🌍 Humanitarian Identity Modules
+
+### FamilyLink-BioID
+A privacy-first humanitarian framework to protect vulnerable individuals, reconnect families, and enforce responsibility.
+
+
 # LORI Modules Structure Map
 
 ---
