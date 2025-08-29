@@ -263,11 +263,31 @@ These visual models illustrate core mechanisms within the Conformity Effect Modu
 
 [→ View Full Module](./modules/Conformity_Effect_Module.md)
 
+----
+
 ## 🌍 Humanitarian Identity Modules
 
 ### FamilyLink-BioID
 A privacy-first humanitarian framework to protect vulnerable individuals, reconnect families, and enforce responsibility.
+- [FamilyLink-BioID Whitepaper](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/whitepaper/FamilyLink-BioID_Concept.md)
+- [System Architecture](https://github.com/frameworklori/FamilyLink-BioID/blob/main/architecture/System_Architecture.md)
+- [AI Umbrella Security](https://github.com/frameworklori/FamilyLink-BioID/blob/main/architecture/AI-Umbrella_Security.md)
+- [Privacy & Consent Policy](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/governance/Privacy_and_Consent_Policy.md)
+- [Access & Audit Policy](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/governance/Access_and%20Audit_Policy.md)
+- [Financial Recovery Module](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/modules/Financial-Recovery-Module.md)
+- [Field Workflows](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/operations/Field_workflows.md)
+- [DV Safety Flow](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/operations/DV_safety_Flow.md)
+- [Biometric Template Handling](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/security/Biometric_Template_Handling.md)
+- [Cross-Domain Security Blueprint](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/security/Cross-Domain_Security_Blueprint.md)
+- [Development Plan](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/roadmap/Deverlopment_Plan.md)
 
+**Community & Contribution**
+- [CONTRIBUTING](https://github.com/frameworklori/FamilyLink-BioID/blob/main/CONTRIBUTING.md)
+- [SECURITY Policy](https://github.com/frameworklori/FamilyLink-BioID/blob/main/docs/SECURITY.md)
+- [CODE OF CONDUCT](https://github.com/frameworklori/FamilyLink-BioID/blob/main/CODE_OF_CONDUCT.md)
+- [LICENSE](https://github.com/frameworklori/FamilyLink-BioID/blob/main/LICENSE)
+
+----
 
 # LORI Modules Structure Map
 
