@@ -1,4 +1,4 @@
-# BioSecure-SGT (Public Overview)
+# BioSecure-SGT (Public Overview) -Lori framework 09152025
 
 **BioSecure-SGT** is a privacy-first, multi-modal biometric smart gun system concept.
 It combines **vein recognition, grip-behavior biometrics, and liveness detection (PPG/ECG)** with on-device secure matching.
