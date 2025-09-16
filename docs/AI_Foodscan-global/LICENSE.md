@@ -1,4 +1,4 @@
-# LORI Private Semantic Module License v1.0 (2025)
+#  Private Semantic Module License v1.0 (2025)
 
 © 2025 – Founder of the LORI Ethical System
 All rights reserved.
