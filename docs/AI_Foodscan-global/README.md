@@ -44,8 +44,8 @@ AI-Foodscan-global is designed as **public health infrastructure**:
 - 🌱 **Reduce climate impact** via near-expiry promotions & waste reduction.
 - 🏛 **Support governments & NGOs** with food safety & sustainability data.
 
-🔗 [Social Value Positioning](./docs/Social_Value_Positioning.md)
-🔗 [Policy Brief – Public Health One-Pager](./docs/Policy_Brief_PublicHealth.md)
+🔗 [Social Value Positioning](./AI_Foodscan-global/Social_Value_Positioning.md)
+🔗 [Policy Brief – Public Health One-Pager](./AI_Foodscan-global/Policy_Brief_PublicHealth.md)
 
 ---
 
@@ -71,6 +71,6 @@ AI-Foodscan-global is designed as **public health infrastructure**:
 This repository is protected by **LORI Private Semantic Module License v1.0 (2025)**.
 - 🚫 Not open-source.
 - 📝 All commercial use requires explicit license.
-- 📜 See [LICENSE.md](./LICENSE.md) & [docs/Ownership_Declaration.md](./docs/Ownership_Declaration.md).
+- 📜 See [LICENSE.md](./AI_Foodscan-global/LICENSE.md) & [Ownership_Declaration.md](./docsAI_Foodscan-global/Ownership_Declaration.md).
 
 © 2025 – Founder of the LORI Ethical System. All rights reserved.
