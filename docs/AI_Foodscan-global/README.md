@@ -44,8 +44,8 @@ AI-Foodscan-global is designed as **public health infrastructure**:
 - 🌱 **Reduce climate impact** via near-expiry promotions & waste reduction.
 - 🏛 **Support governments & NGOs** with food safety & sustainability data.
 
-🔗 [Social Value Positioning](./AI_Foodscan-global/Social_Value_Positioning.md)
-🔗 [Policy Brief – Public Health One-Pager](./AI_Foodscan-global/Policy_Brief_PublicHealth.md)
+🔗 [Social Value Positioning](./Social_Value_Positioning.md)
+🔗 [Policy Brief – Public Health One-Pager](./Policy_Brief_PublicHealth.md)
 
 ---
 
