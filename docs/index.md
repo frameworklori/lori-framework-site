@@ -129,8 +129,10 @@ LORI is an open, modular architecture that helps society:
 
 ## Explore the System
 
-- [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 09152025
+- [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 09152025 | ✅ |
 A privacy-first, multi-modal biometric smart gun system with revocable templates, duress mode, and zero-knowledge proof–based traceability.
+- [AI_Foodscan-global](./AI_Foodscan-global/README.md)  out 
+A project designed to make food products fully transparent throught barcode scanning, OCR, AND AI, Our goal: **fresh food, healthier families, reduced waste, and lower healthcare costs.** | ✅ |
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
 - [TDM: Trust Drift Map](./modules/TDM.md)
