@@ -12,4 +12,8 @@ The Lori-framework-site lowers barriers to employment by **removing the need for
 **No college degree → Less debt → Broader, fairer employment.**  
 This feature makes the framework socially inclusive and economically resilient.
 
+
+![Highlight Graphic](docs/assets/images/Highlight_Graphic.png)
+
+
 © LORI Framework
