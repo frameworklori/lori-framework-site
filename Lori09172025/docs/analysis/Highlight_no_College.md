@@ -13,7 +13,7 @@ The Lori-framework-site lowers barriers to employment by **removing the need for
 This feature makes the framework socially inclusive and economically resilient.
 
 
-![Highlight Graphic](Highlight_Graphic.png)
+![Highlight Graphic](Hightlight_Graphic.pdf)
 
 
 © LORI Framework
