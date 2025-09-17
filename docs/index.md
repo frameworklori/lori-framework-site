@@ -129,12 +129,15 @@ LORI is an open, modular architecture that helps society:
 
 ## Explore the System
 
-- [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 09152025 | ✅ |
+- [BioSecure-SGT](./BioSecure-SGT-Public/README.md)  | ✅ | 09152025
 A privacy-first, multi-modal biometric smart gun system with revocable templates, duress mode, and zero-knowledge proof–based traceability.
+
 - [AI_Foodscan-global](./AI_Foodscan-global/README.md) 
-A project designed to make food products fully transparent throught barcode scanning, OCR, AND AI, Our goal: **fresh food, healthier families, reduced waste, and lower healthcare costs.** | ✅ |
- [Lori-framework-site](./Lori-framework-site/README.md)
-A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ |
+A project designed to make food products fully transparent throught barcode scanning, OCR, AND AI, Our goal: **fresh food, healthier families, reduced waste, and lower healthcare costs.** | ✅ | 09162025
+
+- [Lori-framework-site](./Lori-framework-site/README.md)
+A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ | 09172025
+
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
 - [TDM: Trust Drift Map](./modules/TDM.md)
