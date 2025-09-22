@@ -138,6 +138,8 @@ A project designed to make food products fully transparent throught barcode scan
 - [Lori-framework-site](./Lori-framework-site/README.md)
 A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ | 09172025
 
+-[AI-User_Guide-SWOT](./Lori-framework-site/README.md)
+
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
 - [TDM: Trust Drift Map](./modules/TDM.md)
