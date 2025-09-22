@@ -102,15 +102,22 @@ Regulatory and cross-border data pressures, labor and industry disruption
 /docs
 
 ├─ 01_SWOT-OnePager.md # One-page summary for executives/external use
+
 ├─ 02_Risk-Controls-Checklist.md # Checklist for legal/safety/product teams
+
 ├─ 03_Adoption-Playbook.md # Step-by-step rollout guide
+
 ├─ 04_Public-FAQ.md # Public FAQ (fraud, deepfake, delusion risks)
+
 ├─ 05_Transparency-Template.md # Model/System Card template
+
 └─ 99_Changelog.md # Version history
 
 /assets
 ├─ swot_poster.png # Visual one-pager for external use
+
 └─ badges/ # Logos and trust badges
+
 index.md # This file (README)
 
 LICENSE_LORI.md # License and usage conditions
