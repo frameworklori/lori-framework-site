@@ -114,6 +114,7 @@ Regulatory and cross-border data pressures, labor and industry disruption
 └─ 99_Changelog.md # Version history
 
 /assets
+
 ├─ swot_poster.png # Visual one-pager for external use
 
 └─ badges/ # Logos and trust badges
