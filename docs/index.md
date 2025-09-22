@@ -138,7 +138,7 @@ A project designed to make food products fully transparent throught barcode scan
 - [Lori-framework-site](./Lori-framework-site/README.md)
 A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ | 09172025
 
-- [AI-User-Guide-SWOT](./Lori-framework-site/README.mdAI-User-Guide-SWOT/README.md)
+- [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
 A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
 
 
