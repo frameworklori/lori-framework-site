@@ -3,7 +3,19 @@
 
 Public Originality & Governance Module
 
-© 2025 — LORI Framework (Founder: founder of the LORI Ethical System). All rights reserved.
+## Position of AI in Human Civilization
+
+AI must be defined ** AI not as a replacement of human beings, but as a tool within human governance**.
+Every technology company deploying AI should make an explicit public statement on its position:
+
+- **AI as an enabler**: designed to assist productivity, creativity, and accessibility.
+- **AI as bounded**: not autonomous in defining human values or destiny.
+- **AI as accountable**: subject to legal, ethical, and societal oversight.
+- **AI as transparent**: openly acknowledging its limitations, biases, and hallucinations.
+
+Without such explicit statements, AI risks sliding silently into a role it was never meant to play —
+blurring the boundary between human judgment and machine output,
+and worsening problems of delusion, over-attachment, and loss of agency.
 
 # What this is
 
