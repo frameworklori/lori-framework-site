@@ -141,6 +141,9 @@ A blueprint for transforming *real-world practices* into *modular governance and
 - [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
 A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
 
+- [AI-Creator-Protection-manifesto](./AI-Creator-Protection-manifesto/README.md)
+
+
 
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
