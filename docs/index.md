@@ -142,8 +142,7 @@ A blueprint for transforming *real-world practices* into *modular governance and
 A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
 
 - [AI-Creator-Protection-manifesto](./AI-Creator-Protection-manifesto/README.md)
-
-
+A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the engine of progress.| ✅ | 09252025
 
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
