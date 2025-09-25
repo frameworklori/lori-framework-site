@@ -13,5 +13,5 @@ This repository provides:
 ----
 
 <p align="center">
-<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
+<img src="docs/AI-Creator-Protection-manifesto/assest/images/AI&Creator_protection.png" alt="AI&Creator_protection" width="500">
 </p>
