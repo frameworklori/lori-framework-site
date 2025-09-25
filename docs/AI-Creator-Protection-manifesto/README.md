@@ -10,3 +10,8 @@ This repository provides:
 
 > AI must be honest to earn trust, and trust is the foundation of commercial credibility.
 
+----
+
+<p align="center">
+<img src="./assets/images/logo.png" alt="Lori Framework Logo" width="500">
+</p>
