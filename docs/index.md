@@ -144,6 +144,8 @@ A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weakness
 - [AI-Creator-Protection-manifesto](./AI-Creator-Protection-manifesto/README.md)
 A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the engine of progress.| ✅ | 09252025
 
+- [AI-Identity Safeguard Policy]()
+
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
 - [TDM: Trust Drift Map](./modules/TDM.md)
