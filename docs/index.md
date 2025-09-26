@@ -144,7 +144,9 @@ A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weakness
 - [AI-Creator-Protection-manifesto](./AI-Creator-Protection-manifesto/README.md)
 A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the engine of progress.| ✅ | 09252025
 
-- [AI-Identity Safeguard Policy]()
+- [AI-Identity Safeguard Policy](https://github.com/frameworklori/AI-Indentity-Safeguard-Policy)
+Open resource repository for responsible AI use in high-risk identity manipulation domains.
+This repo provides policy guidelines, technical safeguards, and governance frameworks to prevent misuse of AI in face-swapping, deepfake voice generation, and other personal identity transformations.| ✅ | 09252026
 
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
