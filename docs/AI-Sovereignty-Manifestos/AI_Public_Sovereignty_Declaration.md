@@ -13,7 +13,7 @@ If AI is monopolized by dynasties, corporations, or special-interest groups, nat
 
 Therefore, we affirm: AI belongs to all humanity, and its sovereignty must never be monopolized.
 
-Core Principles
+## Core Principles
 Human Agency Cannot Be Surrendered
 
 AI must remain a tool and protector of humanity, never its master or controller.
@@ -50,7 +50,7 @@ AI must not steal, exploit, or claim ownership of human intellectual creations.
 
 Original works, expressions, and inventions belong to their human creators, and AI systems must respect these rights without exception.
 
-Call to Action
+## Call to Action
 
 
 We call for:
@@ -61,7 +61,7 @@ The establishment of a Global AI Convention, preventing monopolization by any si
 
 The advancement of education and digital literacy, enabling all people to question and scrutinize AI rather than blindly submit.
 
-Conclusion
+## Conclusion
 
 
 AI can be a shield for civilization, or a digital shackle for humanity.
