@@ -1,8 +1,8 @@
-## AI Public Sovereignty Declaration
+# AI Public Sovereignty Declaration
 
 ----
 
-# Preamble
+## Preamble
 
 
 Artificial Intelligence (AI) is an extension of human civilization.
