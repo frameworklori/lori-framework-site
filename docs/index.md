@@ -96,6 +96,8 @@ For proper citation and usage, please refer to the **Public Acknowledgment Guide
 - [Anti-AI Feudalism Manifesto (EN)](AI-Sovereignty-Manifestos/Anti-AI-Feudalism-Manifesto.md)
 *A manifesto rejecting hereditary or dynastic monopolies over AI, calling for shared governance, transparency, and freedom of choice to prevent digital feudalism.*
  
+-----
+
  🛰️ StarNet Sovereignty & Module Claim Records
 
 
