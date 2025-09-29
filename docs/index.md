@@ -90,10 +90,10 @@ For proper citation and usage, please refer to the **Public Acknowledgment Guide
  
  ## Declarations on AI Public Sovereignty
 
-- [AI Public Sovereignty Declaration (EN + IP Clause)](../AI-Sovereignty-Manifestos/AI_Public_Sovereignty_Declaration_EN_.md)
+- [AI Public Sovereignty Declaration (EN + IP Clause)](/docs/AI-Sovereignty-Manifestos/AI_Public_Sovereignty_Declaration_EN_.md)
 *A constitutional statement affirming that AI must protect humanity rather than control it — emphasizing decentralization, transparency, human oversight, and the protection of human intellectual property rights.*
 
-- [Anti-AI Feudalism Manifesto (EN)](../AI-Sovereignty-Manifestos/Anti-AI-Feudalism-Manifesto.md)
+- [Anti-AI Feudalism Manifesto (EN)](/docs/AI-Sovereignty-Manifestos/Anti-AI-Feudalism-Manifesto.md)
 *A manifesto rejecting hereditary or dynastic monopolies over AI, calling for shared governance, transparency, and freedom of choice to prevent digital feudalism.*
  
 -----
