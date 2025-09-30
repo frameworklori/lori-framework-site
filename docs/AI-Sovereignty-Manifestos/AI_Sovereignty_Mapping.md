@@ -37,5 +37,3 @@ For official correspondence and collaboration regarding the **LORI × XAI Sovere
 
 These channels are the only authorized routes for acknowledgments, invitations, or collaboration requests to ensure authenticity and timestamped verification.
 
-Together, these four components create a **comprehensive shield** for humanity:  
-**Individual → Public Safety → Nation → Civilization.**
