@@ -20,7 +20,22 @@ This document shows how specific projects within the LORI Framework (FamilyLink-
 - **FamilyLink-BioID** → Anchors **human safety and dignity**.  
 - **Biosecure-SGT** → Anchors **responsible firearm management and traceability**.  
 - **Starlink-SmartBorder-Security** → Anchors **state-level security with transparency**.  
-- **AI Public Sovereignty Declaration** → Anchors **civilizational freedom and sovereignty**.  
+- **AI Public Sovereignty Declaration** → Anchors **civilizational freedom and sovereignty**.
+
+- Together, these four components create a **comprehensive shield** for humanity:  
+**Individual → Public Safety → Nation → Civilization.**
+
+
+### 📬 Preferred Contact Channels
+
+For official correspondence and collaboration regarding the **LORI × XAI Sovereignty Layer**, please use the following channels:
+
+- **GitHub**: Private repository invitation to user **`frameworklori`**
+- **Email**: [frameworklori@gmail.com](mailto:frameworklori@gmail.com)
+- **Optional (for privacy)**: GitHub noreply address can be enabled if required:
+`frameworklori@users.noreply.github.com`
+
+These channels are the only authorized routes for acknowledgments, invitations, or collaboration requests to ensure authenticity and timestamped verification.
 
 Together, these four components create a **comprehensive shield** for humanity:  
 **Individual → Public Safety → Nation → Civilization.**
