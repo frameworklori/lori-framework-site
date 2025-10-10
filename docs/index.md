@@ -89,7 +89,7 @@ For proper citation and usage, please refer to the **Public Acknowledgment Guide
  ---
 ## LORI Framework Global Intellectual Property and Human Rights Statement 
 
-- [Global Intellectual Property and Human Rights Statement (PDF)](/docs/Global Intellectual Property and Human Rights Statement.pdf)
+- [Download Global Intellectual Property and Human Rights Statement (PDF)](/docs/Global Intellectual Property and Human Rights Statement.pdf)
 
 * In the age of AI, rules create balance — humans are the core, AI is the tool.
   All creations and ideas arise from human consciousness and belong to their creators as extensions of intellect and identity.
