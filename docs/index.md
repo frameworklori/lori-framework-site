@@ -57,6 +57,7 @@ This module should not be interpreted as factual representation or diagram. It i
 
 ---
 
+
 ## LORI Framework Global Intellectual Property and Human Rights Statement 
 
 - [Global Intellectual Property and Human Rights Statement.pdf](docs/Global Intellectual Property and Human Rights Statement.pdf) –
