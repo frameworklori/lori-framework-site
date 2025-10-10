@@ -57,6 +57,9 @@ This module should not be interpreted as factual representation or diagram. It i
 
 ---
 
+## LORI Framework Global Intellectual Property and Human Rights Statement 
+
+
 ## StarNet Sovereignty & Module Claim Records
 
 To reinforce the semantic integrity and rightful authorship of the Democratic StarNet module and its associated subframeworks (e.g., Co-Build, Co-Own, Co-Protect), the following documents are now publicly sealed and timestamped as official part of the LORI Framework protection system:
