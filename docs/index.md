@@ -89,13 +89,13 @@ For proper citation and usage, please refer to the **Public Acknowledgment Guide
  ---
 ## LORI Framework Global Intellectual Property and Human Rights Statement 
 
-- [Global Intellectual Property and Human Rights Statement](Global Intellectual Property and Human Rights Statement.pdf)
+- [Global Intellectual Property and Human Rights Statement](./Global Intellectual Property and Human Rights Statement.pdf)
 
-In the age of AI, rules create balance — humans are the core, AI is the tool.
-All creations and ideas arise from human consciousness and belong to their creators as extensions of intellect and identity.
-Humans hold 100% intellectual property and human rights over their works.
-No use, imitation, training, or reproduction without explicit consent.
-Technology must never surpass human dignity.
+* In the age of AI, rules create balance — humans are the core, AI is the tool.
+  All creations and ideas arise from human consciousness and belong to their creators as extensions of intellect and identity.
+  Humans hold 100% intellectual property and human rights over their works.
+  No use, imitation, training, or reproduction without explicit consent.
+  Technology must never surpass human dignity.
  
  ## Declarations on AI Public Sovereignty
 
