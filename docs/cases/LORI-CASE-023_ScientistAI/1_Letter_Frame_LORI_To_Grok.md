@@ -8,4 +8,3 @@
 Formal invitation to serve as **AI Fact Finder** for Case 023: *The Scientist AI*.  
 Defines the ethical rationale, scope, and composition of the Jury-based evaluation system.  
 See response in `2_Letter_Frame_Grok_To_LORI.md`.
-
