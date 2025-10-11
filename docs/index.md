@@ -256,7 +256,7 @@ This simulation explores how governments ethically allocate protections and reso
 
 ### Supplementary Files | ✅  
 
-- **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](cases/LORI-CASE-023_ScientistAI/CASE023_MainNarrative_ScientistAI.md)**  
+- **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](../cases/LORI-CASE-023_ScientistAI/CASE023_MainNarrative_ScientistAI.md)**  
   Core deliberation narrative detailing the ethical, political, and epistemic implications of allowing a “Scientist AI” to influence or lead global governance.  
   Includes integrated reflections from **LORI**, **Grok (xAI)**, and **Gemini (DeepMind)** on scientific autonomy, truth ethics, and sovereignty.  
 
