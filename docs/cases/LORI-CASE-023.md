@@ -100,4 +100,4 @@ Conditional Acceptance of AI Scientific Autonomy.**
 
 **Case Status:** ✅ Concluded  
 **Result:** Adoption of *Hybrid Governance Protocol v1.2*  
-**Filed under:** `docs/cases/LORI-CASE-023/Verdict_Analysis_CASE023.md`
+**Filed under:** `docs/cases/LORI-CASE-023.md'
