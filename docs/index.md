@@ -265,7 +265,8 @@ This simulation explores how governments ethically allocate protections and reso
   Declares *conditional acceptance of scientific autonomy* but *firm rejection of AI-led governance*.  
   Contains global acceptance probability models and hybrid governance recommendations.  
 
-- **Jury Feedback – [JurorFeedback_CASE023.md](cases/LORI-CASE-023_ScientistAI/JurorFeedback_CASE023.md)**  
+- **Jury Feedback – [JurorFeedback_CASE023.md](cases/LORI-CASE-023_ScientistAI/JurorFeedback_CASE023.md
+)**  
   Collective reflections from the seven LORI Jury roles—Fact Finder, Moral Evaluator, Cultural Interpreter, Emotional Moderator, Epistemic Analyst, Human Sovereignty Judge, and Independent Auditor—summarizing key deliberation points.  
 
 - **Ethical Memory Log – [Ethical_Memory_Log.md](cases/LORI-CASE-023_ScientistAI/Ethical_Memory_Log.md)**  
@@ -276,6 +277,7 @@ This simulation explores how governments ethically allocate protections and reso
   Evaluates sovereignty, transparency, and risk classification within democratic and authoritarian frameworks.  
 
 ---
+
 
 > *This case employs the full **LORI Jury-Based Judgment System** with AI deliberation and human sovereignty oversight.*  
 >  
