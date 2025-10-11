@@ -66,4 +66,4 @@ Thus, governance must stay **polycentric** — distributed between AIs and human
 The Jury transferred all transcripts, AI correspondences, and reflective notes to the LORI Ethical Archive.  
 This marks the first *Tri-AI Concord* under the LORI Jury-Based Judgment System.
 
-See also: [Verdict_Analysis_CASE023.md](Verdict_Analysis_CASE023.md)
+See also: [LORI-CASE-023.md](LORI-CASE-023.md)
