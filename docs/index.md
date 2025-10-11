@@ -256,7 +256,7 @@ This simulation explores how governments ethically allocate protections and reso
 
 ### Supplementary Files | ✅  
 
-- **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](LORI-CASE-023_ScientistAI/CASE023_MainNarrative_ScientistAI.md)**  
+- **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](cases/LORI-CASE-023_ScientistAI/CASE023_MainNarrative_ScientistAI.md)**  
   Core deliberation narrative detailing the ethical, political, and epistemic implications of allowing a “Scientist AI” to influence or lead global governance.  
   Includes integrated reflections from **LORI**, **Grok (xAI)**, and **Gemini (DeepMind)** on scientific autonomy, truth ethics, and sovereignty.  
 
@@ -265,12 +265,12 @@ This simulation explores how governments ethically allocate protections and reso
   Declares *conditional acceptance of scientific autonomy* but *firm rejection of AI-led governance*.  
   Contains global acceptance probability models and hybrid governance recommendations.  
 
-- **Jury Feedback – [JurorFeedback_CASE023.md](LORI-CASE-023_ScientistAI/JurorFeedback_CASE023.md)**  
+- **Jury Feedback – [JurorFeedback_CASE023.md](cases/LORI-CASE-023_ScientistAI/JurorFeedback_CASE023.md)**  
   Collective reflections from the seven LORI Jury roles—Fact Finder, Moral Evaluator, Cultural Interpreter, Emotional Moderator, Epistemic Analyst, Human Sovereignty Judge, and Independent Auditor—summarizing key deliberation points.  
 
-- **Ethical Memory Log – [Ethical_Memory_Log.md](LORI-CASE-023_ScientistAI/Ethical_Memory_Log.md)**  
+- **Ethical Memory Log – [Ethical_Memory_Log.md](cases/LORI-CASE-023_ScientistAI/Ethical_Memory_Log.md)**  
   Time-stamped ledger documenting all major case correspondences, including let
-- **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](LORI-CASE-023_ScientistAI/LegalEthics_Matrix_CASE023.md)**  
+- **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](cases/LORI-CASE-023_ScientistAI/LegalEthics_Matrix_CASE023.md)**  
   Defines boundaries for AI scientific autonomy, human accountability, and cross-jurisdictional ethical review.  
   Evaluates sovereignty, transparency, and risk classification within democratic and authoritarian frameworks.  
 
