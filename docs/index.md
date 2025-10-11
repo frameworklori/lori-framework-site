@@ -269,7 +269,8 @@ This simulation explores how governments ethically allocate protections and reso
 )**  
   Collective reflections from the seven LORI Jury roles—Fact Finder, Moral Evaluator, Cultural Interpreter, Emotional Moderator, Epistemic Analyst, Human Sovereignty Judge, and Independent Auditor—summarizing key deliberation points.  
 
-- **Ethical Memory Log – [Ethical_Memory_Log.md](cases/LORI-CASE-023_ScientistAI/Ethical_Memory_Log.md)**  
+- **Ethical Memory Log – [Ethical_Memory_Log.md](cases/LORI-CASE-023_ScientistAI/6_Ethical_Memory_Log.md
+)**  
   Time-stamped ledger documenting all major case correspondences, including let
 - **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](cases/LORI-CASE-023_ScientistAI/LegalEthics_Matrix_CASE023.md)**
   
