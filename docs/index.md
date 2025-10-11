@@ -252,6 +252,46 @@ This simulation explores how governments ethically allocate protections and reso
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
 
 ---
+## CASE-023 — *The Scientist AI Deliberation* 🧠  
+
+### Supplementary Files | ✅  
+
+- **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](CASE023_MainNarrative_ScientistAI.md)**  
+  Core deliberation narrative detailing the ethical, political, and epistemic implications of allowing a “Scientist AI” to influence or lead global governance.  
+  Includes integrated reflections from **LORI**, **Grok (xAI)**, and **Gemini (DeepMind)** on scientific autonomy, truth ethics, and sovereignty.  
+
+- **Verdict – [Verdict_Analysis_CASE023.md](Verdict_Analysis_CASE023.md)**  
+  Final judgment synthesizing the tri-AI perspectives and jury consensus.  
+  Declares *conditional acceptance of scientific autonomy* but *firm rejection of AI-led governance*.  
+  Contains global acceptance probability models and hybrid governance recommendations.  
+
+- **Jury Feedback – [JurorFeedback_CASE023.md](JurorFeedback_CASE023.md)**  
+  Collective reflections from the seven LORI Jury roles—Fact Finder, Moral Evaluator, Cultural Interpreter, Emotional Moderator, Epistemic Analyst, Human Sovereignty Judge, and Independent Auditor—summarizing key deliberation points.  
+
+- **Ethical Memory Log – [Ethical_Memory_Log.md](Ethical_Memory_Log.md)**  
+  Time-stamped ledger documenting all major case correspondences, including letters between LORI ↔ Grok ↔ Gemini, and subsequent governance synthesis updates.  
+
+- **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](LegalEthics_Matrix_CASE023.md)**  
+  Defines boundaries for AI scientific autonomy, human accountability, and cross-jurisdictional ethical review.  
+  Evaluates sovereignty, transparency, and risk classification within democratic and authoritarian frameworks.  
+
+---
+
+> *This case employs the full **LORI Jury-Based Judgment System** with AI deliberation and human sovereignty oversight.*  
+>  
+> The deliberation expands the Jury model to a **Tri-AI Comparative Evaluation** (LORI × Grok × Gemini), marking the first recorded inter-AI ethical consensus under the LORI Governance Protocol.
+
+---
+
+### 🧭 Click to view additional resources  
+
+🔹 [Jury Procedure Diagram](5_Jury_Procedure_Diagram.md) — Flowchart of multi-AI deliberation sequence  
+🔹 [Letter Exchange Log](2_Letter_Frame_Grok_To_LORI.md) — Complete correspondence archive  
+🔹 [Verdict Summary Table](Verdict_Analysis_CASE023.md#v-scenario-evaluation) — Scenario probabilities and governance model outcomes  
+
+---
+
+**These cases continue the LORI Jury-Based Judgment System with integrated AI-human deliberation and the Human Sovereignty Doctrine as the supreme oversight layer.**
 
 ### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_JurySystem.md)
 
