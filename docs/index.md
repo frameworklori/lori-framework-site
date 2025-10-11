@@ -270,7 +270,8 @@ This simulation explores how governments ethically allocate protections and reso
 
 - **Ethical Memory Log – [Ethical_Memory_Log.md](cases/LORI-CASE-023_ScientistAI/Ethical_Memory_Log.md)**  
   Time-stamped ledger documenting all major case correspondences, including let
-- **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](cases/LORI-CASE-023_ScientistAI/LegalEthics_Matrix_CASE023.md)**  
+- **Legal-Ethical Matrix – [LegalEthics_Matrix_CASE023.md](cases/LORI-CASE-023_ScientistAI/LegalEthics_Matrix_CASE023.md)**
+  
   Defines boundaries for AI scientific autonomy, human accountability, and cross-jurisdictional ethical review.  
   Evaluates sovereignty, transparency, and risk classification within democratic and authoritarian frameworks.  
 
