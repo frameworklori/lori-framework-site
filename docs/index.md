@@ -256,7 +256,7 @@ This simulation explores how governments ethically allocate protections and reso
 
 ### Supplementary Files | ✅  
 
-- **Public Cooperation statement – [Public Cooperation statement.md](cases/LORI-CASE-023_ScientistAI/Public Cooperation statement.md)** 
+- **Public Cooperation statement – [Public Cooperation statement.md](cases/LORI-CASE-023_ScientistAI/Public Cooperation Statement.md)** 
 
 
 - **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](cases/LORI-CASE-023_ScientistAI/CASE023-MainNarrative_ScientistAI.md)**  
