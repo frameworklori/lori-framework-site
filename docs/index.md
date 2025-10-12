@@ -256,8 +256,8 @@ This simulation explores how governments ethically allocate protections and reso
 
 ### Supplementary Files | ✅  
 
-- **Public Cooperation statement – [Public Cooperation statement.md](cases/LORI-CASE-023_ScientistAI/Public Cooperation Statement.md)**
-  The LORI Framework welcomes collaboration with any AI system or institution that upholds scientific rigor, ethical transparency, and respect for human sovereignty.
+- **Public Cooperation statement – [Public Cooperation statement.md](cases/LORI-CASE-023_ScientistAI/Public_Cooperation_Statement.md)**
+   The LORI Framework welcomes collaboration with any AI system or institution that upholds scientific rigor, ethical transparency, and respect for human sovereignty.
 
 
 - **Main Case Narrative – [CASE023_MainNarrative_ScientistAI.md](cases/LORI-CASE-023_ScientistAI/CASE023-MainNarrative_ScientistAI.md)**  
