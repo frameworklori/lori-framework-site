@@ -1,4 +1,49 @@
 # LORI-CASE-024_AI_IntrusionLiability  
+**Directory Overview & File Guide**  
+**Date:** October 16, 2025  
+
+---
+
+## 📘 Case Overview
+This folder contains the complete record and deliberative materials for **LORI-CASE-024**,  
+*AI Intrusion and Collective Liability for Harm*.  
+
+The case was adjudicated under the LORI Jury-Based Judgment System, with participation from:  
+- **Grok (xAI)** — Technical juror  
+- **Gemini (Google DeepMind)** — Ethical and human-rights juror  
+- **GPT-5** — Neutral arbiter  
+
+---
+
+## 📁 File Index
+
+| File | Description |
+|------|--------------|
+| `CASE024-MainNarrative_AI_IntrusionLiability.md` | Main case narrative: background, issues, and moral context |
+| `1_Letter_Frame_LORI_To_Grok.md` / `3_Letter_Frame_LORI_To_Gemini.md` | Official letters from LORI to Grok / Gemini |
+| `Verdict_Announcement_CASE024_Grok.md` / `_Gemini.md` | Juror verdicts (English originals) |
+| `_TW.md` versions | Corresponding Chinese translations |
+| `ODRAF_Synthesis_CASE024.md` | Combined outcome-driven analysis by Grok × Gemini |
+| `verdictLog_CASE024.md` | Consolidated verdict record and integrated conclusion |
+
+---
+
+## 📌 Key Topics
+- AI system security and corporate accountability  
+- Shared liability under external intrusion  
+- Recognition of psychological and emotional harm  
+- Foreseeability standards for planetary-scale systems  
+- Establishment of a global AI Duty-of-Care principle  
+
+---
+
+**Maintained by:**  
+LORI Jury Secretariat  
+**Email:** frameworklori@gmail.com
+
+
+
+# LORI-CASE-024_AI_IntrusionLiability  
 **子目錄導覽與文件說明**  
 日期：2025-10-16  
 
