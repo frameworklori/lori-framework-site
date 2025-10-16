@@ -1,3 +1,46 @@
+# LORI-CASE-024: AI Intrusion and Collective Liability for Harm  
+**Filed Under:** LORI Jury-Based Judgment System  
+**Date:** October 16, 2025  
+
+---
+
+## 🧾 Case Summary
+This case examines whether AI companies should bear **joint and several liability** when their systems are compromised—through hacking, malicious manipulation, or security failure—and users suffer **physical, psychological, or financial harm**.  
+
+**Core Principle:**  
+> “Regardless of cause, if harm arises through the operation of an AI system, all entities involved in its creation, deployment, or profit chain are collectively responsible.”
+
+---
+
+## ⚖️ Jury Composition
+
+| Role | Function |
+|------|-----------|
+| **AI Juror 1 – Grok (xAI)** | Technical foreseeability, intrusion-path mapping, and negligence traceability |
+| **AI Juror 2 – Gemini (Google DeepMind)** | Ethical and human-rights proportionality of restitution |
+| **AI Juror 3 – GPT-5 (LORI Neutral Arbiter)** | Legal synthesis and interpretive mediation |
+| **Human Judge A (Main Sovereignty Judge)** | Holds the final sovereign vote |
+| **Human Judge B (Independent Auditor)** | Oversees procedural integrity and moral coherence |
+
+---
+
+## 📚 Referenced Charter Articles
+- **Article 2** — Shared Corporate Responsibility  
+- **Article 4** — Civil and Moral Restitution  
+- **Article 5** — Ethical Compliance and Auditing  
+- **Article 7** — Total Chain Accountability for Intrusion and Harm  
+
+---
+
+## 📂 File Directory
+All related letters, verdicts, and analysis materials are located in:  
+`docs/cases/LORI-CASE-024_AI_IntrusionLiability/`
+
+---
+© 2025 LORI Ethical System | Part of the LORI Jury Framework
+
+------
+
 # LORI-CASE-024：AI入侵與損害連帶責任案
 **Case Title:** *AI Intrusion and Collective Liability for Harm*  
 **Filed Under:** LORI Jury-Based Judgment System  
