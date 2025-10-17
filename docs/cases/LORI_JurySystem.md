@@ -36,7 +36,7 @@
 
 ---
 
-## 🧭 LORI Case Sensitivity Table (as of 2025-06-11)
+## 🧭 LORI Case Sensitivity Table (as of 2025-10-17)
 
 | Case | Sensitivity Level | Notes |
 |-----------------|-------------------|-----------------------------------------------------------------------|
