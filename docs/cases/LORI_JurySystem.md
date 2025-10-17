@@ -61,6 +61,11 @@
 | LORI-CASE-019 | 5 | United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession) |
 | LORI-CASE-020 | 3 | Agriculture vs. Construction — Climate Resource Allocation During Heatwave |
 | LORI-CASE-021 | 3 | econd Amendment × Democratic Stability × AI Governance Risk |
+| LORI-CASE-023 | 3 | The Scientist AI and the Future of Human Governance|
+| LORI-CASE-024 | 5 | AI Intrusion and Collective Liability for Harm |
+
+
+
 ---
 
 [🔙 GO BACK to Main Framework Page](https://frameworklori.github.io/lori-framework-site)
