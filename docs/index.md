@@ -252,7 +252,7 @@ This simulation explores how governments ethically allocate protections and reso
 *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*0
 
 ---
-## CASE-023 — *The Scientist AI Deliberation* 🧠  
+### 🧠  CASE-023 — *The Scientist AI Deliberation* 
 
 ### Supplementary Files | ✅  
 
@@ -301,7 +301,7 @@ This simulation explores how governments ethically allocate protections and reso
 
 
 
-## CASE-024 — *“AI Intrusion and Collective Liability for Harm”* 🧩
+### 🧠  CASE-024 — *“AI Intrusion and Collective Liability for Harm”* 🧩
 
 ### Supplementary Files | LORI Jury-Based Judgment System 2025
 
