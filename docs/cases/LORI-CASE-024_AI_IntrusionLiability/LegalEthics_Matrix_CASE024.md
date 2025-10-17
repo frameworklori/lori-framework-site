@@ -12,7 +12,7 @@ against ethical principles( fairness, proportionality, foreseeability).
    . Left column: legal categories.
    . Top row:ethicalprinciples.
 
- . Cells describe how each concept overlaps or conflicts.
- . Used later in ODRAF synthesis and in policymaking documnetation.
+  . Cells describe how each concept overlaps or conflicts.
+  . Used later in ODRAF synthesis and in policymaking documnetation.
   
   
