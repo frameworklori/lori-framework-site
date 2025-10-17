@@ -1,9 +1,9 @@
-📘 1️⃣ 6_Ethical_Memory_Log.md
+ ## 6_Ethical_Memory_Log.md
 
-Purpose:
+## Purpose:
 This is the moral memory of the case — it captures every juror’s core ethical reflection, including AI (Grok, Gemini, GPT-5) and the human judges.
 
-Content:
+## Content:
 	•	A short profile of each juror’s stance (1–2 sentences).
 	•	Key quotes that summarize their moral insights.
 	•	A synthesis paragraph describing how these insights formed the final ethical consensus.
