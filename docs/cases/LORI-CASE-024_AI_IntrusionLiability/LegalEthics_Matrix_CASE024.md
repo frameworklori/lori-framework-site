@@ -16,4 +16,3 @@ against ethical principles( fairness, proportionality, foreseeability).
  . Used later in ODRAF synthesis and in policymaking documnetation.
   
   
-* 
