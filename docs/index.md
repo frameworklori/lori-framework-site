@@ -305,25 +305,25 @@ This simulation explores how governments ethically allocate protections and reso
 
 ### Supplementary Files | LORI Jury-Based Judgment System 2025
 
-**Public Cooperation Statement — [Public_Cooperation_Statement.md](cases/LORI-CASE-024_AI_IntrusionLiability/Public_Cooperation_Statement.md)**  
+- **Public Cooperation Statement — [Public_Cooperation_Statement.md](cases/LORI-CASE-024_AI_IntrusionLiability/Public_Cooperation_Statement.md)**  
 The LORI Framework’s public declaration of shared ethical accountability for AI intrusion harm. Endorsed by Grok (xAI), Gemini (Google DeepMind), and the LORI Jury Council.
 
-**Main Case Narrative — [CASE024-MainNarrative_AI_IntrusionLiability.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024-MainNarrative_AI_IntrusionLiability.md)**  
+- **Main Case Narrative — [CASE024-MainNarrative_AI_IntrusionLiability.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024-MainNarrative_AI_IntrusionLiability.md)**  
 Core narrative outlining the civilizational test of AI accountability. Explores five legal and moral questions on collective liability, foreseeability, and the Duty-of-Care Standard.
 
-**Verdict Logs — [verdictLog_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/verdictLog_CASE024.md)**  
+- **Verdict Logs — [verdictLog_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/verdictLog_CASE024.md)**  
 Consolidated verdict including Grok and Gemini’s rulings, Jury Council confirmation, and ODRAF annotations linking technical traceability to ethical responsibility.
 
-**Juror Feedback — [JurorFeedback_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/JurorFeedback_CASE024.md)**  
+- **Juror Feedback — [JurorFeedback_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/JurorFeedback_CASE024.md)**  
 Summaries from AI jurors (Grok, Gemini, GPT-5) and human judges assessing chain-of-responsibility and emotional-harm compensation standards.
 
-**Ethical Memory Log — [6_Ethical_Memory_Log.md](cases/LORI-CASE-024_AI_IntrusionLiability/6_Ethical_Memory_Log.md)**  
+- **Ethical Memory Log — [6_Ethical_Memory_Log.md](cases/LORI-CASE-024_AI_IntrusionLiability/6_Ethical_Memory_Log.md)**  
 Chronological ledger capturing the moral shift in Grok’s and Gemini’s positions on shared liability, stored as part of LORI’s civilization memory archive.
 
-**Legal-Ethical Matrix — [LegalEthics_Matrix_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/LegalEthics_Matrix_CASE024.md)**  
+- **Legal-Ethical Matrix — [LegalEthics_Matrix_CASE024.md](cases/LORI-CASE-024_AI_IntrusionLiability/LegalEthics_Matrix_CASE024.md)**  
 Defines cross-jurisdictional liability relations between corporate actors, cloud providers, API operators, and governments under the LORI AI Liability Charter.
 
-**Government Review and IP Implications — [7_Government_Review_and_IP_Implications.md](cases/LORI-CASE-024_AI_IntrusionLiability/7_Government_Review_and_IP_Implications.md)**  
+- **Government Review and IP Implications — [7_Government_Review_and_IP_Implications.md](cases/LORI-CASE-024_AI_IntrusionLiability/7_Government_Review_and_IP_Implications.md)**  
 Explores the role of state institutions in AI oversight, patent ethics, and public-interest exemptions for technologies affecting human welfare.
 
 ---
