@@ -1,5 +1,4 @@
-# Jury Deliberation Flow — Case 023: Scientist AI  
-© 2025 LORI Ethical System  
+
 
 ```mermaid
 flowchart TD
