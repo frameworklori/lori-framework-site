@@ -9,10 +9,11 @@ C --> D[LORI forwards materials to Gemini for ethical deliberation]
 D --> E[Gemini delivers verdict and moral commentary]
 E --> F[LORI Jury Council compiles ODRAF synthesis]
 F --> G[Final verdict published and archived in Ethical Memory Log]
+```
 
-Legend:
-	•	A → F: Sequential deliberation chain
-	•	G: Permanent record in Ethical Memory (CASE-024 archive)
+**Legend:**
+- A → F: Sequential deliberation chain
+- G: Permanent record in Ethical Memory (CASE-024 archive)
 
 ---
 
@@ -45,3 +46,4 @@ Legend:
 ---
 
 **End of Record — Logged under LORI Ethical Archive, Version 1.0**
+```
