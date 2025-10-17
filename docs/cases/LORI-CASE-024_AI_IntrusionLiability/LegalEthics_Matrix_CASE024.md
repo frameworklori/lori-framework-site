@@ -13,8 +13,8 @@ against ethical principles( fairness, proportionality, foreseeability).
   
    . Top row:ethicalprinciples.
   
-  . Cells describe how each concept overlaps or conflicts.
+* Cells describe how each concept overlaps or conflicts.
   
-  . Used later in ODRAF synthesis and in policymaking documnetation.
+*  Used later in ODRAF synthesis and in policymaking documnetation.
   
   
