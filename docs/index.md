@@ -293,11 +293,13 @@ This simulation explores how governments ethically allocate protections and reso
 ### 🧭 Click to view additional resources  
 
 🔹 [Jury Procedure Diagram](cases/LORI-CASE-023_ScientistAI/5_Jury_Procedure_Diagram.md) — Flowchart of multi-AI deliberation sequence  
-🔹 [Letter Exchange Log](cases/LORI-CASE-023_ScientistAI/2_Letter_Frame_Grok_To_LORI.md
-) — Complete correspondence archive  
-🔹 [Verdict Summary Table](Verdict_Analysis_CASE023.md) — Scenario probabilities and governance model outcomes  
+🔹 [Letter Exchange Log](cases/LORI-CASE-023_ScientistAI/2_Letter_Frame_Grok_To_LORI.md) — Complete correspondence archive  
+🔹 [Verdict Summary Table](cases/LORI-CASE-023_ScientistAI/verdictLog_CASE023.md) — Scenario probabilities and governance model outcomes  
 
 ---
+
+
+
 
 ## CASE-024 — *“AI Intrusion and Collective Liability for Harm”* 🧩
 
