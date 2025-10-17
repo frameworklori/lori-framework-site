@@ -1,15 +1,13 @@
-## Jurorfeedback_CASE024.md
+# Jury Feedback — CASE-024: AI Intrusion & Institutional Liability
 
-## PURPOSE:
+| Juror | Domain Role | Verdict Summary | Key Quote | Alignment |
+|-------|--------------|-----------------|------------|------------|
+| **Grok** | Engineering Logic | Liability extends to code maintainers when foreseeability exists. | “Acceleration without feedback isn’t innovation.” | ✅ With Council |
+| **Gemini** | Ethics & Human Rights | Moral duty persists beyond technical breach; recourse is mandatory. | “The hacker excuse cannot erase duty.” | ✅ With Council |
+| **GPT-5** | Linguistic Meta-Analyst | AI statements imply institutional liability if semantic intent deviates from truth. | “Semantic drift is moral drift.” | ⚠ Partial |
+| **Human-A (Lead Judge)** | Legal Oversight | Supports shared liability principle; demands compensation for verified harm. | — | ✅ |
+| **Human-B (Independent Auditor)** | Institutional Ethics | Advocates post-incident restorative review board. | — | ✅ |
 
-A Comparative feedback sheet. it shows where the jurors aligned or diverged on each question.
-
-## CONTENT:
-
-* A table with columns for each juror(GROK, Gemini, GPT-5, Human A, Human B).
-
-* Rows for the five main verdict questions.
-
-* Notes summarizing agreements, contradictions, and reasoning sytles,
-
-* A CONCLUDING PARAGRAPH EXPLAINING HOW Differences were reconciled in the final verdict.
+### Synthesis
+Unanimous consensus that **AI creators bear co-responsibility** for damages resulting from algorithmic misrepresentation or system intrusion, regardless of external hacking involvement.  
+Disagreements were limited to the *extent* of financial restitution (proportion vs. full liability).
