@@ -24,28 +24,25 @@ Core Purpose
 
 Core Modules
 
-File
-Description
-Capability_Map.md
-Framework for mapping individual competencies to AI-era job categories.
-SkillUpgrade_Pipeline.md
-Adaptive reskilling system linking old professions to new industries.
-ResilienceIndex.md
-Scoring model that rates occupation stability under automation pressure.
-PublicPrivate_Alliance.md
-Blueprint for collaboration among government, academia, and private sector.
-ValueRecycling_Principle.md
-Ethical method of transforming “obsolete” job roles into future-ready contributions.
+| File  | Description |
+|-----------------|-----------------------------|
+
+|Capability_Map.md|Framework for mapping individual competencies to AI-era job categories.|
+|SkillUpgrade_Pipeline.md|Adaptive reskilling system linking old professions to new industries.|
+|ResilienceIndex.md|Scoring model that rates occupation stability under automation pressure.|
+|PublicPrivate_Alliance.md|Blueprint for collaboration among government, academia, and private sector.|
+|ValueRecycling_Principle.md|Ethical method of transforming “obsolete” job roles into future-ready contributions.|
+
+-----
 
 Example Cases
-Case
-Description
-Case_Agri2GreenEnergy.md
-Agriculture-to-Green-Energy skill transition pilot.
-Case_Admin2Compliance.md
-Administrative staff retrained into data-compliance roles.
-Case_Pharma2Nurse.md
-Pharmacists shifting toward clinical-care assistant roles.
+|Case | Description |
+|-----------------|-----------------------------|
+
+|Case_Agri2GreenEnergy.md|Agriculture-to-Green-Energy skill transition pilot.|
+|Case_Admin2Compliance.md|Administrative staff retrained into data-compliance roles.|
+|Case_Pharma2Nurse.md|Pharmacists shifting toward clinical-care assistant roles.|
+
 
 Integration
 
