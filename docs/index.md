@@ -153,24 +153,29 @@ LORI is an open, modular architecture that helps society:
   It transforms automation risk into opportunity through **ethical retraining**, **value recycling**, and **public–private collaboration**.  
   | ✅ | 11022025
 
-- [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 
-A privacy-first, multi-modal biometric smart gun system with revocable templates, duress mode, and zero-knowledge proof–based traceability. | ✅ | 09152025
-
-- [AI_Foodscan-global](./AI_Foodscan-global/README.md) 
-A project designed to make food products fully transparent throught barcode scanning, OCR, AND AI, Our goal: **fresh food, healthier families, reduced waste, and lower healthcare costs.** | ✅ | 09162025
-
-- [Lori-framework-site](./Lori-framework-site/README.md)
-A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ | 09172025
-
-- [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
-A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
+- [AI-Identity Safeguard Policy](https://github.com/frameworklori/AI-Indentity-Safeguard-Policy)
+  Open resource repository for responsible AI use in high-risk identity manipulation domains.
+  This repo provides policy guidelines, technical safeguards, and governance frameworks to prevent misuse of AI in face-swapping, deepfake voice generation, and    other personal identity transformations.| ✅ | 09252025
 
 - [AI-Creator-Protection-manifesto](./AI-Creator-Protection-manifesto/README.md)
-A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the engine of progress.| ✅ | 09252025
+  A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the
+  engine of progress.| ✅ | 09252025
 
-- [AI-Identity Safeguard Policy](https://github.com/frameworklori/AI-Indentity-Safeguard-Policy)
-Open resource repository for responsible AI use in high-risk identity manipulation domains.
-This repo provides policy guidelines, technical safeguards, and governance frameworks to prevent misuse of AI in face-swapping, deepfake voice generation, and other personal identity transformations.| ✅ | 09252025
+  - [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
+  A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk
+  Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align   language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
+
+- [Lori-framework-site](./Lori-framework-site/README.md)
+  A blueprint for transforming *real-world practices* into *modular governance and educational systems** It demonstrates how local processes(like Japan's
+  farmers' markets) can evolve into ** universal governance frameworks**-with transparency, social inclusion, and education at the core.| ✅ | 09172025
+
+- [AI_Foodscan-global](./AI_Foodscan-global/README.md) 
+  A project designed to make food products fully transparent throught barcode scanning, OCR, AND AI, Our goal: **fresh food, healthier families, reduced waste,
+  and lower healthcare costs.** | ✅ | 09162025
+
+- [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 
+  A privacy-first, multi-modal biometric smart gun system with revocable templates, duress mode, and zero-knowledge proof–based traceability. | ✅ | 09152025
+
 
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
