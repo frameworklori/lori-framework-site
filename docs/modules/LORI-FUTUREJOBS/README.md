@@ -37,9 +37,9 @@ Core Purpose
 ## Example Cases
 |Case | Description |
 |-----------------|-----------------------------|
-|![Case-Agri2GreenEnergy.md](../../Case-Agri2GreenEnergy.md)|Agriculture-to-Green-Energy skill transition pilot.|
+|![Case-Agri2GreenEnergy.md](../LORI-FUTUREJOBS/Case-Agri2GreenEnergy.md)|Agriculture-to-Green-Energy skill transition pilot.|
 |![Case_Admin2Compliance.md](../LORI-FUTUREJOBS/examples/Case-Agri2GreenEnergy.md)|Administrative staff retrained into data-compliance roles.|
-|![Case_Admin2Compliance.md](../../Case_Pharma2Nurse.md)|Pharmacists shifting toward clinical-care assistant roles.|
+|![Case_Admin2Compliance.md](../LORI-FUTUREJOBS/Case_Pharma2Nurse.md)|Pharmacists shifting toward clinical-care assistant roles.|
 
 -----
 
