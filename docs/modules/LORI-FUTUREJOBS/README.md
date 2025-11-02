@@ -10,7 +10,7 @@ Redistribution, modification, commercial use, or AI-system integration without p
 
 ⸻
 
-Overview
+## Overview
 
 LORI-FUTUREJOBS is an employment-resilience module designed to protect American workers in the AI era.
 It transforms displacement risk into capability renewal, ensuring that automation enhances—not replaces—human contribution.
@@ -22,7 +22,7 @@ Core Purpose
 
 ⸻
 
-Core Modules
+## Core Modules
 
 | File  | Description |
 |-------------------------|-------------------------------------|
@@ -34,7 +34,7 @@ Core Modules
 
 -----
 
-Example Cases
+## Example Cases
 |Case | Description |
 |-----------------|-----------------------------|
 |Case_Agri2GreenEnergy.md|Agriculture-to-Green-Energy skill transition pilot.|
@@ -42,7 +42,7 @@ Example Cases
 |Case_Pharma2Nurse.md|Pharmacists shifting toward clinical-care assistant roles.|
 
 
-Integration
+## Integration
 
 This module connects with other LORI systems:
 	•	ODRAF — Outcome-Driven Risk Architecture Framework
@@ -53,7 +53,7 @@ Together they establish a human-AI governance ecosystem balancing innovation, di
 
 ⸻
 
-License
+## License
 
 LORI Future Jobs Module License v1.0
 © 2025 LORI Framework Creator. All Rights Reserved.
