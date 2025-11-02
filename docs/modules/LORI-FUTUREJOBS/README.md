@@ -33,8 +33,6 @@ Core Purpose
 | ![ ValueRecycling_Principle.md](ValueRecycling_Principle.md) |Ethical method of transforming “obsolete” job roles into future-ready contributions.|
 
 
-![ Capability_Map.md](Capability_Map.md)
-
 -----
 
 ## Example Cases
