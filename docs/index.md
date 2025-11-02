@@ -161,7 +161,7 @@ LORI is an open, modular architecture that helps society:
   A public manifesto for protecting original creators in the AI era. Protecting creators brings infinite vitality to a nation; suppressing them cuts off the
   engine of progress.| ✅ | 09252025
 
-  - [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
+- [AI-User-Guide-SWOT](./AI-User-Guide-SWOT/README.md)
   A User Guide x SWOT Governance Framework for AI. It organizes Strengths/Weaknesses/Opportunities/Threats into a single structured map, with additional Risk
   Control Checklist, Adoption Path, and Public Communication Templates.It is designed for technology companies, governments, media and educators to quickly align   language, trust-building , and decision-making whe deploying or discussing AI.| ✅ | 09222025
 
