@@ -34,6 +34,8 @@ Core Purpose
 
 -----
 
+![ Capability_Map.md](Capability_Map.md)
+
 ## Example Cases
 |Case | Description |
 |-----------------|-----------------------------|
