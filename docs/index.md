@@ -146,7 +146,12 @@ LORI is an open, modular architecture that helps society:
 
 ---
 
-## Explore the System
+## Explore the System- 
+
+- [LORI-FUTUREJOBS](modules/LORI-FUTUREJOBS/README.md)  
+  A resilience-oriented employment framework for protecting American workers in the AI era.  
+  It transforms automation risk into opportunity through **ethical retraining**, **value recycling**, and **public–private collaboration**.  
+  | ✅ | 11022025
 
 - [BioSecure-SGT](./BioSecure-SGT-Public/README.md) 
 A privacy-first, multi-modal biometric smart gun system with revocable templates, duress mode, and zero-knowledge proof–based traceability. | ✅ | 09152025
@@ -165,7 +170,7 @@ A public manifesto for protecting original creators in the AI era. Protecting cr
 
 - [AI-Identity Safeguard Policy](https://github.com/frameworklori/AI-Indentity-Safeguard-Policy)
 Open resource repository for responsible AI use in high-risk identity manipulation domains.
-This repo provides policy guidelines, technical safeguards, and governance frameworks to prevent misuse of AI in face-swapping, deepfake voice generation, and other personal identity transformations.| ✅ | 09252026
+This repo provides policy guidelines, technical safeguards, and governance frameworks to prevent misuse of AI in face-swapping, deepfake voice generation, and other personal identity transformations.| ✅ | 09252025
 
 - [Energy Sentinel (for public)](./modules/ESL_Module_Public.md)
 - [EDRI-H: Emotional Dependency Risk Index – Humanized](./modules/EDRI-H.md)
