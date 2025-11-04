@@ -44,6 +44,10 @@ Core Purpose
 
 -----
 
+## Ethical Outsourcing & Global Skill Exchange Module
+-[ValueRecycling_Principle.md](./ValueRecycling_Principle.md)
+-To transform traditional outsourcing into an ethical, reciprocal labor exchange between nations, where individuals can export skills, language, and cultural knowledge to regions in need.
+
 📘 Each module interconnects with ODRAF, AIDM, and LORI-JURY systems to ensure ethical retraining, transparency, and resilience benchmarking.
 
 ## Integration
