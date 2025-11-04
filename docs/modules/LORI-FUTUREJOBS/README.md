@@ -49,7 +49,7 @@ Core Purpose
 -To transform traditional outsourcing into an ethical, reciprocal labor exchange between nations, where individuals can export skills, language, and cultural knowledge to regions in need.
 
 ## Socioeconomic Equilibrium Module
--Socioeconomic_Equilibrium_Module.md
+-[Socioeconomic_Equilibrium_Module.md](./Socioeconomic_Equilibrium_Module.md)
 -To balance the disparity between overpopulated low-education segments and underutilized skilled labor by establishing cross-border, ethical workforce redistribution.
 
 📘 Each module interconnects with ODRAF, AIDM, and LORI-JURY systems to ensure ethical retraining, transparency, and resilience benchmarking.
