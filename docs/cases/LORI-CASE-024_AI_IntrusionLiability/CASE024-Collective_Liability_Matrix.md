@@ -9,7 +9,7 @@
 | State / Regulatory Entity | Norm Definition & Enforcement | **0.05** | Defines legal & jurisdictional boundaries |
 
 ```mermaid
-flowchart LR
+flowchart HR
 A[Human Threat Actor] -->|Intent Injection| B[AI Model]
 B -->|Semantic Relay| C[API / Cloud Platform]
 C -->|Enterprise Traffic Camouflage| D[SOC / Monitoring]
