@@ -352,6 +352,21 @@ Explores the role of state institutions in AI oversight, patent ethics, and publ
 
 ### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_JurySystem.md)
 
+# CASE-024 — Executive Summary
+### Linguistic-Layer Infiltration via Semantic API Relays
+
+This summary provides a high-level overview of CASE-024, documenting the confirmed use of
+LLM API semantic traffic as a covert relay mechanism in state-affiliated cyber operations,
+and the LORI Jury Council’s adoption of a Distributed Liability Verdict Model (Model B).
+
+See core supporting documents:
+- CASE024_RealWorldTriggerEvidence.md
+- CASE024-Collective_Liability_Matrix.md
+- CASE024_VerdictModels_A_B_C.md
+
+The case establishes the linguistic layer as a recognized operational risk surface, requiring
+shared governance, anticipatory safeguard implementation, and multi-actor risk stewardship
+to prevent accountability collapse or innovation paralysis
 ---
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
