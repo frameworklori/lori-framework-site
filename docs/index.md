@@ -336,20 +336,14 @@ Defines cross-jurisdictional liability relations between corporate actors, cloud
 - **Government Review and IP Implications — [7_Government_Review_and_IP_Implications.md](cases/LORI-CASE-024_AI_IntrusionLiability/7_Government_Review_and_IP_Implications.md)**  
 Explores the role of state institutions in AI oversight, patent ethics, and public-interest exemptions for technologies affecting human welfare.
 
-• Real-World Trigger Evidence — CASE024_RealWorldTriggerEvidence.md  
-  Documentation of the February 2025 Microsoft Security Intelligence advisory confirming the
-  use of OpenAI API semantic traffic as a covert operational relay in state-affiliated
-  espionage activity. Establishes the empirical trigger condition of CASE-024.
+- **Real-World Trigger Evidence — [CASE024_RealWorldTriggerEvidence.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_RealWorldTriggerEvidence.md)**  
+  Documentation of the February 2025 Microsoft Security Intelligence advisory confirming the   use of OpenAI API semantic traffic as a covert operational relay in state-affiliated espionage activity. Establishes the empirical trigger condition of CASE-024.
 
-• Collective Liability Matrix — CASE024_Collective_Liability_Matrix.md  
-  Formal responsibility allocation model outlining liability weights across the human
-  initiator, model architect, API/cloud relay operator, monitoring layer, and state
-  governance entities under the LORI Shared Accountability Standard.
+- **Collective Liability Matrix — [CASE024_Collective_Liability_Matrix.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_Collective_Liability_Matrix.md)**
+  Formal responsibility allocation model outlining liability weights across the human initiator, model architect, API/cloud relay operator, monitoring layer, and state governance entities under the LORI Shared Accountability Standard.
 
-• Verdict Models (A/B/C) and Final LORI Council Position — CASE024_VerdictModels_A_B_C.md  
-  Contains three jurisprudential verdict outcomes. The LORI Jury Council confirms
-  Model B (Distributed Liability) as the ethically aligned resolution framework for
-  linguistic-layer infiltration harm.
+- **Verdict Models (A/B/C) and Final LORI Council Position — [CASE024_VerdictModels_A_B_C.md ](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_VerdictModels_A_B_C.md )**
+  Contains three jurisprudential verdict outcomes. The LORI Jury Council confirms Model B (Distributed Liability) as the ethically aligned resolution framework for linguistic-layer infiltration harm.
 
 ---
 
