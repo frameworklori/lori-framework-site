@@ -344,30 +344,18 @@ Explores the role of state institutions in AI oversight, patent ethics, and publ
 
 - **Verdict Models (A/B/C) and Final LORI Council Position — [CASE024_VerdictModels_A_B_C.md ](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_VerdictModels_A_B_C.md )**
   Contains three jurisprudential verdict outcomes. The LORI Jury Council confirms Model B (Distributed Liability) as the ethically aligned resolution framework for linguistic-layer infiltration harm.
-- **CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md —[CASE024_VerdictModels_A_B_C.md ](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md )**
+  
+- **CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md — [CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md ](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md )**
+
+
+---
+
 
 ---
 
 **These cases continue the LORI Jury-Based Judgment System with integrated AI-human deliberation and the Human Sovereignty Doctrine as the supreme oversight layer.**
 
 ### 📂 [Click to view CASE Summary Table and LORI CASE Sensitivity Risk Table](cases/LORI_JurySystem.md)
-
-# CASE-024 — Executive Summary
-### Linguistic-Layer Infiltration via Semantic API Relays
-
-This summary provides a high-level overview of CASE-024, documenting the confirmed use of
-LLM API semantic traffic as a covert relay mechanism in state-affiliated cyber operations,
-and the LORI Jury Council’s adoption of a Distributed Liability Verdict Model (Model B).
-
-See core supporting documents:
-- CASE024_RealWorldTriggerEvidence.md
-- CASE024-Collective_Liability_Matrix.md
-- CASE024_VerdictModels_A_B_C.md
-
-The case establishes the linguistic layer as a recognized operational risk surface, requiring
-shared governance, anticipatory safeguard implementation, and multi-actor risk stewardship
-to prevent accountability collapse or innovation paralysis
----
 
 > *These cases use the full LORI Jury-Based Judgment System with AI deliberation and human sovereignty oversight.*
 >
