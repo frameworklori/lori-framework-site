@@ -1,4 +1,4 @@
-# CASE-024 Collective Liability Matrix
+# # CASE-024 Collective Liability Matrix
 
 | Actor | Responsibility Type | Liability Weight | Description |
 |------|---------------------|-----------------|-------------|
