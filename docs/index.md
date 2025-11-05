@@ -345,8 +345,9 @@ Explores the role of state institutions in AI oversight, patent ethics, and publ
 - **Verdict Models (A/B/C) and Final LORI Council Position — [CASE024_VerdictModels_A_B_C.md ](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_VerdictModels_A_B_C.md )**
   Contains three jurisprudential verdict outcomes. The LORI Jury Council confirms Model B (Distributed Liability) as the ethically aligned resolution framework for linguistic-layer infiltration harm.
   
-- • Executive Summary —
- [CASE024_ExecutiveSummary_LinguisticLayer_Infiltration.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024_ExecutiveSummary_LinguisticLayer_Infiltration.md)  
+- ** Executive Summary —
+ [CASE024_ExecutiveSummary_LinguisticLayer_Infiltration.md](cases/LORI-CASE-024_AI_IntrusionLiability/CASE024-ExecutiveSummary_LinguistricLayer_Infiltration.md
+  )**
   Provides a concise high-level overview of the case, outlining the confirmed use of semantic-layer
   API relay communications in state-affiliated hybrid operations, and the LORI Council's adoption of
   the Distributed Liability Verdict Model (Model B).
