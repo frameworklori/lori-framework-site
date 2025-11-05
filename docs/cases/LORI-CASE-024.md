@@ -48,6 +48,23 @@ All related letters, verdicts, and analysis materials are located in:
 
 ---
 
+### Real-World Trigger Evidence (February 2025)
+
+On February 2025, Microsoft Security Intelligence issued a public advisory confirming that
+state-affiliated threat actors were actively leveraging an OpenAI API endpoint as a covert
+command-and-control relay. Instead of deploying malicious code directly, attackers passed
+operational instructions through natural-language prompts, which blended into legitimate
+enterprise traffic patterns. This allowed espionage operations to evade traditional SOC/IDS
+detection, which is optimized for code-layer anomalies rather than semantic-layer intent.
+
+This event validates the central premise of LORI-CASE-024:
+**Linguistic transport layers can function as infiltration vectors**, and therefore,
+responsibility for AI-mediated harm cannot be defined solely by technical execution.
+Liability must be distributed across intent, access governance, model safeguards,
+and infrastructure accountability.
+
+---
+
 ## 🧾 案件摘要
 本案探討當 AI 系統遭受駭客入侵、演算法操控或安全防護失效時，企業是否應對使用者遭受的**身體、心理與金錢損失**承擔連帶賠償責任。  
 核心原則：  
