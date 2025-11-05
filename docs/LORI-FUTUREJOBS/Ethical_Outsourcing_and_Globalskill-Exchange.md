@@ -9,7 +9,7 @@ where individuals can export skills, language, and cultural knowledge to regions
 ## Problem
 - U.S. citizens face high living costs and stagnant wages.
 - Aging nations (e.g., Japan, Germany) face severe labor shortages.
-- Current outsourcing models favor corporations, not individuals.
+- Current outsourcing models favor corporations, not individuals. 
 
 ## Solution
 A two-layer mechanism:
