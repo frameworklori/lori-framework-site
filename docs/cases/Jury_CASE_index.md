@@ -26,7 +26,7 @@ Real-world simulations that apply semantic, emotional, and governance models in 
 | [LORI-CASE-018](../LORI-JURY/cases/LORI-CASE-018-Diddy-Murder-Simulation.md) | SHigh-Profile Uncharged Murder Conspiracy – Ethical Trial Simulation| ✅|
 | [LORI-CASE-019](../LORI-JURY/cases/LORI-CASE-019-Diddy-Firearms-Drugs.md) |United States v. Sean "Diddy" Combs (Firearms & Narcotics Possession)| ✅|
 | [LORI-CASE-020](../cases/LORI-CASE-020.md)| Agriculture vs. Construction — Climate Resource Allocation During Heatwave| ✅|
-| [LORI-CASE-023](../cases/LORI-CASE-023.md)| The Scientist AI and the Future of Human Governance| 🚧|
+| [LORI-CASE-023](../cases/LORI-CASE-023.md)| LORI-CASE-023 Verdict Analysis — The Scientist AI and the Future of Human Governance  | 🚧|
 | [LORI-CASE-024](../cases/LORI-CASE-024.md)| The Scientist AI and the Future of Human Governance| 🚧|
 
 ---
