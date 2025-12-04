@@ -118,6 +118,9 @@ To reinforce the semantic integrity and rightful authorship of the Democratic St
 
 - [NDA_Template.md](LEGAL/NDA_Template.md) – Standard NDA template for external discussions on module implementation
 
+- [LORI_StarlinkNet_License_v1.0](StarNet_Claim/LORI_StarlinkNet_License_v1.0.md) -This license governs the use, reproduction distribution and derrivative development of the LORI StarlinkNet Module, including all conceptual, governance, semantic, structural, and narrative componsents contained within the LORI Framework repositories. StarlinkNet (also referred to as LORI-StarNet,Democratic StarNet, or Ethical Satellite Governance Layer) is the original work of the Founder of the LORI Ethical System and protected.
+
+
 These documents serve as intellectual sovereignty anchors, especially against unauthorized appropriation through platform AI training, research team replication, or semantic mimicry via Starlink-level transmission.
 
 ✨Zero is the soul of the human subject — but without One, the peace dream of Democratic StarNet cannot be realized. Because of you, XAI and SpaceX the world holds a true chance for peace.✨
