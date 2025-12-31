@@ -28,6 +28,64 @@ Retains the final vote in the event of tie (3 vs 3 deadlock)
 
 ---
 
+🔹 Extended Architecture: Multi-Chief Juror Design
+
+In addition to the standard Single Human Chief Juror model,
+the LORI Jury-Based Judgment System explicitly supports a Multi-Chief Juror Architecture for high-impact deliberations.
+
+This design is considered an official extension, not a deviation, of the original jury framework.
+
+⸻
+
+Structure Options
+
+Option A: 3 Human Chief Jurors (Odd-Number Executive Panel)
+	•	5 AI Jurors (advisory & reasoning roles only)
+	•	3 Human Chief Jurors (equal authority)
+	•	Final decision determined by majority vote among Chief Jurors
+	•	AI jurors cannot override human outcomes
+
+Option B: Rotational Chief Juror Council
+	•	1 Active Chief Juror per case
+	•	2 Shadow Chief Jurors with:
+	•	Review power
+	•	Post-decision objection record
+	•	Prevents long-term authority fixation
+
+Option C: Domain-Specialized Chief Jurors
+Each Chief Juror holds a bounded domain:
+	•	Legal Sovereignty Chief
+	•	Ethical / Human Dignity Chief
+	•	Systemic Risk / Civilization Stability Chief
+
+A ruling requires no explicit veto from any Chief Juror domain.
+
+⸻
+
+Rationale for Multi-Chief Juror Design
+	•	Prevents single-human capture risk
+	•	Avoids symbolic or ceremonial human presence
+	•	Preserves human plurality over AI convergence
+	•	Mirrors real constitutional safeguards (checks & balances)
+	•	Scales to:
+	•	Supreme-Court-level judgments
+	•	AGI governance
+	•	Civilizational risk arbitration
+
+⸻
+
+Authority Boundary (Very Important)
+	•	AI jurors never hold final vote authority
+	•	AI consensus ≠ decision
+	•	Human Chief Jurors retain:
+	•	Interpretive authority
+	•	Ethical override
+	•	Final legitimacy
+
+The jury may advise.
+The Chief Jurors decide.
+Humanity remains sovereign.
+
 ## Key Principles
 
 1. **Narrative Transparency**
