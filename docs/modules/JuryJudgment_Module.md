@@ -113,6 +113,9 @@ Jury determines if energy lockdown on AGI is justified or excessive.
 - **[SAID Module](./SAID_Module.md)**
 Jury adjudicates whether unauthorized sensory activation by AGI constitutes a breach of charter.
 
+- **[Adaptive_Hybrid_Jury_System_AHJS.md](./Adaptive_Hybrid_Jury_System_AHJS.md)**
+proposed judicial decision-support framework that integrates artificial intelligence (AI) as an explicit voting participant within jury deliberations,
+while reserving final adjudicative authority, legal interpretation, and moral responsibility exclusively for human judges.
 ---
 
 **Status:** High Priority
